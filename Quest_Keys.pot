@@ -1,0 +1,144 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: you@example.com\n"
+"POT-Creation-Date: 2020-01-24 02:10:41.671638\n"
+"PO-Revision-Date: 2020-01-24 02:10:41.671645\n"
+"Last-Translator: you <you@example.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "QUEST_NAME_GROSS_APPETITE"
+msgid "Gross Appetite!"
+msgstr ""
+
+msgctxt "QUEST_NAME_OPEN_FOR_BUSINESS"
+msgid "Open for Business!"
+msgstr ""
+
+msgctxt "QUEST_NAME_FASHION_GOLD"
+msgid "Fashion Gold!"
+msgstr ""
+
+msgctxt "QUEST_NAME_ZOMBIE_CRUSHER"
+msgid "Zombie Crusher!"
+msgstr ""
+
+msgctxt "QUEST_NAME_WERE_ON_THE_LIST"
+msgid "We're on the List!"
+msgstr ""
+
+msgctxt "QUEST_NAME_SUPER_FANS"
+msgid "Super Fans!"
+msgstr ""
+
+msgctxt "QUEST_NAME_BOOM"
+msgid "Things that Make You Go BOOM!"
+msgstr ""
+
+msgctxt "QUEST_NAME_GODAI_BURGER"
+msgid "A Burger to Godai For!"
+msgstr ""
+
+msgctxt "QUEST_NAME_MAYOR_STATUES"
+msgid "Mayor Statues be Golden!"
+msgstr ""
+
+msgctxt "QUEST_NAME_NICE_RIDE"
+msgid "A Ride Too Nice!"
+msgstr ""
+
+msgctxt "QUEST_NAME_ONE_HIT_TOMMY"
+msgid "One-Hit Tommy in the Bathroom"
+msgstr ""
+
+msgctxt "QUEST_NAME_WHOS_THE_SNITCH"
+msgid "Who's the Snitch?"
+msgstr ""
+
+msgctxt "QUEST_DESC_GROSS_APPETITE"
+msgid "Help the school Chef locate his ingredients."
+msgstr ""
+
+msgctxt "QUEST_DESC_OPEN_FOR_BUSINESS"
+msgid "Get the security guard's keys to open the mall."
+msgstr ""
+
+msgctxt "QUEST_DESC_FASHION_GOLD"
+msgid "Find a golden item to summon Hibari."
+msgstr ""
+
+msgctxt "QUEST_DESC_ZOMBIE_CRUSHER"
+msgid "Retrieve keys from trash zombies to move debris with the crane."
+msgstr ""
+
+msgctxt "QUEST_DESC_WERE_ON_THE_LIST"
+msgid "Score a pair of VIP passes to get into NOIZE's concert."
+msgstr ""
+
+msgctxt "QUEST_DESC_SUPER_FANS"
+msgid "Answer 3 questions about NOIZE to prove what a fan you are."
+msgstr ""
+
+msgctxt "QUEST_DESC_BOOM"
+msgid "Blast open the door to the penthouse."
+msgstr ""
+
+msgctxt "QUEST_DESC_GODAI_BURGER"
+msgid "Get Godai a delicious Double Merv Burger."
+msgstr ""
+
+msgctxt "QUEST_DESC_MAYOR_STATUES"
+msgid "Destroy the Mayor's golden statue then survive the rush of cops."
+msgstr ""
+
+msgctxt "QUEST_DESC_NICE_RIDE"
+msgid "Destroy any fancy cars you find in Downtown."
+msgstr ""
+
+msgctxt "QUEST_DESC_ONE_HIT_TOMMY"
+msgid "Defeat One-Hit Tommy so Godai can use the bathroom."
+msgstr ""
+
+msgctxt "QUEST_DESC_WHOS_THE_SNITCH"
+msgid "Locate and defeat all 5 informants."
+msgstr ""
+
+msgctxt "QUEST_ITEM_ACQUIRED"
+msgid "acquired!"
+msgstr ""
+
+msgctxt "QUEST_NEW_QUEST"
+msgid "New Quest:"
+msgstr ""
+
+msgctxt "QUEST_NEW_MISSION"
+msgid "New Mission:"
+msgstr ""
+
+msgctxt "QUEST_COMPLETE_QUEST"
+msgid "Quest Complete:"
+msgstr ""
+
+msgctxt "QUEST_COMPLETE_MISSION"
+msgid "Mission Complete:"
+msgstr ""
+
+msgctxt "QUEST_FAILED_QUEST"
+msgid "Quest Failed:"
+msgstr ""
+
+msgctxt "QUEST_FAILED_MISSION"
+msgid "Mission Failed:"
+msgstr ""
+
+msgctxt "QUEST_NAME_LETS_BEAT_IT"
+msgid "Let's Beat It!"
+msgstr ""
+
+msgctxt "QUEST_DESC_LETS_BEAT_IT"
+msgid "Find a way out of school."
+msgstr ""

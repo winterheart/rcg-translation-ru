@@ -1,0 +1,470 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: you@example.com\n"
+"POT-Creation-Date: 2020-01-24 02:10:41.796845\n"
+"PO-Revision-Date: 2020-01-24 02:10:41.796857\n"
+"Last-Translator: you <you@example.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "ACHIEVEMENT_RIVER_CITY_HERO_DISPLAY"
+msgid "River City Hero"
+msgstr ""
+
+msgctxt "ACHIEVEMENT_YOUR_LESSONS_ARE_BORING_DISPLAY"
+msgid "Your lessons are boring!"
+msgstr ""
+
+msgctxt "ACHIEVEMENT_KILLED_BY_MATH_DISPLAY"
+msgid "Killed by Math"
+msgstr ""
+
+msgctxt "ACHIEVEMENT_SHOP_UNTIL_THEY_DROP_DISPLAY"
+msgid "Shop until they drop?"
+msgstr ""
+
+msgctxt "ACHIEVEMENT_BONA_FIDE_BARGAIN_DISPLAY"
+msgid "Bona fide bargain"
+msgstr ""
+
+msgctxt "ACHIEVEMENT_MASTER_OF_UNLOCKING_DISPLAY"
+msgid "Master of Unlocking"
+msgstr ""
+
+msgctxt "ACHIEVEMENT_AN_EXPLOSIVE_ENTRANCE_DISPLAY"
+msgid "An Explosive Entrance"
+msgstr ""
+
+msgctxt "ACHIEVEMENT_FULL_SERVICE_DISPLAY"
+msgid "Full Service"
+msgstr ""
+
+msgctxt "ACHIEVEMENT_RIVER_CITY_RANSOM_DISPLAY"
+msgid "River City Ransom"
+msgstr ""
+
+msgctxt "ACHIEVEMENT_WEAPON_HANDLER_DISPLAY"
+msgid "Weapons Handler"
+msgstr ""
+
+msgctxt "ACHIEVEMENT_CARPE_DIEM_DISPLAY"
+msgid "Carpe diem"
+msgstr ""
+
+msgctxt "ACHIEVEMENT_YOURE_OUT_DISPLAY"
+msgid "You're out!"
+msgstr ""
+
+msgctxt "ACHIEVEMENT_BACK_AT_ME_DISPLAY"
+msgid "Back at me!"
+msgstr ""
+
+msgctxt "ACHIEVEMENT_BEST_FRIENDS_FOR_LIFE_DISPLAY"
+msgid "Best Friends For Life"
+msgstr ""
+
+msgctxt "ACHIEVEMENT_FRIENDLY_BEATDOWN_DISPLAY"
+msgid "Friendly Beatdown"
+msgstr ""
+
+msgctxt "ACHIEVEMENT_PERFECT_PARRY_DISPLAY"
+msgid "Perfect Parry"
+msgstr ""
+
+msgctxt "ACHIEVEMENT_STYLISH_DISPLAY"
+msgid "Stylish!"
+msgstr ""
+
+msgctxt "ACHIEVEMENT_POWER_UP_DISPLAY"
+msgid "Power Up"
+msgstr ""
+
+msgctxt "ACHIEVEMENT_HELP_AN_OLD_PAL_DISPLAY"
+msgid "Help an Old Pal?"
+msgstr ""
+
+msgctxt "ACHIEVEMENT_SMASHED_STATUES_DISPLAY"
+msgid "Smashed Statues"
+msgstr ""
+
+msgctxt "ACHIEVEMENT_REAL_WORKOUT_DISPLAY"
+msgid "A Real Workout"
+msgstr ""
+
+msgctxt "ACHIEVEMENT_DEFEATING_THE_DARK_ARTS_DISPLAY"
+msgid "Defeating the Dark Arts"
+msgstr ""
+
+msgctxt "ACHIEVEMENT_FASHION_BEATDOWN_DISPLAY"
+msgid "Fashionable Beatdown"
+msgstr ""
+
+msgctxt "ACHIEVEMENT_A_BYE_BYE_DISPLAY"
+msgid "A Bye Bye"
+msgstr ""
+
+msgctxt "ACHIEVEMENT_SO_METAL_DISPLAY"
+msgid "So Metal"
+msgstr ""
+
+msgctxt "ACHIEVEMENT_LIKE_FATHER_LIKE_DAUGHTER_DISPLAY"
+msgid "Like Father Like Daughter"
+msgstr ""
+
+msgctxt "ACHIEVEMENT_OMG_SERIOUSLY_DISPLAY"
+msgid "O.M.G. Seriously?"
+msgstr ""
+
+msgctxt "ACHIEVEMENT_RENEGADE_DISPLAY"
+msgid "Renegade"
+msgstr ""
+
+msgctxt "ACHIEVEMENT_DONT_MESS_WITH_US_DISPLAY"
+msgid "Don't mess with us!"
+msgstr ""
+
+msgctxt "ACHIEVEMENT_TAKE_THE_WORLD_ON_DISPLAY"
+msgid "TAKE THE WORLD ON"
+msgstr ""
+
+msgctxt "ACHIEVEMENT_POWER_OF_LOVE_ON_DISPLAY"
+msgid "Power of Love!"
+msgstr ""
+
+msgctxt "ACHIEVEMENT_OF_LOVE_ON_DISPLAY"
+msgid "A New Challenger"
+msgstr ""
+
+msgctxt "ACHIEVEMENT_COMPLETIONIST_DISPLAY"
+msgid "Completionist"
+msgstr ""
+
+msgctxt "ACHIEVEMENT_RIVER_CITY_HERO_DESCRIPTION"
+msgid "Obtain all trophies in \"River City Girls\"."
+msgstr ""
+
+msgctxt "ACHIEVEMENT_YOUR_LESSONS_ARE_BORING_DESCRIPTION"
+msgid "Attacked Mr. Rudis."
+msgstr ""
+
+msgctxt "ACHIEVEMENT_KILLED_BY_MATH_DESCRIPTION"
+msgid "Was defeated in detention."
+msgstr ""
+
+msgctxt "ACHIEVEMENT_SHOP_UNTIL_THEY_DROP_DESCRIPTION"
+msgid "Enter the Mall."
+msgstr ""
+
+msgctxt "ACHIEVEMENT_BONA_FIDE_BARGAIN_DESCRIPTION"
+msgid "Obtain an item from the Pawn Shop."
+msgstr ""
+
+msgctxt "ACHIEVEMENT_MASTER_OF_UNLOCKING_DESCRIPTION"
+msgid "Find the keys in the junk yard."
+msgstr ""
+
+msgctxt "ACHIEVEMENT_AN_EXPLOSIVE_ENTRANCE_DESCRIPTION"
+msgid "Enter the Penthouse."
+msgstr ""
+
+msgctxt "ACHIEVEMENT_FULL_SERVICE_DESCRIPTION"
+msgid "Destroy a vending machine."
+msgstr ""
+
+msgctxt "ACHIEVEMENT_RIVER_CITY_RANSOM_DESCRIPTION"
+msgid "Collected $5000"
+msgstr ""
+
+msgctxt "ACHIEVEMENT_WEAPON_HANDLER_DESCRIPTION"
+msgid "Use every weapon once."
+msgstr ""
+
+msgctxt "ACHIEVEMENT_CARPE_DIEM_DESCRIPTION"
+msgid "Defeated an enemy with a fish."
+msgstr ""
+
+msgctxt "ACHIEVEMENT_YOURE_OUT_DESCRIPTION"
+msgid "Catch a dodgeball thrown by your ally."
+msgstr ""
+
+msgctxt "ACHIEVEMENT_BACK_AT_ME_DESCRIPTION"
+msgid "Catch a boomerang."
+msgstr ""
+
+msgctxt "ACHIEVEMENT_BEST_FRIENDS_FOR_LIFE_DESCRIPTION"
+msgid "Recruit each type of enemy."
+msgstr ""
+
+msgctxt "ACHIEVEMENT_FRIENDLY_BEATDOWN_DESCRIPTION"
+msgid "Defeated an enemy by hitting them with another enemy."
+msgstr ""
+
+msgctxt "ACHIEVEMENT_PERFECT_PARRY_DESCRIPTION"
+msgid "Parry 10 enemy attacks."
+msgstr ""
+
+msgctxt "ACHIEVEMENT_STYLISH_DESCRIPTION"
+msgid "Equip a new outfit."
+msgstr ""
+
+msgctxt "ACHIEVEMENT_POWER_UP_DESCRIPTION"
+msgid "Reached Max Level."
+msgstr ""
+
+msgctxt "ACHIEVEMENT_HELP_AN_OLD_PAL_DESCRIPTION"
+msgid "Completed all of Godai's quests."
+msgstr ""
+
+msgctxt "ACHIEVEMENT_SMASHED_STATUES_DESCRIPTION"
+msgid "Destroyed all Sabu statues."
+msgstr ""
+
+msgctxt "ACHIEVEMENT_REAL_WORKOUT_DESCRIPTION"
+msgid "K.O. Misuzu."
+msgstr ""
+
+msgctxt "ACHIEVEMENT_DEFEATING_THE_DARK_ARTS_DESCRIPTION"
+msgid "K.O. Yamada."
+msgstr ""
+
+msgctxt "ACHIEVEMENT_FASHION_BEATDOWN_DESCRIPTION"
+msgid "K.O. Hibari."
+msgstr ""
+
+msgctxt "ACHIEVEMENT_A_BYE_BYE_DESCRIPTION"
+msgid "K.O. Abobo."
+msgstr ""
+
+msgctxt "ACHIEVEMENT_SO_METAL_DESCRIPTION"
+msgid "K.O. Noize."
+msgstr ""
+
+msgctxt "ACHIEVEMENT_LIKE_FATHER_LIKE_DAUGHTER_DESCRIPTION"
+msgid "K.O. Sabuko."
+msgstr ""
+
+msgctxt "ACHIEVEMENT_OMG_SERIOUSLY_DESCRIPTION"
+msgid "K.O. the secret boss."
+msgstr ""
+
+msgctxt "ACHIEVEMENT_RENEGADE_DESCRIPTION"
+msgid "That wasn't very nice!"
+msgstr ""
+
+msgctxt "ACHIEVEMENT_DONT_MESS_WITH_US_DESCRIPTION"
+msgid "Complete the game in Co-Op."
+msgstr ""
+
+msgctxt "ACHIEVEMENT_TAKE_THE_WORLD_ON_DESCRIPTION"
+msgid "Completed the game on Hard."
+msgstr ""
+
+msgctxt "ACHIEVEMENT_POWER_OF_LOVE_ON_DESCRIPTION"
+msgid ""
+"Finish every stage cooperatively on Hard difficulty with friendly fire "
+"enabled!"
+msgstr ""
+
+msgctxt "ACHIEVEMENT_OF_LOVE_ON_DESCRIPTION"
+msgid "Completed the game with a secret character."
+msgstr ""
+
+msgctxt "ACHIEVEMENT_COMPLETIONIST_DESCRIPTION"
+msgid "Reach 100% completion."
+msgstr ""
+
+msgctxt "TROPHY_DESCRIPTION"
+msgid "Trophies for River City Girls"
+msgstr ""
+
+msgctxt "STEAM_STORE_DESCRIPTION_LONG"
+msgid ""
+"There's trouble once again on the mean streets of River City, but this time the boys are in over their heads! In this all-new entry in the legendary beat-'em-up series, hot-blooded heroes Kuni and Riki have been captured, leaving it to their hard-hitting girlfriends, Kyoko and Misako, to serve up some payback. As you punch and kick your way across town - either solo or with a friend in local co-op - you'll gain new skills, chow down on power-ups, wield an assortment of weapons, and unleash an arsenal of combos, throws, and special attacks that will leave the bad guys crying for mama - all in outrageous 16-bit style! The awesome action is punctuated by manga story panels, anime cutscenes, and an epic synth-pop soundtrack. It’s an old-school rumble for a new generation!\n"
+"Key Features:\r\n"
+"-Wild beat-'em-up action for one or two players!\r\n"
+"-Glorious pixel-art graphics plus anime and manga cutscenes! \r\n"
+"-Fantastic soundtrack featuring Chipzel, Christina Vee, and NateWantsToBattle!\r\n"
+"-Six large city regions to fight through, complete with shops and side quests!\r\n"
+"-Loads of weapons, items, and abilities to power-up your heroines!\r\n"
+"-Guest appearances by classic River City characters!\n"
+msgstr ""
+
+msgctxt "STEAM_STORE_DESCRIPTION_SHORT"
+msgid ""
+"There's trouble once again in River City, and this time only the girls can "
+"save the day! Using a variety of attacks, weapons, and items, these hot-"
+"blooded heroines are ready to teach the city’s lowlifes a lesson - either "
+"solo or in 2-player co-op! It’s an old-school rumble for a new generation!"
+msgstr ""
+
+msgctxt "PS4_STORE_DISPLAY_NAME"
+msgid "River City Girls"
+msgstr ""
+
+msgctxt "PS4_STORE_TITLE_DESCRIPTION"
+msgid ""
+"There's trouble once again in River City, and this time only the girls can "
+"save the day! Using a variety of attacks, weapons, and items, these hot-"
+"blooded heroines are ready to teach the city’s lowlifes a lesson - either "
+"solo or in 2-player co-op! It’s an old-school rumble for a new generation!"
+msgstr ""
+
+msgctxt "PS4_STORE_CONTENT_DESCRIPTION"
+msgid ""
+"There's trouble once again on the mean streets of River City, but this time the boys are in over their heads! In this all-new entry in the legendary beat-'em-up series, hot-blooded heroes Kuni and Riki have been captured, leaving it to their hard-hitting girlfriends, Kyoko and Misako, to serve up some payback. As you punch and kick your way across town - either solo or with a friend in local co-op - you'll gain new skills, chow down on power-ups, wield an assortment of weapons, and unleash an arsenal of combos, throws, and special attacks that will leave the bad guys crying for mama - all in outrageous 16-bit style! The awesome action is punctuated by manga story panels, anime cutscenes, and an epic synth-pop soundtrack. It’s an old-school rumble for a new generation!\n"
+"\n"
+"Key Features:\n"
+"-Wild beat-'em-up action for 1 or 2 players!\n"
+"-Glorious anime and manga cutscenes! \n"
+"-Rockin’ synth-pop soundtrack!\n"
+"-Six large areas of the city to explore and fight in!\n"
+"-Loads of weapons, items, and abilities!"
+msgstr ""
+
+msgctxt "XBOX_STORE_CONTENT_DESCRIPTION"
+msgid ""
+"There's trouble once again on the mean streets of River City, but this time the boys are in over their heads! In this all-new entry in the legendary beat-'em-up series, hot-blooded heroes Kuni and Riki have been captured, leaving it to their hard-hitting girlfriends, Kyoko and Misako, to serve up some payback. As you punch and kick your way across town - either solo or with a friend in local co-op - you'll gain new skills, chow down on power-ups, wield an assortment of weapons, and unleash an arsenal of combos, throws, and special attacks that will leave the bad guys crying for mama - all in outrageous 16-bit style! The awesome action is punctuated by manga story panels, anime cutscenes, and an epic synth-pop soundtrack. It’s an old-school rumble for a new generation!\n"
+"\n"
+"Key Features:\n"
+"-Wild beat-'em-up action for one or two players!\n"
+"-Glorious pixel-art graphics plus anime and manga cutscenes! \n"
+"-Fantastic soundtrack featuring Chipzel, Christina Vee, and NateWantsToBattle!\n"
+"-Six large city regions to fight through, complete with shops and side quests!\n"
+"-Loads of weapons, items, and abilities to power-up your heroines!\n"
+"-Guest appearances by classic River City characters!"
+msgstr ""
+
+msgctxt "XBOX_STORE_CONTENT_SHORT_DESCRIPTION"
+msgid ""
+"There's trouble once again in River City, and this time only the girls can "
+"save the day! Using a variety of attacks, weapons, and items, these hot-"
+"blooded heroines are ready to teach the city’s lowlifes a lesson - either "
+"solo or in 2-player co-op! It’s an old-school rumble for a new generation!"
+msgstr ""
+
+msgctxt "SWITCH_TAGLINE"
+msgid ""
+"Someone’s getting River City’s biggest beatdown when these girls find "
+"whoever nabbed their boyfriends!"
+msgstr ""
+
+msgctxt "SWITCH_STORE_DESCRIPTION"
+msgid ""
+"There's trouble once again on the mean streets of River City, but this time the boys are in over their heads! In this all-new entry in the legendary beat-'em-up series, hot-blooded heroes Kuni and Riki have been captured, leaving it to their hard-hitting girlfriends, Kyoko and Misako, to serve up some payback. As you punch and kick your way across town - either solo or with a friend in local co-op - you'll gain new skills, chow down on power-ups, wield an assortment of weapons, and unleash an arsenal of combos, throws, and special attacks that will leave the bad guys crying for mama - all in outrageous 16-bit style! The awesome action is punctuated by manga story panels, anime cutscenes, and an epic synth-pop soundtrack. It’s an old-school rumble for a new generation!\n"
+"\n"
+"Key Features:\n"
+"-Wild beat-'em-up action for one or two players!\n"
+"-Glorious pixel-art graphics plus anime and manga cutscenes! \n"
+"-Fantastic soundtrack featuring Chipzel, Christina Vee, and NateWantsToBattle!\n"
+"-Six large city regions to fight through, complete with shops and side quests!\n"
+"-Loads of weapons, items, and abilities to power-up your heroines!\n"
+"-Guest appearances by classic River City characters!"
+msgstr ""
+
+msgctxt "OPTIONS_SCREEN_SELECT"
+msgid "Select"
+msgstr ""
+
+msgctxt "OPTIONS_SCREEN_APPLY"
+msgid "Apply"
+msgstr ""
+
+msgctxt "OPTIONS_SCREEN_DEFAULT"
+msgid "Default"
+msgstr ""
+
+msgctxt "OPTIONS_SCREEN_VIBRATION"
+msgid "Vibration"
+msgstr ""
+
+msgctxt "OPTIONS_SCREEN_RUMBLE"
+msgid "Rumble"
+msgstr ""
+
+msgctxt "OPTIONS_SCREEN_RESOLUTION"
+msgid "Resolution"
+msgstr ""
+
+msgctxt "OPTIONS_SCREEN_WINDOWED"
+msgid "Windowed"
+msgstr ""
+
+msgctxt "OPTIONS_SCREEN_HDRUMBLE "
+msgid "HD Rumble"
+msgstr ""
+
+msgctxt "OPTIONS_SCREEN_EXIT"
+msgid "Exit"
+msgstr ""
+
+msgctxt "OPTIONS_SCREEN_QUIT"
+msgid "Quit"
+msgstr ""
+
+msgctxt "RICH_PRESENCE_CHOOSE"
+msgid "Choose your girl"
+msgstr ""
+
+msgctxt "RICH_PRESENCE_MENUS"
+msgid "Enjoying the menus"
+msgstr ""
+
+msgctxt "RICH_PRESENCE_STUCK"
+msgid "Stuck in school"
+msgstr ""
+
+msgctxt "RICH_PRESENCE_CROSSTOWN"
+msgid "Checkin' out Crosstown"
+msgstr ""
+
+msgctxt "RICH_PRESENCE_UPTOWN"
+msgid "Fakin' it in Uptown"
+msgstr ""
+
+msgctxt "RICH_PRESENCE_DOWNTOWN"
+msgid "Grossed out in Downtown"
+msgstr ""
+
+msgctxt "RICH_PRESENCE_OCEAN_HEIGHTS"
+msgid "Chillin' in Ocean Heights"
+msgstr ""
+
+msgctxt "RICH_PRESENCE_TOWER"
+msgid "Sneakin' into Sanwakai Tower"
+msgstr ""
+
+msgctxt "RICH_PRESENCE_PENTHOUSE"
+msgid "Sabu's Penthouse"
+msgstr ""
+
+msgctxt "RICH_PRESENCE_TIME"
+msgid "Time to split!"
+msgstr ""
+
+msgctxt "HERO_STATS_BADDIES"
+msgid "Baddies Beaten"
+msgstr ""
+
+msgctxt "HERO_STATS_ACCESSORIES"
+msgid "Accessories Acquired"
+msgstr ""
+
+msgctxt "HERO_STATS_BUCKS"
+msgid "Bucks Spent"
+msgstr ""
+
+msgctxt "HERO_STATS_AREAS"
+msgid "Areas Cleared"
+msgstr ""
+
+msgctxt "HERO_STATS_BOSSES"
+msgid "Bosses Clobbered"
+msgstr ""
+
+msgctxt "HERO_STATS_HARD_SPEEDRUN"
+msgid "Speedruniest Completion"
+msgstr ""

@@ -1,0 +1,552 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: you@example.com\n"
+"POT-Creation-Date: 2020-01-24 02:10:41.654369\n"
+"PO-Revision-Date: 2020-01-24 02:10:41.654381\n"
+"Last-Translator: you <you@example.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "ITEM_NAME_BANDAGES"
+msgid "Bandages"
+msgstr ""
+
+msgctxt "ITEM_NAME_ASPIRIN"
+msgid "Aspirin"
+msgstr ""
+
+msgctxt "ITEM_NAME_FIRST_AID"
+msgid "First Aid"
+msgstr ""
+
+msgctxt "ITEM_NAME_VITAMIN_K_TONIC"
+msgid "Vitamin K Tonic"
+msgstr ""
+
+msgctxt "ITEM_NAME_AVOCADO_TOAST"
+msgid "Avocado Toast"
+msgstr ""
+
+msgctxt "ITEM_NAME_TOFU_BURRITO"
+msgid "Tofu Burrito"
+msgstr ""
+
+msgctxt "ITEM_NAME_FAKE_CHICKEN"
+msgid "Fake Chicken"
+msgstr ""
+
+msgctxt "ITEM_NAME_QUICHE"
+msgid "Quiche"
+msgstr ""
+
+msgctxt "ITEM_NAME_ALOE_DRINK"
+msgid "Aloe Drink"
+msgstr ""
+
+msgctxt "ITEM_NAME_GRAPPLES"
+msgid "Grapples"
+msgstr ""
+
+msgctxt "ITEM_NAME_BAGUETTE"
+msgid "Baguette"
+msgstr ""
+
+msgctxt "ITEM_NAME_MILK"
+msgid "Milk"
+msgstr ""
+
+msgctxt "ITEM_NAME_OOLONG_TEA"
+msgid "Oolong Tea"
+msgstr ""
+
+msgctxt "ITEM_NAME_MATCHA_TEA"
+msgid "Matcha Tea"
+msgstr ""
+
+msgctxt "ITEM_NAME_THAI_TEA"
+msgid "Thai Tea"
+msgstr ""
+
+msgctxt "ITEM_NAME_BOBA_TEA"
+msgid "Boba Tea"
+msgstr ""
+
+msgctxt "ITEM_NAME_BOUNTY_LASS"
+msgid "Bounty Lass (Game)"
+msgstr ""
+
+msgctxt "ITEM_NAME_PLUMBERINOS"
+msgid "Plumberinos (Game)"
+msgstr ""
+
+msgctxt "ITEM_NAME_VAMPIRE_PUNCHER"
+msgid "Vampire Puncher (Game)"
+msgstr ""
+
+msgctxt "ITEM_NAME_HOT_BLOODED_BOYS"
+msgid "Hot Blooded Boys (Game)"
+msgstr ""
+
+msgctxt "ITEM_NAME_CAT_PILLOW"
+msgid "Cat Pillow"
+msgstr ""
+
+msgctxt "ITEM_NAME_MECH_TOY"
+msgid "Mech Toy"
+msgstr ""
+
+msgctxt "ITEM_NAME_TOY_ALRM"
+msgid "Toy Alarm"
+msgstr ""
+
+msgctxt "ITEM_NAME_NOIZE_FIGURE"
+msgid "NOIZE Figure"
+msgstr ""
+
+msgctxt "ITEM_NAME_CHOCO_BERRY"
+msgid "Choco Berry"
+msgstr ""
+
+msgctxt "ITEM_NAME_ICE_CREAM_CONE"
+msgid "Ice Cream Cone"
+msgstr ""
+
+msgctxt "ITEM_NAME_SORBET"
+msgid "Sorbet"
+msgstr ""
+
+msgctxt "ITEM_NAME_SUNDAE"
+msgid "Sundae"
+msgstr ""
+
+msgctxt "ITEM_NAME_POTATO_SNAPS"
+msgid "Potato Snaps"
+msgstr ""
+
+msgctxt "ITEM_NAME_BACON_ROD"
+msgid "Bacon Rod"
+msgstr ""
+
+msgctxt "ITEM_NAME_FIZZY_FUZZ"
+msgid "Fizzy Fuzz"
+msgstr ""
+
+msgctxt "ITEM_NAME_ENERGY_DRINK"
+msgid "Energy Drink"
+msgstr ""
+
+msgctxt "ITEM_NAME_TURBO_JUICE"
+msgid "Turbo Juice"
+msgstr ""
+
+msgctxt "ITEM_NAME_FRIED_CHEESE"
+msgid "Fried Cheese"
+msgstr ""
+
+msgctxt "ITEM_NAME_GARLIC_GELATO"
+msgid "Garlic Gelato"
+msgstr ""
+
+msgctxt "ITEM_NAME_LASAGNA"
+msgid "Lasagna"
+msgstr ""
+
+msgctxt "ITEM_NAME_RAVIOLI"
+msgid "Ravioli"
+msgstr ""
+
+msgctxt "ITEM_NAME_THRILLHOUSE"
+msgid "Thrillhouse (book)"
+msgstr ""
+
+msgctxt "ITEM_NAME_FUNSTRUCTION"
+msgid "Funstruction (Book)"
+msgstr ""
+
+msgctxt "ITEM_NAME_JOCK_JOURNAL"
+msgid "Jock Journal (Book)"
+msgstr ""
+
+msgctxt "ITEM_NAME_JOY_OF_TOYS"
+msgid "Joy of Toys (Book)"
+msgstr ""
+
+msgctxt "ITEM_NAME_TEETH_FRACKERS"
+msgid "Teeth Frackers"
+msgstr ""
+
+msgctxt "ITEM_NAME_POLYESTER_CANDY"
+msgid "Polyester Candy"
+msgstr ""
+
+msgctxt "ITEM_NAME_GUMMY_YUMMIES"
+msgid "Gummy Yummies"
+msgstr ""
+
+msgctxt "ITEM_NAME_MELON_MINTS"
+msgid "Melon Mints"
+msgstr ""
+
+msgctxt "ITEM_NAME_MERV_SINGLE"
+msgid "Merv Single"
+msgstr ""
+
+msgctxt "ITEM_NAME_MERV_DOUBLE"
+msgid "Merv Double"
+msgstr ""
+
+msgctxt "ITEM_NAME_MERV_FRIES"
+msgid "Merv Fries"
+msgstr ""
+
+msgctxt "ITEM_NAME_MERV_SHAKE"
+msgid "Merv Shake"
+msgstr ""
+
+msgctxt "ITEM_NAME_SALMON_NIGIRI"
+msgid "Salmon Nigiri"
+msgstr ""
+
+msgctxt "ITEM_NAME_SHRIMP_ROLL"
+msgid "\"Shrimp\" Roll"
+msgstr ""
+
+msgctxt "ITEM_NAME_SPICY_TUNA_ROLL"
+msgid "Spicy Tuna Roll"
+msgstr ""
+
+msgctxt "ITEM_NAME_TEMPURA"
+msgid "Tempura"
+msgstr ""
+
+msgctxt "ITEM_NAME_SAUNA"
+msgid "Sauna"
+msgstr ""
+
+msgctxt "ITEM_NAME_TONKATSU"
+msgid "Tonkatsu"
+msgstr ""
+
+msgctxt "ITEM_NAME_RAMEN"
+msgid "Ramen"
+msgstr ""
+
+msgctxt "ITEM_NAME_YOGURT_SODA"
+msgid "Yogurt Soda"
+msgstr ""
+
+msgctxt "ITEM_NAME_TAIYAKI"
+msgid "Taiyaki"
+msgstr ""
+
+msgctxt "ITEM_NAME_QOQO_SODA"
+msgid "Qoqo Soda"
+msgstr ""
+
+msgctxt "ITEM_NAME_DANGO"
+msgid "Dango"
+msgstr ""
+
+msgctxt "ITEM_NAME_DORAYAKI"
+msgid "Dorayaki"
+msgstr ""
+
+msgctxt "ITEM_NAME_BEANS"
+msgid "Beans"
+msgstr ""
+
+msgctxt "ITEM_NAME_HOT_PEPPER"
+msgid "Hot Pepper"
+msgstr ""
+
+msgctxt "ITEM_NAME_TOMATO"
+msgid "Tomato"
+msgstr ""
+
+msgctxt "ITEM_NAME_CANNED_COFFEE"
+msgid "Canned Coffee"
+msgstr ""
+
+msgctxt "ITEM_DESC_BANDAGES"
+msgid "Replenish stamina 40 percent"
+msgstr ""
+
+msgctxt "ITEM_DESC_ASPIRIN"
+msgid "Replenish stamina 50 percent"
+msgstr ""
+
+msgctxt "ITEM_DESC_FIRST_AID"
+msgid "Replenish stamina 60 percent"
+msgstr ""
+
+msgctxt "ITEM_DESC_VITAMIN_K_TONIC"
+msgid "Replenish stamina 20 percent"
+msgstr ""
+
+msgctxt "ITEM_DESC_AVOCADO_TOAST"
+msgid "Replenish stamina 30 percent"
+msgstr ""
+
+msgctxt "ITEM_DESC_TOFU_BURRITO"
+msgid "Replenish stamina 30 percent"
+msgstr ""
+
+msgctxt "ITEM_DESC_FAKE_CHICKEN"
+msgid "Replenish stamina 35 percent"
+msgstr ""
+
+msgctxt "ITEM_DESC_QUICHE"
+msgid "Replenish stamina 45 percent"
+msgstr ""
+
+msgctxt "ITEM_DESC_ALOE_DRINK"
+msgid "Replenish stamina 15 percent"
+msgstr ""
+
+msgctxt "ITEM_DESC_GRAPPLES"
+msgid "Replenish stamina 20 percent"
+msgstr ""
+
+msgctxt "ITEM_DESC_BAGUETTE"
+msgid "Replenish stamina 25 percent"
+msgstr ""
+
+msgctxt "ITEM_DESC_MILK"
+msgid "Replenish stamina 30 percent"
+msgstr ""
+
+msgctxt "ITEM_DESC_OOLONG_TEA"
+msgid "Replenish stamina 20 percent"
+msgstr ""
+
+msgctxt "ITEM_DESC_MATCHA_TEA"
+msgid "Replenish stamina 20 percent"
+msgstr ""
+
+msgctxt "ITEM_DESC_THAI_TEA"
+msgid "Replenish stamina 20 percent"
+msgstr ""
+
+msgctxt "ITEM_DESC_BOBA_TEA"
+msgid "Replenish stamina 30 percent"
+msgstr ""
+
+msgctxt "ITEM_DESC_BOUNTY_LASS"
+msgid "Replenish stamina 100 percent"
+msgstr ""
+
+msgctxt "ITEM_DESC_PLUMBERINOS"
+msgid "Replenish stamina 100 percent"
+msgstr ""
+
+msgctxt "ITEM_DESC_VAMPIRE_PUNCHER"
+msgid "Replenish stamina 100 percent"
+msgstr ""
+
+msgctxt "ITEM_DESC_HOT_BLOODED_BOYS"
+msgid "Replenish stamina 100 percent"
+msgstr ""
+
+msgctxt "ITEM_DESC_CAT_PILLOW"
+msgid "Replenish stamina 20 percent"
+msgstr ""
+
+msgctxt "ITEM_DESC_MECH_TOY"
+msgid "Replenish stamina 20 percent"
+msgstr ""
+
+msgctxt "ITEM_DESC_TOY_ALARM"
+msgid "Replenish stamina 20 percent"
+msgstr ""
+
+msgctxt "ITEM_DESC_NOIZE_FIGURE"
+msgid "Replenish stamina 100 percent"
+msgstr ""
+
+msgctxt "ITEM_DESC_CHOCO_BERRY"
+msgid "Replenish stamina 10 percent"
+msgstr ""
+
+msgctxt "ITEM_DESC_ICE_CREAM_CONE"
+msgid "Replenish stamina 15 percent"
+msgstr ""
+
+msgctxt "ITEM_DESC_SORBET"
+msgid "Replenish stamina 20 percent"
+msgstr ""
+
+msgctxt "ITEM_DESC_SUNDAE"
+msgid "Replenish stamina 25 percent"
+msgstr ""
+
+msgctxt "ITEM_DESC_POTATO_SNAPS"
+msgid "Replenish stamina 10 percent"
+msgstr ""
+
+msgctxt "ITEM_DESC_BACON_ROD"
+msgid "Replenish stamina 10 percent"
+msgstr ""
+
+msgctxt "ITEM_DESC_FIZZY_FUZZ"
+msgid "Replenish stamina 10 percent"
+msgstr ""
+
+msgctxt "ITEM_DESC_ENERGY_DRINK"
+msgid "Replenish stamina 5 percent, gives you infinite SP for 20 seconds"
+msgstr ""
+
+msgctxt "ITEM_DESC_TURBO_JUICE"
+msgid "Replenish stamina 5 percent, gives you maximum AG for 20 seconds"
+msgstr ""
+
+msgctxt "ITEM_DESC_FIRE_CHEESE"
+msgid "Replenish stamina 25 percent"
+msgstr ""
+
+msgctxt "ITEM_DESC_GARLIC_GELATO"
+msgid "Replenish stamina 25 percent"
+msgstr ""
+
+msgctxt "ITEM_DESC_LASAGNA"
+msgid "Replenish stamina 75 percent"
+msgstr ""
+
+msgctxt "ITEM_DESC_RAVIOLI"
+msgid "Replenish stamina 40 percent"
+msgstr ""
+
+msgctxt "ITEM_DESC_THRILLHOUSE"
+msgid "Makes Household weapons not break when held"
+msgstr ""
+
+msgctxt "ITEM_DESC_FUNSTRUCTION"
+msgid "Makes Construction weapons not break when held"
+msgstr ""
+
+msgctxt "ITEM_DESC_JOCK_JOURNAL"
+msgid "Makes Sports weapons not break when held"
+msgstr ""
+
+msgctxt "ITEM_DESC_JOY_OF_TOYS"
+msgid "Makes Toy weapons not break when held"
+msgstr ""
+
+msgctxt "ITEM_DESC_TEETH_FRACKERS"
+msgid "Replenish stamina 12 percent"
+msgstr ""
+
+msgctxt "ITEM_DESC_POLYESTER_CANDY"
+msgid "Replenish stamina 16 percent"
+msgstr ""
+
+msgctxt "ITEM_DESC_GUMMY_YUMMIES"
+msgid "Replenish stamina 22 percent"
+msgstr ""
+
+msgctxt "ITEM_DESC_MELON_MINTS"
+msgid "Replenish stamina 24 percent"
+msgstr ""
+
+msgctxt "ITEM_DESC_MERV_SINGLE"
+msgid "Replenish stamina 25 percent"
+msgstr ""
+
+msgctxt "ITEM_DESC_MERV_DOUBLE"
+msgid "Replenish stamina 60 percent, slows you down for 30 seconds"
+msgstr ""
+
+msgctxt "ITEM_DESC_MERV_FIRES"
+msgid "Replenish stamina 20 percent"
+msgstr ""
+
+msgctxt "ITEM_DESC_MERV_SHAKE"
+msgid "Replenish stamina 20 percent"
+msgstr ""
+
+msgctxt "ITEM_DESC_SALMON_NIGIRI"
+msgid "Replenish stamina 15 percent"
+msgstr ""
+
+msgctxt "ITEM_DESC_SHRIMP_ROLL"
+msgid "Replenish stamina 20 percent"
+msgstr ""
+
+msgctxt "ITEM_DESC_SPICY_TUNA_ROLL"
+msgid "Replenish stamina 25 percent"
+msgstr ""
+
+msgctxt "ITEM_DESC_TEMPURA"
+msgid "Replenish stamina 30 percent"
+msgstr ""
+
+msgctxt "ITEM_DESC_SAUNA"
+msgid "Replenishes all ST and SP"
+msgstr ""
+
+msgctxt "ITEM_DESC_TONKATSU"
+msgid "."
+msgstr ""
+
+msgctxt "ITEM_DESC_RAMEN"
+msgid "."
+msgstr ""
+
+msgctxt "ITEM_DESC_YOGURT_SODA"
+msgid "."
+msgstr ""
+
+msgctxt "ITEM_DESC_TAIYAKI"
+msgid "Replenish stamina 15 percent"
+msgstr ""
+
+msgctxt "ITEM_DESC_QOQO_SODA"
+msgid "Replenish stamina 20 percent"
+msgstr ""
+
+msgctxt "ITEM_DESC_DANGO"
+msgid "Replenish stamina 25 percent"
+msgstr ""
+
+msgctxt "ITEM_DESC_DORAYAKI"
+msgid "Replenish stamina 25 percent"
+msgstr ""
+
+msgctxt "ITEM_DESC_BEANS"
+msgid "."
+msgstr ""
+
+msgctxt "ITEM_DESC_HOT_PEPPER"
+msgid "."
+msgstr ""
+
+msgctxt "ITEM_DESC_CANNED_COFFEE"
+msgid "."
+msgstr ""
+
+msgctxt "ITEM_NAME_SAUNA_FOR_ONE"
+msgid "Sauna For One"
+msgstr ""
+
+msgctxt "ITEM_NAME_SAUNA_FOR_TWO"
+msgid "Sauna For Two"
+msgstr ""
+
+msgctxt "ITEM_DESC_SAUNA_FOR_ONE"
+msgid "Replenish stamina 100 percent"
+msgstr ""
+
+msgctxt "ITEM_DESC_SAUNA_FOR_TWO"
+msgid "Replenish stamina 100 percent for both players"
+msgstr ""
+
+msgctxt "ITEM_DESC_FIRST_TIME"
+msgid "First time use"
+msgstr ""
+
+msgctxt "ITEM_DESC_FIRST_TIME_BONUS"
+msgid "Bonus"
+msgstr ""

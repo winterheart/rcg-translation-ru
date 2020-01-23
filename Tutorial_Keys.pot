@@ -1,0 +1,241 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: you@example.com\n"
+"POT-Creation-Date: 2020-01-24 02:10:41.790820\n"
+"PO-Revision-Date: 2020-01-24 02:10:41.790834\n"
+"Last-Translator: you <you@example.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "TUTORIAL_TITLE_SCHOOLS_OUT"
+msgid "SCHOOL'S OUT!"
+msgstr ""
+
+msgctxt "TUTORIAL_TITLE_LOCKED_OUT"
+msgid "LOCKED OUT!"
+msgstr ""
+
+msgctxt "TUTORIAL_TITLE_GOTTA_RUN"
+msgid "GOTTA RUN!"
+msgstr ""
+
+msgctxt "TUTORIAL_TITLE_WEAPONS"
+msgid "WEAPONS!"
+msgstr ""
+
+msgctxt "TUTORIAL_TITLE_MAP_MARKERS"
+msgid "MAP MARKERS!"
+msgstr ""
+
+msgctxt "TUTORIAL_TITLE_RECRUITS_1"
+msgid "RECRUITS! (1/2)"
+msgstr ""
+
+msgctxt "TUTORIAL_TITLE_RECRUITS_2"
+msgid "RECRUITS! (2/2)"
+msgstr ""
+
+msgctxt "TUTORIAL_TITLE_WHATS_UP_BUDDY"
+msgid "WHAT'S UP, BUDDY?"
+msgstr ""
+
+msgctxt "TUTORIAL_TITLE_STATUE_SMASH"
+msgid "SABU STATUES"
+msgstr ""
+
+msgctxt "TUTORIAL_TITLE_LEVEL_UP"
+msgid "LEVEL UP!"
+msgstr ""
+
+msgctxt "TUTORIAL_TITLE_DONT_DIE_ON_ME"
+msgid "DON'T DIE ON ME!"
+msgstr ""
+
+msgctxt "TUTORIAL_TITLE_GRAB_EM"
+msgid "GRAB 'EM!"
+msgstr ""
+
+msgctxt "TUTORIAL_TITLE_BLOCK_PARRY"
+msgid "BLOCK PARRY!"
+msgstr ""
+
+msgctxt "TUTORIAL_TITLE_WALL_JUMPIN"
+msgid "WALL JUMPIN!"
+msgstr ""
+
+msgctxt "TUTORIAL_TITLE_CELL_PHONE_MENU"
+msgid "CELL PHONE MENU!"
+msgstr ""
+
+msgctxt "TUTORIAL_TITLE_DOJO_TRAINING"
+msgid "DOJO TRAINING!"
+msgstr ""
+
+msgctxt "TUTORIAL_TITLE_STATS_MENU"
+msgid "STATS MENU!"
+msgstr ""
+
+msgctxt "TUTORIAL_TITLE_MAP_MENU"
+msgid "MAP MENU!"
+msgstr ""
+
+msgctxt "TUTORIAL_TITLE_EXPANDED_MAP"
+msgid "EXPANDED MAP!"
+msgstr ""
+
+msgctxt "TUTORIAL_TITLE_MOVES_LIST"
+msgid "MOVES LIST!"
+msgstr ""
+
+msgctxt "TUTORIAL_TITLE_ACCESSORIES"
+msgid "ACCESSORIES!"
+msgstr ""
+
+msgctxt "TUTORIAL_TITLE_SETTINGS_MENU"
+msgid "SETTINGS MENU!"
+msgstr ""
+
+msgctxt "TUTORIAL_TITLE_RECRUITS_MENU"
+msgid "RECRUITS MENU!"
+msgstr ""
+
+msgctxt "TUTORIAL_BODY_SCHOOLS_OUT"
+msgid ""
+"Defeat the other students to break the screenlock and get out of class. "
+"Press {2} for Quick Attacks and {3} for Heavy Attacks."
+msgstr ""
+
+msgctxt "TUTORIAL_BODY_LOCKED_OUT"
+msgid ""
+"Whoops! You can't get in here yet. Come back later after finding a way to "
+"get inside locked doors."
+msgstr ""
+
+msgctxt "TUTORIAL_BODY_GOTTA_RUN"
+msgid ""
+"Double-tap and hold the left stick in either direction to run. You can also "
+"jump further from a run."
+msgstr ""
+
+msgctxt "TUTORIAL_BODY_WEAPONS"
+msgid ""
+"Press {2} to grab weapons. Use them with {2} or throw them with {3}. Weapons"
+" break apart after too much use."
+msgstr ""
+
+msgctxt "TUTORIAL_BODY_MAP_MARKERS"
+msgid ""
+"Look for this icon when important markers are added to your map. Press {6} "
+"to access your map when you see this icon."
+msgstr ""
+
+msgctxt "TUTORIAL_BODY_RECRUITS_1"
+msgid ""
+"Sometimes the last enemy remaining will beg for their life. Touch them to "
+"grab the enemy, then press {4} to recruit them."
+msgstr ""
+
+msgctxt "TUTORIAL_BODY_RECRUITS_2"
+msgid ""
+"Recruited enemies can be called into action by pressing the {4} button. "
+"Their health is displayed in your HUD at the top of the screen."
+msgstr ""
+
+msgctxt "TUTORIAL_BODY_WHATS_UP_BUDDY"
+msgid ""
+"Approach NPCs and press {2} to chat with them. They'll often give you info "
+"to help advance your quests."
+msgstr ""
+
+msgctxt "TUTORIAL_BODY_STATUE_SMASH"
+msgid ""
+"There are 25 statues of River City's resident crime boss hidden throughout "
+"the game. Destroy all 25 to earn something special!"
+msgstr ""
+
+msgctxt "TUTORIAL_BODY_LEVEL_UP"
+msgid ""
+"Each time you level up, your stats increase, and you also unlock the ability"
+" to learn new attacks in Dojos."
+msgstr ""
+
+msgctxt "TUTORIAL_BODY_DONT_DIE_ON_ME"
+msgid ""
+"Girl down! When the other player dies, you can revive them by quickly "
+"attacking their body before their angel gets away."
+msgstr ""
+
+msgctxt "TUTORIAL_BODY_GRAB_EM"
+msgid ""
+"Sometimes an enemy will become dizzy after being attacked repeatedly. Walk "
+"into them to grab the enemy, then throw or attack them with {2} and {3}."
+msgstr ""
+
+msgctxt "TUTORIAL_BODY_BLOCK_PARRY"
+msgid ""
+"Press and hold {5} to block enemy attacks. Blocking just as an enemy attacks"
+" will parry, giving you the edge!"
+msgstr ""
+
+msgctxt "TUTORIAL_BODY_WALL_JUMPIN"
+msgid ""
+"Jump toward a wall with {0} then press {0} again to leap off the wall and "
+"get even higher."
+msgstr ""
+
+msgctxt "TUTORIAL_BODY_CELL_PHONE_MENU"
+msgid ""
+"Press {6} to pause the game and check out your stats, items, accessories, "
+"and more! Cycle through menus with {4} and {5}."
+msgstr ""
+
+msgctxt "TUTORIAL_BODY_DOJO_TRAINING"
+msgid ""
+"Visit Dojos to unlock new attacks. The higher your level, the more attacks "
+"you can unlock!"
+msgstr ""
+
+msgctxt "TUTORIAL_BODY_STATS_MENU"
+msgid ""
+"The Stats Menu shows off your current stats, EXP level, EXP needed to level "
+"up, and items you've purchased from stores. Select an item here to use it."
+msgstr ""
+
+msgctxt "TUTORIAL_BODY_MAP_MENU"
+msgid ""
+"The Map Menu shows your current location and your progress in active quests."
+" Press {13} to expand to the full world map."
+msgstr ""
+
+msgctxt "TUTORIAL_BODY_EXPANDED_MAP"
+msgid ""
+"Check your map to know where to go! Yellow is your current room, blue rooms "
+"have been visited, and black rooms haven't yet."
+msgstr ""
+
+msgctxt "TUTORIAL_BODY_MOVES_LIST"
+msgid ""
+"The Moves List displays how to perform all attacks you've unlocked. Unlock "
+"more attacks in Dojos and by leveling up."
+msgstr ""
+
+msgctxt "TUTORIAL_BODY_ACCESSORIES"
+msgid ""
+"Accessories are like permanent items. Equip up to 2 Accessories at a time. "
+"Earn more by defeating bosses and completing quests."
+msgstr ""
+
+msgctxt "TUTORIAL_BODY_SETTINGS_MENU"
+msgid ""
+"The Settings Menu allows you to adjust volume levels and other options."
+msgstr ""
+
+msgctxt "TUTORIAL_BODY_RECRUITS_MENU"
+msgid ""
+"The Recruits Menu showcases every type of enemy you've recruited so far. Try"
+" and catch 'em all!"
+msgstr ""

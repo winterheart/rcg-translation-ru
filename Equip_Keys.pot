@@ -1,0 +1,388 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: you@example.com\n"
+"POT-Creation-Date: 2020-01-24 02:10:41.676665\n"
+"PO-Revision-Date: 2020-01-24 02:10:41.676671\n"
+"Last-Translator: you <you@example.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "WEAPON_NAME_WRENCH"
+msgid "Wrench"
+msgstr ""
+
+msgctxt "WEAPON_NAME_SHOVEL"
+msgid "Shovel"
+msgstr ""
+
+msgctxt "WEAPON_NAME_CHAIN"
+msgid "Chain"
+msgstr ""
+
+msgctxt "WEAPON_NAME_WOOD_PLANK"
+msgid "Plank"
+msgstr ""
+
+msgctxt "WEAPON_NAME_WOODEN_CRATE"
+msgid "Wooden Crate"
+msgstr ""
+
+msgctxt "WEAPON_NAME_DODGEBALL"
+msgid "Dodgeball"
+msgstr ""
+
+msgctxt "WEAPON_NAME_BASEBALL"
+msgid "Baseball"
+msgstr ""
+
+msgctxt "WEAPON_NAME_BASEBALL_BAT"
+msgid "Baseball Bat"
+msgstr ""
+
+msgctxt "WEAPON_NAME_STAR_BATON"
+msgid "Star Baton"
+msgstr ""
+
+msgctxt "WEAPON_NAME_BOOMERANG"
+msgid "Boomerang"
+msgstr ""
+
+msgctxt "WEAPON_NAME_LASER_SWORD"
+msgid "Laser Sword"
+msgstr ""
+
+msgctxt "WEAPON_NAME_BICYCLE"
+msgid "Bicycle"
+msgstr ""
+
+msgctxt "WEAPON_NAME_YOYO"
+msgid "Yo Yo"
+msgstr ""
+
+msgctxt "WEAPON_NAME_GUITAR"
+msgid "Guitar"
+msgstr ""
+
+msgctxt "WEAPON_NAME_GIANT_HAMMER"
+msgid "Giant Hammer"
+msgstr ""
+
+msgctxt "WEAPON_NAME_METAL_CHAIR"
+msgid "Metal Chair"
+msgstr ""
+
+msgctxt "WEAPON_NAME_FRYING_PAN"
+msgid "Frying Pan"
+msgstr ""
+
+msgctxt "WEAPON_NAME_MOP"
+msgid "Mop"
+msgstr ""
+
+msgctxt "WEAPON_NAME_BENCH"
+msgid "Bench"
+msgstr ""
+
+msgctxt "WEAPON_NAME_GARBAGE_CAN"
+msgid "Garbage Can"
+msgstr ""
+
+msgctxt "EQUIP_NAME_ATHLETIC_BOTTOM"
+msgid "Athletic Bottom"
+msgstr ""
+
+msgctxt "EQUIP_NAME_ATHLETIC_TOP"
+msgid "Athletic Top"
+msgstr ""
+
+msgctxt "EQUIP_NAME_BOMB_BOTTOM"
+msgid "Bomb Bottom"
+msgstr ""
+
+msgctxt "EQUIP_NAME_BOMB_BRA"
+msgid "Bomb Bra"
+msgstr ""
+
+msgctxt "EQUIP_NAME_CHOKER"
+msgid "Choker"
+msgstr ""
+
+msgctxt "EQUIP_NAME_COIN_PURSE"
+msgid "Coin Purse"
+msgstr ""
+
+msgctxt "EQUIP_NAME_DECO_NAILS"
+msgid "Deco Nails"
+msgstr ""
+
+msgctxt "EQUIP_NAME_EYESHADOW"
+msgid "Eyeshadow"
+msgstr ""
+
+msgctxt "EQUIP_NAME_FAKE_TATTOOS"
+msgid "Fake Tattoos"
+msgstr ""
+
+msgctxt "EQUIP_NAME_FALSE_EYELASHES"
+msgid "False Eyelashes"
+msgstr ""
+
+msgctxt "EQUIP_NAME_FISHNET_TOP"
+msgid "Fishnet Top"
+msgstr ""
+
+msgctxt "EQUIP_NAME_FRILLY_BOTTOM"
+msgid "Frilly Bottom"
+msgstr ""
+
+msgctxt "EQUIP_NAME_FRILL_BRA"
+msgid "Frill Bra"
+msgstr ""
+
+msgctxt "EQUIP_NAME_GARTER"
+msgid "Garter"
+msgstr ""
+
+msgctxt "EQUIP_NAME_GIFT_CARD"
+msgid "Gift Card"
+msgstr ""
+
+msgctxt "EQUIP_NAME_GYM_SHORTS"
+msgid "Gym Shorts"
+msgstr ""
+
+msgctxt "EQUIP_NAME_HAIR_RIBBON"
+msgid "Hair Ribbon"
+msgstr ""
+
+msgctxt "EQUIP_NAME_HEART_EARRINGS"
+msgid "Heart Earrings"
+msgstr ""
+
+msgctxt "EQUIP_NAME_KNIFE_EARRINGS"
+msgid "Knife Earrings"
+msgstr ""
+
+msgctxt "EQUIP_NAME_LOVE_LETTER"
+msgid "Love Letter"
+msgstr ""
+
+msgctxt "EQUIP_NAME_MAKEUP_KIT"
+msgid "Makeup Kit"
+msgstr ""
+
+msgctxt "EQUIP_NAME_MULTITOOL"
+msgid "Multitool"
+msgstr ""
+
+msgctxt "EQUIP_NAME_MUSIC_PLAYER"
+msgid "Music Player"
+msgstr ""
+
+msgctxt "EQUIP_NAME_PADLOCK_BRA"
+msgid "Padlock Bra"
+msgstr ""
+
+msgctxt "EQUIP_NAME_PEPPER_SPRAY"
+msgid "Pepper Spray"
+msgstr ""
+
+msgctxt "EQUIP_NAME_RIBBON_BRA"
+msgid "Ribbon Bra"
+msgstr ""
+
+msgctxt "EQUIP_NAME_RING_POP"
+msgid "Ring Pop"
+msgstr ""
+
+msgctxt "EQUIP_NAME_SAFETY_PIN_EARRINGS"
+msgid "Safety Pin Earrings"
+msgstr ""
+
+msgctxt "EQUIP_NAME_SCISSORS"
+msgid "Scissors"
+msgstr ""
+
+msgctxt "EQUIP_NAME_SMART_WATCH"
+msgid "Smart Watch"
+msgstr ""
+
+msgctxt "EQUIP_NAME_VIRTUAL_PET"
+msgid "Virtual Pet"
+msgstr ""
+
+msgctxt "EQUIP_DESC_ATHLETIC_BOTTOM"
+msgid "Refill ST when carrying around enemies"
+msgstr ""
+
+msgctxt "EQUIP_DESC_ATHLETIC_TOP"
+msgid "Move faster while carrying heavy objects"
+msgstr ""
+
+msgctxt "EQUIP_DESC_BOMB_BOTTOM"
+msgid "5% chance of taking no damage from enemy attacks"
+msgstr ""
+
+msgctxt "EQUIP_DESC_BOMB_BRA"
+msgid "1% chance of defeating standard enemies with one attack"
+msgstr ""
+
+msgctxt "EQUIP_DESC_CHOKER"
+msgid "Extra 5% damage to grounded enemies"
+msgstr ""
+
+msgctxt "EQUIP_DESC_COIN_PURSE"
+msgid "5% chance of double money drops from each enemy"
+msgstr ""
+
+msgctxt "EQUIP_DESC_DECO_NAILS"
+msgid "Reduce damage taken from cheerleaders by 5%"
+msgstr ""
+
+msgctxt "EQUIP_DESC_EYESHADOW"
+msgid "5% chance of still standing after a knockdown attack"
+msgstr ""
+
+msgctxt "EQUIP_DESC_FAKE_TATOOS"
+msgid "Special attack meter fills up 5% faster"
+msgstr ""
+
+msgctxt "EQUIP_DESC_FALSE_EYELASHES"
+msgid "Refill ST slowly by walking around"
+msgstr ""
+
+msgctxt "EQUIP_DESC_FISHNET_TOP"
+msgid "Extra 5% damage dealt with throwing attacks"
+msgstr ""
+
+msgctxt "EQUIP_DESC_FRILLY_BOTTOM"
+msgid "Stand up more quickly after being knocked down"
+msgstr ""
+
+msgctxt "EQUIP_DESC_FRILL_BRA"
+msgid "Extra 1 second of invulnerability after getting back up"
+msgstr ""
+
+msgctxt "EQUIP_DESC_GARTER"
+msgid "Extra 5% damage from any kick attacks"
+msgstr ""
+
+msgctxt "EQUIP_DESC_GIFT_CARD"
+msgid "Get 5% cash back on all shop purchases"
+msgstr ""
+
+msgctxt "EQUIP_DESC_GYM_SHORTS"
+msgid "Refill 1% ST with each enemy defeated"
+msgstr ""
+
+msgctxt "EQUIP_DESC_HAIR_RIBBON"
+msgid "Reduces angel escape speed in multiplayer"
+msgstr ""
+
+msgctxt "EQUIP_DESC_HEART_EARRINGS"
+msgid "Extra 10% damage for all Recruit attacks"
+msgstr ""
+
+msgctxt "EQUIP_DESC_KNIFE_EARRINGS"
+msgid "Increase sharp weapon damage by 10%"
+msgstr ""
+
+msgctxt "EQUIP_DESC_LOVE_LETTER"
+msgid "Extra 5% damage when fighting male enemies"
+msgstr ""
+
+msgctxt "EQUIP_DESC_MAKEUP_KIT"
+msgid "Extra 5% damage when fighting female enemies"
+msgstr ""
+
+msgctxt "EQUIP_DESC_MULTITOOL"
+msgid "Increase weapon durability by 25%"
+msgstr ""
+
+msgctxt "EQUIP_DESC_MUSIC_PLAYER"
+msgid "Extra 10% damage when a NOIZE song is playing"
+msgstr ""
+
+msgctxt "EQUIP_DESC_PADLOCK_BRA"
+msgid "Double the velocity of thrown weapons"
+msgstr ""
+
+msgctxt "EQUIP_DESC_PEPPER_SPRAY"
+msgid "Increase reward amounts from Godai missions"
+msgstr ""
+
+msgctxt "EQUIP_DESC_RIBBON_BRA"
+msgid "10% chance of getting 2 items from vending machines"
+msgstr ""
+
+msgctxt "EQUIP_DESC_RING_POP"
+msgid "Refill ST slowly by walking around"
+msgstr ""
+
+msgctxt "EQUIP_DESC_SAFETY_PIN_EARRINGS"
+msgid "Extra 5% ST refill from using medical items"
+msgstr ""
+
+msgctxt "EQUIP_DESC_SCISSORS"
+msgid "Reduce AG -2 but increase AP +2"
+msgstr ""
+
+msgctxt "EQUIP_DESC_SMART_WATCH"
+msgid "Extra 5% damage when fighting students"
+msgstr ""
+
+msgctxt "EQUIP_DESC_VIRTUAL_PET"
+msgid "Extra 1 heart for each Recruit"
+msgstr ""
+
+msgctxt "EQUIP_NAME_HASEBE_CHARM"
+msgid "Hasebe Charm"
+msgstr ""
+
+msgctxt "EQUIP_NAME_MAMI_CHARM"
+msgid "Mami Charm"
+msgstr ""
+
+msgctxt "EQUIP_DESC_HASEBE_CHARM"
+msgid "Who Knows?"
+msgstr ""
+
+msgctxt "EQUIP_DESC_MAMI_CHARM"
+msgid "What a mystery..."
+msgstr ""
+
+msgctxt "EQUIP_NAME_CAT_PIN"
+msgid "Cat Pin"
+msgstr ""
+
+msgctxt "EQUIP_DESC_CAT_PIN"
+msgid "Infinite SP"
+msgstr ""
+
+msgctxt "EQUIP_NAME_SPIKED_KNUCKLES"
+msgid "Spiked Knuckles"
+msgstr ""
+
+msgctxt "EQUIP_DESC_SPIKED_KNUCKLES"
+msgid "Increases stun damage on your attacks by 10%."
+msgstr ""
+
+msgctxt "EQUIP_NAME_TANK_BUTTON"
+msgid "Tank Button"
+msgstr ""
+
+msgctxt "EQUIP_NAME_BUNNY_BUTTON"
+msgid "Bunny Button =;3"
+msgstr ""
+
+msgctxt "EQUIP_DESC_TANK_BUTTON"
+msgid "Super Stronk Super Slow"
+msgstr ""
+
+msgctxt "EQUIP_DESC_BUNNY_BUTTON"
+msgid "Must go faster"
+msgstr ""

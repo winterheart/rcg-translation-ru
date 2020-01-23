@@ -1,0 +1,148 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: you@example.com\n"
+"POT-Creation-Date: 2020-01-24 02:10:41.683122\n"
+"PO-Revision-Date: 2020-01-24 02:10:41.683129\n"
+"Last-Translator: you <you@example.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "STORE_NAME_MERLINS"
+msgid "Merlin's Mystery Shop"
+msgstr ""
+
+msgctxt "STORE_NAME_TONYS_TOILETRIES"
+msgid "Tony's Toiletries"
+msgstr ""
+
+msgctxt "STORE_NAME_WINDING_WAY"
+msgid "Winding Way"
+msgstr ""
+
+msgctxt "STORE_TYPE_BOOK"
+msgid "Book"
+msgstr ""
+
+msgctxt "STORE_TYPE_ITEM"
+msgid "Item"
+msgstr ""
+
+msgctxt "STORE_TYPE_DOJO"
+msgid "Dojo"
+msgstr ""
+
+msgctxt "STORE_BUY_IT"
+msgid "Buy it?"
+msgstr ""
+
+msgctxt "STORE_USE_NOW"
+msgid "Use now?"
+msgstr ""
+
+msgctxt "STORE_NOT_ENOUGH"
+msgid "Not Enough!"
+msgstr ""
+
+msgctxt "STORE_NO_ROOM"
+msgid "No Room!"
+msgstr ""
+
+msgctxt "STORE_UNLOCKED_AT_LEVEL"
+msgid "Unlocked at Level"
+msgstr ""
+
+msgctxt "STORE_ALREADY_OWN"
+msgid "Already Owned!"
+msgstr ""
+
+msgctxt "STORE_AMYS_CANDY"
+msgid "Amy's Candy"
+msgstr ""
+
+msgctxt "STORE_ATTIRE_FIRE"
+msgid "Attire Fire"
+msgstr ""
+
+msgctxt "STORE_BOOK_BISTRO"
+msgid "Book Bistro"
+msgstr ""
+
+msgctxt "STORE_CART_MART"
+msgid "Cart Mart"
+msgstr ""
+
+msgctxt "STORE_CHIC_BUFFET"
+msgid "Chic Buffet"
+msgstr ""
+
+msgctxt "STORE_CREAM_DREAM"
+msgid "Cream Dream"
+msgstr ""
+
+msgctxt "STORE_DISCOUNT_SUSHI"
+msgid "Discount Sushi"
+msgstr ""
+
+msgctxt "STORE_DOJO"
+msgid "Dojo"
+msgstr ""
+
+msgctxt "STORE_FASTEEZ"
+msgid "FASTEEZ"
+msgstr ""
+
+msgctxt "STORE_BOY_TOYS"
+msgid "Boy Toys"
+msgstr ""
+
+msgctxt "STORE_LEGAL_DRUGS"
+msgid "Legal Drugs"
+msgstr ""
+
+msgctxt "STORE_LUCKY_PENNE"
+msgid "Lucky Penne"
+msgstr ""
+
+msgctxt "STORE_MERLINS_MYSTERY"
+msgid "Merlin's Mystery"
+msgstr ""
+
+msgctxt "STORE_MERVS_BURGER"
+msgid "Merv's Burger"
+msgstr ""
+
+msgctxt "STORE_PAWN_SHOP"
+msgid "Pawn Shop"
+msgstr ""
+
+msgctxt "STORE_PAY_LOTS"
+msgid "Pay Lots"
+msgstr ""
+
+msgctxt "STORE_PLAID_THE_IMPALER"
+msgid "Plaid the Impaler"
+msgstr ""
+
+msgctxt "STORE_SWAGGAGE"
+msgid "Swaggage"
+msgstr ""
+
+msgctxt "STORE_TEA_PARTY"
+msgid "Tea Party"
+msgstr ""
+
+msgctxt "STORE_VEST_FRIENDS"
+msgid "Vest Friends"
+msgstr ""
+
+msgctxt "STORE_WARDROBE"
+msgid "WarDrobe"
+msgstr ""
+
+msgctxt "STORE_POPS_SAUNA"
+msgid "Pop's Sauna"
+msgstr ""
