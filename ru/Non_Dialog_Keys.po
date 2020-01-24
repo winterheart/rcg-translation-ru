@@ -4,16 +4,16 @@ msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
 "Report-Msgid-Bugs-To: you@example.com\n"
-"POT-Creation-Date: 2020-01-24 03:12:27.794288\n"
+"POT-Creation-Date: 2020-01-25 01:08:38.932867\n"
 "PO-Revision-Date: 2020-01-25 00:52+0300\n"
 "Last-Translator: Azamat H. Hackimov <azamat.hackimov@gmail.com>\n"
 "Language-Team: Russian <>\n"
+"Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: ru\n"
-"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<"
-"=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 "X-Generator: Lokalize 19.08.3\n"
 
 #, fuzzy
@@ -967,11 +967,6 @@ msgctxt "LBL_FILE_2"
 msgid "File C"
 msgstr "Файл В"
 
-#, fuzzy
-msgctxt "LBL_COMPLETION"
-msgid "Completion"
-msgstr "Выполнение"
-
 msgctxt "LBL_GAME_TITLE"
 msgid "River City Girls"
 msgstr "River City Girls"
@@ -1202,11 +1197,11 @@ msgstr ""
 
 msgctxt "LBL_LEGAL_DISCLAIMER_ASIA"
 msgid ""
-"© 2019 ARC SYSTEM WORKS / WayForward Technologies, Inc. All rights "
-"reserved.<br>Published by H2 Interactive Co., Ltd."
+"© 2019 ARC SYSTEM WORKS / WayForward Technologies, Inc. All rights reserved."
+"<br>Published by H2 Interactive Co., Ltd."
 msgstr ""
-"© 2019 ARC SYSTEM WORKS / WayForward Technologies, Inc. All rights "
-"reserved.<br>Published by H2 Interactive Co., Ltd."
+"© 2019 ARC SYSTEM WORKS / WayForward Technologies, Inc. All rights reserved."
+"<br>Published by H2 Interactive Co., Ltd."
 
 #, fuzzy
 msgctxt "LBL_THE_BOYS_ARE_BACK"
@@ -1395,29 +1390,25 @@ msgstr ""
 msgctxt "ENEMY_DESC_CYBORG_ALT1"
 msgid "Giant robots from the future disguised as giant robot looking humans."
 msgstr ""
-"Гигантские роботы из будущего, переодетые гигантскими роботообразными "
-"людьми."
+"Гигантские роботы из будущего, переодетые гигантскими роботообразными людьми."
 
 #, fuzzy
 msgctxt "ENEMY_DESC_CYBORG_ALT2"
 msgid "Giant robots from the future disguised as giant robot looking humans."
 msgstr ""
-"Гигантские роботы из будущего, переодетые гигантскими роботообразными "
-"людьми."
+"Гигантские роботы из будущего, переодетые гигантскими роботообразными людьми."
 
 #, fuzzy
 msgctxt "ENEMY_DESC_CYBORG_ALT3"
 msgid "Giant robots from the future disguised as giant robot looking humans."
 msgstr ""
-"Гигантские роботы из будущего, переодетые гигантскими роботообразными "
-"людьми."
+"Гигантские роботы из будущего, переодетые гигантскими роботообразными людьми."
 
 #, fuzzy
 msgctxt "ENEMY_DESC_CYBORG_ALT4"
 msgid "Giant robots from the future disguised as giant robot looking humans."
 msgstr ""
-"Гигантские роботы из будущего, переодетые гигантскими роботообразными "
-"людьми."
+"Гигантские роботы из будущего, переодетые гигантскими роботообразными людьми."
 
 #, fuzzy
 msgctxt "ENEMY_DESC_CYBORG_TOUGH"
@@ -1578,8 +1569,8 @@ msgctxt "ENEMY_DESC_LINDA_TOUGH"
 msgid ""
 "Linda's twin sister. She was technically born first, so she's in charge."
 msgstr ""
-"Сестра-близнец Линды. Формально она родилась первой, так что она отвечает за"
-" все."
+"Сестра-близнец Линды. Формально она родилась первой, так что она отвечает за "
+"все."
 
 #, fuzzy
 msgctxt "ENEMY_DESC_LINDA_NIGHTMARE"

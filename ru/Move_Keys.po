@@ -4,16 +4,16 @@ msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
 "Report-Msgid-Bugs-To: you@example.com\n"
-"POT-Creation-Date: 2020-01-24 03:12:27.809296\n"
-"PO-Revision-Date: 2020-01-25 00:25+0300\n"
+"POT-Creation-Date: 2020-01-25 01:08:38.962041\n"
+"PO-Revision-Date: 2020-01-25 01:27+0300\n"
 "Last-Translator: Azamat H. Hackimov <azamat.hackimov@gmail.com>\n"
 "Language-Team: Russian <>\n"
+"Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: ru\n"
-"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<"
-"=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%"
+"10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 "X-Generator: Lokalize 19.08.3\n"
 
 #, fuzzy
@@ -95,7 +95,7 @@ msgstr "Удар в стойке на руках"
 #, fuzzy
 msgctxt "MOVE_NAME_BACK_ELBOW"
 msgid "Back Elbow"
-msgstr "Прыжок локтем назад"
+msgstr "Удар локтем назад"
 
 #, fuzzy
 msgctxt "MOVE_NAME_VOLLEYBALL_SAVE"
@@ -180,16 +180,6 @@ msgctxt "MOVE_NAME_BRUCE_BACKHAND"
 msgid "Bruce Backhand"
 msgstr "Подача Брюса"
 
-#, fuzzy
-msgctxt "MOVE_NAME_GROUND_STOMP"
-msgid "Ground Stomp"
-msgstr "Топот"
-
-#, fuzzy
-msgctxt "MOVE_NAME_HUMAN_WEAPON"
-msgid "Human Weapon"
-msgstr "Живое оружие"
-
 msgctxt "MOVE_NAME_NUTCRACKER"
 msgid "Nutcracker"
 msgstr "Щелкунчик"
@@ -227,11 +217,6 @@ msgstr "Удар в прыжке"
 msgctxt "MOVE_NAME_BACKPACK_SWING"
 msgid "Backpack Swing"
 msgstr "Свинг"
-
-#, fuzzy
-msgctxt "MOVE_NAME_GUT_PUNCH"
-msgid "Gut Punch"
-msgstr "Удар под дых"
 
 #, fuzzy
 msgctxt "MOVE_NAME_ROLLING_PUNCH"
@@ -314,24 +299,9 @@ msgid "Split Kick"
 msgstr "Удар с полоборота"
 
 #, fuzzy
-msgctxt "MOVE_NAME_BACK_ELBOW"
-msgid "Back Elbow"
-msgstr "Удар локтем назад"
-
-#, fuzzy
 msgctxt "MOVE_NAME_MOUNT_PUNCH_KUNIO"
 msgid "Ground Punch"
 msgstr "Маунтпанч"
-
-#, fuzzy
-msgctxt "MOVE_NAME_HUMAN_WEAPON"
-msgid "Human Weapon"
-msgstr "Живое оружие"
-
-#, fuzzy
-msgctxt "MOVE_NAME_UPPERCUT"
-msgid "Uppercut"
-msgstr "Апперкот"
 
 #, fuzzy
 msgctxt "MOVE_NAME_BICYCLE_KICK"
@@ -414,11 +384,6 @@ msgid "Air Pavement Smooch"
 msgstr "Поцелуй мостовую в воздухе"
 
 #, fuzzy
-msgctxt "MOVE_NAME_JUMP_KICK"
-msgid "Jump Kick"
-msgstr "Удар в прыжке"
-
-#, fuzzy
 msgctxt "MOVE_NAME_JUMP_180_KICK"
 msgid "Jump 180 Kick"
 msgstr "Удар в развороте на 180"
@@ -427,16 +392,6 @@ msgstr "Удар в развороте на 180"
 msgctxt "MOVE_NAME_JUMP_HURRICANE_KICK"
 msgid "Jump Hurricane Kick"
 msgstr "Удар в ураганном прыжке"
-
-#, fuzzy
-msgctxt "MOVE_NAME_LEFT_PUNCH"
-msgid "Left Punch"
-msgstr "Левый удар кулаком"
-
-#, fuzzy
-msgctxt "MOVE_NAME_RIGHT_PUNCH"
-msgid "Right Punch"
-msgstr "Правый удар кулаком"
 
 #, fuzzy
 msgctxt "MOVE_NAME_HARDER_PUNCH"
@@ -449,11 +404,6 @@ msgid "Sweep Kick"
 msgstr "Подсечка"
 
 #, fuzzy
-msgctxt "MOVE_NAME_CRESCENT_KICK"
-msgid "Crescent Kick"
-msgstr "Крюковой удар"
-
-#, fuzzy
 msgctxt "MOVE_NAME_COMBING_HAIR"
 msgid "Combing Hair"
 msgstr "Причесывание"
@@ -462,11 +412,6 @@ msgstr "Причесывание"
 msgctxt "MOVE_NAME_MOUNT_PUNCH_RIKI"
 msgid "Ground Punch"
 msgstr "Сбить с ног"
-
-#, fuzzy
-msgctxt "MOVE_NAME_HUMAN_WEAPON"
-msgid "Human Weapon"
-msgstr "Живое оружие"
 
 #, fuzzy
 msgctxt "MOVE_NAME_CHEAP_SHOT"
@@ -504,11 +449,6 @@ msgid "Half Moon Kick"
 msgstr "Серповидный удар"
 
 #, fuzzy
-msgctxt "MOVE_NAME_STONE_HANDS"
-msgid "Stone Hands"
-msgstr "Каменный кулак"
-
-#, fuzzy
 msgctxt "MOVE_NAME_HIGH_ELBOW"
 msgid "High Elbow"
 msgstr "Высокий удар локтем"
@@ -522,16 +462,6 @@ msgstr "Птичий удар"
 msgctxt "MOVE_NAME_ACRO_FLIP"
 msgid "Acro Flip"
 msgstr "Переворот"
-
-#, fuzzy
-msgctxt "MOVE_NAME_ELBOW_SMASH"
-msgid "Elbow Smash"
-msgstr "Удар локтем"
-
-#, fuzzy
-msgctxt "MOVE_NAME_SHOULDER_THROW"
-msgid "Shoulder Throw"
-msgstr "Бросок плечом"
 
 #, fuzzy
 msgctxt "MOVE_NAME_TABLE_FLIP"
@@ -552,11 +482,6 @@ msgstr "Убийца желудей"
 msgctxt "MOVE_NAME_PILEDRIVER"
 msgid "Piledriver"
 msgstr "Копер"
-
-#, fuzzy
-msgctxt "MOVE_NAME_JUMP_KICK"
-msgid "Jump Kick"
-msgstr "Удар в прыжке"
 
 #, fuzzy
 msgctxt "MOVE_NAME_FATAL_STEPS"
