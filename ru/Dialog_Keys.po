@@ -1,0 +1,7038 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: you@example.com\n"
+"POT-Creation-Date: 2020-01-24 03:12:27.818704\n"
+"PO-Revision-Date: 2020-01-24 03:12:27.818712\n"
+"Last-Translator: you <you@example.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#, fuzzy
+msgctxt "DIALOG_HASEBE_MAMI_SCHOOL_0"
+msgid "Oh look, it's THOSE girls."
+msgstr "Глянь, это ТЕ девчонки."
+
+#, fuzzy
+msgctxt "DIALOG_HASEBE_MAMI_SCHOOL_1"
+msgid "Thought I smelled something..."
+msgstr "Вот чем тут запахло..."
+
+#, fuzzy
+msgctxt "DIALOG_HASEBE_MAMI_SCHOOL_2"
+msgid "Hasebe! Mami!"
+msgstr "Хасиби! Мами!"
+
+#, fuzzy
+msgctxt "DIALOG_HASEBE_MAMI_SCHOOL_3"
+msgid "Heyyyyy, Misako..."
+msgstr "Привеееееет, Мисако..."
+
+#, fuzzy
+msgctxt "DIALOG_HASEBE_MAMI_SCHOOL_4"
+msgid "Shouldn't you two be in detention or something?"
+msgstr "А вы две разве не должны быть в карцере или где там?"
+
+#, fuzzy
+msgctxt "DIALOG_HASEBE_MAMI_SCHOOL_5"
+msgid "We broke out."
+msgstr "Мы оттуда сбежали."
+
+#, fuzzy
+msgctxt "DIALOG_HASEBE_MAMI_SCHOOL_6"
+msgid "O.M.G. seriously? I was JOKING."
+msgstr "Правда, что ли? Это была ШУТКА."
+
+#, fuzzy
+msgctxt "DIALOG_HASEBE_MAMI_SCHOOL_7"
+msgid "And I'm ditching my school to hang out here."
+msgstr "А я просто так тут прогуливаю."
+
+#, fuzzy
+msgctxt "DIALOG_HASEBE_MAMI_SCHOOL_8"
+msgid "Have you two seen Kunio or Riki?"
+msgstr "Вы двое не видели Кунио или Рики?"
+
+#, fuzzy
+msgctxt "DIALOG_HASEBE_MAMI_SCHOOL_9"
+msgid "Just, like, every day."
+msgstr "Вообще-то каждый день видим."
+
+#, fuzzy
+msgctxt "DIALOG_HASEBE_MAMI_SCHOOL_10"
+msgid "...every night actually."
+msgstr "...точнее каждую ночь."
+
+#, fuzzy
+msgctxt "DIALOG_HASEBE_MAMI_SCHOOL_11"
+msgid "They've been kidnapped."
+msgstr "Их похитили."
+
+#, fuzzy
+msgctxt "DIALOG_HASEBE_MAMI_SCHOOL_12"
+msgid "I got a text!"
+msgstr "Я получила СМС!"
+
+#, fuzzy
+msgctxt "DIALOG_HASEBE_MAMI_SCHOOL_13"
+msgid "That must be so special for you."
+msgstr "Это должно быть так важно для тебя."
+
+#, fuzzy
+msgctxt "DIALOG_HASEBE_MAMI_SCHOOL_14"
+msgid ""
+"Sorry, girls! Haven't seen 'em. But we'll, like, SO let you know the second "
+"we do. Right, Mami?"
+msgstr ""
+"Извините, девочки! Не видели. Но мы... это... сразу же сообщим, если что! "
+"Да, Мами?"
+
+#, fuzzy
+msgctxt "DIALOG_HASEBE_MAMI_SCHOOL_15"
+msgid "Oh, for sure..."
+msgstr "Да-да, конечно..."
+
+#, fuzzy
+msgctxt "DIALOG_HASEBE_MAMI_SCHOOL_16"
+msgid "Thanks! We gotta go beat up more people now."
+msgstr "Спасибо! Мы пойдем еще кого-нибудь побьем."
+
+#, fuzzy
+msgctxt "DIALOG_HASEBE_MAMI_SCHOOL_17"
+msgid "Laterz..."
+msgstr "Покаааа...."
+
+#, fuzzy
+msgctxt "DIALOG_GROSS_APPETITE_START_0"
+msgid "Hey buddy!"
+msgstr "Эй, приятель!"
+
+#, fuzzy
+msgctxt "DIALOG_GROSS_APPETITE_START_1"
+msgid "That's MISTER body to you."
+msgstr "Для вас - МИСТЕР Туша."
+
+#, fuzzy
+msgctxt "DIALOG_GROSS_APPETITE_START_2"
+msgid "What?"
+msgstr "Что?"
+
+#, fuzzy
+msgctxt "DIALOG_GROSS_APPETITE_START_3"
+msgid "\"Mister Body?\""
+msgstr "\"Мистер Туша\"?"
+
+#, fuzzy
+msgctxt "DIALOG_GROSS_APPETITE_START_4"
+msgid "I thought was cute nickname."
+msgstr "А мне казалось, прикольная кличка."
+
+#, fuzzy
+msgctxt "DIALOG_GROSS_APPETITE_START_5"
+msgid "I'm uncomfortable."
+msgstr "Мне как-то не очень."
+
+#, fuzzy
+msgctxt "DIALOG_GROSS_APPETITE_START_6"
+msgid ""
+"Anyway, the door's blocked and we gotta get outta here. Can you move the "
+"trash?"
+msgstr ""
+"В любом случае, дверь заперта, а нам надо отсюда выбраться. Вы не можете "
+"подвинуть мусор?"
+
+#, fuzzy
+msgctxt "DIALOG_GROSS_APPETITE_START_7"
+msgid "Not sure, you two look pretty heavy."
+msgstr "Не думаю, на вид вы тяжеленькие."
+
+#, fuzzy
+msgctxt "DIALOG_GROSS_APPETITE_START_8"
+msgid "..."
+msgstr "..."
+
+#, fuzzy
+msgctxt "DIALOG_GROSS_APPETITE_START_9"
+msgid "Hahaha, get it??"
+msgstr "Врубились, хаха?"
+
+#, fuzzy
+msgctxt "DIALOG_GROSS_APPETITE_START_10"
+msgid "Yup."
+msgstr "Хм."
+
+#, fuzzy
+msgctxt "DIALOG_GROSS_APPETITE_START_11"
+msgid "Joke is that you are TRASH girls. Like garbage people or something."
+msgstr "Прикол в том, что вы, девчонки, МУСОР. Вроде отбросов общества."
+
+#, fuzzy
+msgctxt "DIALOG_GROSS_APPETITE_START_12"
+msgid "Heyyy...."
+msgstr "Привеееееет...."
+
+#, fuzzy
+msgctxt "DIALOG_GROSS_APPETITE_START_13"
+msgid "Anyway, we gotta be somewhere and your stank cans is blocking us."
+msgstr ""
+"В любом случае, нам кое-куда надо, а твои вонючие баки закрывают дорогу."
+
+#, fuzzy
+msgctxt "DIALOG_GROSS_APPETITE_START_14"
+msgid "Would you mind moving them please?"
+msgstr "Нельзя ли их подвинуть?"
+
+#, fuzzy
+msgctxt "DIALOG_GROSS_APPETITE_START_15"
+msgid "Would love to, but first I must finish cooking before lunch rush."
+msgstr ""
+"Я бы с радостью, но мне нужно закончить готовку до того, как начнется ланч."
+
+#, fuzzy
+msgctxt "DIALOG_GROSS_APPETITE_START_16"
+msgid ""
+"However... if girls fetch my ingredients for me, MAYBE I can move cans of "
+"trash."
+msgstr ""
+"Хотя...если вы мне принесете нужные продукты, МОЖЕТ БЫТЬ, я и подвину "
+"мусорные баки."
+
+#, fuzzy
+msgctxt "DIALOG_GROSS_APPETITE_START_17"
+msgid "FINE. What ingredients are we looking for?"
+msgstr "ОТЛИЧНО. Какие продукты мы ищем?"
+
+#, fuzzy
+msgctxt "DIALOG_GROSS_APPETITE_START_18"
+msgid "Ghost Peppers, Beans, and Tomatoes. You write this down?"
+msgstr "Жгучий перец, Бобы и Помидоры. Записали?"
+
+#, fuzzy
+msgctxt "DIALOG_GROSS_APPETITE_START_19"
+msgid "Nope."
+msgstr "Неа."
+
+#, fuzzy
+msgctxt "DIALOG_GROSS_APPETITE_START_20"
+msgid "Any idea where they are, Mr. Body?"
+msgstr "А где они могут быть, мистер Туша?"
+
+#, fuzzy
+msgctxt "DIALOG_GROSS_APPETITE_START_21"
+msgid "Stop being lazy and find my food."
+msgstr "Кончайте лениться и ищите мою еду."
+
+#, fuzzy
+msgctxt "DIALOG_GROSS_APPETITE_INCOMPLETE_0"
+msgid "You bring my ingredients?"
+msgstr "Вы принести продукты?"
+
+#, fuzzy
+msgctxt "DIALOG_GROSS_APPETITE_INCOMPLETE_1"
+msgid "Yes? Actually, no. It's HARD to find everything."
+msgstr "Да? Вообще-то нет. Тут СЛОЖНО найти что-то."
+
+#, fuzzy
+msgctxt "DIALOG_GROSS_APPETITE_INCOMPLETE_2"
+msgid "And my legs are tired..."
+msgstr "И у меня ножки устали..."
+
+#, fuzzy
+msgctxt "DIALOG_GROSS_APPETITE_INCOMPLETE_3"
+msgid ""
+"If girls want dumpsters moved, will bring me my food. Hurry, is almost lunch"
+" time."
+msgstr ""
+"Если девочки хотят подвинуть баки, девочки несут мне еду. Быстрее, уже почти"
+" ланч."
+
+#, fuzzy
+msgctxt "DIALOG_GROSS_APPETITE_COMPLETE_0"
+msgid "HERE. We got your dumb ingredients."
+msgstr "ВОТ. Вот твои дурацкие продукты."
+
+#, fuzzy
+msgctxt "DIALOG_GROSS_APPETITE_COMPLETE_1"
+msgid "Mmmmm, and still fresh! Girls did nice job!"
+msgstr "Ммм, и все еще свежие! Девочки хорошо поработали!"
+
+#, fuzzy
+msgctxt "DIALOG_GROSS_APPETITE_COMPLETE_2"
+msgid "Now move the trash so we can get outta here."
+msgstr "Теперь подвинь баки, чтобы мы могли отсюда выбраться."
+
+#, fuzzy
+msgctxt "DIALOG_GROSS_APPETITE_COMPLETE_3"
+msgid ""
+"Why so rushed? Stay and enjoy my Special Goulash. I add bovine marrow for "
+"extra flavor."
+msgstr ""
+"Куда спешим? Останьтесь попробовать мой особенный гуляш. Я добавлю бычьего "
+"костного мозга для аромата."
+
+#, fuzzy
+msgctxt "DIALOG_GROSS_APPETITE_COMPLETE_4"
+msgid "I'm gonna hurl..."
+msgstr "Меня сейчас стошнит..."
+
+#, fuzzy
+msgctxt "DIALOG_GROSS_APPETITE_COMPLETE_5"
+msgid "We're a little rushed, if ya don't mind!"
+msgstr "Мы, если не возражаете, немного торопимся!"
+
+#, fuzzy
+msgctxt "DIALOG_GROSS_APPETITE_COMPLETE_6"
+msgid "Okay, deal is deal. Go. I move trash long ago already, hahaha!"
+msgstr "Уговор есть уговор. Идите. Я мусор убрать давно, ха-ха-ха!"
+
+#, fuzzy
+msgctxt "DIALOG_GROSS_APPETITE_COMPLETE_7"
+msgid "You jerk!"
+msgstr "Мерзавец!"
+
+#, fuzzy
+msgctxt "DIALOG_MISUZU_START_BATTLE_0"
+msgid "Out of our way, Misuzu!"
+msgstr "Прочь с дороги, Мисуцу!"
+
+#, fuzzy
+msgctxt "DIALOG_MISUZU_START_BATTLE_1"
+msgid "Yeah! We don't wanna hurt you."
+msgstr "Да! Мы не хотим тебя обидеть."
+
+#, fuzzy
+msgctxt "DIALOG_MISUZU_START_BATTLE_2"
+msgid "Hurt ME? Haha! You scrawny runts couldn't hurt a fly."
+msgstr "Обидеть МЕНЯ? Ха-ха-ха! Вы, тощие заморыши, и муху-то не обидите."
+
+#, fuzzy
+msgctxt "DIALOG_MISUZU_START_BATTLE_3"
+msgid "No way! Flies are EASY to hurt."
+msgstr "Ничего подобного! Мух обидеть ЛЕГКО."
+
+#, fuzzy
+msgctxt "DIALOG_MISUZU_START_BATTLE_4"
+msgid ""
+"As part of the School Defense Force, it's my job to keep idiots like you "
+"from sneaking outta class."
+msgstr ""
+"Моя работа, как члена Сил Обороны школы, не давать идиоткам вроде вас "
+"сбегать из классов."
+
+#, fuzzy
+msgctxt "DIALOG_MISUZU_START_BATTLE_5"
+msgid "But you don't even go to this school."
+msgstr "Но ты даже не учишься в этой школе."
+
+#, fuzzy
+msgctxt "DIALOG_MISUZU_START_BATTLE_6"
+msgid "Grrrr... SHUT UP! I'm trying to earn extra money!"
+msgstr "Грррр... ЗАТКНИТЕСЬ! Я пытаюсь заработать денег!"
+
+#, fuzzy
+msgctxt "DIALOG_MISUZU_START_BATTLE_7"
+msgid "Eep!"
+msgstr "Уиии!"
+
+#, fuzzy
+msgctxt "DIALOG_MISUZU_START_BATTLE_8"
+msgid ""
+"Don't act like you're smarter than me! I been in high school for SEVEN "
+"YEARS! Ain't nobody smarter at school stuff than Misuzu."
+msgstr ""
+"Не делайте вид, что вы умнее меня! Я в старших классах СЕМЬ ЛЕТ! Никто эту "
+"школу не сечет лучше Мисуцу!"
+
+#, fuzzy
+msgctxt "DIALOG_MISUZU_START_BATTLE_9"
+msgid ""
+"I don't care how big or how dumb you are. We're getting outta this school..."
+" Right. Now."
+msgstr ""
+"Мне плевать, насколько ты большая или тупая. Мы из школы выйдем. Прямо. "
+"Сейчас."
+
+#, fuzzy
+msgctxt "DIALOG_MISUZU_START_BATTLE_10"
+msgid "Yeah, we gotta save Kunio and Riki!"
+msgstr "Да, нам нужно спасти Кунио и Рики!"
+
+#, fuzzy
+msgctxt "DIALOG_MISUZU_START_BATTLE_11"
+msgid "So go punch through another wall until you figure out how doors work."
+msgstr ""
+"Идите побейтесь в другую стенку, пока не разберетесь, как работают двери."
+
+#, fuzzy
+msgctxt "DIALOG_MISUZU_START_BATTLE_12"
+msgid "Grrrrr, that's it! You little turds... time to get FLUSHED!"
+msgstr "Грррр, так-так! Вы, мелкие говняшки...пора вам СМЫВАТЬСЯ!"
+
+#, fuzzy
+msgctxt "DIALOG_MISUZU_DEFEAT_0"
+msgid "You dweebs are tougher than you look... gave me a real workout..."
+msgstr "Вы, ботаники, покрепче будете, чем кажетесь... пришлось поработать..."
+
+#, fuzzy
+msgctxt "DIALOG_MISUZU_DEFEAT_1"
+msgid "I'd rather give you a hug. FYI."
+msgstr "Я лучше вас обниму. К вашему сведению."
+
+#, fuzzy
+msgctxt "DIALOG_MISUZU_DEFEAT_2"
+msgid "Stay down. Don't make us fight you again."
+msgstr "Не двигайся. Не заставляй нас снова с тобой драться."
+
+#, fuzzy
+msgctxt "DIALOG_MISUZU_DEFEAT_3"
+msgid "Got a real mouth on you. Must be why Kunio likes you."
+msgstr "Вот это у тебя язычок. Должно быть, поэтому ты Кунио и нравишься"
+
+#, fuzzy
+msgctxt "DIALOG_MISUZU_DEFEAT_4"
+msgid "Have you seen Kunio?"
+msgstr "Ты видела Кунио?"
+
+#, fuzzy
+msgctxt "DIALOG_MISUZU_DEFEAT_5"
+msgid "And Riki??"
+msgstr "И Рики???"
+
+#, fuzzy
+msgctxt "DIALOG_MISUZU_DEFEAT_6"
+msgid ""
+"Yeah, but not around here. I saw them both in Crosstown yesterday, talking "
+"to someone... creepy looking."
+msgstr ""
+"Да, но не тут. Я их обоих вчера видела в Кросстауне, они разговаривали с "
+"кем-то... жутковатым."
+
+#, fuzzy
+msgctxt "DIALOG_MISUZU_DEFEAT_7"
+msgid ""
+"Good luck finding your little boy toys. I'm surprised they'd be interested "
+"in a pair of twigs like you two."
+msgstr ""
+"Удачи в поисках ваших игрушечек. Удивительно, что они нашли в таких тощих "
+"девицах."
+
+#, fuzzy
+msgctxt "DIALOG_MISUZU_DEFEAT_8"
+msgid "Heyyy... is that a compliment, or...?"
+msgstr "Эээ... А это был комплимент?"
+
+#, fuzzy
+msgctxt "DIALOG_MISUZU_DEFEAT_9"
+msgid ""
+"Boys HATE scrawny little bugs. They want a woman with meat on her bones. And"
+" I got ALL the meat."
+msgstr ""
+"Мальчики НЕНАВИДЯТ мелких заморышей. Они любят женщин в теле. А у меня тело "
+"ЧТО НАДО."
+
+#, fuzzy
+msgctxt "DIALOG_MISUZU_DEFEAT_10"
+msgid "If you find Kunio and Riki, you tell 'em Misuzu says \"Hi.\" Hahaha..."
+msgstr "Если найдете Кунио и Рики, передайте им привет от Мисуцу, ха-ха-ха..."
+
+#, fuzzy
+msgctxt "DIALOG_MISUZU_DEFEAT_11"
+msgid "Eww. C'mon, Kyoko."
+msgstr "Буэ. Пошли, Киоко."
+
+#, fuzzy
+msgctxt "DIALOG_MISUZU_DEFEAT_12"
+msgid "Sorry for punching you so much."
+msgstr "Извини, что пришлось тебя так побить."
+
+#, fuzzy
+msgctxt "DIALOG_A_BURGER_TO_GODAI_FOR_START_0"
+msgid "OH, HEY THERE!"
+msgstr "О, ПРИВЕТ!"
+
+#, fuzzy
+msgctxt "DIALOG_A_BURGER_TO_GODAI_FOR_START_1"
+msgid "WAHHH!"
+msgstr "ВАХ!"
+
+#, fuzzy
+msgctxt "DIALOG_A_BURGER_TO_GODAI_FOR_START_2"
+msgid "Watch it, creep! I almost tore your head off."
+msgstr "Осторожно, гад! Я тебе чуть голову не оторвала!"
+
+#, fuzzy
+msgctxt "DIALOG_A_BURGER_TO_GODAI_FOR_START_3"
+msgid "Oh, I'm no creep. I'm Godai!"
+msgstr "О, я не гад. Я Умерето!"
+
+#, fuzzy
+msgctxt "DIALOG_A_BURGER_TO_GODAI_FOR_START_4"
+msgid "Is that supposed to mean something to us?"
+msgstr "Это должно что-то нам говорить?"
+
+#, fuzzy
+msgctxt "DIALOG_A_BURGER_TO_GODAI_FOR_START_5"
+msgid "We've been neighbors since third grade."
+msgstr "Мы соседи с третьего класса."
+
+#, fuzzy
+msgctxt "DIALOG_A_BURGER_TO_GODAI_FOR_START_6"
+msgid ""
+"Oh yeah! Hey Misako, it's that creepy guy who lives down the street from "
+"you."
+msgstr ""
+"Ааа, понятно. Мисако, это тот странноватый парень с соседней с тобой улицы."
+
+#, fuzzy
+msgctxt "DIALOG_A_BURGER_TO_GODAI_FOR_START_7"
+msgid "Oh yeah..."
+msgstr "Ааа..."
+
+#, fuzzy
+msgctxt "DIALOG_A_BURGER_TO_GODAI_FOR_START_8"
+msgid ""
+"Didn't you get kicked out of your school for taking secret photos of the "
+"girls' volleyball team?"
+msgstr ""
+"А это не тебя из школы исключили за шпионские фотографии девочек из "
+"волейбольной команды?"
+
+#, fuzzy
+msgctxt "DIALOG_A_BURGER_TO_GODAI_FOR_START_9"
+msgid ""
+"Who me? Haha. A-anyway... Nice weather, right? You catch that recent sports "
+"game?"
+msgstr ""
+"Кого, меня? Ха-ха. Т-так или иначе...хорошая погодка, да? Видели последний "
+"матч?"
+
+#, fuzzy
+msgctxt "DIALOG_A_BURGER_TO_GODAI_FOR_START_10"
+msgid "What do you want, Godai?"
+msgstr "Что тебе надо, Умерето?"
+
+#, fuzzy
+msgctxt "DIALOG_A_BURGER_TO_GODAI_FOR_START_11"
+msgid "I've been watching you two..."
+msgstr "Я за вами наблюдал..."
+
+#, fuzzy
+msgctxt "DIALOG_A_BURGER_TO_GODAI_FOR_START_12"
+msgid "SEE?? Eww."
+msgstr "ВОТ ВИДИШЬ??? Буэ!"
+
+#, fuzzy
+msgctxt "DIALOG_A_BURGER_TO_GODAI_FOR_START_13"
+msgid ""
+"...and I think I can help. You're looking for Riki and Kunio, right? Well I "
+"keep tabs on EVERYONE."
+msgstr ""
+"...и думаю, что мог бы вам помочь. Вы ищете Рики и Кунио, так? Скажем так, я"
+" знаю все ПРО ВСЕХ."
+
+#, fuzzy
+msgctxt "DIALOG_A_BURGER_TO_GODAI_FOR_START_14"
+msgid "You know who took my Riki-poo??"
+msgstr "Ты знаешь, кто похитил моего Рики-какашку???"
+
+#, fuzzy
+msgctxt "DIALOG_A_BURGER_TO_GODAI_FOR_START_15"
+msgid ""
+"Not yet! But I will. SOON! In the meantime... you help me, and I'll help "
+"you."
+msgstr "Еще нет. Но узнаю.СКОРО! А пока… вы поможете мне, я помогу вам."
+
+#, fuzzy
+msgctxt "DIALOG_A_BURGER_TO_GODAI_FOR_START_16"
+msgid "What do you want?"
+msgstr "Что тебе надо?"
+
+#, fuzzy
+msgctxt "DIALOG_A_BURGER_TO_GODAI_FOR_START_17"
+msgid "For starters, I'm pretty hungry. Go get me a Double Merv Burger."
+msgstr "Для начала, я очень голоден. Добудьте мне двойной Небургер."
+
+#, fuzzy
+msgctxt "DIALOG_A_BURGER_TO_GODAI_FOR_START_18"
+msgid "Stop being lazy!"
+msgstr "Не ленись!"
+
+#, fuzzy
+msgctxt "DIALOG_A_BURGER_TO_GODAI_FOR_START_19"
+msgid "Yeah, it's just down the street."
+msgstr "Да это всего пару кварталов отсюда."
+
+#, fuzzy
+msgctxt "DIALOG_A_BURGER_TO_GODAI_FOR_START_20"
+msgid ""
+"Exactly! Bring me a Double Merv Burger and you will be HANDSOMELY rewarded, "
+"m'ladies. Because I'm so handsome. Get it?"
+msgstr ""
+"Именно! Принесите мне двойной Небургер и вы будете ВЕЛИКОЛЕПНО "
+"вознаграждены. Потому что я великолепен. Поняли?"
+
+#, fuzzy
+msgctxt "DIALOG_A_BURGER_TO_GODAI_FOR_START_21"
+msgid "Ugh...."
+msgstr "Хм..."
+
+#, fuzzy
+msgctxt "DIALOG_A_BURGER_TO_GODAI_FOR_COMPLETE_0"
+msgid "Here's your burger."
+msgstr "Вот твой бургер."
+
+#, fuzzy
+msgctxt "DIALOG_A_BURGER_TO_GODAI_FOR_COMPLETE_1"
+msgid "Ahhhh, broiled beef of the gods! (scarfing sounds)"
+msgstr "Пища богов, жареная говядина! (звуки всасывания еды)"
+
+#, fuzzy
+msgctxt "DIALOG_A_BURGER_TO_GODAI_FOR_COMPLETE_2"
+msgid "I'm never eating fast food again..."
+msgstr "Я больше никогда не буду есть фастфуд..."
+
+#, fuzzy
+msgctxt "DIALOG_A_BURGER_TO_GODAI_FOR_COMPLETE_3"
+msgid "We got your dumb burger, now what do you know about Kunio and Riki?"
+msgstr ""
+"Мы тебе добыли твой дурацкий бургер, а теперь, что ты знаешь про Кунио и "
+"Рики?"
+
+#, fuzzy
+msgctxt "DIALOG_A_BURGER_TO_GODAI_FOR_COMPLETE_4"
+msgid ""
+"Boy, that hit the spot! Okay, you mentioned they were talking to someone "
+"creepy-looking?"
+msgstr "Похоже, в точку. Значит, они говорили с кем-то жутким, так?"
+
+#, fuzzy
+msgctxt "DIALOG_A_BURGER_TO_GODAI_FOR_COMPLETE_5"
+msgid "No, we... didn't actually."
+msgstr "Нет, мы... на самом деле нет."
+
+#, fuzzy
+msgctxt "DIALOG_A_BURGER_TO_GODAI_FOR_COMPLETE_6"
+msgid "How did you...?"
+msgstr "А как вы...?"
+
+#, fuzzy
+msgctxt "DIALOG_A_BURGER_TO_GODAI_FOR_COMPLETE_7"
+msgid ""
+"Well, ya know, word gets around! ANYWAY... my guess is they were talking to "
+"Yamada."
+msgstr ""
+"Вы знаете, сплетни разносятся! В ЛЮБОМ СЛУЧАЕ... я думаю, они говорили с "
+"Ямадой."
+
+#, fuzzy
+msgctxt "DIALOG_A_BURGER_TO_GODAI_FOR_COMPLETE_8"
+msgid "Who's that?"
+msgstr "Кто это?"
+
+#, fuzzy
+msgctxt "DIALOG_A_BURGER_TO_GODAI_FOR_COMPLETE_9"
+msgid ""
+"A kid from Reiho High School. Or he used to be, anyway, before he started "
+"practicing the DARK ARTS."
+msgstr ""
+"Ученик школы Рейхо. Или был учеником, пока не занялся ТЕМНЫМИ ИСКУССТВАМИ."
+
+#, fuzzy
+msgctxt "DIALOG_A_BURGER_TO_GODAI_FOR_COMPLETE_10"
+msgid "That's not a thing."
+msgstr "Неважно."
+
+#, fuzzy
+msgctxt "DIALOG_A_BURGER_TO_GODAI_FOR_COMPLETE_11"
+msgid ""
+"It's TOTALLY a thing. Yamada usually hangs out at the mall. Go see if he's "
+"there."
+msgstr ""
+"ОЧЕНЬ важно. Обычно он околачивается в торговом центре. Поищите его там."
+
+#, fuzzy
+msgctxt "DIALOG_A_BURGER_TO_GODAI_FOR_COMPLETE_12"
+msgid "Thanks! (whispering) Let's get outta here, Misako..."
+msgstr "Спасибо! (шепотом) Давай отсюда убираться, Мисако..."
+
+#, fuzzy
+msgctxt "DIALOG_A_BURGER_TO_GODAI_FOR_COMPLETE_13"
+msgid ""
+"Good luck! And keep an eye out for your OLD PAL Godai! Maybe we can help "
+"each other again! I'll be around..."
+msgstr ""
+"Удачи! И помните СТАРОГО ПРИЯТЕЛЯ Умерето! Может быть, мы опять поможем друг"
+" другу...Я буду тут рядом..."
+
+#, fuzzy
+msgctxt "DIALOG_OPEN_FOR_BUSINESS_START_0"
+msgid "DANG, it's locked!"
+msgstr "БАМ, заперто!"
+
+#, fuzzy
+msgctxt "DIALOG_OPEN_FOR_BUSINESS_START_1"
+msgid "Kick the door in!"
+msgstr "Пни дверь!"
+
+#, fuzzy
+msgctxt "DIALOG_OPEN_FOR_BUSINESS_START_2"
+msgid "Whoa, hey there. Hang on, that might not be necessary."
+msgstr "Эй, притормози. Может, и не понадобится."
+
+#, fuzzy
+msgctxt "DIALOG_OPEN_FOR_BUSINESS_START_3"
+msgid "Yeah, but it's fun."
+msgstr "Да, но это прикольно."
+
+#, fuzzy
+msgctxt "DIALOG_OPEN_FOR_BUSINESS_START_4"
+msgid "Your name's Hiroshi, right?"
+msgstr "Тебя зовут Хироши, правильно?"
+
+#, fuzzy
+msgctxt "DIALOG_OPEN_FOR_BUSINESS_START_5"
+msgid "You remembered me!"
+msgstr "Ты меня помнишь!"
+
+#, fuzzy
+msgctxt "DIALOG_OPEN_FOR_BUSINESS_START_6"
+msgid "I took your lunch money once."
+msgstr "Я у тебя как-то отобрал деньги на обед."
+
+#, fuzzy
+msgctxt "DIALOG_OPEN_FOR_BUSINESS_START_7"
+msgid ""
+"Yeah, hehe... water under the bridge. Anyway, the mall is SUPPOSED to be "
+"open, but that security guard Pattinson must be asleep at home again."
+msgstr ""
+"Да...много воды утекло. В любом случае, торговый центр ДОЛЖЕН быть открыт, "
+"но этот пьяница охранник Паттинсон, наверное, дома отсыпается. "
+
+#, fuzzy
+msgctxt "DIALOG_OPEN_FOR_BUSINESS_START_8"
+msgid "How do we get inside?"
+msgstr "Как нам попасть внутрь?"
+
+#, fuzzy
+msgctxt "DIALOG_OPEN_FOR_BUSINESS_START_9"
+msgid ""
+"Just hang out here for a while. He'll eventually wake up and come to work."
+msgstr ""
+"Посидите тут немного. Рано или поздно он проснется и придет на работу."
+
+#, fuzzy
+msgctxt "DIALOG_OPEN_FOR_BUSINESS_START_10"
+msgid "WHAT? No! We need to get in there now!"
+msgstr "ЧТО? Нам сейчас надо туда попасть!"
+
+#, fuzzy
+msgctxt "DIALOG_OPEN_FOR_BUSINESS_START_11"
+msgid "We have reasons! Important ones!"
+msgstr "У нас есть причины! Важные причины!"
+
+#, fuzzy
+msgctxt "DIALOG_OPEN_FOR_BUSINESS_START_12"
+msgid ""
+"Hey, me too. The latest issue of Cosmic Mega Babes just got released, and if"
+" you think I'm gonna download the digital manga version, hehe, you are SADLY"
+" mistaken."
+msgstr ""
+"У меня тоже. Только что вышел новый выпуск \"Космических мега-девочек\", и "
+"если вы думаете, что я буду скачивать электронную версию манги, то вы СИЛЬНО"
+" ошибаетесь."
+
+#, fuzzy
+msgctxt "DIALOG_OPEN_FOR_BUSINESS_START_13"
+msgid "I don't know what any of that means."
+msgstr "Мне все это ни о чем не говорит."
+
+#, fuzzy
+msgctxt "DIALOG_OPEN_FOR_BUSINESS_START_14"
+msgid "Where's this guard live?"
+msgstr "Где этот охранник живет? "
+
+#, fuzzy
+msgctxt "DIALOG_OPEN_FOR_BUSINESS_START_15"
+msgid ""
+"North Ravine Lane. But I wouldn't recommend waking him. I, uh... tried that "
+"once."
+msgstr ""
+"Северный Воронов переулок. Но я бы не советовал его будить. Я... как-то "
+"попробовал."
+
+#, fuzzy
+msgctxt "DIALOG_OPEN_FOR_BUSINESS_START_16"
+msgid "Thanks, Hiroshi! We'll be right back!"
+msgstr "Спасибо, Хироши! Мы туда и назад!"
+
+#, fuzzy
+msgctxt "DIALOG_OPEN_FOR_BUSINESS_INCOMPLETE_0"
+msgid "Oh hey, you're back."
+msgstr "А, вы вернулись."
+
+#, fuzzy
+msgctxt "DIALOG_OPEN_FOR_BUSINESS_INCOMPLETE_1"
+msgid "We are."
+msgstr "Вернулись."
+
+#, fuzzy
+msgctxt "DIALOG_OPEN_FOR_BUSINESS_INCOMPLETE_2"
+msgid "Did you get the keys?"
+msgstr "Вы достали ключи?"
+
+#, fuzzy
+msgctxt "DIALOG_OPEN_FOR_BUSINESS_INCOMPLETE_3"
+msgid "We did not."
+msgstr "Не достали."
+
+#, fuzzy
+msgctxt "DIALOG_OPEN_FOR_BUSINESS_INCOMPLETE_4"
+msgid "Then... why are you here exactly?"
+msgstr "Тогда... почему конкретно вы тут?"
+
+#, fuzzy
+msgctxt "DIALOG_OPEN_FOR_BUSINESS_INCOMPLETE_5"
+msgid "I... don't know."
+msgstr "Я... не знаю."
+
+#, fuzzy
+msgctxt "DIALOG_OPEN_FOR_BUSINESS_INCOMPLETE_6"
+msgid "Oh. Well, see you when you get the keys, I guess."
+msgstr "А. Увидимся, когда достанете ключи, я так думаю."
+
+#, fuzzy
+msgctxt "DIALOG_OPEN_FOR_BUSINESS_COMPLETE_0"
+msgid "We got the keys! See?"
+msgstr "Мы достали ключи! Видишь?"
+
+#, fuzzy
+msgctxt "DIALOG_OPEN_FOR_BUSINESS_COMPLETE_1"
+msgid "Nice job! Now open these doors so we can start shopping."
+msgstr "Отлично! Теперь открой двери, чтобы мы могли пойти по магазинам."
+
+#, fuzzy
+msgctxt "DIALOG_OPEN_FOR_BUSINESS_COMPLETE_2"
+msgid "SQUEEEE!"
+msgstr "ДАВИИИИИИ!"
+
+#, fuzzy
+msgctxt "DIALOG_OPEN_FOR_BUSINESS_COMPLETE_3"
+msgid "No."
+msgstr "Нет."
+
+#, fuzzy
+msgctxt "DIALOG_OPEN_FOR_BUSINESS_COMPLETE_4"
+msgid "But..."
+msgstr "Но..."
+
+#, fuzzy
+msgctxt "DIALOG_OPEN_FOR_BUSINESS_COMPLETE_5"
+msgid "Kyoko."
+msgstr "Киоко."
+
+#, fuzzy
+msgctxt "DIALOG_OPEN_FOR_BUSINESS_COMPLETE_6"
+msgid "Just a few stores?"
+msgstr "Всего парочку магазинов?"
+
+#, fuzzy
+msgctxt "DIALOG_OPEN_FOR_BUSINESS_COMPLETE_7"
+msgid "Remember Riki?"
+msgstr "Помнишь Рики?"
+
+#, fuzzy
+msgctxt "DIALOG_OPEN_FOR_BUSINESS_COMPLETE_8"
+msgid "Sigh... okay, let's go find that spooky Yamada guy..."
+msgstr "Эх... хорошо, пойдем искать этого странного Ямаду..."
+
+#, fuzzy
+msgctxt "DIALOG_HIROSHI_FOOD_COURT_0"
+msgid "Oh, hey, Hiroshi."
+msgstr "О, привет, Хироши."
+
+#, fuzzy
+msgctxt "DIALOG_HIROSHI_FOOD_COURT_1"
+msgid "Did you get your Space Girls comic book thingy?"
+msgstr "Нашел ты свой комикс с межгалактическими детьми?"
+
+#, fuzzy
+msgctxt "DIALOG_HIROSHI_FOOD_COURT_2"
+msgid ""
+"Cosmic Mega Babes? Yeah, but they only had the STANDARD edition cover, "
+"ugh... I could barely bring myself to read it three times."
+msgstr ""
+"\"Космические мега-девочки\"? Да, но у них была только СТАНДАРТНАЯ версия "
+"обложки... с трудом заставил себя прочитать ее три раза."
+
+#, fuzzy
+msgctxt "DIALOG_HIROSHI_FOOD_COURT_3"
+msgid "We can't find Yamada. Anywhere else he might be?"
+msgstr "Мы не можем найти Ямаду. Где еще он может быть?"
+
+#, fuzzy
+msgctxt "DIALOG_HIROSHI_FOOD_COURT_4"
+msgid ""
+"He also hangs out around the construction site. But if you go there, be "
+"careful!"
+msgstr "Он еще бывает на стройке. Но если вы туда пойдете, будьте осторожны!"
+
+#, fuzzy
+msgctxt "DIALOG_HIROSHI_FOOD_COURT_5"
+msgid "Why?"
+msgstr "Почему?"
+
+#, fuzzy
+msgctxt "DIALOG_HIROSHI_FOOD_COURT_6"
+msgid "Because it's a construction site."
+msgstr "Потому что это стройка."
+
+#, fuzzy
+msgctxt "DIALOG_HIROSHI_FOOD_COURT_7"
+msgid "Oh yeah."
+msgstr "А, да."
+
+#, fuzzy
+msgctxt "DIALOG_HIROSHI_FOOD_COURT_8"
+msgid "Anyway, thanks and stuff."
+msgstr "В любом случае, спасибо и все такое."
+
+#, fuzzy
+msgctxt "DIALOG_HIROSHI_FOOD_COURT_9"
+msgid "Anytime! I mean, like, literally any time. My life is pretty boring."
+msgstr "Всегда пожалуйста. Я имею в виду, всегда. Моя жизнь довольно скучна."
+
+#, fuzzy
+msgctxt "DIALOG_YAMADA_PRE_BATTLE_0"
+msgid "Ladies... welcome to my lair."
+msgstr "Дамы, добро пожаловать в мое логово."
+
+#, fuzzy
+msgctxt "DIALOG_YAMADA_PRE_BATTLE_1"
+msgid "This is a rooftop."
+msgstr "Это крыша."
+
+#, fuzzy
+msgctxt "DIALOG_YAMADA_PRE_BATTLE_2"
+msgid "Yeah, and not even a finished one."
+msgstr "И даже не достроенная."
+
+#, fuzzy
+msgctxt "DIALOG_YAMADA_PRE_BATTLE_3"
+msgid "R-rooftops can be lairs!"
+msgstr "К-крыши могут быть логовами!"
+
+#, fuzzy
+msgctxt "DIALOG_YAMADA_PRE_BATTLE_4"
+msgid "Whatever, we're looking for Kunio and Riki."
+msgstr "Так или иначе, мы ищем Кунио и Рики."
+
+#, fuzzy
+msgctxt "DIALOG_YAMADA_PRE_BATTLE_5"
+msgid "That big girl said you hang out with them! Do ya??"
+msgstr "Эта огромная девица сказала, что вы с ними гуляете. Гуляете?"
+
+#, fuzzy
+msgctxt "DIALOG_YAMADA_PRE_BATTLE_6"
+msgid "As if. Those guys are losers."
+msgstr "Если бы. Они лузеры."
+
+#, fuzzy
+msgctxt "DIALOG_YAMADA_PRE_BATTLE_7"
+msgid "WHAT'D HE SAY ABOUT MY RIKI-POO??"
+msgstr "ЧТО ОН СКАЗАЛ ПРО МОЕГО РИКИ-КАКАШКУ???"
+
+#, fuzzy
+msgctxt "DIALOG_YAMADA_PRE_BATTLE_8"
+msgid "Chill, Kyoko."
+msgstr "Охладись, Киоко."
+
+#, fuzzy
+msgctxt "DIALOG_YAMADA_PRE_BATTLE_9"
+msgid "I'll CHILL this guy's FACE!"
+msgstr "Я этому чуваку ЛИЦО ОХЛАЖУ!"
+
+#, fuzzy
+msgctxt "DIALOG_YAMADA_PRE_BATTLE_10"
+msgid "Relax, I haven't talked to them in years."
+msgstr "Успокойся, я их сто лет не видел."
+
+#, fuzzy
+msgctxt "DIALOG_YAMADA_PRE_BATTLE_11"
+msgid "I thought you guys were friends."
+msgstr "Вы разве не друзья?"
+
+#, fuzzy
+msgctxt "DIALOG_YAMADA_PRE_BATTLE_12"
+msgid "We were... a long time ago..."
+msgstr "Были... когда-то давно..."
+
+#, fuzzy
+msgctxt "DIALOG_YAMADA_PRE_BATTLE_13"
+msgid "What's happening?"
+msgstr "Что происходит?"
+
+#, fuzzy
+msgctxt "DIALOG_YAMADA_PRE_BATTLE_14"
+msgid "Ugh, it's a flashback. NO ONE CARES, YAMADA!"
+msgstr "Хм, это флэшбэк. НИКОГО ЭТО НЕ ВОЛНУЕТ, Ямада!"
+
+#, fuzzy
+msgctxt "DIALOG_YAMADA_PRE_BATTLE_15"
+msgid "We were just kids then..."
+msgstr "Мы были всего лишь детьми..."
+
+#, fuzzy
+msgctxt "DIALOG_YAMADA_START_BATTLE_0"
+msgid ""
+"I lost the love of my life AND my best friend in the same day! But thanks to"
+" the dark arts, I would never again be..."
+msgstr ""
+"Я потерял любовь всей жизни И лучшего друга в один и тот же день! Но "
+"благодаря темным искусствам, я никогда больше не буду..."
+
+#, fuzzy
+msgctxt "DIALOG_YAMADA_START_BATTLE_1"
+msgid "Okay, wait up. \"Love of your life?\" You barely met the girl!"
+msgstr ""
+"Подожди минутку. \"Любовь всей жизни\"? Ты ее и видел, может быть, всего "
+"пару раз!"
+
+#, fuzzy
+msgctxt "DIALOG_YAMADA_START_BATTLE_2"
+msgid "DID he even meet her?"
+msgstr "Видел ли он ее ВООБЩЕ?"
+
+#, fuzzy
+msgctxt "DIALOG_YAMADA_START_BATTLE_3"
+msgid "Wait, yeah -- DID you even meet her??"
+msgstr "Да-да, ты ее ВООБЩЕ видел?"
+
+#, fuzzy
+msgctxt "DIALOG_YAMADA_START_BATTLE_4"
+msgid "Love needs no introduction."
+msgstr "Любовь в представлении не нуждается."
+
+#, fuzzy
+msgctxt "DIALOG_YAMADA_START_BATTLE_5"
+msgid "That's... not how love works."
+msgstr "Любовь работает... не так."
+
+#, fuzzy
+msgctxt "DIALOG_YAMADA_START_BATTLE_6"
+msgid ""
+"Listen, freakshow. I don't care about your childhood, your crush on trash "
+"queens, or any fakey magic tricks you learned. We're looking for Kunio."
+msgstr ""
+"Слушай, страшила. Мне наплевать на твое детство, на все отбросы общества, на"
+" которые ты западал, и на мистификации, которые ты выучил. Мы ищем Кунио."
+
+#, fuzzy
+msgctxt "DIALOG_YAMADA_START_BATTLE_7"
+msgid "And Riki!"
+msgstr "И Рики!"
+
+#, fuzzy
+msgctxt "DIALOG_YAMADA_START_BATTLE_8"
+msgid "And Riki. So either tell us who took 'em, or stop wasting our time."
+msgstr "И Рики. Так что или говори, где они, или не трать наше время."
+
+#, fuzzy
+msgctxt "DIALOG_YAMADA_START_BATTLE_9"
+msgid "Hehehe... you girls are all the same."
+msgstr "Хе-хе. Все вы, девчонки, одинаковые."
+
+#, fuzzy
+msgctxt "DIALOG_YAMADA_START_BATTLE_10"
+msgid "We look nothing alike."
+msgstr "У нас нет ничего общего."
+
+#, fuzzy
+msgctxt "DIALOG_YAMADA_START_BATTLE_11"
+msgid "Always insulting me. Always treating me like dirt."
+msgstr "Всегда оскорбляете меня. Всегда смешиваете с грязью."
+
+#, fuzzy
+msgctxt "DIALOG_YAMADA_START_BATTLE_12"
+msgid "You LOOK like dirt."
+msgstr "Ты и ВЫГЛЯДИШЬ как грязь."
+
+#, fuzzy
+msgctxt "DIALOG_YAMADA_START_BATTLE_13"
+msgid ""
+"You know, part of why I learned the dark arts was to meet girls. Looks like "
+"that's about to pay off."
+msgstr ""
+"Знаете, одна из причин, по которой я занялся темными искусствами, это "
+"встречать девочек. Похоже, начинает работать."
+
+#, fuzzy
+msgctxt "DIALOG_YAMADA_START_BATTLE_14"
+msgid "Eww."
+msgstr "Буэ."
+
+#, fuzzy
+msgctxt "DIALOG_YAMADA_DEFEAT_0"
+msgid "Stay down! And don't try anymore of that magic crap on us!"
+msgstr "Не двигайся! И больше не пробуй на нас свою магическую фигню!"
+
+#, fuzzy
+msgctxt "DIALOG_YAMADA_DEFEAT_1"
+msgid ""
+"Yeah, cause it's SPOOKY! Seriously, I can't even watch horror movies..."
+msgstr ""
+"Да, потому что это ЖУТЬ! Нет, правда, я даже не могу смотреть фильмы "
+"ужасов..."
+
+#, fuzzy
+msgctxt "DIALOG_YAMADA_DEFEAT_2"
+msgid "Heh... never thought I'd get beat up by a pair of girls."
+msgstr "Эх... никогда бы не подумал, что меня побьет пара девочек."
+
+#, fuzzy
+msgctxt "DIALOG_YAMADA_DEFEAT_3"
+msgid "I coulda guessed it."
+msgstr "Можно было бы и догадаться."
+
+#, fuzzy
+msgctxt "DIALOG_YAMADA_DEFEAT_4"
+msgid "We won the battle, so tell us where our boyfriends are!"
+msgstr "Мы выиграли сражение, так что говори, где наши бойфренды!"
+
+#, fuzzy
+msgctxt "DIALOG_YAMADA_DEFEAT_5"
+msgid "I have no idea."
+msgstr "Понятия не имею."
+
+#, fuzzy
+msgctxt "DIALOG_YAMADA_DEFEAT_6"
+msgid "Why does this keep happening...?"
+msgstr "Почему все это продолжается???"
+
+#, fuzzy
+msgctxt "DIALOG_YAMADA_DEFEAT_7"
+msgid "You really have no idea? We miss 'em pretty bad."
+msgstr "Ты серьезно не знаешь? Нам их очень не хватает."
+
+#, fuzzy
+msgctxt "DIALOG_YAMADA_DEFEAT_8"
+msgid "Try Uptown. Sometimes they hang out there after school."
+msgstr "Попробуйте верхнюю часть города. Иногда они там после школы зависали."
+
+#, fuzzy
+msgctxt "DIALOG_YAMADA_DEFEAT_9"
+msgid "How do you know that?"
+msgstr "Ты откуда знаешь?"
+
+#, fuzzy
+msgctxt "DIALOG_YAMADA_DEFEAT_10"
+msgid ""
+"I hang out on top of a building all day, remember? I see lots of things."
+msgstr "Я весь день на крыше, забыли? Я много чего вижу."
+
+#, fuzzy
+msgctxt "DIALOG_YAMADA_DEFEAT_11"
+msgid "That's weird."
+msgstr "Странно."
+
+#, fuzzy
+msgctxt "DIALOG_YAMADA_DEFEAT_12"
+msgid "And sad, but whatever. See you later, Creepy."
+msgstr "И печально, но ладно уж. Увидимся позже, страшила."
+
+#, fuzzy
+msgctxt "DIALOG_YOKO_UPTOWN_0"
+msgid "Oh hey, it's Yoko."
+msgstr "О, привет, это Йоко."
+
+#, fuzzy
+msgctxt "DIALOG_YOKO_UPTOWN_1"
+msgid "Sup."
+msgstr "Чо?"
+
+#, fuzzy
+msgctxt "DIALOG_YOKO_UPTOWN_2"
+msgid "What are you doing in Uptown?"
+msgstr "Что ты тут делаешь, в верхней части?"
+
+#, fuzzy
+msgctxt "DIALOG_YOKO_UPTOWN_3"
+msgid "I live here."
+msgstr "Я тут живу."
+
+#, fuzzy
+msgctxt "DIALOG_YOKO_UPTOWN_4"
+msgid "You're rich??"
+msgstr "Ты богатая???"
+
+#, fuzzy
+msgctxt "DIALOG_YOKO_UPTOWN_5"
+msgid "No. But my parents are."
+msgstr "Нет. Но мои родители - да."
+
+#, fuzzy
+msgctxt "DIALOG_YOKO_UPTOWN_6"
+msgid "Have you seen Kunio and Riki around here?"
+msgstr "Ты Кунио и Рики вокруг не видела?"
+
+#, fuzzy
+msgctxt "DIALOG_YOKO_UPTOWN_7"
+msgid "Nope. Why, they ditch you guys again?"
+msgstr "Нет. А что, они вас опять бросили?"
+
+#, fuzzy
+msgctxt "DIALOG_YOKO_UPTOWN_8"
+msgid "Again...?"
+msgstr "Опять...?"
+
+#, fuzzy
+msgctxt "DIALOG_YOKO_UPTOWN_9"
+msgid "No, they got KIDNAPPED!"
+msgstr "Нет, их ПОХИТИЛИ!"
+
+#, fuzzy
+msgctxt "DIALOG_YOKO_UPTOWN_10"
+msgid "For real?? That's pretty metal."
+msgstr "Серьезно? Круто."
+
+#, fuzzy
+msgctxt "DIALOG_YOKO_UPTOWN_11"
+msgid "No, it's pretty SAD and it makes my HEART hurt! Oh Riki..."
+msgstr "Нет, это ПЕЧАЛЬНО и делает мне БОЛЬНО! О, Рики..."
+
+#, fuzzy
+msgctxt "DIALOG_YOKO_UPTOWN_12"
+msgid "Kyoko, show her your text."
+msgstr "Киоко, покажи ей свою СМС."
+
+#, fuzzy
+msgctxt "DIALOG_YOKO_UPTOWN_13"
+msgid "Oh yeah!"
+msgstr "А, да."
+
+#, fuzzy
+msgctxt "DIALOG_YOKO_UPTOWN_14"
+msgid "Hmm... you should go talk to Hibari."
+msgstr "Хм, вам нужно поговорить с Хибари."
+
+#, fuzzy
+msgctxt "DIALOG_YOKO_UPTOWN_15"
+msgid "Who?"
+msgstr "С кем?"
+
+#, fuzzy
+msgctxt "DIALOG_YOKO_UPTOWN_16"
+msgid "The fashion designer? Geez, don't you guys know anything?"
+msgstr "С модным дизайнером? Господи, вы совсем ничего не знаете?"
+
+#, fuzzy
+msgctxt "DIALOG_YOKO_UPTOWN_17"
+msgid "I shop at discount."
+msgstr "Я закупаюсь на распродажах."
+
+#, fuzzy
+msgctxt "DIALOG_YOKO_UPTOWN_18"
+msgid "I found this shirt at a bus stop."
+msgstr "Я эту рубашку на автобусной остановке нашла."
+
+#, fuzzy
+msgctxt "DIALOG_YOKO_UPTOWN_19"
+msgid ""
+"The thug in this photo, the one shoving your boyfriends into the van? He's "
+"wearing one of Hibari's custom jackets."
+msgstr ""
+"Видите бандита на фото, который ваших бойфрендов запихивает в грузовик? На "
+"нем одна из дизайнерских курток Хибари."
+
+#, fuzzy
+msgctxt "DIALOG_YOKO_UPTOWN_20"
+msgid "Ooh! Nice detective-ing."
+msgstr "Ого! Неплохие детективные навыки."
+
+#, fuzzy
+msgctxt "DIALOG_YOKO_UPTOWN_21"
+msgid "Everyone who's cool wears Hibari. No offense."
+msgstr "Все крутые чуваки одеваются у Хибари. Ничего личного."
+
+#, fuzzy
+msgctxt "DIALOG_YOKO_UPTOWN_22"
+msgid "None taken."
+msgstr "Ничего."
+
+#, fuzzy
+msgctxt "DIALOG_YOKO_UPTOWN_23"
+msgid ""
+"Hibari's warehouse is at the east end of Uptown. Show her this photo. She "
+"might know who took your boyfriends."
+msgstr ""
+"Мастерская Хибари находится на востоке. Покажите ей фотографию. Она может "
+"знать, кто похитил ваших бойфрендов."
+
+#, fuzzy
+msgctxt "DIALOG_HASEBE_MAMI_FASHION_GOLD_START_0"
+msgid "Dork alert."
+msgstr "Осторожно, зануда."
+
+#, fuzzy
+msgctxt "DIALOG_HASEBE_MAMI_FASHION_GOLD_START_1"
+msgid "Oh. It's you guys again."
+msgstr "А, это опять вы."
+
+#, fuzzy
+msgctxt "DIALOG_HASEBE_MAMI_FASHION_GOLD_START_2"
+msgid "What's up, Hasebe?"
+msgstr "Что случилось, Хасиби?"
+
+#, fuzzy
+msgctxt "DIALOG_HASEBE_MAMI_FASHION_GOLD_START_3"
+msgid "Oh, ya know, just hanging around."
+msgstr "Ничего, гуляем тут."
+
+#, fuzzy
+msgctxt "DIALOG_HASEBE_MAMI_FASHION_GOLD_START_4"
+msgid "Looking stylish as hell."
+msgstr "Ужасно стильные."
+
+#, fuzzy
+msgctxt "DIALOG_HASEBE_MAMI_FASHION_GOLD_START_5"
+msgid "Do you two know this fashion lady?"
+msgstr "Вы двое знаете эту дизайнершу?"
+
+#, fuzzy
+msgctxt "DIALOG_HASEBE_MAMI_FASHION_GOLD_START_6"
+msgid "(giggling)"
+msgstr "(хихикание)"
+
+#, fuzzy
+msgctxt "DIALOG_HASEBE_MAMI_FASHION_GOLD_START_7"
+msgid "Oh, you're serious."
+msgstr "А, вы серьезно."
+
+#, fuzzy
+msgctxt "DIALOG_HASEBE_MAMI_FASHION_GOLD_START_8"
+msgid "I usually am."
+msgstr "Обычно я говорю серьезно."
+
+#, fuzzy
+msgctxt "DIALOG_HASEBE_MAMI_FASHION_GOLD_START_9"
+msgid "Hibari is THE fashion icon in River City."
+msgstr "Хибари - ИКОНА СТИЛЯ Ривер-сити."
+
+#, fuzzy
+msgctxt "DIALOG_HASEBE_MAMI_FASHION_GOLD_START_10"
+msgid "She's making us CUSTOM outfits."
+msgstr "Она нам делает костюмы НА ЗАКАЗ."
+
+#, fuzzy
+msgctxt "DIALOG_HASEBE_MAMI_FASHION_GOLD_START_11"
+msgid "Well where is she?"
+msgstr "Хорошо, и где она?"
+
+#, fuzzy
+msgctxt "DIALOG_HASEBE_MAMI_FASHION_GOLD_START_12"
+msgid "Yeah, we got questions!"
+msgstr "Вот теперь мы задаем вопросы!"
+
+#, fuzzy
+msgctxt "DIALOG_HASEBE_MAMI_FASHION_GOLD_START_13"
+msgid "Let me guess. \"How do socks work?\" (laughs)"
+msgstr "Дайте угадаю. \"Как работают носки?\" (смех)"
+
+#, fuzzy
+msgctxt "DIALOG_HASEBE_MAMI_FASHION_GOLD_START_14"
+msgid "\"What's a bra?\" (laughs)"
+msgstr "\"Что такое лифчик?\" (смех)"
+
+#, fuzzy
+msgctxt "DIALOG_HASEBE_MAMI_FASHION_GOLD_START_15"
+msgid "I know what a BRA is!"
+msgstr "Я знаю, что такое ЛИФЧИК!"
+
+#, fuzzy
+msgctxt "DIALOG_HASEBE_MAMI_FASHION_GOLD_START_16"
+msgid ""
+"Sigh... you need an OFFERING for Hibari to show up, Misako. Geez, everyone "
+"knows that."
+msgstr "О Господи. Вам надо поднести Хибару ПОДАРОК, Мисако. Это все знают!"
+
+#, fuzzy
+msgctxt "DIALOG_HASEBE_MAMI_FASHION_GOLD_START_17"
+msgid "Except them, apparently."
+msgstr "Кроме них, по-видимому."
+
+#, fuzzy
+msgctxt "DIALOG_HASEBE_MAMI_FASHION_GOLD_START_18"
+msgid "An offering?"
+msgstr "Подарок?"
+
+#, fuzzy
+msgctxt "DIALOG_HASEBE_MAMI_FASHION_GOLD_START_19"
+msgid "Something fancy."
+msgstr "Что-нибудь модное."
+
+#, fuzzy
+msgctxt "DIALOG_HASEBE_MAMI_FASHION_GOLD_START_20"
+msgid "Expensive."
+msgstr "Дорогое."
+
+#, fuzzy
+msgctxt "DIALOG_HASEBE_MAMI_FASHION_GOLD_START_21"
+msgid "And GOLD."
+msgstr "И ЗОЛОТОЕ."
+
+#, fuzzy
+msgctxt "DIALOG_HASEBE_MAMI_FASHION_GOLD_START_22"
+msgid "Can it just be COLORED gold?"
+msgstr "А можно просто золотого ЦВЕТА?"
+
+#, fuzzy
+msgctxt "DIALOG_HASEBE_MAMI_FASHION_GOLD_START_23"
+msgid "(giggling)"
+msgstr "(хихикание)"
+
+#, fuzzy
+msgctxt "DIALOG_HASEBE_MAMI_FASHION_GOLD_START_24"
+msgid "Come on, Kyoko. Let's go find an offering."
+msgstr "Давай, Киоко. Пойдем искать подарок."
+
+#, fuzzy
+msgctxt "DIALOG_HASEBE_MAMI_FASHION_GOLD_INCOMPLETE_0"
+msgid "They're back."
+msgstr "Они вернулись."
+
+#, fuzzy
+msgctxt "DIALOG_HASEBE_MAMI_FASHION_GOLD_INCOMPLETE_1"
+msgid "Eww."
+msgstr "Буэ."
+
+#, fuzzy
+msgctxt "DIALOG_HASEBE_MAMI_FASHION_GOLD_INCOMPLETE_2"
+msgid "Did Hibari show up yet?"
+msgstr "Хибари уже пришла?"
+
+#, fuzzy
+msgctxt "DIALOG_HASEBE_MAMI_FASHION_GOLD_INCOMPLETE_3"
+msgid "Did you bring something gold?"
+msgstr "Вы принесли что-нибудь золотое?"
+
+#, fuzzy
+msgctxt "DIALOG_HASEBE_MAMI_FASHION_GOLD_INCOMPLETE_4"
+msgid "Uhhhh, no."
+msgstr "Хм, нет."
+
+#, fuzzy
+msgctxt "DIALOG_HASEBE_MAMI_FASHION_GOLD_INCOMPLETE_5"
+msgid "Have you listened to a word I said?"
+msgstr "Вы внимательно слушали мои слова?"
+
+#, fuzzy
+msgctxt "DIALOG_HASEBE_MAMI_FASHION_GOLD_INCOMPLETE_6"
+msgid "Some of them?"
+msgstr "Некоторые?"
+
+#, fuzzy
+msgctxt "DIALOG_HASEBE_MAMI_FASHION_GOLD_INCOMPLETE_7"
+msgid "Come back when you find something GOLD."
+msgstr "Приходите, когда найдете что-нибудь ЗОЛОТОЕ."
+
+#, fuzzy
+msgctxt "DIALOG_SKULLMAGEDDON_FASHION_GOLD_SHOP_0"
+msgid "Nyehehehehe! Welcome to my pawn shop!"
+msgstr "Хехехехе! Добро пожаловать на мою барахолку!"
+
+#, fuzzy
+msgctxt "DIALOG_SKULLMAGEDDON_FASHION_GOLD_SHOP_1"
+msgid "Is that a talking skeleton??"
+msgstr "Это что, говорящий скелет???"
+
+#, fuzzy
+msgctxt "DIALOG_SKULLMAGEDDON_FASHION_GOLD_SHOP_2"
+msgid "Rude. You act like I'm not even here."
+msgstr "Как грубо. Ты ведешь себя, как будто меня тут вообще нет."
+
+#, fuzzy
+msgctxt "DIALOG_SKULLMAGEDDON_FASHION_GOLD_SHOP_3"
+msgid "Sorry..."
+msgstr "Прощу прощения..."
+
+#, fuzzy
+msgctxt "DIALOG_SKULLMAGEDDON_FASHION_GOLD_SHOP_4"
+msgid "How do you talk without lips?"
+msgstr "Как ты разговариваешь без помощи губ?"
+
+#, fuzzy
+msgctxt "DIALOG_SKULLMAGEDDON_FASHION_GOLD_SHOP_5"
+msgid ""
+"UNIMPORTANT! How can I help you? Might I interest you girls in a stuffed "
+"monkey?"
+msgstr ""
+"НЕВАЖНО! Чем могу помочь? Не заинтересуются ли девочки плюшевой обезьяной?"
+
+#, fuzzy
+msgctxt "DIALOG_SKULLMAGEDDON_FASHION_GOLD_SHOP_6"
+msgid "Ewww, no!"
+msgstr "Буэ... нет!"
+
+#, fuzzy
+msgctxt "DIALOG_SKULLMAGEDDON_FASHION_GOLD_SHOP_7"
+msgid "How about an unstuffed monkey?"
+msgstr "А не плюшевой обезьянкой?"
+
+#, fuzzy
+msgctxt "DIALOG_SKULLMAGEDDON_FASHION_GOLD_SHOP_8"
+msgid "We need something gold."
+msgstr "Нам нужно что-нибудь золотое."
+
+#, fuzzy
+msgctxt "DIALOG_SKULLMAGEDDON_FASHION_GOLD_SHOP_9"
+msgid "Well, I'm all out of golden monkeys..."
+msgstr "У меня случайно закончились золотые обезьяны..."
+
+#, fuzzy
+msgctxt "DIALOG_SKULLMAGEDDON_FASHION_GOLD_SHOP_10"
+msgid "What about that golden cat?"
+msgstr "Как насчет этого золотого кота?"
+
+#, fuzzy
+msgctxt "DIALOG_SKULLMAGEDDON_FASHION_GOLD_SHOP_11"
+msgid "Oh, that! A treasure indeed from lands far away..."
+msgstr "О, этого! Это сокровище дальних земель..."
+
+#, fuzzy
+msgctxt "DIALOG_SKULLMAGEDDON_FASHION_GOLD_SHOP_12"
+msgid "How much, boney?"
+msgstr "Сколько, косточка моя?"
+
+#, fuzzy
+msgctxt "DIALOG_SKULLMAGEDDON_FASHION_GOLD_SHOP_13"
+msgid "One MILLION dollars!"
+msgstr "МИЛЛИОН долларов!"
+
+#, fuzzy
+msgctxt "DIALOG_SKULLMAGEDDON_FASHION_GOLD_SHOP_14"
+msgid "You're joking."
+msgstr "Шутишь?"
+
+#, fuzzy
+msgctxt "DIALOG_SKULLMAGEDDON_FASHION_GOLD_SHOP_15"
+msgid "I would NEVER joke about such a precious item."
+msgstr "Я НИКОГДА не шучу о таких драгоценностях!"
+
+#, fuzzy
+msgctxt "DIALOG_SKULLMAGEDDON_FASHION_GOLD_SHOP_16"
+msgid "Can we get a discount?"
+msgstr "А можно скидку?"
+
+#, fuzzy
+msgctxt "DIALOG_SKULLMAGEDDON_FASHION_GOLD_SHOP_17"
+msgid ""
+"Well I can take $5 off, but just so you know, that's pretty much break even "
+"for me."
+msgstr "Могу скинуть 5 долларов, но больше уже никак не смогу!"
+
+#, fuzzy
+msgctxt "DIALOG_SKULLMAGEDDON_FASHION_GOLD_SHOP_18"
+msgid "You spent nine hundred ninety-nine thousand...?"
+msgstr "Ты на него потратил 999990 долларов?"
+
+#, fuzzy
+msgctxt "DIALOG_SKULLMAGEDDON_FASHION_GOLD_SHOP_19"
+msgid "What about THAT cat? The other gold one?"
+msgstr "А как насчет ЭТОГО кота? Другого золотого кота?"
+
+#, fuzzy
+msgctxt "DIALOG_SKULLMAGEDDON_FASHION_GOLD_SHOP_20"
+msgid "Oh that? Ten dollars."
+msgstr "Ах, этого? Десять долларов."
+
+#, fuzzy
+msgctxt "DIALOG_SKULLMAGEDDON_FASHION_GOLD_SHOP_21"
+msgid "It looks exactly like the million dollar one!"
+msgstr "А выглядит в точности как тот, за миллион долларов!"
+
+#, fuzzy
+msgctxt "DIALOG_SKULLMAGEDDON_FASHION_GOLD_SHOP_22"
+msgid "Yeah, but it's not REAL gold."
+msgstr "Да, но это не НАСТОЯЩЕЕ золото."
+
+#, fuzzy
+msgctxt "DIALOG_SKULLMAGEDDON_FASHION_GOLD_SHOP_23"
+msgid "SOLD!"
+msgstr "ПРОДАНО!"
+
+#, fuzzy
+msgctxt "DIALOG_SKULLMAGEDDON_FASHION_GOLD_SHOP_24"
+msgid "Nyehehehehe! Let me bag that up for you."
+msgstr "Муахаха! Позвольте вам его упаковать."
+
+#, fuzzy
+msgctxt "DIALOG_HIBARI_START_BATTLE_0"
+msgid "Nice entrance. Enjoy your gold cat or whatever."
+msgstr "Неплохое вступление. Получайте удовольствие от вашего золотого кота."
+
+#, fuzzy
+msgctxt "DIALOG_HIBARI_START_BATTLE_1"
+msgid "Hmm... it's a little banged up."
+msgstr "Хмм...он довольно-таки потрепанный."
+
+#, fuzzy
+msgctxt "DIALOG_HIBARI_START_BATTLE_2"
+msgid "It's also not real-"
+msgstr "И не настоя..."
+
+#, fuzzy
+msgctxt "DIALOG_HIBARI_START_BATTLE_3"
+msgid ""
+"HEAVY! It's not real heavy. Except it is, cause it's gold. RIGHT, Kyoko?"
+msgstr ""
+"ТЯЖЕЛЫЙ! Не по-настоящему тяжелый. Хотя на самом деле тяжелый, потому что из"
+" золота. ВЕРНО, Киоко?"
+
+#, fuzzy
+msgctxt "DIALOG_HIBARI_START_BATTLE_4"
+msgid "OH. Uh... that is correct."
+msgstr "ОЙ. Да...правильно."
+
+#, fuzzy
+msgctxt "DIALOG_HIBARI_START_BATTLE_5"
+msgid "The offering is acceptable. What would you like designed?"
+msgstr "Подарок приемлемый. Что вам нужно сшить?"
+
+#, fuzzy
+msgctxt "DIALOG_HIBARI_START_BATTLE_6"
+msgid "Can you do mini-skirts?"
+msgstr "Вы можете сшить мини-юбки?"
+
+#, fuzzy
+msgctxt "DIALOG_HIBARI_START_BATTLE_7"
+msgid "Actually, we need information."
+msgstr "На самом деле, нам нужна информация."
+
+#, fuzzy
+msgctxt "DIALOG_HIBARI_START_BATTLE_8"
+msgid "I don't DO information. I do fashion. And you're wasting my time."
+msgstr ""
+"Я не ЗАНИМАЮСЬ информацией. Я занимаюсь модой. А вы тратите мое время."
+
+#, fuzzy
+msgctxt "DIALOG_HIBARI_START_BATTLE_9"
+msgid "Our boyfriends got kidnapped."
+msgstr "Наших бойфрендов похитили."
+
+#, fuzzy
+msgctxt "DIALOG_HIBARI_START_BATTLE_10"
+msgid "The guy in this photo is wearing one of your jackets."
+msgstr "Человек на фотографии одет в вашу куртку."
+
+#, fuzzy
+msgctxt "DIALOG_HIBARI_START_BATTLE_11"
+msgid "So? Find me someone in River City NOT wearing my fashion."
+msgstr "И что? Покажите мне кого-нибудь в Ривер-сити, кто НЕ носит мои вещи."
+
+#, fuzzy
+msgctxt "DIALOG_HIBARI_START_BATTLE_12"
+msgid "We aren't."
+msgstr "Мы не носим."
+
+#, fuzzy
+msgctxt "DIALOG_HIBARI_START_BATTLE_13"
+msgid "I can see that."
+msgstr "Я вижу."
+
+#, fuzzy
+msgctxt "DIALOG_HIBARI_START_BATTLE_14"
+msgid "Enough insults! We got your dumb cat. Now float down here and help us."
+msgstr ""
+"Довольно оскорблений. Мы достали твоего дурацкого кота. Плыви вниз и помоги "
+"нам."
+
+#, fuzzy
+msgctxt "DIALOG_HIBARI_START_BATTLE_15"
+msgid "I'm sick of this crappy cosplay spider shtick. You look ridiculous."
+msgstr ""
+"Меня тошнит от этого отвратного паучьего косплея. Ты выглядишь смешно."
+
+#, fuzzy
+msgctxt "DIALOG_HIBARI_START_BATTLE_16"
+msgid "Hehehe, she's just a little grumpy. Now about that mini-skirt..."
+msgstr "Хи-хи, она просто ворчит. Так вот, про мини-юбку..."
+
+#, fuzzy
+msgctxt "DIALOG_HIBARI_START_BATTLE_17"
+msgid "I have never in my life been spoken to as you just addressed me."
+msgstr "Со мной никогда в жизни не разговаривали так, как вы сейчас."
+
+#, fuzzy
+msgctxt "DIALOG_HIBARI_START_BATTLE_18"
+msgid ""
+"You come into my den, looking like high school hobos, and lecture ME on "
+"fashion?"
+msgstr ""
+"Вы приходите в мое гнездышко, одетые как бомжеватые старшеклассники, и учите"
+" МЕНЯ моде?"
+
+#, fuzzy
+msgctxt "DIALOG_HIBARI_START_BATTLE_19"
+msgid "I like fashion! Fashion is fun."
+msgstr "Я люблю моду! Мода - это классно."
+
+#, fuzzy
+msgctxt "DIALOG_HIBARI_START_BATTLE_20"
+msgid "No. Fashion is LIFE. Just... not for you two."
+msgstr "Нет. Мода - это ЖИЗНЬ. Просто... не для вас двоих."
+
+#, fuzzy
+msgctxt "DIALOG_HIBARI_DEFEAT_0"
+msgid "You're tougher than you look."
+msgstr "А ты покрепче, чем кажешься."
+
+#, fuzzy
+msgctxt "DIALOG_HIBARI_DEFEAT_1"
+msgid "And YOU can fly! Can you teach us how to do that?"
+msgstr "А ты МОЖЕШЬ летать! Научишь нас, как?"
+
+#, fuzzy
+msgctxt "DIALOG_HIBARI_DEFEAT_2"
+msgid "No."
+msgstr "Нет."
+
+#, fuzzy
+msgctxt "DIALOG_HIBARI_DEFEAT_3"
+msgid "We need information."
+msgstr "Нам нужна информация."
+
+#, fuzzy
+msgctxt "DIALOG_HIBARI_DEFEAT_4"
+msgid "And a mini-skirt. But... I can come back for that."
+msgstr "И мини-юбка. Но за этим я могу вернуться попозже."
+
+#, fuzzy
+msgctxt "DIALOG_HIBARI_DEFEAT_5"
+msgid "I don't know the man in your photo."
+msgstr "Я не знаю человека на вашей фотографии."
+
+#, fuzzy
+msgctxt "DIALOG_HIBARI_DEFEAT_6"
+msgid ""
+"But if your boyfriends were indeed kidnapped, you should head downtown."
+msgstr ""
+"Но если ваших бойфрендов действительно похитили, вам нужно в центр города."
+
+#, fuzzy
+msgctxt "DIALOG_HIBARI_DEFEAT_7"
+msgid "To the slums? Ewwww."
+msgstr "В трущобы? Буэ!"
+
+#, fuzzy
+msgctxt "DIALOG_HIBARI_DEFEAT_8"
+msgid "You trying to say we belong in a dump??"
+msgstr "Ты пытаешься сказать, что наше место в канаве???"
+
+#, fuzzy
+msgctxt "DIALOG_HIBARI_DEFEAT_9"
+msgid ""
+"Probably. But if anyone goes missing, nine times out of ten they are taken "
+"downtown."
+msgstr ""
+"Возможно. Но если кто-то пропадает, то в 9 случаях из 10 они попадают в "
+"центр города."
+
+#, fuzzy
+msgctxt "DIALOG_HIBARI_DEFEAT_10"
+msgid ""
+"There's a secret tunnel behind my factory that will lead you straight there."
+msgstr "Позади моей фабрики есть тайный туннель, который ведет прямо туда."
+
+#, fuzzy
+msgctxt "DIALOG_HIBARI_DEFEAT_11"
+msgid "Why do you have that?"
+msgstr "Почему?"
+
+#, fuzzy
+msgctxt "DIALOG_HIBARI_DEFEAT_12"
+msgid "Begone, fashion disasters!"
+msgstr "Исчезните, оскорбления моды!"
+
+#, fuzzy
+msgctxt "DIALOG_NARITAKA_DOWNTOWN_0"
+msgid "Look, it's a kid."
+msgstr "Смотри, ребенок."
+
+#, fuzzy
+msgctxt "DIALOG_NARITAKA_DOWNTOWN_1"
+msgid "That's right, it's me -- Naritaka!"
+msgstr "Правильно, это я - Наритака!"
+
+#, fuzzy
+msgctxt "DIALOG_NARITAKA_DOWNTOWN_2"
+msgid "REMOVE"
+msgstr "REMOVE"
+
+#, fuzzy
+msgctxt "DIALOG_NARITAKA_DOWNTOWN_3"
+msgid "Whatcha doing here, kid?"
+msgstr "Как дела, дитя?"
+
+#, fuzzy
+msgctxt "DIALOG_NARITAKA_DOWNTOWN_4"
+msgid "Yeah, this is NOT a nice part of town."
+msgstr "Да, НЕ САМАЯ лучшая часть города."
+
+#, fuzzy
+msgctxt "DIALOG_NARITAKA_DOWNTOWN_5"
+msgid "Exactly! I came here to train myself and get tough like my hero Riki!"
+msgstr ""
+"Точно! Я пришел сюда, чтобы тренироваться и стать сильным, как мой герой "
+"Рики!"
+
+#, fuzzy
+msgctxt "DIALOG_NARITAKA_DOWNTOWN_6"
+msgid "MY Riki???"
+msgstr "МОЙ Рики???"
+
+#, fuzzy
+msgctxt "DIALOG_NARITAKA_DOWNTOWN_7"
+msgid "The very same!"
+msgstr "Тот самый!"
+
+#, fuzzy
+msgctxt "DIALOG_NARITAKA_DOWNTOWN_8"
+msgid "You look pretty beat up."
+msgstr "Выглядишь довольно побитым."
+
+#, fuzzy
+msgctxt "DIALOG_NARITAKA_DOWNTOWN_9"
+msgid "All part of the routine!"
+msgstr "Это часть тренировок!"
+
+#, fuzzy
+msgctxt "DIALOG_NARITAKA_DOWNTOWN_10"
+msgid "You get any hits in yourself?"
+msgstr "Тебя на них бьют?"
+
+#, fuzzy
+msgctxt "DIALOG_NARITAKA_DOWNTOWN_11"
+msgid ""
+"In due time. Now, what brings you beautiful ladies down here? Are you "
+"training as well?"
+msgstr ""
+"В свое время. А теперь, что привело сюда прекрасных дам? Вы тоже "
+"тренируетесь?"
+
+#, fuzzy
+msgctxt "DIALOG_NARITAKA_DOWNTOWN_12"
+msgid "No, we're pretty good at fighting."
+msgstr "Нет, мы хорошо деремся."
+
+#, fuzzy
+msgctxt "DIALOG_NARITAKA_DOWNTOWN_13"
+msgid "I could take your head off with my elbow."
+msgstr "Я могу тебе голову оторвать локтем."
+
+#, fuzzy
+msgctxt "DIALOG_NARITAKA_DOWNTOWN_14"
+msgid "That would be a sight! Can you teach me?"
+msgstr "Было бы интересно посмотреть! Научишь?"
+
+#, fuzzy
+msgctxt "DIALOG_NARITAKA_DOWNTOWN_15"
+msgid "No."
+msgstr "Нет."
+
+#, fuzzy
+msgctxt "DIALOG_NARITAKA_DOWNTOWN_16"
+msgid "Riki and Kunio have been kidnapped."
+msgstr "Рики и Кунио были похищены."
+
+#, fuzzy
+msgctxt "DIALOG_NARITAKA_DOWNTOWN_17"
+msgid "Zounds!"
+msgstr "Черт меня побери!"
+
+#, fuzzy
+msgctxt "DIALOG_NARITAKA_DOWNTOWN_18"
+msgid "And some hideous fashionista said they might be here."
+msgstr "И одна уродливая модница сказала, что они могут быть здесь."
+
+#, fuzzy
+msgctxt "DIALOG_NARITAKA_DOWNTOWN_19"
+msgid "Double zounds!"
+msgstr "Сатана меня разрази!"
+
+#, fuzzy
+msgctxt "DIALOG_NARITAKA_DOWNTOWN_20"
+msgid "You haven't seen Kunio or Riki, have you?"
+msgstr "Вы не видели Кунио и Рики, так?"
+
+#, fuzzy
+msgctxt "DIALOG_NARITAKA_DOWNTOWN_21"
+msgid ""
+"I have not. But I did hear rumors about some big bad who lives in the "
+"abandoned subway terminals."
+msgstr ""
+"Нет. Но слышал сплетни о нехорошем человеке, который живет на заброшенных "
+"станциях метро."
+
+#, fuzzy
+msgctxt "DIALOG_NARITAKA_DOWNTOWN_22"
+msgid ""
+"They say he steals children and TV sets. Maybe HE took my boyfriend Riki."
+msgstr ""
+"Говорят, он крадет детей и телевизоры. Может быть, ОН и забрал моего "
+"бойфренда Рики."
+
+#, fuzzy
+msgctxt "DIALOG_NARITAKA_DOWNTOWN_23"
+msgid "You mean MY boyfriend Riki."
+msgstr "МОЕГО бойфренда Рики, ты хочешь сказать."
+
+#, fuzzy
+msgctxt "DIALOG_NARITAKA_DOWNTOWN_24"
+msgid "That's what I said."
+msgstr "А я что сказал."
+
+#, fuzzy
+msgctxt "DIALOG_NARITAKA_DOWNTOWN_25"
+msgid ""
+"Okay kid, well, keep it up. I'm sure you'll punch someone back eventually."
+msgstr ""
+"Хорошо, дитя, продолжай в том же духе. Рано или поздно, я уверена, ты дашь "
+"кому-нибудь сдачи."
+
+#, fuzzy
+msgctxt "DIALOG_NARITAKA_DOWNTOWN_26"
+msgid "I won't stop until I do!"
+msgstr "Не остановлюсь, пока не дам!"
+
+#, fuzzy
+msgctxt "DIALOG_NARITAKA_DOWNTOWN_27"
+msgid "...he's gonna die here, Misako..."
+msgstr "...тут он и умрет, Мисако..."
+
+#, fuzzy
+msgctxt "DIALOG_NARITAKA_DOWNTOWN_28"
+msgid "Probably."
+msgstr ""
+"Возможно. Но если кто-то пропадает, то в 9 случаях из 10 они попадают в "
+"центр города."
+
+#, fuzzy
+msgctxt "DIALOG_ZOMBIE_CRUSHER_START_0"
+msgid "Whatup, ladies? You come all the way out here to see me?"
+msgstr "В чем дело, девушки? Вы всю дорогу сюда шли, чтобы меня увидеть?"
+
+#, fuzzy
+msgctxt "DIALOG_ZOMBIE_CRUSHER_START_1"
+msgid "You smell like fast food wrappers."
+msgstr "Воняешь, как упаковки от фастфуда."
+
+#, fuzzy
+msgctxt "DIALOG_ZOMBIE_CRUSHER_START_2"
+msgid "You noticed."
+msgstr "Ты заметила."
+
+#, fuzzy
+msgctxt "DIALOG_ZOMBIE_CRUSHER_START_3"
+msgid "Hey, that crane you got there work?"
+msgstr "Эй, этот твой кран работает?"
+
+#, fuzzy
+msgctxt "DIALOG_ZOMBIE_CRUSHER_START_4"
+msgid "Yeah huh. Shall we take it for a test drive?"
+msgstr "Ага. Хочешь тест-драйв?"
+
+#, fuzzy
+msgctxt "DIALOG_ZOMBIE_CRUSHER_START_5"
+msgid "Ewww. No. Yuck."
+msgstr "Буэ. Спасибо, нет."
+
+#, fuzzy
+msgctxt "DIALOG_ZOMBIE_CRUSHER_START_6"
+msgid "We need some trash moved."
+msgstr "Нам нужно мусор подвинуть."
+
+#, fuzzy
+msgctxt "DIALOG_ZOMBIE_CRUSHER_START_7"
+msgid "Then I'm your guy!"
+msgstr "Тогда я то, что вам надо!"
+
+#, fuzzy
+msgctxt "DIALOG_ZOMBIE_CRUSHER_START_8"
+msgid "Great, c'mon."
+msgstr "Отлично, вперед."
+
+#, fuzzy
+msgctxt "DIALOG_ZOMBIE_CRUSHER_START_9"
+msgid ""
+"Oh, you mean NOW? No can do. See, I dropped the keys in a trash compacter."
+msgstr "Прямо СЕЙЧАС? Никак не выйдет. Я ключи уронил в измельчитель мусора."
+
+#, fuzzy
+msgctxt "DIALOG_ZOMBIE_CRUSHER_START_10"
+msgid "So go get 'em."
+msgstr "Так достань."
+
+#, fuzzy
+msgctxt "DIALOG_ZOMBIE_CRUSHER_START_11"
+msgid "Thing is, it's filled with zombies."
+msgstr "Видишь ли, он набита зомби."
+
+#, fuzzy
+msgctxt "DIALOG_ZOMBIE_CRUSHER_START_12"
+msgid "And?"
+msgstr "И что?"
+
+#, fuzzy
+msgctxt "DIALOG_ZOMBIE_CRUSHER_START_13"
+msgid "Thing is, I hate zombies. Like, a lot."
+msgstr "Видишь ли, я ненавижу зомби. Сильно."
+
+#, fuzzy
+msgctxt "DIALOG_ZOMBIE_CRUSHER_START_14"
+msgid "Me too."
+msgstr "Я тоже."
+
+#, fuzzy
+msgctxt "DIALOG_ZOMBIE_CRUSHER_START_15"
+msgid "Soooo..."
+msgstr "Иии?"
+
+#, fuzzy
+msgctxt "DIALOG_ZOMBIE_CRUSHER_START_16"
+msgid ""
+"So you want us to go get your keys for you, then you'll use your crane to "
+"move the trash so we can get inside the subway?"
+msgstr ""
+"То есть ты хочешь, чтобы мы тебе достали твои ключи, а потом ты нам краном "
+"подвинешь мусор, чтобы мы могли попасть в метро?"
+
+#, fuzzy
+msgctxt "DIALOG_ZOMBIE_CRUSHER_START_17"
+msgid "Sounds like a plan, dude!"
+msgstr "Неплохой план, чувак!"
+
+#, fuzzy
+msgctxt "DIALOG_ZOMBIE_CRUSHER_START_18"
+msgid "FINE. Let's go, Kyoko."
+msgstr "ОТЛИЧНО. Пойдем, Киоко."
+
+#, fuzzy
+msgctxt "DIALOG_ZOMBIE_CRUSHER_START_19"
+msgid "Wait, don't you wanna know my name?"
+msgstr "Подождите, вы не хотите узнать, как меня зовут?"
+
+#, fuzzy
+msgctxt "DIALOG_ZOMBIE_CRUSHER_START_20"
+msgid "Nope!"
+msgstr "Нет!"
+
+#, fuzzy
+msgctxt "DIALOG_ZOMBIE_CRUSHER_START_21"
+msgid "I'll give you a hint. It rhymes with BENJI."
+msgstr "Я вам подскажу. Рифмуется с БЕНДЖИ."
+
+#, fuzzy
+msgctxt "DIALOG_ZOMBIE_CRUSHER_START_22"
+msgid "Totally don't care!"
+msgstr "Мне это не интересно!"
+
+#, fuzzy
+msgctxt "DIALOG_ZOMBIE_CRUSHER_INCOMPLETE_0"
+msgid "Oh hey, you're back."
+msgstr "Привет, вы вернулись."
+
+#, fuzzy
+msgctxt "DIALOG_ZOMBIE_CRUSHER_INCOMPLETE_1"
+msgid "Yup!"
+msgstr "Ага!"
+
+#, fuzzy
+msgctxt "DIALOG_ZOMBIE_CRUSHER_INCOMPLETE_2"
+msgid "You find my keys?"
+msgstr "Ключи нашли?"
+
+#, fuzzy
+msgctxt "DIALOG_ZOMBIE_CRUSHER_INCOMPLETE_3"
+msgid "Nope."
+msgstr "Нет."
+
+#, fuzzy
+msgctxt "DIALOG_ZOMBIE_CRUSHER_INCOMPLETE_4"
+msgid "Oh. Just missed me, then?"
+msgstr "О. Тогда вы меня потеряли, да?"
+
+#, fuzzy
+msgctxt "DIALOG_ZOMBIE_CRUSHER_INCOMPLETE_5"
+msgid "NOPE! See ya."
+msgstr "НЕТ! Увидимся еще."
+
+#, fuzzy
+msgctxt "DIALOG_ZOMBIE_CRUSHER_COMPLETE_0"
+msgid "Here, we got your dumb keys."
+msgstr "Вот, мы нашли твои дурацкие ключи."
+
+#, fuzzy
+msgctxt "DIALOG_ZOMBIE_CRUSHER_COMPLETE_1"
+msgid "THEY ARE SMELLY AND NOW WE ARE, TOO!"
+msgstr "ОНИ ВОНЯЮТ, А ТЕПЕРЬ И МЫ ТОЖЕ ВОНЯЕМ!"
+
+#, fuzzy
+msgctxt "DIALOG_ZOMBIE_CRUSHER_COMPLETE_2"
+msgid "Sweet, thanks. But, uh... these aren't my keys."
+msgstr "Чудесно, спасибо. Но... это не мои ключи."
+
+#, fuzzy
+msgctxt "DIALOG_ZOMBIE_CRUSHER_COMPLETE_3"
+msgid "What?"
+msgstr "Что?"
+
+#, fuzzy
+msgctxt "DIALOG_ZOMBIE_CRUSHER_COMPLETE_4"
+msgid "But we got them from trash zombies!"
+msgstr "Мы их отобрали у мусорных зомби!"
+
+#, fuzzy
+msgctxt "DIALOG_ZOMBIE_CRUSHER_COMPLETE_5"
+msgid ""
+"Nah, my keys are blue and have a keychain that says \"WICKED.\" But no "
+"biggie, turns out they were in my pocket the whole time."
+msgstr ""
+"Неа, мои ключи голубые и на цепочке написано \"НЕЧИСТЬ\". Но ничего "
+"страшного, оказывается, они все это время были у меня в кармане."
+
+#, fuzzy
+msgctxt "DIALOG_ZOMBIE_CRUSHER_COMPLETE_6"
+msgid "WHAT??"
+msgstr "ЧТО???"
+
+#, fuzzy
+msgctxt "DIALOG_ZOMBIE_CRUSHER_COMPLETE_7"
+msgid "Funny, right?"
+msgstr "Прикольно, да?"
+
+#, fuzzy
+msgctxt "DIALOG_ZOMBIE_CRUSHER_COMPLETE_8"
+msgid "I GOT ZOMBIE BRAINS IN MY MOUTH!"
+msgstr "У МЕНЯ ВО РТУ МОЗГИ ЗОМБИ!"
+
+#, fuzzy
+msgctxt "DIALOG_ZOMBIE_CRUSHER_COMPLETE_9"
+msgid "On purpose?"
+msgstr "Специально?"
+
+#, fuzzy
+msgctxt "DIALOG_ZOMBIE_CRUSHER_COMPLETE_10"
+msgid "Can you move our trash with your crane now?"
+msgstr "А теперь не подвинешь ли мусор своим краном?"
+
+#, fuzzy
+msgctxt "DIALOG_ZOMBIE_CRUSHER_COMPLETE_11"
+msgid "Totally. But first, you gotta guess my name."
+msgstr "Обязательно. Но сначала угадайте, как меня зовут."
+
+#, fuzzy
+msgctxt "DIALOG_ZOMBIE_CRUSHER_COMPLETE_12"
+msgid "No."
+msgstr "Нет."
+
+#, fuzzy
+msgctxt "DIALOG_ZOMBIE_CRUSHER_COMPLETE_13"
+msgid "Fine, whatevs... didn't wanna tell you anyway..."
+msgstr "Ну и прекрасно...все равно не хотел вам говорить..."
+
+#, fuzzy
+msgctxt "DIALOG_ABOBO_START_BATTLE_0"
+msgid "So what're you two supposed to be?"
+msgstr "А вы кто такие будете?"
+
+#, fuzzy
+msgctxt "DIALOG_ABOBO_START_BATTLE_1"
+msgid "Girls?"
+msgstr "Девчонки?"
+
+#, fuzzy
+msgctxt "DIALOG_ABOBO_START_BATTLE_2"
+msgid "High schoolers?"
+msgstr "Старшеклассницы?"
+
+#, fuzzy
+msgctxt "DIALOG_ABOBO_START_BATTLE_3"
+msgid "I'm sorry, I don't understand the question."
+msgstr "Извините, я не понимаю вопрос."
+
+#, fuzzy
+msgctxt "DIALOG_ABOBO_START_BATTLE_4"
+msgid "A pair of scrawny bugs, sneakin' into my web. Whatcha want, bugs?"
+msgstr "Парочка заморышей приползла в мою паутинку. Чего надо, мелюзга?"
+
+#, fuzzy
+msgctxt "DIALOG_ABOBO_START_BATTLE_5"
+msgid "We're looking for our boyfriends."
+msgstr "Мы ищем наших бойфрендов."
+
+#, fuzzy
+msgctxt "DIALOG_ABOBO_START_BATTLE_6"
+msgid ""
+"I can help you with that. My name's Abobo, and I am... currently single."
+msgstr "Могу помочь с этим. Меня зовут Абобо, и я...в данный момент одинок."
+
+#, fuzzy
+msgctxt "DIALOG_ABOBO_START_BATTLE_7"
+msgid "EWW. No, we already HAVE boyfriends."
+msgstr "БУЭ. Нет, у нас УЖЕ ЕСТЬ бойфренды."
+
+#, fuzzy
+msgctxt "DIALOG_ABOBO_START_BATTLE_8"
+msgid "NOT you."
+msgstr "НЕ ты."
+
+#, fuzzy
+msgctxt "DIALOG_ABOBO_START_BATTLE_9"
+msgid "DEFINITELY not you."
+msgstr "ОПРЕДЕЛЕННО не ты."
+
+#, fuzzy
+msgctxt "DIALOG_ABOBO_START_BATTLE_10"
+msgid ""
+"Fine then. Better crawl back outta here, bugs, before I stomp on you both."
+msgstr "Прекрасно. Лучше уползайте обратно, пока я вас обеих не раздавил."
+
+#, fuzzy
+msgctxt "DIALOG_ABOBO_START_BATTLE_11"
+msgid "Did you kidnap our boyfriends?"
+msgstr "Это ты похитил наших бойфрендов?"
+
+#, fuzzy
+msgctxt "DIALOG_ABOBO_START_BATTLE_12"
+msgid "I dunno. I kidnap lotsa people."
+msgstr "Не знаю. Я много кого похищаю."
+
+#, fuzzy
+msgctxt "DIALOG_ABOBO_START_BATTLE_13"
+msgid "Why?"
+msgstr "Почему?"
+
+#, fuzzy
+msgctxt "DIALOG_ABOBO_START_BATTLE_14"
+msgid "My parents didn't love me enough as a baby."
+msgstr "Меня родители в детстве недостаточно любили."
+
+#, fuzzy
+msgctxt "DIALOG_ABOBO_START_BATTLE_15"
+msgid "Wow, that's... strangely honest."
+msgstr "Ого, это... удивительно честно."
+
+#, fuzzy
+msgctxt "DIALOG_ABOBO_START_BATTLE_16"
+msgid "And so SAD! Misako, I'm gonna cry..."
+msgstr "И так ГРУСТНО! Мисако, я сейчас заплачу..."
+
+#, fuzzy
+msgctxt "DIALOG_ABOBO_START_BATTLE_17"
+msgid ""
+"Well either you took 'em or you didn't! Now answer me, before I slam your "
+"thick skull through these walls."
+msgstr ""
+"Ты либо забрал их, либо нет! Отвечай сейчас же, пока я твой толстый череп об"
+" стенку не приложила!"
+
+#, fuzzy
+msgctxt "DIALOG_ABOBO_START_BATTLE_18"
+msgid "Hahaha, you got a mouth on you, sweetie."
+msgstr "А у тебя язычок острый, детка."
+
+#, fuzzy
+msgctxt "DIALOG_ABOBO_START_BATTLE_19"
+msgid "Got a coupla fists, too!"
+msgstr "И парочка кулаков найдется!"
+
+#, fuzzy
+msgctxt "DIALOG_ABOBO_START_BATTLE_20"
+msgid "Yeah? Let's see how well you can work 'em."
+msgstr "Да? Посмотрим, как ты ими работаешь!"
+
+#, fuzzy
+msgctxt "DIALOG_ABOBO_DEFEAT_0"
+msgid "Okay okay, I know when I'm beat. You girls are tougher than you look."
+msgstr ""
+"Хорошо, хорошо, я знаю, когда сдаваться. Вы двое покрепче будете, чем "
+"выглядите."
+
+#, fuzzy
+msgctxt "DIALOG_ABOBO_DEFEAT_1"
+msgid "Nah, we're just tougher than YOU look."
+msgstr "Неа, мы просто покрепче, чем ТЫ выглядишь."
+
+#, fuzzy
+msgctxt "DIALOG_ABOBO_DEFEAT_2"
+msgid "What about the boys in this photo?"
+msgstr "Как насчет мальчиков на фотографии?"
+
+#, fuzzy
+msgctxt "DIALOG_ABOBO_DEFEAT_3"
+msgid "Hmmm... sorry, but I ain't seen 'em."
+msgstr "Хмм...нет, извините, не встречал."
+
+#, fuzzy
+msgctxt "DIALOG_ABOBO_DEFEAT_4"
+msgid "But you kidnap, like, EVERYONE!"
+msgstr "Но ты похищаешь ВСЕХ ПОДРЯД!"
+
+#, fuzzy
+msgctxt "DIALOG_ABOBO_DEFEAT_5"
+msgid "So then maybe they weren't kidnapped."
+msgstr "Значит, может быть, их не похищали."
+
+#, fuzzy
+msgctxt "DIALOG_ABOBO_DEFEAT_6"
+msgid "But then... where are they?"
+msgstr "Но тогда... где они?"
+
+#, fuzzy
+msgctxt "DIALOG_ABOBO_DEFEAT_7"
+msgid ""
+"Who knows. Geez, you two really did a number on me. Dunno how I can pull "
+"tonight's shift in this condition."
+msgstr ""
+"Откуда я знаю. Вы двое меня сильно потрепали. Даже не знаю, как буду сегодня"
+" в ночную смену работать."
+
+#, fuzzy
+msgctxt "DIALOG_ABOBO_DEFEAT_8"
+msgid "Shift?"
+msgstr "Смену?"
+
+#, fuzzy
+msgctxt "DIALOG_ABOBO_DEFEAT_9"
+msgid "I was supposed to run security at the NOIZE concert tonight."
+msgstr "Я сегодня должен быть охранником на концерте NOIZE."
+
+#, fuzzy
+msgctxt "DIALOG_ABOBO_DEFEAT_10"
+msgid "I thought you kidnapped people for money."
+msgstr "Я думала, ты похищаешь людей ради денег."
+
+#, fuzzy
+msgctxt "DIALOG_ABOBO_DEFEAT_11"
+msgid "Yeah, but it don't pay what it used to."
+msgstr "Да, но теперь это не приносит достаточно денег."
+
+#, fuzzy
+msgctxt "DIALOG_ABOBO_DEFEAT_12"
+msgid "Who's NOIZE?"
+msgstr "Кто такая NOIZE?"
+
+#, fuzzy
+msgctxt "DIALOG_ABOBO_DEFEAT_13"
+msgid ""
+"You don't know NOIZE? Everyone listens to her music! I got all her albums, "
+"even the rare import stuff!"
+msgstr ""
+"Вы не знаете NOIZE? Все слушают ее музыку! У меня есть все ее альбомы, даже "
+"редкие импортированные вещи!"
+
+#, fuzzy
+msgctxt "DIALOG_ABOBO_DEFEAT_14"
+msgid "Music hurts my ears."
+msgstr "Музыка мне по ушам бьет."
+
+#, fuzzy
+msgctxt "DIALOG_ABOBO_DEFEAT_15"
+msgid ""
+"She's performing in Ocean Heights, go check it out. Practically every boy in"
+" River City goes missing when NOIZE is in town."
+msgstr ""
+"Она выступает в Океанских высотах, сходите посмотрите. Практически каждый "
+"мальчик в Ривер-сити исчезает, когда NOIZE в городе."
+
+#, fuzzy
+msgctxt "DIALOG_ABOBO_DEFEAT_16"
+msgid "Kunio's not like that!"
+msgstr "Кунио не такой!"
+
+#, fuzzy
+msgctxt "DIALOG_ABOBO_DEFEAT_17"
+msgid "Riki would never!"
+msgstr "Рики бы ни за что!"
+
+#, fuzzy
+msgctxt "DIALOG_ABOBO_DEFEAT_18"
+msgid "Whatever you say, hehehe..."
+msgstr "Говорите, говорите..."
+
+#, fuzzy
+msgctxt "DIALOG_WERE_ON_THE_LIST_START_0"
+msgid "Yo, is this NOIZE's yacht?"
+msgstr "Эй, это яхта NOIZE?"
+
+#, fuzzy
+msgctxt "DIALOG_WERE_ON_THE_LIST_START_1"
+msgid "So what if it is?"
+msgstr "Даже если и так, что с того?"
+
+#, fuzzy
+msgctxt "DIALOG_WERE_ON_THE_LIST_START_2"
+msgid "Let us aboard! We got business with her."
+msgstr "Впустите нас! У нас к ней дело."
+
+#, fuzzy
+msgctxt "DIALOG_WERE_ON_THE_LIST_START_3"
+msgid "So what if you do?"
+msgstr "И что с того?"
+
+#, fuzzy
+msgctxt "DIALOG_WERE_ON_THE_LIST_START_4"
+msgid "Please? We're in love."
+msgstr "Пожалуйста! Мы влюблены."
+
+#, fuzzy
+msgctxt "DIALOG_WERE_ON_THE_LIST_START_5"
+msgid "You and everyone else. But NOIZE don't love you, so beat it."
+msgstr "Как и все остальные. Но NOIZE вас не любит, смиритесь."
+
+#, fuzzy
+msgctxt "DIALOG_WERE_ON_THE_LIST_START_6"
+msgid "Not with HER! I'm in love with Riki!"
+msgstr "Не в НЕЕ! В Рики!"
+
+#, fuzzy
+msgctxt "DIALOG_WERE_ON_THE_LIST_START_7"
+msgid "I don't know who that is."
+msgstr "Я не знаю, кто это."
+
+#, fuzzy
+msgctxt "DIALOG_WERE_ON_THE_LIST_START_8"
+msgid "And Kunio!"
+msgstr "И Кунио!"
+
+#, fuzzy
+msgctxt "DIALOG_WERE_ON_THE_LIST_START_9"
+msgid "Still don't know. Or care. Now beat it."
+msgstr "Все равно не знаю. И не хочу знать. Живите с этим."
+
+#, fuzzy
+msgctxt "DIALOG_WERE_ON_THE_LIST_START_10"
+msgid "I'll beat you!"
+msgstr "Я тебя убью!"
+
+#, fuzzy
+msgctxt "DIALOG_WERE_ON_THE_LIST_START_11"
+msgid "Look, mister... what did you say your name was?"
+msgstr "Слушай, мистер...как, ты сказал, тебя зовут?"
+
+#, fuzzy
+msgctxt "DIALOG_WERE_ON_THE_LIST_START_12"
+msgid "I didn't."
+msgstr "Я не говорил."
+
+#, fuzzy
+msgctxt "DIALOG_WERE_ON_THE_LIST_START_13"
+msgid "There must be SOME way we can get on that yacht."
+msgstr "Должен же быть СПОСОБ попасть на яхту!"
+
+#, fuzzy
+msgctxt "DIALOG_WERE_ON_THE_LIST_START_14"
+msgid "Not without a VIP pass."
+msgstr "Без VIP-пропуска - нет."
+
+#, fuzzy
+msgctxt "DIALOG_WERE_ON_THE_LIST_START_15"
+msgid "And where can we get one of those?"
+msgstr "А где их можно достать?"
+
+#, fuzzy
+msgctxt "DIALOG_WERE_ON_THE_LIST_START_16"
+msgid "Degenerates like you will never be VIP."
+msgstr "Дегенераты вроде вас никогда не станут VIP."
+
+#, fuzzy
+msgctxt "DIALOG_WERE_ON_THE_LIST_START_17"
+msgid "WHAT DID HE SAY??"
+msgstr "ЧТО ОН СКАЗАЛ???"
+
+#, fuzzy
+msgctxt "DIALOG_WERE_ON_THE_LIST_START_18"
+msgid "Okay, we understand! See ya later. C'mon, Misako..."
+msgstr "Хорошо, мы поняли. Еще увидимся. Пошли, Мисако..."
+
+#, fuzzy
+msgctxt "DIALOG_SUPER_FANS_START_0"
+msgid "May I help you?"
+msgstr "Могу я вам помочь?"
+
+#, fuzzy
+msgctxt "DIALOG_SUPER_FANS_START_1"
+msgid "Hey, Jeeves. We need some info."
+msgstr "Привет, Дживс. Нам надо кое-что узнать."
+
+#, fuzzy
+msgctxt "DIALOG_SUPER_FANS_START_2"
+msgid "The shelter is on 8th Street."
+msgstr "Ночлежка находится на Восьмой улице."
+
+#, fuzzy
+msgctxt "DIALOG_SUPER_FANS_START_3"
+msgid "What? No, we're not homeless."
+msgstr "Что? Нет, мы не бездомные."
+
+#, fuzzy
+msgctxt "DIALOG_SUPER_FANS_START_4"
+msgid "Why, do we LOOK homeless?"
+msgstr "Мы ПОХОЖИ на бездомных?"
+
+#, fuzzy
+msgctxt "DIALOG_SUPER_FANS_START_5"
+msgid "You don't NOT look homeless."
+msgstr "Вы не то чтобы НЕ похожи на бездомных."
+
+#, fuzzy
+msgctxt "DIALOG_SUPER_FANS_START_6"
+msgid "We need VIP passes to the NOIZE concert. Got any?"
+msgstr "Нам нужны VIP-пропуска на концерт NOIZE. У тебя найдутся?"
+
+#, fuzzy
+msgctxt "DIALOG_SUPER_FANS_START_7"
+msgid "I have ONE pair of VIP passes for NOIZE's ultimate fans."
+msgstr "У меня есть ОДНА пара VIP-пропусков для самых преданных фанов NOIZE."
+
+#, fuzzy
+msgctxt "DIALOG_SUPER_FANS_START_8"
+msgid "Well yeah, I mean, that's us."
+msgstr "Отлично, я имею в виду, решено."
+
+#, fuzzy
+msgctxt "DIALOG_SUPER_FANS_START_9"
+msgid "Sure is!"
+msgstr "Решено!"
+
+#, fuzzy
+msgctxt "DIALOG_SUPER_FANS_START_10"
+msgid "Oh really? Then I'm sure you can answer these 3 questions about her."
+msgstr "Правда? Тогда вы точно сможете ответить на три вопроса о ней."
+
+#, fuzzy
+msgctxt "DIALOG_SUPER_FANS_START_11"
+msgid "Obviously."
+msgstr "Несомненно."
+
+#, fuzzy
+msgctxt "DIALOG_SUPER_FANS_START_12"
+msgid "What is NOIZE's favorite food?"
+msgstr "Какая любимая еда NOIZE?"
+
+#, fuzzy
+msgctxt "DIALOG_SUPER_FANS_START_13"
+msgid "Uh... milkshakes?"
+msgstr "Хм...молочные коктейли?"
+
+#, fuzzy
+msgctxt "DIALOG_SUPER_FANS_START_14"
+msgid "No. Her dog's name?"
+msgstr "Нет. Как зовут ее собаку?"
+
+#, fuzzy
+msgctxt "DIALOG_SUPER_FANS_START_15"
+msgid "Captain... Barkington?"
+msgstr "Капитан...Гавкинс?"
+
+#, fuzzy
+msgctxt "DIALOG_SUPER_FANS_START_16"
+msgid "No. Her home town?"
+msgstr "Нет. Ее родной город?"
+
+#, fuzzy
+msgctxt "DIALOG_SUPER_FANS_START_17"
+msgid "Uh... here?"
+msgstr "Эээ...этот?"
+
+#, fuzzy
+msgctxt "DIALOG_SUPER_FANS_START_18"
+msgid ""
+"BEGONE. I await a pair of NOIZE's TRUE superfans. Only they shall be her "
+"VIPs."
+msgstr ""
+"ИЗЫДИТЕ. Я ожидаю НАСТОЯЩИХ суперфанов NOIZE. Только они будут ее VIP-"
+"гостями."
+
+#, fuzzy
+msgctxt "DIALOG_SUPER_FANS_INCOMPLETE_0"
+msgid "May I help you?"
+msgstr "Могу я вам помочь?"
+
+#, fuzzy
+msgctxt "DIALOG_SUPER_FANS_INCOMPLETE_1"
+msgid "See? Told you he wouldn't remember us!"
+msgstr "Смотри! Я тебе говорила, он нас не вспомнит!"
+
+#, fuzzy
+msgctxt "DIALOG_SUPER_FANS_INCOMPLETE_2"
+msgid "No, but I can hear you."
+msgstr "Нет, но я вас слышу."
+
+#, fuzzy
+msgctxt "DIALOG_SUPER_FANS_INCOMPLETE_3"
+msgid "We're here for VIP passes to the NOIZE concert."
+msgstr "Мы пришли за VIP-пропусками на концерт NOIZE."
+
+#, fuzzy
+msgctxt "DIALOG_SUPER_FANS_INCOMPLETE_4"
+msgid "That's us. We're very VIP persons."
+msgstr "Это мы. Мы очень VIP-персоны."
+
+#, fuzzy
+msgctxt "DIALOG_SUPER_FANS_INCOMPLETE_5"
+msgid "Is that so?"
+msgstr "Вы так думаете?"
+
+#, fuzzy
+msgctxt "DIALOG_SUPER_FANS_INCOMPLETE_6"
+msgid "Yes?"
+msgstr "Да?"
+
+#, fuzzy
+msgctxt "DIALOG_SUPER_FANS_INCOMPLETE_7"
+msgid "Then answer me three questions..."
+msgstr "Тогда ответьте на три вопроса..."
+
+#, fuzzy
+msgctxt "DIALOG_SUPER_FANS_INCOMPLETE_8"
+msgid "Okay, this ain't gonna work. We'll be back."
+msgstr "Нет, это не пройдет. Мы позже зайдем."
+
+#, fuzzy
+msgctxt "DIALOG_SUPER_FANS_INCOMPLETE_9"
+msgid "Bye!"
+msgstr "Пока!"
+
+#, fuzzy
+msgctxt "DIALOG_KAORI_SUPER_FANS_0"
+msgid "Look, it's Kaori!"
+msgstr "Смотри, это Каори!"
+
+#, fuzzy
+msgctxt "DIALOG_KAORI_SUPER_FANS_1"
+msgid "Oh hey. Are you guys here for the NOIZE concert?"
+msgstr "О, привет. Вы пришли на концерт NOIZE?"
+
+#, fuzzy
+msgctxt "DIALOG_KAORI_SUPER_FANS_2"
+msgid "Sorta."
+msgstr "Примерно."
+
+#, fuzzy
+msgctxt "DIALOG_KAORI_SUPER_FANS_3"
+msgid "Can you believe she FINALLY came back to River City?"
+msgstr "Вы можете поверить, что она НАКОНЕЦ-ТО вернулась в Ривер-сити?"
+
+#, fuzzy
+msgctxt "DIALOG_KAORI_SUPER_FANS_4"
+msgid "Yeahhhh, totally."
+msgstr "Даааа, несомненно."
+
+#, fuzzy
+msgctxt "DIALOG_KAORI_SUPER_FANS_5"
+msgid "I mean, how long has it BEEN, right?"
+msgstr "То есть, как ДАВНО ее тут не было?"
+
+#, fuzzy
+msgctxt "DIALOG_KAORI_SUPER_FANS_6"
+msgid "Um, thirteen...?"
+msgstr "Ммм, тринадцать...?"
+
+#, fuzzy
+msgctxt "DIALOG_KAORI_SUPER_FANS_7"
+msgid "At LEAST six months!"
+msgstr "ПО КРАЙНЕЙ МЕРЕ шесть месяцев!"
+
+#, fuzzy
+msgctxt "DIALOG_KAORI_SUPER_FANS_8"
+msgid "Oh yeah. Maybe longer even?"
+msgstr "О да. Может быть, даже и дольше?"
+
+#, fuzzy
+msgctxt "DIALOG_KAORI_SUPER_FANS_9"
+msgid "I think maybe, yeah!"
+msgstr "Думаю, может быть, даже и так!"
+
+#, fuzzy
+msgctxt "DIALOG_KAORI_SUPER_FANS_10"
+msgid "Anyway, you don't have any extra passes to the concert, do you?"
+msgstr "В любом случае, не найдется лишних пропусков на концерт случайно?"
+
+#, fuzzy
+msgctxt "DIALOG_KAORI_SUPER_FANS_11"
+msgid "Hahahaha, that's a good one! You know they sold out months ago."
+msgstr ""
+"Ха-ха-ха, хорошая попытка! Вы же знаете, что они давным-давно распроданы."
+
+#, fuzzy
+msgctxt "DIALOG_KAORI_SUPER_FANS_12"
+msgid "Yeahhhh... I'm hilarious."
+msgstr "Даааа, я смешная."
+
+#, fuzzy
+msgctxt "DIALOG_KAORI_SUPER_FANS_13"
+msgid "You could only get them in NOIZE's home town."
+msgstr "Их можно найти только в родном городе NOIZE."
+
+#, fuzzy
+msgctxt "DIALOG_KAORI_SUPER_FANS_14"
+msgid "Where was that again...?"
+msgstr "Напомни еще разок, где это?"
+
+#, fuzzy
+msgctxt "DIALOG_KAORI_SUPER_FANS_15"
+msgid "Bunsonville."
+msgstr "Бансонвилл."
+
+#, fuzzy
+msgctxt "DIALOG_KAORI_SUPER_FANS_16"
+msgid "Perfect, later!"
+msgstr "Прекрасно, пока!"
+
+#, fuzzy
+msgctxt "DIALOG_KAORI_SUPER_FANS_17"
+msgid "Wait, don't you guys wanna hang?"
+msgstr "Погоди, вы разве не хотите позависать?"
+
+#, fuzzy
+msgctxt "DIALOG_KAORI_SUPER_FANS_18"
+msgid "Sorry, we gotta jet!"
+msgstr "Извини, улетаем!"
+
+#, fuzzy
+msgctxt "DIALOG_KAORI_SUPER_FANS_19"
+msgid "Bye, Kaori!"
+msgstr "Пока, Каори!"
+
+#, fuzzy
+msgctxt "DIALOG_KAORI_SUPER_FANS_20"
+msgid "I wanted to hang..."
+msgstr "Я хотела позависать..."
+
+#, fuzzy
+msgctxt "DIALOG_MIHOKO_SUPER_FANS_0"
+msgid "Kyoko! Misako! Heyyyy!"
+msgstr "Киоко! Мисако! Ээээй!"
+
+#, fuzzy
+msgctxt "DIALOG_MIHOKO_SUPER_FANS_1"
+msgid "It's Mihoko, isn't it...?"
+msgstr "Это Миоко, разве нет?"
+
+#, fuzzy
+msgctxt "DIALOG_MIHOKO_SUPER_FANS_2"
+msgid "Yeahhh... Hi, Mihoko!"
+msgstr "Даааа...привет, Миоко!"
+
+#, fuzzy
+msgctxt "DIALOG_MIHOKO_SUPER_FANS_3"
+msgid "It's so funny running into you guys out here!"
+msgstr "Так забавно вас тут встретить!"
+
+#, fuzzy
+msgctxt "DIALOG_MIHOKO_SUPER_FANS_4"
+msgid "Hilarious."
+msgstr "Уморительно."
+
+#, fuzzy
+msgctxt "DIALOG_MIHOKO_SUPER_FANS_5"
+msgid "What are you up to?"
+msgstr "Что делаете?"
+
+#, fuzzy
+msgctxt "DIALOG_MIHOKO_SUPER_FANS_6"
+msgid ""
+"Walking my dog! Isn't she the cutest, wootest, widdle doggy EVEW?? Guess "
+"what her name is."
+msgstr ""
+"Собаку выгуливаю! Разве это не самая миленькая, самая сладенькая масенькая "
+"собачечка на светике? Угадайте, как ее зовут."
+
+#, fuzzy
+msgctxt "DIALOG_MIHOKO_SUPER_FANS_7"
+msgid "Garbage Face?"
+msgstr "Помойная морда?"
+
+#, fuzzy
+msgctxt "DIALOG_MIHOKO_SUPER_FANS_8"
+msgid "What?? No. It's... it's Molly McMuffins."
+msgstr "Что??? Нет. Ее зовут Молли МакБулкинс."
+
+#, fuzzy
+msgctxt "DIALOG_MIHOKO_SUPER_FANS_9"
+msgid "She's SUPER cute. Right, Misako?"
+msgstr "И она НЕВЕРОЯТНО милая. Правда, Мисако?"
+
+#, fuzzy
+msgctxt "DIALOG_MIHOKO_SUPER_FANS_10"
+msgid "Yeah. Totally."
+msgstr "Ага. Абсолютно."
+
+#, fuzzy
+msgctxt "DIALOG_MIHOKO_SUPER_FANS_11"
+msgid ""
+"Yesterday, we even ran into NOIZE walking her dog on the beach. Can you "
+"believe it??"
+msgstr ""
+"Вчера мы встретили NOIZE, она выгуливала свою собачку на пляже. Можете себе "
+"представить?"
+
+#, fuzzy
+msgctxt "DIALOG_MIHOKO_SUPER_FANS_12"
+msgid "Did you catch her dog's name?"
+msgstr "Вы не расслышали, как ее собаку зовут?"
+
+#, fuzzy
+msgctxt "DIALOG_MIHOKO_SUPER_FANS_13"
+msgid "Oh yeah."
+msgstr "Ага."
+
+#, fuzzy
+msgctxt "DIALOG_MIHOKO_SUPER_FANS_14"
+msgid "Awesome!"
+msgstr "Превосходно!"
+
+#, fuzzy
+msgctxt "DIALOG_MIHOKO_SUPER_FANS_15"
+msgid "Totally."
+msgstr "Абсолютно."
+
+#, fuzzy
+msgctxt "DIALOG_MIHOKO_SUPER_FANS_16"
+msgid "So are you guys headed to the fair or...?"
+msgstr "Значит, вы собираетесь на праздник, или нет?"
+
+#, fuzzy
+msgctxt "DIALOG_MIHOKO_SUPER_FANS_17"
+msgid "WHAT WAS HER DOG'S NAME??"
+msgstr "КАК ЗОВУТ ЕЕ СОБАКУ???"
+
+#, fuzzy
+msgctxt "DIALOG_MIHOKO_SUPER_FANS_18"
+msgid "Oh, her dog's name is Dog."
+msgstr "О, ее собачку зовут Собака."
+
+#, fuzzy
+msgctxt "DIALOG_MIHOKO_SUPER_FANS_19"
+msgid "But, like, D-A-W-G Dawg, you know? Like how the cool kids say it?"
+msgstr "Точнее, СЦО-БА-КО, Сцобако, да? Как сейчас круто говорить?"
+
+#, fuzzy
+msgctxt "DIALOG_MIHOKO_SUPER_FANS_20"
+msgid "I hate everything about this conversation."
+msgstr "Мне в этом разговоре не нравится примерно все."
+
+#, fuzzy
+msgctxt "DIALOG_MIHOKO_SUPER_FANS_21"
+msgid "Thanks so much! We've gotta get running. Bye, Mihoko!"
+msgstr "Спасибо огромное! Нам пора бежать. Пока, Миоко!"
+
+#, fuzzy
+msgctxt "DIALOG_MIHOKO_SUPER_FANS_22"
+msgid "Bye, Kyoko! Bye, Misako! Say bye to the nice ladies, Molly McMuffins!"
+msgstr "Пока, Киоко! Пока, Мисако! Попрощайся с девушками, Молли МакБулкинс!"
+
+#, fuzzy
+msgctxt "DIALOG_SUPER_FANS_COMPLETE_0"
+msgid "May I help you?"
+msgstr "Могу я вам помочь?"
+
+#, fuzzy
+msgctxt "DIALOG_SUPER_FANS_COMPLETE_1"
+msgid ""
+"We're here for VIP passes to the NOIZE concert! We're her number one fans."
+msgstr ""
+"Мы пришли за VIP-пропусками на концерт NOIZE. Мы ее самые преданные фаны."
+
+#, fuzzy
+msgctxt "DIALOG_SUPER_FANS_COMPLETE_2"
+msgid "Oh really?"
+msgstr "Правда?"
+
+#, fuzzy
+msgctxt "DIALOG_SUPER_FANS_COMPLETE_3"
+msgid "Like... the biggest. Yay. Go NOIZE and stuff."
+msgstr "Типа...самые большие фаны. Вау. Вперед, NOIZE, и тому подобное."
+
+#, fuzzy
+msgctxt "DIALOG_SUPER_FANS_COMPLETE_4"
+msgid "Hmm. If you are indeed her biggest fans, what is her-"
+msgstr "Хммм. Если вы в самом деле ее большие фаны, то что..."
+
+#, fuzzy
+msgctxt "DIALOG_SUPER_FANS_COMPLETE_5"
+msgid "Fatty Tuna!"
+msgstr "Тунец!"
+
+#, fuzzy
+msgctxt "DIALOG_SUPER_FANS_COMPLETE_6"
+msgid "And where-"
+msgstr "И где..."
+
+#, fuzzy
+msgctxt "DIALOG_SUPER_FANS_COMPLETE_7"
+msgid "Bunsonville!"
+msgstr "Бансонвилл!"
+
+#, fuzzy
+msgctxt "DIALOG_SUPER_FANS_COMPLETE_8"
+msgid "And-"
+msgstr "И..."
+
+#, fuzzy
+msgctxt "DIALOG_SUPER_FANS_COMPLETE_9"
+msgid "Dawg! But how the cool kids spell it."
+msgstr "Сцобако! Так говорят крутые дети."
+
+#, fuzzy
+msgctxt "DIALOG_SUPER_FANS_COMPLETE_10"
+msgid "I'm impressed. Here are two VIP passes to the concert, enjoy."
+msgstr "Я впечатлен. Вот два VIP-билета на концерт, развлекайтесь."
+
+#, fuzzy
+msgctxt "DIALOG_SUPER_FANS_COMPLETE_11"
+msgid "And you seriously don't remember us?"
+msgstr "А ты правда нас не помнишь?"
+
+#, fuzzy
+msgctxt "DIALOG_SUPER_FANS_COMPLETE_12"
+msgid "No. Should I?"
+msgstr "Нет. А должен?"
+
+#, fuzzy
+msgctxt "DIALOG_SUPER_FANS_COMPLETE_13"
+msgid "Nope! Thanks for the passes!"
+msgstr "Неа. Спасибо за пропуска!"
+
+#, fuzzy
+msgctxt "DIALOG_WERE_ON_THE_LIST_COMPLETE_0"
+msgid "We got VIP passes!"
+msgstr "Мы достали VIP-пропуска!"
+
+#, fuzzy
+msgctxt "DIALOG_WERE_ON_THE_LIST_COMPLETE_1"
+msgid "Yeah, so scram off!"
+msgstr "Да, валим отсюда!!!"
+
+#, fuzzy
+msgctxt "DIALOG_WERE_ON_THE_LIST_COMPLETE_2"
+msgid "Are these legitimate?"
+msgstr "Они настоящие?"
+
+#, fuzzy
+msgctxt "DIALOG_WERE_ON_THE_LIST_COMPLETE_3"
+msgid "YES, and so's my fist if you don't get outta our way!"
+msgstr "Да, и мой кулак тоже, если ты не уберешься с дороги!"
+
+#, fuzzy
+msgctxt "DIALOG_WERE_ON_THE_LIST_COMPLETE_4"
+msgid "Your fist is legitimate?"
+msgstr "Твой кулак настоящий?"
+
+#, fuzzy
+msgctxt "DIALOG_WERE_ON_THE_LIST_COMPLETE_5"
+msgid ""
+"Hehe, we're kind of in a hurry, sir. Really big NOIZE fans and we don't "
+"wanna miss the first song."
+msgstr ""
+"Хи-хи, мы немножко торопимся, сэр. Мы фанатеем от NOIZE, нам бы не хотелось "
+"пропустить первую песню."
+
+#, fuzzy
+msgctxt "DIALOG_WERE_ON_THE_LIST_COMPLETE_6"
+msgid "The passes are good. Enjoy the show."
+msgstr "Пропуска настоящие. Получайте удовольствие."
+
+#, fuzzy
+msgctxt "DIALOG_NOIZE_PROLOGUE_0"
+msgid "I SAID, ARE YOU READY TO ROCK???"
+msgstr "Я СПРАШИВАЮ, ВЫ ГОТОВЫ ЗАЖЕЧЬ?"
+
+#, fuzzy
+msgctxt "DIALOG_NOIZE_PROLOGUE_1"
+msgid "NO! We are ready to LOVE!"
+msgstr "НЕТ! Мы готовы ЛЮБИТЬ!"
+
+#, fuzzy
+msgctxt "DIALOG_NOIZE_PROLOGUE_2"
+msgid "What?"
+msgstr "Что?"
+
+#, fuzzy
+msgctxt "DIALOG_NOIZE_PROLOGUE_3"
+msgid "Give us back our boyfriends!"
+msgstr "Верни нам наших бойфрендов!"
+
+#, fuzzy
+msgctxt "DIALOG_NOIZE_PROLOGUE_4"
+msgid "Yeah, we miss their snuggles!"
+msgstr "Да, нам не хватает их обнимашек!"
+
+#, fuzzy
+msgctxt "DIALOG_NOIZE_PROLOGUE_5"
+msgid "SECURITY! We got some more crazies up here..."
+msgstr "ОХРАНА! У нас тут какие-то сумасшедшие..."
+
+#, fuzzy
+msgctxt "DIALOG_NOIZE_PROLOGUE_6"
+msgid "Whatsa matter, can't deal with us yourself?"
+msgstr "В чем дело, ты сама с нами справиться не можешь?"
+
+#, fuzzy
+msgctxt "DIALOG_NOIZE_PROLOGUE_7"
+msgid "You callin' me a wuss?"
+msgstr "Ты меня слабачкой назвала?"
+
+#, fuzzy
+msgctxt "DIALOG_NOIZE_PROLOGUE_8"
+msgid "If the shoe fits."
+msgstr "На воре и шапка горит."
+
+#, fuzzy
+msgctxt "DIALOG_NOIZE_PROLOGUE_9"
+msgid "Misako, her shoes are, like, hella amazing."
+msgstr "Мисако, ее голова, вообще-то, прекрасна."
+
+#, fuzzy
+msgctxt "DIALOG_NOIZE_PROLOGUE_10"
+msgid "Yeah, they kinda are..."
+msgstr "Да, да, прекрасна..."
+
+#, fuzzy
+msgctxt "DIALOG_NOIZE_PROLOGUE_11"
+msgid ""
+"ENOUGH! I didn't steal yer boyfriends, but if they ditched you to be here "
+"tonight, heh... what else is new?"
+msgstr ""
+"ДОВОЛЬНО! Я не крала ваших бойфрендов, но если они вас бросили, чтобы прийти"
+" сегодня сюда...то в этом нет ничего нового!"
+
+#, fuzzy
+msgctxt "DIALOG_NOIZE_PROLOGUE_12"
+msgid "Wipe that smirk off yer face before I PUNCH it off!"
+msgstr "Убери эту ухмылку, пока я ее тебе с лица не СБИЛА!"
+
+#, fuzzy
+msgctxt "DIALOG_NOIZE_PROLOGUE_13"
+msgid "I'd like to see you try, Dinglebutt."
+msgstr "Хотела бы я на это посмотреть, Козявочка."
+
+#, fuzzy
+msgctxt "DIALOG_NOIZE_PROLOGUE_14"
+msgid "Dinglebutt?"
+msgstr "Козявочка?"
+
+#, fuzzy
+msgctxt "DIALOG_NOIZE_PROLOGUE_15"
+msgid "It's an insult, you tool!"
+msgstr "Это оскорбление, дура!"
+
+#, fuzzy
+msgctxt "DIALOG_NOIZE_PROLOGUE_16"
+msgid "Nobody insults me but ME!"
+msgstr "Никто не может меня оскорблять, кроме МЕНЯ!"
+
+#, fuzzy
+msgctxt "DIALOG_NOIZE_PROLOGUE_17"
+msgid ""
+"Get bent. Get wrecked. Get beat, get sliced, get destroyed, and get off my "
+"stage!"
+msgstr "Наклонись, нажрись, нарвись, самоликвидируйся и исчезни с моей сцены!"
+
+#, fuzzy
+msgctxt "DIALOG_NOIZE_PROLOGUE_18"
+msgid "Nozomi, is that you?"
+msgstr "Нозоми, это ты?"
+
+#, fuzzy
+msgctxt "DIALOG_NOIZE_PROLOGUE_19"
+msgid "W-WHAT???"
+msgstr "ЧТО-О-О???"
+
+#, fuzzy
+msgctxt "DIALOG_NOIZE_START_BATTLE_0"
+msgid ""
+"But you WEREN'T my best friend! You LEFT a month later and I was ALL ALONE!"
+msgstr ""
+"Но ты НЕ БЫЛА моей лучшей подружкой! Ты УШЛА месяцем позже и я была СОВСЕМ "
+"ОДНА!"
+
+#, fuzzy
+msgctxt "DIALOG_NOIZE_START_BATTLE_1"
+msgid "I got expelled for stealing basketball hoops."
+msgstr "Меня исключили за кражу баскетбольных колец."
+
+#, fuzzy
+msgctxt "DIALOG_NOIZE_START_BATTLE_2"
+msgid "That's where you got all those?"
+msgstr "Это там ты все это добыла?"
+
+#, fuzzy
+msgctxt "DIALOG_NOIZE_START_BATTLE_3"
+msgid "Uh huh."
+msgstr "Хм-м."
+
+#, fuzzy
+msgctxt "DIALOG_NOIZE_START_BATTLE_4"
+msgid "Weirdo."
+msgstr "Чудачка."
+
+#, fuzzy
+msgctxt "DIALOG_NOIZE_START_BATTLE_5"
+msgid "ENOUGH!"
+msgstr "ДОВОЛЬНО!"
+
+#, fuzzy
+msgctxt "DIALOG_NOIZE_START_BATTLE_6"
+msgid "You come on MY STAGE! And embarrass ME! In front of MY FANS???"
+msgstr "Ты забралась КО МНЕ НА СЦЕНУ! И позоришь МЕНЯ! Перед моими ФАНАМИ!"
+
+#, fuzzy
+msgctxt "DIALOG_NOIZE_START_BATTLE_7"
+msgid "We've got VIP passes."
+msgstr "У нас VIP-пропуска."
+
+#, fuzzy
+msgctxt "DIALOG_NOIZE_START_BATTLE_8"
+msgid "Yeah, can't we be up here?"
+msgstr "Нам нельзя тут находиться?"
+
+#, fuzzy
+msgctxt "DIALOG_NOIZE_START_BATTLE_9"
+msgid "So you're big fans, huh?"
+msgstr "То есть вы мои фаны, да?"
+
+#, fuzzy
+msgctxt "DIALOG_NOIZE_START_BATTLE_10"
+msgid "I know your dog's name is Dawg."
+msgstr "Я знаю, что твою собаку зовут Сцобако."
+
+#, fuzzy
+msgctxt "DIALOG_NOIZE_START_BATTLE_11"
+msgid "Then get ready for this next song. It's a real... KILLER TRACK."
+msgstr ""
+"Тогда приготовьтесь к следующей песне. Это настоящая...УБИЙСТВЕННАЯ ЗАПИСЬ."
+
+#, fuzzy
+msgctxt "DIALOG_NOIZE_START_BATTLE_12"
+msgid "She's going to murder us now, isn't she?"
+msgstr "Она нас собирается сейчас убить, да?"
+
+#, fuzzy
+msgctxt "DIALOG_NOIZE_START_BATTLE_13"
+msgid "Yup."
+msgstr "Угу."
+
+#, fuzzy
+msgctxt "DIALOG_NOIZE_DEFEAT_0"
+msgid "You girls are so... METAL."
+msgstr "Вы двое прямо...МЕТАЛЛИСТЫ."
+
+#, fuzzy
+msgctxt "DIALOG_NOIZE_DEFEAT_1"
+msgid "I prefer trip hop."
+msgstr "Я предпочитаю трип-хоп."
+
+#, fuzzy
+msgctxt "DIALOG_NOIZE_DEFEAT_2"
+msgid "We survived your song, now tell us where Kunio and Riki are!"
+msgstr "Мы пережили твою песню, теперь скажи нам, где Кунио и Рики!"
+
+#, fuzzy
+msgctxt "DIALOG_NOIZE_DEFEAT_3"
+msgid "I have no idea where your boyfriends are. Shouldn't you?"
+msgstr "Я понятия не имею, где ваши бойфренды. А вы разве не должны?"
+
+#, fuzzy
+msgctxt "DIALOG_NOIZE_DEFEAT_4"
+msgid "They were kidnapped. Or maybe not, we don't know."
+msgstr "Их похитили. А может быть, и нет, мы не знаем."
+
+#, fuzzy
+msgctxt "DIALOG_NOIZE_DEFEAT_5"
+msgid "It's been a long day."
+msgstr "У меня был длинный день."
+
+#, fuzzy
+msgctxt "DIALOG_NOIZE_DEFEAT_6"
+msgid "We thought they might be here because, like, ALL the boys love NOIZE."
+msgstr "Мы думали, они могут быть здесь, потому что ВСЕ мальчики любят NOIZE."
+
+#, fuzzy
+msgctxt "DIALOG_NOIZE_DEFEAT_7"
+msgid "Heh, you got that right."
+msgstr "Вот это вы правильно поняли."
+
+#, fuzzy
+msgctxt "DIALOG_NOIZE_DEFEAT_8"
+msgid ""
+"Okay, you should try Sanwakai Tower. That's where Sabu runs his criminal "
+"empire."
+msgstr ""
+"Вам нужно попробовать Башню Санвакай. Оттуда Сабу управляет своей империей "
+"криминала."
+
+#, fuzzy
+msgctxt "DIALOG_NOIZE_DEFEAT_9"
+msgid "If your boyfriends got kidnapped, odds are they ended up there."
+msgstr "Если ваших бойфрендов похитили, они вполне могли там оказаться."
+
+#, fuzzy
+msgctxt "DIALOG_NOIZE_DEFEAT_10"
+msgid "How do you know all this?"
+msgstr "Откуда ты все это знаешь?"
+
+#, fuzzy
+msgctxt "DIALOG_NOIZE_DEFEAT_11"
+msgid "Sabu paid for my first album. I'm... not proud of that."
+msgstr "Сабу оплатил мой первый альбом. Мне тут...нечем гордиться."
+
+#, fuzzy
+msgctxt "DIALOG_NOIZE_DEFEAT_12"
+msgid "It's okay, Nozomi."
+msgstr "Все нормально, Нозоми."
+
+#, fuzzy
+msgctxt "DIALOG_NOIZE_DEFEAT_13"
+msgid "Thanks. Let's get outta here, Kyoko."
+msgstr "Спасибо. Пойдем отсюда, Киоко."
+
+#, fuzzy
+msgctxt "DIALOG_NOIZE_DEFEAT_14"
+msgid "Bye, Dinglebutt."
+msgstr "Пока, Козявочка."
+
+#, fuzzy
+msgctxt "DIALOG_NOIZE_DEFEAT_15"
+msgid "OKAY, YOU REJECTS! ENOUGH SAPPY STORY TIME!"
+msgstr "А ТЕПЕРЬ, БРОШЕНКИ! ДОСТАТОЧНО СЛЕЗЛИВЫХ ИСТОРИЙ!"
+
+#, fuzzy
+msgctxt "DIALOG_NOIZE_DEFEAT_16"
+msgid "ARE YOU READY TO ROCK??? ONE, TWO, THREE, FOUR!"
+msgstr "ВЫ ГОТОВЫ ЗАЖЕЧЬ??? РАЗ, ДВА, ТРИ, ЧЕТЫРЕ!"
+
+#, fuzzy
+msgctxt "DIALOG_HASEBE_MAMI_SANWAKAI_TOWER_0"
+msgid "Oh look, it's THOSE girls again..."
+msgstr "Смотри-ка, это ОПЯТЬ они..."
+
+#, fuzzy
+msgctxt "DIALOG_HASEBE_MAMI_SANWAKAI_TOWER_1"
+msgid "Can it, Hasebe! It has NOT been a good day!"
+msgstr "Заткнись, Хасиби! У нас был НЕ ОЧЕНЬ хороший день!"
+
+#, fuzzy
+msgctxt "DIALOG_HASEBE_MAMI_SANWAKAI_TOWER_2"
+msgid "Pfft, rude."
+msgstr "Пфф, как грубо."
+
+#, fuzzy
+msgctxt "DIALOG_HASEBE_MAMI_SANWAKAI_TOWER_3"
+msgid "So rude..."
+msgstr "Так грубо..."
+
+#, fuzzy
+msgctxt "DIALOG_HASEBE_MAMI_SANWAKAI_TOWER_4"
+msgid "What are you girls doing here?"
+msgstr "Что вы, девочки, тут делаете?"
+
+#, fuzzy
+msgctxt "DIALOG_HASEBE_MAMI_SANWAKAI_TOWER_5"
+msgid "Sunbathing."
+msgstr "Загораем."
+
+#, fuzzy
+msgctxt "DIALOG_HASEBE_MAMI_SANWAKAI_TOWER_6"
+msgid "In front of a yakuza building."
+msgstr "Перед домом якудзы."
+
+#, fuzzy
+msgctxt "DIALOG_HASEBE_MAMI_SANWAKAI_TOWER_7"
+msgid "The sun is perfect here."
+msgstr "Тут отличное солнышко."
+
+#, fuzzy
+msgctxt "DIALOG_HASEBE_MAMI_SANWAKAI_TOWER_8"
+msgid "Yeah, don't you know that?"
+msgstr "А ты не знала?"
+
+#, fuzzy
+msgctxt "DIALOG_HASEBE_MAMI_SANWAKAI_TOWER_9"
+msgid "Oh wait, I forgot you're all pale and pasty and..."
+msgstr "Я и забыла, что вы бледные, опухшие..."
+
+#, fuzzy
+msgctxt "DIALOG_HASEBE_MAMI_SANWAKAI_TOWER_10"
+msgid ""
+"We don't got time for this! Step aside, we need to find our boyfriends!"
+msgstr "У нас нет на это времени! Отойди, нам нужно найти наших бойфрендов!"
+
+#, fuzzy
+msgctxt "DIALOG_HASEBE_MAMI_SANWAKAI_TOWER_11"
+msgid "YOUR boyfriends?? Hahaha."
+msgstr "ВАШИХ бойфрендов??? Ха-ха-ха!"
+
+#, fuzzy
+msgctxt "DIALOG_HASEBE_MAMI_SANWAKAI_TOWER_12"
+msgid "Could they BE any more clueless?"
+msgstr "Разве можно быть ТАКИМИ наивными?"
+
+#, fuzzy
+msgctxt "DIALOG_HASEBE_MAMI_SANWAKAI_TOWER_13"
+msgid "What's so funny?"
+msgstr "Что тут смешного?"
+
+#, fuzzy
+msgctxt "DIALOG_HASEBE_MAMI_SANWAKAI_TOWER_14"
+msgid "Kunio loves ME."
+msgstr "Кунио любит МЕНЯ."
+
+#, fuzzy
+msgctxt "DIALOG_HASEBE_MAMI_SANWAKAI_TOWER_15"
+msgid "Riki is MINE."
+msgstr "Рики МОЙ."
+
+#, fuzzy
+msgctxt "DIALOG_HASEBE_MAMI_SANWAKAI_TOWER_16"
+msgid ""
+"Do you HONESTLY think they'd give a pair of rejects like you two the time of"
+" day?"
+msgstr ""
+"Вы СЕРЬЕЗНО думаете, что их хоть на минуту заинтересует пара брошенок вроде "
+"вас?"
+
+#, fuzzy
+msgctxt "DIALOG_HASEBE_MAMI_SANWAKAI_TOWER_17"
+msgid "Why does it matter what time it is?"
+msgstr "При чем тут время?"
+
+#, fuzzy
+msgctxt "DIALOG_HASEBE_MAMI_SANWAKAI_TOWER_18"
+msgid "I don't believe it! Kunio... he, he likes ME!"
+msgstr "Я не верю! Кунио... он... он любит меня!"
+
+#, fuzzy
+msgctxt "DIALOG_HASEBE_MAMI_SANWAKAI_TOWER_19"
+msgid "Surrrre he does."
+msgstr "О да, конечно."
+
+#, fuzzy
+msgctxt "DIALOG_HASEBE_MAMI_SANWAKAI_TOWER_20"
+msgid "And Riki is totes my BF!"
+msgstr "А Рики правда мой бойфренд!"
+
+#, fuzzy
+msgctxt "DIALOG_HASEBE_MAMI_SANWAKAI_TOWER_21"
+msgid "Go ahead and ask 'em!"
+msgstr "Идите и сами у них спросите!"
+
+#, fuzzy
+msgctxt "DIALOG_HASEBE_MAMI_SANWAKAI_TOWER_22"
+msgid "We will."
+msgstr "Мы спросим."
+
+#, fuzzy
+msgctxt "DIALOG_HASEBE_MAMI_SANWAKAI_TOWER_23"
+msgid "Tonight."
+msgstr "Вечером."
+
+#, fuzzy
+msgctxt "DIALOG_HASEBE_MAMI_SANWAKAI_TOWER_24"
+msgid "Hahahahaha..."
+msgstr "Ха-ха-ха..."
+
+#, fuzzy
+msgctxt "DIALOG_HASEBE_MAMI_SANWAKAI_TOWER_25"
+msgid "Later, losers..."
+msgstr "Увидимся, неудачницы..."
+
+#, fuzzy
+msgctxt "DIALOG_THINGS_THAT_MAKE_YOU_GO_BOOM_START_0"
+msgid "Hold it! You're not allowed up here."
+msgstr "Стойте! Вам сюда нельзя."
+
+#, fuzzy
+msgctxt "DIALOG_THINGS_THAT_MAKE_YOU_GO_BOOM_START_1"
+msgid "We need to get inside that penthouse."
+msgstr "Нам нужно попасть внутрь этого пентхауса."
+
+#, fuzzy
+msgctxt "DIALOG_THINGS_THAT_MAKE_YOU_GO_BOOM_START_2"
+msgid "Nobody gets inside, except..."
+msgstr "Никто не может попасть сюда, кроме..."
+
+#, fuzzy
+msgctxt "DIALOG_THINGS_THAT_MAKE_YOU_GO_BOOM_START_3"
+msgid "Please don't ask us to guess your dog's name."
+msgstr "Пожалуйста, не заставляй нас угадывать, как зовут твою собаку."
+
+#, fuzzy
+msgctxt "DIALOG_THINGS_THAT_MAKE_YOU_GO_BOOM_START_4"
+msgid "Or buy you a golden cat."
+msgstr "Или покупать тебе золотого кота."
+
+#, fuzzy
+msgctxt "DIALOG_THINGS_THAT_MAKE_YOU_GO_BOOM_START_5"
+msgid "What? No, I was gonna say, no one gets inside EXCEPT the boss."
+msgstr ""
+"Что? Я собирался сказать, что никто не может попасть сюда, КРОМЕ босса."
+
+#, fuzzy
+msgctxt "DIALOG_THINGS_THAT_MAKE_YOU_GO_BOOM_START_6"
+msgid "And it's my job to keep hooligans like you from entering."
+msgstr "А моя работа - не пускать сюда хулиганов вроде вас."
+
+#, fuzzy
+msgctxt "DIALOG_THINGS_THAT_MAKE_YOU_GO_BOOM_START_7"
+msgid "Hooligans? Yeesh, that's judgy."
+msgstr "Хулиганов? Самокритично."
+
+#, fuzzy
+msgctxt "DIALOG_THINGS_THAT_MAKE_YOU_GO_BOOM_START_8"
+msgid "Yeah, especially coming from a yakuza henchman holding an uzi."
+msgstr "Особенно для подручного якудзы с автоматом узи в руках."
+
+#, fuzzy
+msgctxt "DIALOG_THINGS_THAT_MAKE_YOU_GO_BOOM_START_9"
+msgid "This is my JOB!"
+msgstr "Это моя РАБОТА!"
+
+#, fuzzy
+msgctxt "DIALOG_THINGS_THAT_MAKE_YOU_GO_BOOM_START_10"
+msgid "Not a very good one."
+msgstr "Не самая лучшая."
+
+#, fuzzy
+msgctxt "DIALOG_THINGS_THAT_MAKE_YOU_GO_BOOM_START_11"
+msgid "Enough chit chat! Open those doors before I open your skull."
+msgstr "Хватит болтать! Открой двери, пока я тебе черепушку не вскрыла."
+
+#, fuzzy
+msgctxt "DIALOG_THINGS_THAT_MAKE_YOU_GO_BOOM_START_12"
+msgid "Not gonna happen, baby."
+msgstr "Не дождешься, детка."
+
+#, fuzzy
+msgctxt "DIALOG_THINGS_THAT_MAKE_YOU_GO_BOOM_START_13"
+msgid "BABY?! Grrrr..."
+msgstr "ДЕТКА??? Гррр..."
+
+#, fuzzy
+msgctxt "DIALOG_THINGS_THAT_MAKE_YOU_GO_BOOM_START_14"
+msgid ""
+"Those doors are reinforced Tungsten Titanium Alloy. To get through there, "
+"you'd need, like, FOUR explosive charges."
+msgstr ""
+"Двери сделаны из укрепленного вольфрамо-титанового сплава. Чтобы попасть "
+"внутрь, тебе понадобится примерно ЧЕТЫРЕ взрывных устройства."
+
+#, fuzzy
+msgctxt "DIALOG_THINGS_THAT_MAKE_YOU_GO_BOOM_START_15"
+msgid ""
+"Not three, not five, but four charges. Yeah, that'd be just enough to blow "
+"them open."
+msgstr ""
+"Не три, не пять, ровно четыре. Да, этого как раз хватит, чтобы их разнести."
+
+#, fuzzy
+msgctxt "DIALOG_THINGS_THAT_MAKE_YOU_GO_BOOM_START_16"
+msgid ""
+"Hey wait, weren't there explosive charges next to the door we just came in?"
+msgstr ""
+"Подожди, а разве эти взрывные устройства не лежат рядом с дверью, через "
+"которую мы только что вошли?"
+
+#, fuzzy
+msgctxt "DIALOG_THINGS_THAT_MAKE_YOU_GO_BOOM_START_17"
+msgid "Yeah, huh? Will those work, mister criminal guy?"
+msgstr "Да, правда? Сработает, мистер криминальная личность?"
+
+#, fuzzy
+msgctxt "DIALOG_THINGS_THAT_MAKE_YOU_GO_BOOM_START_18"
+msgid "Me and my big mouth..."
+msgstr "Мой длинный язык..."
+
+#, fuzzy
+msgctxt "DIALOG_THINGS_THAT_MAKE_YOU_GO_BOOM_INCOMPLETE_0"
+msgid "We're back!"
+msgstr "Мы вернулись!"
+
+#, fuzzy
+msgctxt "DIALOG_THINGS_THAT_MAKE_YOU_GO_BOOM_INCOMPLETE_1"
+msgid "Now let's blow that door."
+msgstr "Теперь давай разнесем эту дверь."
+
+#, fuzzy
+msgctxt "DIALOG_THINGS_THAT_MAKE_YOU_GO_BOOM_INCOMPLETE_2"
+msgid "HOW? I told you it would take FOUR explosive charges!"
+msgstr "КАК? Я сказал, что вам понадобится ЧЕТЫРЕ взрывных устройства!"
+
+#, fuzzy
+msgctxt "DIALOG_THINGS_THAT_MAKE_YOU_GO_BOOM_INCOMPLETE_3"
+msgid "How is that guy still alive?"
+msgstr "Как это он до сих пор жив?"
+
+#, fuzzy
+msgctxt "DIALOG_THINGS_THAT_MAKE_YOU_GO_BOOM_INCOMPLETE_4"
+msgid "Beats me. Let's go find more explosives."
+msgstr "Понятия не имею. Пойдем найдем еще взрывчатки."
+
+#, fuzzy
+msgctxt "DIALOG_THINGS_THAT_MAKE_YOU_GO_BOOM_INCOMPLETE_5"
+msgid "Please don't!"
+msgstr "Не надо!"
+
+#, fuzzy
+msgctxt "DIALOG_SABU_START_BATTLE_0"
+msgid "YOU'RE Sabu?"
+msgstr "ТЫ Сабу?"
+
+#, fuzzy
+msgctxt "DIALOG_SABU_START_BATTLE_1"
+msgid "He's prettier than I expected."
+msgstr "Он красивее, чем я ожидала."
+
+#, fuzzy
+msgctxt "DIALOG_SABU_START_BATTLE_2"
+msgid ""
+"Silence! My name is Sabuko, daughter to the great Sabu, and head of my "
+"father's empire while he is... indisposed."
+msgstr ""
+"Молчать! Я Сабуко, дочь великого Сабу и глава его империи, пока ему... "
+"нездоровится."
+
+#, fuzzy
+msgctxt "DIALOG_SABU_START_BATTLE_3"
+msgid "On the toilet?"
+msgstr "Пока он в туалете?"
+
+#, fuzzy
+msgctxt "DIALOG_SABU_START_BATTLE_4"
+msgid "I think she means prison."
+msgstr "Я думаю, она имеет в виду тюрьму."
+
+#, fuzzy
+msgctxt "DIALOG_SABU_START_BATTLE_5"
+msgid ""
+"Before I kill you both, I am curious why you felt the need to storm my tower"
+" and defeat all my men."
+msgstr ""
+"Перед тем, как убить вас, мне было бы интересно узнать, что заставило вас "
+"взять штурмом башню и победить всех моих мужчин."
+
+#, fuzzy
+msgctxt "DIALOG_SABU_START_BATTLE_6"
+msgid "And women! We noticed you got a lot of girl yakuza, too."
+msgstr "И женщин! Мы заметили, что тут у вас много девочек-якудз."
+
+#, fuzzy
+msgctxt "DIALOG_SABU_START_BATTLE_7"
+msgid "Which is seriously cool."
+msgstr "Что, без сомнения, круто."
+
+#, fuzzy
+msgctxt "DIALOG_SABU_START_BATTLE_8"
+msgid "Totally. Girl power."
+msgstr "Абсолютно. Девочки - сила."
+
+#, fuzzy
+msgctxt "DIALOG_SABU_START_BATTLE_9"
+msgid "I'm sorry I asked. Prepare to die."
+msgstr "Жаль, что я спросила. Приготовьтесь умереть."
+
+#, fuzzy
+msgctxt "DIALOG_SABU_START_BATTLE_10"
+msgid "WAIT! We're here looking for our boyfriends."
+msgstr "ПОДОЖДИ! Мы ищем наших бойфрендов."
+
+#, fuzzy
+msgctxt "DIALOG_SABU_START_BATTLE_11"
+msgid "Kunio and Riki. Did you take 'em?"
+msgstr "Кунио и Рики. Ты их забрала?"
+
+#, fuzzy
+msgctxt "DIALOG_SABU_START_BATTLE_12"
+msgid "What would I possibly want with a pair of high school boys?"
+msgstr "Зачем бы мне понадобилась пара старшеклассников?"
+
+#, fuzzy
+msgctxt "DIALOG_SABU_START_BATTLE_13"
+msgid "Well crap. Guess we better look somewhere else now."
+msgstr "Блин. Думаю, нам лучше поискать где-нибудь еще."
+
+#, fuzzy
+msgctxt "DIALOG_SABU_START_BATTLE_14"
+msgid "I hope the next place has more shopping."
+msgstr "Надеюсь, в следующем месте будет больше магазинов."
+
+#, fuzzy
+msgctxt "DIALOG_SABU_START_BATTLE_15"
+msgid "You two aren't going anywhere."
+msgstr "Вы двое никуда не идете."
+
+#, fuzzy
+msgctxt "DIALOG_SABU_START_BATTLE_16"
+msgid ""
+"What, you gonna call your guards on us? In case you haven't noticed, they're"
+" all beat up."
+msgstr ""
+"Ты собираешься позвать своих охранников? Если ты еще не заметила, их всех "
+"победили."
+
+#, fuzzy
+msgctxt "DIALOG_SABU_START_BATTLE_17"
+msgid "Yeah! WE did that. For LOVE."
+msgstr "Да! Это сделали МЫ! Во имя ЛЮБВИ."
+
+#, fuzzy
+msgctxt "DIALOG_SABU_START_BATTLE_18"
+msgid "I don't need anyone to fight my fights for me."
+msgstr "Мне не нужно, чтобы в моих битвах побеждали за меня."
+
+#, fuzzy
+msgctxt "DIALOG_SABU_START_BATTLE_19"
+msgid ""
+"I hope you've enjoyed your lives up to this point. They're about to end."
+msgstr "Надеюсь, ваши жизни вам нравились. Они сейчас закончатся."
+
+#, fuzzy
+msgctxt "DIALOG_SABU_END_0"
+msgid "Impossible! Defeated by a pair of schoolgirl deviants... how?"
+msgstr "Немыслимо! Меня победила пара ненормальных школьниц...как это?"
+
+#, fuzzy
+msgctxt "DIALOG_SABU_END_1"
+msgid "Just cause we're young..."
+msgstr "Просто мы молодые..."
+
+#, fuzzy
+msgctxt "DIALOG_SABU_END_2"
+msgid "And cute!"
+msgstr "И милые!"
+
+#, fuzzy
+msgctxt "DIALOG_SABU_END_3"
+msgid ""
+"...don't mean we can't tear down this whole town to get our boyfriends back."
+msgstr ""
+"...что не значит, что мы не можем разнести весь город, чтобы получить "
+"обратно наших бойфрендов."
+
+#, fuzzy
+msgctxt "DIALOG_SABU_END_4"
+msgid "Wretched little girls... you should respect POWER when you see it."
+msgstr "Жалкие девчонки...вы должны уважать СИЛУ, когда ее видите."
+
+#, fuzzy
+msgctxt "DIALOG_SABU_END_5"
+msgid "You may have mystical tattoo creatures..."
+msgstr "У тебя могут быть татуировки с мистическими созданиями..."
+
+#, fuzzy
+msgctxt "DIALOG_SABU_END_6"
+msgid "And a REALLY sharp sword..."
+msgstr "...и ОЧЕНЬ острый меч..."
+
+#, fuzzy
+msgctxt "DIALOG_SABU_END_7"
+msgid "But that's nothing compared to the power WE have."
+msgstr "Но они не идут ни в какое сравнение с нашей силой."
+
+#, fuzzy
+msgctxt "DIALOG_SABU_END_8"
+msgid "...and that is?"
+msgstr "...и какой же?"
+
+#, fuzzy
+msgctxt "DIALOG_SABU_END_9"
+msgid "You wanna tell her?"
+msgstr "Ты хочешь ей сказать?"
+
+#, fuzzy
+msgctxt "DIALOG_SABU_END_10"
+msgid "Let's do it together."
+msgstr "Давай вместе."
+
+#, fuzzy
+msgctxt "DIALOG_SABU_END_11"
+msgid "The power of..."
+msgstr "Это сила..."
+
+#, fuzzy
+msgctxt "DIALOG_HASEBE_MAMI_START_BATTLE_0"
+msgid "Well well, look who it is, Mami."
+msgstr "Посмотри-ка, кто тут, Мами."
+
+#, fuzzy
+msgctxt "DIALOG_HASEBE_MAMI_START_BATTLE_1"
+msgid "I thought this place EMPTIED the trash on Mondays."
+msgstr "Я думала, здесь ВЫВОЗЯТ мусор по понедельникам."
+
+#, fuzzy
+msgctxt "DIALOG_HASEBE_MAMI_START_BATTLE_2"
+msgid "Guess not."
+msgstr "Похоже, нет."
+
+#, fuzzy
+msgctxt "DIALOG_HASEBE_MAMI_START_BATTLE_3"
+msgid "What are you two doing here??"
+msgstr "Что вы двое тут делаете???"
+
+#, fuzzy
+msgctxt "DIALOG_HASEBE_MAMI_START_BATTLE_4"
+msgid "We could ask you the same question."
+msgstr "Мы можем задать тебе тот же вопрос."
+
+#, fuzzy
+msgctxt "DIALOG_HASEBE_MAMI_START_BATTLE_5"
+msgid "Yeah, don't tell us where we can and can't go."
+msgstr "Не указывай нам, куда мы можем и не можем ходить."
+
+#, fuzzy
+msgctxt "DIALOG_HASEBE_MAMI_START_BATTLE_6"
+msgid "But... it doesn't make any sense!"
+msgstr "Но... это не имеет смысла!"
+
+#, fuzzy
+msgctxt "DIALOG_HASEBE_MAMI_START_BATTLE_7"
+msgid "Sabuko's supposed to be the final boss... right?"
+msgstr "Сабуко должна была быть самым главным боссом... так?"
+
+#, fuzzy
+msgctxt "DIALOG_HASEBE_MAMI_START_BATTLE_8"
+msgid "We kick her through the window!"
+msgstr "Мы ее выкинули из окна!"
+
+#, fuzzy
+msgctxt "DIALOG_HASEBE_MAMI_START_BATTLE_9"
+msgid "I'm very confused right now."
+msgstr "Я ничего не понимаю."
+
+#, fuzzy
+msgctxt "DIALOG_HASEBE_MAMI_START_BATTLE_10"
+msgid "What are they talking about?"
+msgstr "О чем они говорят?"
+
+#, fuzzy
+msgctxt "DIALOG_HASEBE_MAMI_START_BATTLE_11"
+msgid "I don't speak... nerd."
+msgstr "Я не говорю на... ботаническом."
+
+#, fuzzy
+msgctxt "DIALOG_HASEBE_MAMI_START_BATTLE_12"
+msgid ""
+"That's it! I don't care if this makes no sense. We can still beat you two "
+"through the floor!"
+msgstr ""
+"Вот что! Если это и бессмыслица, то мне наплевать. Мы все еще можем прибить "
+"вас к полу!"
+
+#, fuzzy
+msgctxt "DIALOG_HASEBE_MAMI_START_BATTLE_13"
+msgid "Bring it on, Misako!"
+msgstr "Дерзай, Мисако!"
+
+#, fuzzy
+msgctxt "DIALOG_HASEBE_MAMI_START_BATTLE_14"
+msgid "Finally!"
+msgstr "Наконец-то!"
+
+#, fuzzy
+msgctxt "DIALOG_HASEBE_MAMI_DEFEAT_0"
+msgid "No fair!"
+msgstr "Нечестно!"
+
+#, fuzzy
+msgctxt "DIALOG_HASEBE_MAMI_DEFEAT_1"
+msgid "You cheated!"
+msgstr "Ты сжульничала!"
+
+#, fuzzy
+msgctxt "DIALOG_HASEBE_MAMI_DEFEAT_2"
+msgid "HOW??"
+msgstr "КАК???"
+
+#, fuzzy
+msgctxt "DIALOG_HASEBE_MAMI_DEFEAT_3"
+msgid "By beating us up..."
+msgstr "Тем, что победила нас..."
+
+#, fuzzy
+msgctxt "DIALOG_HASEBE_MAMI_DEFEAT_4"
+msgid "Face it, rejects. WE'RE the ones Kunio and Riki love!"
+msgstr "Смиритесь с этим, брошенки. Кунио и Рики любят НАС!"
+
+#, fuzzy
+msgctxt "DIALOG_HASEBE_MAMI_DEFEAT_5"
+msgid "Yeah, admit it!"
+msgstr "Да, признайте это!"
+
+#, fuzzy
+msgctxt "DIALOG_HASEBE_MAMI_DEFEAT_6"
+msgid "Are you crazy? They barely remember you."
+msgstr "Вы с ума сошли? Они вас едва-едва помнят."
+
+#, fuzzy
+msgctxt "DIALOG_HASEBE_MAMI_DEFEAT_7"
+msgid "Yeah, you guys dated them for, like, ONE 16-bit game."
+msgstr "Да, вы с ними встречались, может быть, всего ОДНУ 16-битную игру."
+
+#, fuzzy
+msgctxt "DIALOG_HASEBE_MAMI_DEFEAT_8"
+msgid "That wasn't even released in the USA."
+msgstr "Которая даже не вышла в США."
+
+#, fuzzy
+msgctxt "DIALOG_HASEBE_MAMI_DEFEAT_9"
+msgid "Talk about obscure."
+msgstr "Поговори о безвестности."
+
+#, fuzzy
+msgctxt "DIALOG_HASEBE_MAMI_DEFEAT_10"
+msgid "You wanna fight again??"
+msgstr "Вы хотите опять подраться?"
+
+#, fuzzy
+msgctxt "DIALOG_HASEBE_MAMI_DEFEAT_11"
+msgid "Fine, you're their girlfriends. Whatever."
+msgstr "Хорошо, хорошо, вы их подружки."
+
+#, fuzzy
+msgctxt "DIALOG_HASEBE_MAMI_DEFEAT_12"
+msgid "Can we leave now?"
+msgstr "Мы теперь можем уйти?"
+
+#, fuzzy
+msgctxt "DIALOG_HASEBE_MAMI_DEFEAT_13"
+msgid "We did it!"
+msgstr "Мы это сделали!"
+
+#, fuzzy
+msgctxt "DIALOG_HASEBE_MAMI_DEFEAT_14"
+msgid "Should we still kick them out the window?"
+msgstr "Может, их все же стоит выкинуть из окна?"
+
+#, fuzzy
+msgctxt "DIALOG_HASEBE_MAMI_DEFEAT_15"
+msgid "Why not?"
+msgstr "Почему бы и нет?"
+
+#, fuzzy
+msgctxt "DIALOG_PASSIVE_SCENE_2_0"
+msgid "So what's the plan?"
+msgstr "Хорошо, какой у нас план?"
+
+#, fuzzy
+msgctxt "DIALOG_PASSIVE_SCENE_2_1"
+msgid ""
+"Break out of school, find our boyfriends, and beat the LIFE outta whoever "
+"took 'em!"
+msgstr ""
+"Вырваться из школы, найти наших бойфрендов и выбить ДУХ из тех, кто их "
+"забрал!"
+
+#, fuzzy
+msgctxt "DIALOG_PASSIVE_SCENE_2_2"
+msgid "Good plan!"
+msgstr "Хороший план!"
+
+#, fuzzy
+msgctxt "DIALOG_PASSIVE_SCENE_2_3"
+msgid "Thanks, I just came up with it!"
+msgstr "Спасибо, только что придумала!"
+
+#, fuzzy
+msgctxt "DIALOG_PASSIVE_SCENE_2_4"
+msgid "WHOA. You are, like... CRAZY smart, Misako."
+msgstr "ОГО. Ты прямо...БЕЗУМНО умная, Мисако."
+
+#, fuzzy
+msgctxt "DIALOG_PASSIVE_SCENE_3_0"
+msgid "I wonder who took Kunio and Riki."
+msgstr "Хотела бы я знать, кто забрал Кунио и Рики."
+
+#, fuzzy
+msgctxt "DIALOG_PASSIVE_SCENE_3_1"
+msgid "I wonder who sent us that text message."
+msgstr "Хотела бы я знать, кто прислал нам эту СМС."
+
+#, fuzzy
+msgctxt "DIALOG_PASSIVE_SCENE_3_2"
+msgid "Yeah, huh?"
+msgstr "И правда, кто?"
+
+#, fuzzy
+msgctxt "DIALOG_PASSIVE_SCENE_3_3"
+msgid "Check your phone, Kyoko."
+msgstr "Проверь свой телефон, Киоко."
+
+#, fuzzy
+msgctxt "DIALOG_PASSIVE_SCENE_3_4"
+msgid "For what?"
+msgstr "Зачем?"
+
+#, fuzzy
+msgctxt "DIALOG_PASSIVE_SCENE_3_5"
+msgid "To find out who sent us that text!!"
+msgstr "Чтобы узнать, кто послал эту СМС!!!"
+
+#, fuzzy
+msgctxt "DIALOG_PASSIVE_SCENE_3_6"
+msgid "OH YEAH! It says, uh... \"Blocked Caller.\" That's a weird name."
+msgstr "ОЙ. Там написано...подожди...\"Номер скрыт\". Странное имя."
+
+#, fuzzy
+msgctxt "DIALOG_PASSIVE_SCENE_3_7"
+msgid "DAMMIT! Of course it would be blocked."
+msgstr "ЧЕРТ! Конечно, он будет скрыт."
+
+#, fuzzy
+msgctxt "DIALOG_PASSIVE_SCENE_3_8"
+msgid "Oh, you know him?"
+msgstr "Так ты его знаешь?"
+
+#, fuzzy
+msgctxt "DIALOG_PASSIVE_SCENE_3_9"
+msgid "C'mon!"
+msgstr "Да ну тебя!"
+
+#, fuzzy
+msgctxt "DIALOG_PASSIVE_SCENE_5_1"
+msgid "Those girls seem nice."
+msgstr "Эти девочки вроде довольно милые."
+
+#, fuzzy
+msgctxt "DIALOG_PASSIVE_SCENE_5_2"
+msgid "Yeah, but they're crazy."
+msgstr "Да, но чокнутые."
+
+#, fuzzy
+msgctxt "DIALOG_PASSIVE_SCENE_5_3"
+msgid "Oh?"
+msgstr "Да?"
+
+#, fuzzy
+msgctxt "DIALOG_PASSIVE_SCENE_5_4"
+msgid "They think they're DATING Kunio and Riki."
+msgstr "Они думают, что они ВСТРЕЧАЮТСЯ с Кунио и Рики."
+
+#, fuzzy
+msgctxt "DIALOG_PASSIVE_SCENE_5_5"
+msgid "WHAT! They better not be!"
+msgstr "ЧТО??? Лучше бы они не думали!"
+
+#, fuzzy
+msgctxt "DIALOG_PASSIVE_SCENE_5_6"
+msgid "Relax, their brains are just broken."
+msgstr "Успокойся, у них просто мозги набекрень."
+
+#, fuzzy
+msgctxt "DIALOG_PASSIVE_SCENE_5_7"
+msgid "Gonna be a lot MORE broken if they ever touch my Riki!"
+msgstr "Будут ЕЩЕ БОЛЬШЕ набекрень, если только они дотронутся до моего Рики!"
+
+#, fuzzy
+msgctxt "DIALOG_PASSIVE_SCENE_6_0"
+msgid "Which way are we headed?"
+msgstr "Куда они идут?"
+
+#, fuzzy
+msgctxt "DIALOG_PASSIVE_SCENE_6_1"
+msgid "Downstairs. We'll exit through the front."
+msgstr "Вниз. Мы выйдем через вход."
+
+#, fuzzy
+msgctxt "DIALOG_PASSIVE_SCENE_6_2"
+msgid "Great plan!"
+msgstr "Отличный план!"
+
+#, fuzzy
+msgctxt "DIALOG_PASSIVE_SCENE_6_3"
+msgid "I just hope Misuzu's not here today."
+msgstr "Я только надеюсь, что Мисуцу сегодня здесь нет."
+
+#, fuzzy
+msgctxt "DIALOG_PASSIVE_SCENE_6_4"
+msgid "Oh geez, what if she is?"
+msgstr "Боже, а что, если есть?"
+
+#, fuzzy
+msgctxt "DIALOG_PASSIVE_SCENE_6_5"
+msgid "You gonna let a 300-pound hall security guard between you and Riki?"
+msgstr "Ты хочешь увидеть 150-килограммовую охранницу между собой и Рики?"
+
+#, fuzzy
+msgctxt "DIALOG_PASSIVE_SCENE_6_6"
+msgid "N-no...?"
+msgstr "Н-н-нет..."
+
+#, fuzzy
+msgctxt "DIALOG_PASSIVE_SCENE_9_0"
+msgid "So, like, we're looking for food now?"
+msgstr "Значит, сейчас мы, типа, ищем еду?"
+
+#, fuzzy
+msgctxt "DIALOG_PASSIVE_SCENE_9_1"
+msgid ""
+"Seems that way. Let's check the upper floors. I've seen kids selling bootleg"
+" food up there."
+msgstr ""
+"Похоже, сюда. Давай проверим верхние этажи. Там дети нелегальную еду "
+"продавали."
+
+#, fuzzy
+msgctxt "DIALOG_PASSIVE_SCENE_9_2"
+msgid "This school is so weird."
+msgstr "Эта школа такая странная."
+
+#, fuzzy
+msgctxt "DIALOG_PASSIVE_SCENE_11_0"
+msgid "Found the ghost pepper!"
+msgstr "Нашла жгучий перец!"
+
+#, fuzzy
+msgctxt "DIALOG_PASSIVE_SCENE_11_1"
+msgid "Ewww, too spicey! Get it away."
+msgstr "Буэ, слишком острый! Убери его."
+
+#, fuzzy
+msgctxt "DIALOG_PASSIVE_SCENE_12_0"
+msgid "Well, we got beans. Yuck."
+msgstr "Хм, мы нашли бобы. Фу."
+
+#, fuzzy
+msgctxt "DIALOG_PASSIVE_SCENE_12_1"
+msgid "At least it's canned, so we can't smell it."
+msgstr "По крайней мере они консервированные, так что мы запаха не чувствуем."
+
+#, fuzzy
+msgctxt "DIALOG_PASSIVE_SCENE_12_2"
+msgid "I can still smell it..."
+msgstr "Я все равно чувствую запах..."
+
+#, fuzzy
+msgctxt "DIALOG_PASSIVE_SCENE_13_0"
+msgid "Tomato acquired! Is that what this thing is?"
+msgstr "Добыли помидор! Вот это - точно помидор?"
+
+#, fuzzy
+msgctxt "DIALOG_PASSIVE_SCENE_13_1"
+msgid "I don't eat vegetables."
+msgstr "Я не ем овощи."
+
+#, fuzzy
+msgctxt "DIALOG_PASSIVE_SCENE_13_2"
+msgid "Blech, who does?"
+msgstr "Фу, а кто ест?"
+
+#, fuzzy
+msgctxt "DIALOG_PASSIVE_SCENE_15_0"
+msgid "No sign of security..."
+msgstr "Ни следа охраны..."
+
+#, fuzzy
+msgctxt "DIALOG_PASSIVE_SCENE_15_1"
+msgid "Maybe she's on break."
+msgstr "Может быть, она на обед пошла."
+
+#, fuzzy
+msgctxt "DIALOG_PASSIVE_SCENE_15_2"
+msgid "Uh oh..."
+msgstr "Угу..."
+
+#, fuzzy
+msgctxt "DIALOG_PASSIVE_SCENE_20_0"
+msgid "Ahhhh... so nice to get outta that crappy school!"
+msgstr "Ааааа...так здорово выбраться из этой паршивой школы."
+
+#, fuzzy
+msgctxt "DIALOG_PASSIVE_SCENE_20_1"
+msgid "For sure. Wanna go see a movie?"
+msgstr "Точно. Хочешь в кино сходить?"
+
+#, fuzzy
+msgctxt "DIALOG_PASSIVE_SCENE_20_2"
+msgid "We're looking for our boyfriends, remember?"
+msgstr "Мы ищем наших бойфрендов, забыла?"
+
+#, fuzzy
+msgctxt "DIALOG_PASSIVE_SCENE_20_3"
+msgid "Oh yeah. We should ask if they wanna go, too."
+msgstr "Ааа, точно. Надо их спросить, не хотят ли они тоже пойти."
+
+#, fuzzy
+msgctxt "DIALOG_PASSIVE_SCENE_20_4"
+msgid "Sigh... let's go find that creepy guy."
+msgstr "Ох...пойдем искать этого жуткого чувака."
+
+#, fuzzy
+msgctxt "DIALOG_PASSIVE_SCENE_25_0"
+msgid "So what's the plan?"
+msgstr "Так какой у нас план?"
+
+#, fuzzy
+msgctxt "DIALOG_PASSIVE_SCENE_25_1"
+msgid ""
+"Find that security guard, slap him around for being so lazy, then take his "
+"keys and open the mall."
+msgstr ""
+"Найти охранника, отшлепать его за лень, отобрать у него ключи и открыть "
+"торговый центр."
+
+#, fuzzy
+msgctxt "DIALOG_PASSIVE_SCENE_25_2"
+msgid "Seriously! How hard is it to open a mall?"
+msgstr "Серьезно! А магазин сложно открыть?"
+
+#, fuzzy
+msgctxt "DIALOG_PASSIVE_SCENE_27_0"
+msgid "That must be his house!"
+msgstr "Это, наверное, его дом!"
+
+#, fuzzy
+msgctxt "DIALOG_PASSIVE_SCENE_27_1"
+msgid "How can you tell?"
+msgstr "Почему ты думаешь?"
+
+#, fuzzy
+msgctxt "DIALOG_PASSIVE_SCENE_27_2"
+msgid "That must be his house!"
+msgstr "Это, наверное, его дом!"
+
+#, fuzzy
+msgctxt "DIALOG_PASSIVE_SCENE_28_0"
+msgid "He's got the keys! Don't wake him up."
+msgstr "У него ключи! Не буди его."
+
+#, fuzzy
+msgctxt "DIALOG_PASSIVE_SCENE_29_0"
+msgid "Keys acquired! Let's get back to the mall."
+msgstr "Добыли ключи! Пойдем обратно в торговый центр."
+
+#, fuzzy
+msgctxt "DIALOG_PASSIVE_SCENE_30_0"
+msgid "GET OUTTA MY HOUSE!!!"
+msgstr "УБИРАЙТЕСЬ ИЗ МОЕГО ДОМА!!!"
+
+#, fuzzy
+msgctxt "DIALOG_PASSIVE_SCENE_32_0"
+msgid "This place is a real dump."
+msgstr "Это место - настоящая помойка."
+
+#, fuzzy
+msgctxt "DIALOG_PASSIVE_SCENE_32_1"
+msgid "Yeah, I just remembered why I don't shop here anymore."
+msgstr "Да, я вспомнила, почему я больше тут ничего не покупаю."
+
+#, fuzzy
+msgctxt "DIALOG_PASSIVE_SCENE_32_2"
+msgid "Come on, let's find that Yamada guy."
+msgstr "Пойдем искать этого Ямаду."
+
+#, fuzzy
+msgctxt "DIALOG_PASSIVE_SCENE_34_0"
+msgid "Is this a construction site? It's so yucky..."
+msgstr "Это стройка? Отвратительное место..."
+
+#, fuzzy
+msgctxt "DIALOG_PASSIVE_SCENE_34_1"
+msgid "Yo magic boy, you up there?"
+msgstr "Эй, чудо-мальчик, ты там?"
+
+#, fuzzy
+msgctxt "DIALOG_PASSIVE_SCENE_34_2"
+msgid "My name's not magic boy!"
+msgstr "Я не чудо-мальчик!"
+
+#, fuzzy
+msgctxt "DIALOG_PASSIVE_SCENE_34_3"
+msgid "He's up there. Come on, let's go beat some info outta him."
+msgstr "Он наверху. Пойдем выбьем из него чуточку информации."
+
+#, fuzzy
+msgctxt "DIALOG_PASSIVE_SCENE_41_0"
+msgid "So this is Uptown, huh?"
+msgstr "Так, это верхняя часть города?"
+
+#, fuzzy
+msgctxt "DIALOG_PASSIVE_SCENE_41_1"
+msgid "Seems pretty fancy."
+msgstr "Вылядит неплохо."
+
+#, fuzzy
+msgctxt "DIALOG_PASSIVE_SCENE_41_2"
+msgid "And expensive."
+msgstr "И очень дорого."
+
+#, fuzzy
+msgctxt "DIALOG_PASSIVE_SCENE_41_3"
+msgid "And judgy."
+msgstr "И снобски."
+
+#, fuzzy
+msgctxt "DIALOG_PASSIVE_SCENE_41_4"
+msgid "We don't belong here, do we?"
+msgstr "Мы не принадлежим к этому кругу, верно?"
+
+#, fuzzy
+msgctxt "DIALOG_PASSIVE_SCENE_41_5"
+msgid "No, we do not."
+msgstr "Да, не принадлежим."
+
+#, fuzzy
+msgctxt "DIALOG_PASSIVE_SCENE_42_0"
+msgid "You ever wonder why everyone in our town is so violent?"
+msgstr ""
+"Ты когда-нибудь задумывалась, почему в нашем городе все такие жестокие?"
+
+#, fuzzy
+msgctxt "DIALOG_PASSIVE_SCENE_42_1"
+msgid "Nope."
+msgstr "Неа."
+
+#, fuzzy
+msgctxt "DIALOG_PASSIVE_SCENE_42_2"
+msgid ""
+"I mean, everyone's always punching and kicking each other. Like, everywhere "
+"we go, all day long."
+msgstr "Типа, все всегда друг друга бьют и пинают. Везде, с утра до вечера."
+
+#, fuzzy
+msgctxt "DIALOG_PASSIVE_SCENE_42_3"
+msgid "I guess so. What's your point?"
+msgstr "Похоже на то. Что ты хочешь сказать?"
+
+#, fuzzy
+msgctxt "DIALOG_PASSIVE_SCENE_42_4"
+msgid "Nothing."
+msgstr "Ничего."
+
+#, fuzzy
+msgctxt "DIALOG_PASSIVE_SCENE_44_0"
+msgid ""
+"C'mon, let's find that fashion lady and ask her about the dude in the photo!"
+msgstr "Пошли, найдем эту модную даму и спросим ее про чувака на фото!"
+
+#, fuzzy
+msgctxt "DIALOG_PASSIVE_SCENE_44_1"
+msgid "Misako?"
+msgstr "Мисако?"
+
+#, fuzzy
+msgctxt "DIALOG_PASSIVE_SCENE_44_2"
+msgid "Yeah?"
+msgstr "Да?"
+
+#, fuzzy
+msgctxt "DIALOG_PASSIVE_SCENE_44_3"
+msgid "Do you think we're... badly dressed?"
+msgstr "Ты не думаешь, что мы...плохо одеты?"
+
+#, fuzzy
+msgctxt "DIALOG_PASSIVE_SCENE_44_4"
+msgid "Heck no, we look amazing!"
+msgstr "Черт побери, нет, мы выглядим потрясающе!"
+
+#, fuzzy
+msgctxt "DIALOG_PASSIVE_SCENE_44_5"
+msgid "I guess so..."
+msgstr "Видимо, да..."
+
+#, fuzzy
+msgctxt "DIALOG_PASSIVE_SCENE_45_0"
+msgid "Is this the place?"
+msgstr "Это место?"
+
+#, fuzzy
+msgctxt "DIALOG_PASSIVE_SCENE_45_1"
+msgid "Let's find out. HEY! Any of you ladies know a Hibari?"
+msgstr "Давай выясним. ЭЙ! Кто-нибудь из вас знает Хибари?"
+
+#, fuzzy
+msgctxt "DIALOG_PASSIVE_SCENE_45_2"
+msgid "They're not answering. Maybe they're busy."
+msgstr "Они не отвечают. Наверное, они заняты."
+
+#, fuzzy
+msgctxt "DIALOG_PASSIVE_SCENE_45_3"
+msgid "Well they don't have to be rude!"
+msgstr "Но это не повод быть невежливыми!"
+
+#, fuzzy
+msgctxt "DIALOG_PASSIVE_SCENE_45_4"
+msgid "Let's come back later."
+msgstr "Давай вернемся попозже."
+
+#, fuzzy
+msgctxt "DIALOG_PASSIVE_SCENE_48_0"
+msgid "We need something GOLD to make that weirdo fashion designer show up."
+msgstr ""
+"Нам нужно что-нибудь ЗОЛОТОЕ, чтобы эта чудаковатая дизайнерша появилась "
+"тут."
+
+#, fuzzy
+msgctxt "DIALOG_PASSIVE_SCENE_48_1"
+msgid "But we're so poor..."
+msgstr "Но мы такие бедные..."
+
+#, fuzzy
+msgctxt "DIALOG_PASSIVE_SCENE_48_2"
+msgid ""
+"Let's try the pawn shop in the toy district. Maybe we can trade 'em "
+"something."
+msgstr ""
+"Давай попытаем счастья в ломбарде в квартале игрушек. Может быть, мы сможем "
+"что-нибудь там выменять."
+
+#, fuzzy
+msgctxt "DIALOG_PASSIVE_SCENE_48_3"
+msgid "Like a knuckle sandwich."
+msgstr "Например, на зуботычину."
+
+#, fuzzy
+msgctxt "DIALOG_PASSIVE_SCENE_48_4"
+msgid "Now you're talking!"
+msgstr "Вот теперь ты дело говоришь!"
+
+#, fuzzy
+msgctxt "DIALOG_PASSIVE_SCENE_50_0"
+msgid "This is a pawn shop? Looks pretty empty."
+msgstr "Это ломбард? Как-то тут пусто."
+
+#, fuzzy
+msgctxt "DIALOG_PASSIVE_SCENE_50_1"
+msgid "We have to head downstairs. It's in the basement."
+msgstr "Нам надо спуститься вниз. Он в подвале."
+
+#, fuzzy
+msgctxt "DIALOG_PASSIVE_SCENE_50_2"
+msgid "Can't we take the elevator?"
+msgstr "На лифте нельзя?"
+
+#, fuzzy
+msgctxt "DIALOG_PASSIVE_SCENE_50_3"
+msgid "Yeah! No wait, it's broken."
+msgstr "Можно. Нет, подожди, он не работает."
+
+#, fuzzy
+msgctxt "DIALOG_PASSIVE_SCENE_50_4"
+msgid "I'M NOT USED TO WALKING THIS MUCH!!"
+msgstr "Я НЕ УМЕЮ ТАК МНОГО ХОДИТЬ!!!"
+
+#, fuzzy
+msgctxt "DIALOG_PASSIVE_SCENE_51_0"
+msgid "Misakooooo, my feeeeeet hurt!"
+msgstr "Мисакооооо, у меня нооооооооги болят!"
+
+#, fuzzy
+msgctxt "DIALOG_PASSIVE_SCENE_51_1"
+msgid "Quit whining and keep fighting."
+msgstr "Перестань ныть и вперед."
+
+#, fuzzy
+msgctxt "DIALOG_PASSIVE_SCENE_51_2"
+msgid "How many floors have we gone down? Six? Twelve?"
+msgstr "На сколько этажей мы уже спустились? Шесть? Двенадцать?"
+
+#, fuzzy
+msgctxt "DIALOG_PASSIVE_SCENE_51_3"
+msgid "Three."
+msgstr "Три."
+
+#, fuzzy
+msgctxt "DIALOG_PASSIVE_SCENE_51_4"
+msgid "Ugggghhhh..."
+msgstr "Уууууууу..."
+
+#, fuzzy
+msgctxt "DIALOG_PASSIVE_SCENE_53_0"
+msgid "Yay, the elevator's working again!"
+msgstr "Ура, лифт опять работает!"
+
+#, fuzzy
+msgctxt "DIALOG_PASSIVE_SCENE_53_1"
+msgid "Let's move it, Kyoko! No joke-o."
+msgstr "Давай двигаться, Киоко! Без шуток-о."
+
+#, fuzzy
+msgctxt "DIALOG_PASSIVE_SCENE_53_2"
+msgid "Don't... ever say that."
+msgstr "Никогда...такого не говори."
+
+#, fuzzy
+msgctxt "DIALOG_PASSIVE_SCENE_55_0"
+msgid "You're so cool, Misako."
+msgstr "Ты крутая, Мисако."
+
+#, fuzzy
+msgctxt "DIALOG_PASSIVE_SCENE_55_1"
+msgid "Tell me something I don't know."
+msgstr "Думаешь, я не знаю?"
+
+#, fuzzy
+msgctxt "DIALOG_PASSIVE_SCENE_55_2"
+msgid "C'mon, let's get this knockoff cat back to that fashion designer."
+msgstr "Вперед, давай отнесем этого липового кота дизайнерше."
+
+#, fuzzy
+msgctxt "DIALOG_PASSIVE_SCENE_56_0"
+msgid "Yo, lady! Here's a golden cat for ya!"
+msgstr "Йо, леди! Вот вам золотой кот!"
+
+#, fuzzy
+msgctxt "DIALOG_PASSIVE_SCENE_56_1"
+msgid "Are... we supposed to do something now?"
+msgstr "Мы... должны что-то сделать?"
+
+#, fuzzy
+msgctxt "DIALOG_PASSIVE_SCENE_56_2"
+msgid "I dunno."
+msgstr "Без понятия."
+
+#, fuzzy
+msgctxt "DIALOG_PASSIVE_SCENE_61_0"
+msgid "There's the secret tunnel!"
+msgstr "Тайный туннель!"
+
+#, fuzzy
+msgctxt "DIALOG_PASSIVE_SCENE_61_1"
+msgid "Ewww... I can already already smell downtown."
+msgstr "Буэ. Я уже могу почуять центр города."
+
+#, fuzzy
+msgctxt "DIALOG_PASSIVE_SCENE_61_2"
+msgid "C'mon!"
+msgstr "Давай!"
+
+#, fuzzy
+msgctxt "DIALOG_PASSIVE_SCENE_62_0"
+msgid "So this is downtown."
+msgstr "Так...это центр города."
+
+#, fuzzy
+msgctxt "DIALOG_PASSIVE_SCENE_62_1"
+msgid "More like FROWN town. I am so unhappy right now..."
+msgstr "Больше похоже на ОТВАЛ города. Я такая несчастная..."
+
+#, fuzzy
+msgctxt "DIALOG_PASSIVE_SCENE_62_2"
+msgid "We'd better start looking for Kunio and Riki."
+msgstr "Давай лучше начнем искать Кунио и Рики."
+
+#, fuzzy
+msgctxt "DIALOG_PASSIVE_SCENE_64_0"
+msgid "Is this the subway terminal?"
+msgstr "Это станция метро?"
+
+#, fuzzy
+msgctxt "DIALOG_PASSIVE_SCENE_64_1"
+msgid "It's blocked by trash."
+msgstr "Она завалена мусором."
+
+#, fuzzy
+msgctxt "DIALOG_PASSIVE_SCENE_64_2"
+msgid "Why is trash EVERYWHERE???"
+msgstr "Почему мусор тут ВЕЗДЕ?"
+
+#, fuzzy
+msgctxt "DIALOG_PASSIVE_SCENE_64_3"
+msgid "C'mon, let's find another way in."
+msgstr "Давай поищем другой способ попасть внутрь."
+
+#, fuzzy
+msgctxt "DIALOG_PASSIVE_SCENE_64_4"
+msgid "My hair smells like a used diaper..."
+msgstr "Мои волосы воняют, как грязный памперс..."
+
+#, fuzzy
+msgctxt "DIALOG_PASSIVE_SCENE_67_0"
+msgid "So we're going to climb inside a trash compactor."
+msgstr "Так, мы должны влезть в измельчитель мусора."
+
+#, fuzzy
+msgctxt "DIALOG_PASSIVE_SCENE_67_1"
+msgid "Seems that way."
+msgstr "Похоже на то."
+
+#, fuzzy
+msgctxt "DIALOG_PASSIVE_SCENE_67_2"
+msgid "And fight smelly zombies, surrounded by smelly trash."
+msgstr "И победить вонючих зомби, засыпанных вонючим мусором."
+
+#, fuzzy
+msgctxt "DIALOG_PASSIVE_SCENE_67_3"
+msgid "Yup."
+msgstr "Угу."
+
+#, fuzzy
+msgctxt "DIALOG_PASSIVE_SCENE_67_4"
+msgid "Could this day get any more gross?"
+msgstr "Что может быть хуже?"
+
+#, fuzzy
+msgctxt "DIALOG_PASSIVE_SCENE_67_5"
+msgid "It's still early."
+msgstr "День еще не закончился."
+
+#, fuzzy
+msgctxt "DIALOG_PASSIVE_SCENE_69_0"
+msgid "Ewwww, I can't believe we're fighting zombies in a trash compactor!"
+msgstr "Буэ, я не могу поверить, что мы бьемся с зомби в измельчителе мусора!"
+
+#, fuzzy
+msgctxt "DIALOG_PASSIVE_SCENE_69_1"
+msgid "Wanna give up?"
+msgstr "Хочешь сдаться?"
+
+#, fuzzy
+msgctxt "DIALOG_PASSIVE_SCENE_69_2"
+msgid "For my Riki... NEVER!"
+msgstr "Ради Рики...НИКОГДА!"
+
+#, fuzzy
+msgctxt "DIALOG_PASSIVE_SCENE_71_0"
+msgid "Trash is gone. Let's head inside."
+msgstr "Мусора больше нет. Пошли внутрь."
+
+#, fuzzy
+msgctxt "DIALOG_PASSIVE_SCENE_71_1"
+msgid "I'm sure there's plenty more trash inside, too."
+msgstr "Я уверена, что внутри мусора еще больше."
+
+#, fuzzy
+msgctxt "DIALOG_PASSIVE_SCENE_72_0"
+msgid "Let's find out if Kuino and Riki are down here."
+msgstr "Давай проверим, нет ли Кунио и Рики там внизу."
+
+#, fuzzy
+msgctxt "DIALOG_PASSIVE_SCENE_72_1"
+msgid "OR... I could head back outside and, uh, watch our backs?"
+msgstr "ИЛИ...я могу пойти на улицу и, типа, посторожить нас?"
+
+#, fuzzy
+msgctxt "DIALOG_PASSIVE_SCENE_72_2"
+msgid "Don't be a wuss, Kyoko, come on."
+msgstr "Не будь слабачкой, Киоко, иди."
+
+#, fuzzy
+msgctxt "DIALOG_PASSIVE_SCENE_77_0"
+msgid "FINALLY we're outta Trash Town. I need, like, TEN showers..."
+msgstr ""
+"НАКОНЕЦ-ТО мы выбрались из Мусорного города. Мне понадобится ДЕСЯТЬ ванн..."
+
+#, fuzzy
+msgctxt "DIALOG_PASSIVE_SCENE_77_1"
+msgid ""
+"Later. Let's find that concert. Even if Kunio and Riki aren't there, maybe "
+"someone there knows where they are."
+msgstr ""
+"Потом. Пойдем искать этот концерт. Даже если Кунио и Рики не там, кто-нибудь"
+" может знать, где они."
+
+#, fuzzy
+msgctxt "DIALOG_PASSIVE_SCENE_77_2"
+msgid "But I'm stinkyyyyy..."
+msgstr "Но от меня воняяяяяяяееееет..."
+
+#, fuzzy
+msgctxt "DIALOG_PASSIVE_SCENE_79_0"
+msgid "Why'd you stop me?? I was gonna rip that guy's head off!"
+msgstr "Почему ты меня остановила? Я собиралась ему голову оторвать!"
+
+#, fuzzy
+msgctxt "DIALOG_PASSIVE_SCENE_79_1"
+msgid "That's why I stopped you."
+msgstr "Именно поэтому."
+
+#, fuzzy
+msgctxt "DIALOG_PASSIVE_SCENE_79_2"
+msgid "Lame."
+msgstr "Отстой."
+
+#, fuzzy
+msgctxt "DIALOG_PASSIVE_SCENE_79_3"
+msgid ""
+"C'mon, you heard him. All we need is a VIP pass and he'll let us onboard."
+msgstr ""
+"Ты его слышала. Все, что нам нужно - это VIP-пропуск и он пропустит нас."
+
+#, fuzzy
+msgctxt "DIALOG_PASSIVE_SCENE_79_4"
+msgid "Yeah, but where do we get one?"
+msgstr "Но где мы его возьмем?"
+
+#, fuzzy
+msgctxt "DIALOG_PASSIVE_SCENE_79_5"
+msgid ""
+"There's a fancy hotel on the other end of Ocean Heights. Lots of rich people"
+" there. I bet one of them has a VIP pass!"
+msgstr ""
+"Тут есть крутая гостиница на другом конце Океанских Высот. Куча богачей. Я "
+"уверена, что у кого-нибудь из них найдется VIP-билет."
+
+#, fuzzy
+msgctxt "DIALOG_PASSIVE_SCENE_81_0"
+msgid ""
+"I bet Riki and Kunio are on that yacht RIGHT NOW, looking all cute and "
+"muscley..."
+msgstr ""
+"Я уверена, что Рики и Кунио на этой яхте прямо сейчас, загорелые, "
+"мускулистые..."
+
+#, fuzzy
+msgctxt "DIALOG_PASSIVE_SCENE_81_1"
+msgid ""
+"Calm down. You heard that butler dude. We just gotta learn those 3 answers."
+msgstr ""
+"Успокойся. Ты слышала этого дворецкого. Нам нужно просто узнать эти три "
+"ответа."
+
+#, fuzzy
+msgctxt "DIALOG_PASSIVE_SCENE_81_2"
+msgid "But won't he recognize us?"
+msgstr "Но он же нас узнает?"
+
+#, fuzzy
+msgctxt "DIALOG_PASSIVE_SCENE_81_3"
+msgid "Nah, money don't recognize poor people."
+msgstr "Нет, деньги бедняков не узнают."
+
+#, fuzzy
+msgctxt "DIALOG_PASSIVE_SCENE_81_4"
+msgid "Hey, I'm not THAT poor..."
+msgstr "Эй, я не НАСТОЛЬКО бедна..."
+
+#, fuzzy
+msgctxt "DIALOG_PASSIVE_SCENE_83_0"
+msgid "What were the three questions again?"
+msgstr "Что там были за три вопроса?"
+
+#, fuzzy
+msgctxt "DIALOG_PASSIVE_SCENE_83_1"
+msgid "NOIZE's favorite drink."
+msgstr "Любимый напиток NOIZE."
+
+#, fuzzy
+msgctxt "DIALOG_PASSIVE_SCENE_83_2"
+msgid "Food."
+msgstr "Еда."
+
+#, fuzzy
+msgctxt "DIALOG_PASSIVE_SCENE_83_3"
+msgid "Also her cat's name."
+msgstr "И как зовут ее кошку."
+
+#, fuzzy
+msgctxt "DIALOG_PASSIVE_SCENE_83_4"
+msgid "Her dog."
+msgstr "Собаку."
+
+#, fuzzy
+msgctxt "DIALOG_PASSIVE_SCENE_83_5"
+msgid "Whatever. And something about a car?"
+msgstr "Какая разница? И что-то про машину?"
+
+#, fuzzy
+msgctxt "DIALOG_PASSIVE_SCENE_83_6"
+msgid "Geez, it was her hometown!"
+msgstr "Господи. Про ее родной город!"
+
+#, fuzzy
+msgctxt "DIALOG_PASSIVE_SCENE_83_7"
+msgid "Oh yeah."
+msgstr "Ааа, да."
+
+#, fuzzy
+msgctxt "DIALOG_PASSIVE_SCENE_83_8"
+msgid "Your memory's pretty bad, huh?"
+msgstr "У тебя с памятью не очень, да?"
+
+#, fuzzy
+msgctxt "DIALOG_PASSIVE_SCENE_83_9"
+msgid "Well I get hit a lot..."
+msgstr "Ну, меня много били..."
+
+#, fuzzy
+msgctxt "DIALOG_PASSIVE_SCENE_85_0"
+msgid "Hey, check out that sign."
+msgstr "Эй, посмотри на эту вывеску."
+
+#, fuzzy
+msgctxt "DIALOG_PASSIVE_SCENE_85_1"
+msgid "Fatty Tuna 50% off? Great, I'm starving!"
+msgstr "50% скидка на жирного тунца? Отлично, я умираю с голода!"
+
+#, fuzzy
+msgctxt "DIALOG_PASSIVE_SCENE_85_2"
+msgid "No, below it."
+msgstr "Нет, пониже."
+
+#, fuzzy
+msgctxt "DIALOG_PASSIVE_SCENE_85_3"
+msgid "NOIZE's favorite food. Hey, mine too! Weird."
+msgstr "Любимая еда NOIZE. Странно, моя тоже!"
+
+#, fuzzy
+msgctxt "DIALOG_PASSIVE_SCENE_85_4"
+msgid "Question answered, c'mon."
+msgstr "Ответ получен, двигаемся дальше."
+
+#, fuzzy
+msgctxt "DIALOG_PASSIVE_SCENE_88_0"
+msgid "Alright, NOIZE's favorite food is fatty tuna sushi."
+msgstr "Отлично. Любимая еда NOIZE - суши с жирным тунцом."
+
+#, fuzzy
+msgctxt "DIALOG_PASSIVE_SCENE_88_1"
+msgid "She grew up in Dumbsville."
+msgstr "Она выросла в Балдавилле."
+
+#, fuzzy
+msgctxt "DIALOG_PASSIVE_SCENE_88_2"
+msgid "Bunsonville. And her dog's name is Dawg, like the cool kids say it."
+msgstr "Бансонвилле. И ее собачку зовут Сцобако, как сейчас круто говорить."
+
+#, fuzzy
+msgctxt "DIALOG_PASSIVE_SCENE_88_3"
+msgid "You have no idea how mad that makes me."
+msgstr "Ты не представляешь, как меня это бесит."
+
+#, fuzzy
+msgctxt "DIALOG_PASSIVE_SCENE_88_4"
+msgid "C'mon, let's get those VIP passes!"
+msgstr "Давай, пошли добывать эти VIP-пропуска!"
+
+#, fuzzy
+msgctxt "DIALOG_PASSIVE_SCENE_90_0"
+msgid "Hurry! Let's get to that concert and find our boyfriends!"
+msgstr "Скорее! Пошли на концерт и искать наших бойфрендов!"
+
+#, fuzzy
+msgctxt "DIALOG_PASSIVE_SCENE_90_1"
+msgid ""
+"Geez, I hope they're there. My heart can't take another minute without Riki!"
+msgstr "Я очень надеюсь, что они тут! Я больше не выдержу ни минуты без Рики!"
+
+#, fuzzy
+msgctxt "DIALOG_PASSIVE_SCENE_92_0"
+msgid "Well that's weird."
+msgstr "Странно."
+
+#, fuzzy
+msgctxt "DIALOG_PASSIVE_SCENE_99_0"
+msgid "C'mon, let's get to that tower and find our boyfriends!"
+msgstr "Давай, пошли на эту башню искать наших бойфрендов!"
+
+#, fuzzy
+msgctxt "DIALOG_PASSIVE_SCENE_101_0"
+msgid "Hasebe's lying, right Misako?"
+msgstr "Хасиби нам врет, правда, Мисако?"
+
+#, fuzzy
+msgctxt "DIALOG_PASSIVE_SCENE_101_1"
+msgid ""
+"What? Obviously! Those jerks have been jealous of us since we were little "
+"kids."
+msgstr "Что? Конечно! Эти придурки завидуют нам с раннего детства."
+
+#, fuzzy
+msgctxt "DIALOG_PASSIVE_SCENE_101_2"
+msgid ""
+"Now c'mon, let's defeat this army of yakuza soldiers and get our boyfriends "
+"back!"
+msgstr ""
+"А теперь пошли, победим армию бойцов якудза и вернем наших бойфрендов!"
+
+#, fuzzy
+msgctxt "DIALOG_PASSIVE_SCENE_102_0"
+msgid "Misako? My knuckles are hurting."
+msgstr "Мисако? У меня костяшки пальцев болят."
+
+#, fuzzy
+msgctxt "DIALOG_PASSIVE_SCENE_102_1"
+msgid "Yeah, so are my knees."
+msgstr "А у меня коленки."
+
+#, fuzzy
+msgctxt "DIALOG_PASSIVE_SCENE_102_2"
+msgid "Where do you think Kunio and Riki are?"
+msgstr "Как ты думаешь, где же Кунио и Рики?"
+
+#, fuzzy
+msgctxt "DIALOG_PASSIVE_SCENE_102_3"
+msgid "If this Sabu guy's got 'em, odds are they're in his penthouse."
+msgstr "Если этот Сабу их похитил, то они могут быть в его пентхаусе."
+
+#, fuzzy
+msgctxt "DIALOG_PASSIVE_SCENE_102_4"
+msgid "Guess we're going up."
+msgstr "Думаю, нам надо подняться наверх."
+
+#, fuzzy
+msgctxt "DIALOG_PASSIVE_SCENE_105_0"
+msgid "Let's find those explosives."
+msgstr "Давай найдем взрывчатку."
+
+#, fuzzy
+msgctxt "DIALOG_PASSIVE_SCENE_105_1"
+msgid "And blow things up!"
+msgstr "И разнесем все!"
+
+#, fuzzy
+msgctxt "DIALOG_PASSIVE_SCENE_105_2"
+msgid "ONLY the penthouse door."
+msgstr "ТОЛЬКО дверь пентхауса."
+
+#, fuzzy
+msgctxt "DIALOG_PASSIVE_SCENE_105_3"
+msgid "Yeah. Right."
+msgstr "Ага. Правильно."
+
+#, fuzzy
+msgctxt "DIALOG_PASSIVE_SCENE_107_0"
+msgid "Is this that explosive thingy?"
+msgstr "Это взрывчатка, да?"
+
+#, fuzzy
+msgctxt "DIALOG_PASSIVE_SCENE_107_1"
+msgid "Yeah, now be careful you don't blow us up!"
+msgstr "Да, и не взорви нас ненароком!"
+
+#, fuzzy
+msgctxt "DIALOG_PASSIVE_SCENE_108_0"
+msgid "Explosives acquired!"
+msgstr "Обнаружены взрывные устройства!"
+
+#, fuzzy
+msgctxt "DIALOG_PASSIVE_SCENE_108_1"
+msgid "In the weapons room. Duh."
+msgstr "В оружейном складе. Угу."
+
+#, fuzzy
+msgctxt "DIALOG_PASSIVE_SCENE_109_0"
+msgid "Got another one!"
+msgstr "Еще одно!"
+
+#, fuzzy
+msgctxt "DIALOG_PASSIVE_SCENE_109_1"
+msgid "Hey, careful with that thing!"
+msgstr "Эй, осторожно с этим!"
+
+#, fuzzy
+msgctxt "DIALOG_PASSIVE_SCENE_110_0"
+msgid "Another explosive. Let's go!"
+msgstr "Еще одно взрывное устройство! Идем!"
+
+#, fuzzy
+msgctxt "DIALOG_PASSIVE_SCENE_110_1"
+msgid "But... I've never been in a casino."
+msgstr "Но... я никогда не была в казино."
+
+#, fuzzy
+msgctxt "DIALOG_PASSIVE_SCENE_110_2"
+msgid "Kyoko!"
+msgstr "Киоко!"
+
+#, fuzzy
+msgctxt "DIALOG_PASSIVE_SCENE_110_3"
+msgid "But... fiiiiiine."
+msgstr "Но... лаааааааадно."
+
+#, fuzzy
+msgctxt "DIALOG_PASSIVE_SCENE_111_0"
+msgid "Okay, explosives planted. Let's get the heck outta here!"
+msgstr "Хорошо, взрывные устройства установлены. А теперь бежим отсюда!"
+
+#, fuzzy
+msgctxt "DIALOG_PASSIVE_SCENE_115_0"
+msgid "Hey! Wake up, you dumb baby."
+msgstr "Эй! Просыпайся, тупень."
+
+#, fuzzy
+msgctxt "DIALOG_PASSIVE_SCENE_115_1"
+msgid "You gotta keep fighting! You gonna let her beat you that easy??"
+msgstr "Продолжай бороться! Ты собираешься сдаться ей так легко???"
+
+#, fuzzy
+msgctxt "DIALOG_PASSIVE_SCENE_115_2"
+msgid "You can still win, Misako! Get up! NOW!"
+msgstr "Ты все еще можешь выиграть, Мисако! Вставай! СЕЙЧАС ЖЕ!"
+
+#, fuzzy
+msgctxt "DIALOG_PASSIVE_SCENE_116_0"
+msgid "We can't beat her, Misako! She's too tough!"
+msgstr "Мы не можем с ней справиться, Мисако! Она слишком сильная!"
+
+#, fuzzy
+msgctxt "DIALOG_PASSIVE_SCENE_116_1"
+msgid "We CAN defeat her. I TOLD myself we can. And I wouldn't lie to me."
+msgstr "Мы МОЖЕМ ее победить. Я СКАЗАЛА себе, что можем. А я себе не вру."
+
+#, fuzzy
+msgctxt "DIALOG_PASSIVE_SCENE_116_2"
+msgid "What?"
+msgstr "Что?"
+
+#, fuzzy
+msgctxt "DIALOG_PASSIVE_SCENE_120_0"
+msgid "WHAT???"
+msgstr "ЧТО???"
+
+#, fuzzy
+msgctxt "DIALOG_PASSIVE_SCENE_PRINCIPAL_001"
+msgid ""
+"Attention. This is your Principal. Looks like we've got some troublemakers "
+"in detention. You kids know what to do..."
+msgstr ""
+"Внимание. Говорит директор школы. У нас тут под стражей парочка нарушителей "
+"спокойствия. Вы знаете, что делать..."
+
+#, fuzzy
+msgctxt "DIALOG_PASSIVE_SCENE_PRINCIPAL_002"
+msgid ""
+"Tomorrow's lunch is vegetables and rice. Don't let those girls out of here."
+msgstr "Завтра на ланч будут овощи и рис. Не выпускай отсюда этих девочек."
+
+#, fuzzy
+msgctxt "DIALOG_PASSIVE_SCENE_PRINCIPAL_003"
+msgid "Straight A's to the student who stops those girls!"
+msgstr "Круглые пятерки тому, кто остановит этих девочек?"
+
+#, fuzzy
+msgctxt "DIALOG_PASSIVE_SCENE_PRINCIPAL_004"
+msgid ""
+"Today is School Spirit Day. Show YOUR school spirit by destroying those "
+"girls!"
+msgstr ""
+"Сегодня День единения школы. Докажи, что ТЫ един со школой - останови этих "
+"девочек!"
+
+#, fuzzy
+msgctxt "DIALOG_PASSIVE_SCENE_PRINCIPAL_005"
+msgid "*sigh* Haven't you learned anything? Don't let them escape!"
+msgstr "*со вздохом* Вы так ничего и не усвоили? Не дайте им сбежать!"
+
+#, fuzzy
+msgctxt "DIALOG_PASSIVE_SCENE_PRINCIPAL_006"
+msgid "You students are a DISGRACE! Oh well... at least SHE’LL stop them."
+msgstr "ПОЗОРИЩЕ, а не ученики! Ну...по крайней мере ОНА их остановит."
+
+#, fuzzy
+msgctxt "DIALOG_HASEBE_DEFEATED"
+msgid "Oh, poop."
+msgstr "Дерьмо."
+
+#, fuzzy
+msgctxt "DIALOG_HASEBE_PHASE_0"
+msgid "Hey, no fair!"
+msgstr "Эй, так нечестно!"
+
+#, fuzzy
+msgctxt "DIALOG_HASEBE_PHASE_1"
+msgid "That hurt, dummy!"
+msgstr "Это больно, балда!"
+
+#, fuzzy
+msgctxt "DIALOG_HASEBE_START_BATTLE"
+msgid "Time to kill?"
+msgstr "Время убивать?"
+
+#, fuzzy
+msgctxt "DIALOG_KYOKO_DIE_0"
+msgid "You're not supposed to hit girls!"
+msgstr "Девочек бить нельзя!"
+
+#, fuzzy
+msgctxt "DIALOG_KYOKO_GLOAT_0"
+msgid "As if I'd let you beat me!"
+msgstr "Так я и позволю тебе меня победить!"
+
+#, fuzzy
+msgctxt "DIALOG_KYOKO_IFINTERRUPTED_0"
+msgid "What the heck!"
+msgstr "Какого черта?"
+
+#, fuzzy
+msgctxt "DIALOG_KYOKO_JUSTHIT_0"
+msgid "Ouch!"
+msgstr "Ой!"
+
+#, fuzzy
+msgctxt "DIALOG_KYOKO_KILLPLAYER_0"
+msgid "Oops!"
+msgstr "Упс!"
+
+#, fuzzy
+msgctxt "DIALOG_KYOKO_MISC_0"
+msgid "What's your insta?"
+msgstr "Какой у тебя инстаграм?"
+
+#, fuzzy
+msgctxt "DIALOG_KYOKO_WEAKENED_0"
+msgid "I need healing!"
+msgstr "Мне нужно лечение!"
+
+#, fuzzy
+msgctxt "DIALOG_MALL_SECURITY_GUARD_SEE_PLAYER_0"
+msgid "Get outta my house!"
+msgstr "Убирайтесь из моего дома!"
+
+#, fuzzy
+msgctxt "DIALOG_MAMI_DEFEATED"
+msgid "We'll never live this down..."
+msgstr "Мы это никогда не забудем..."
+
+#, fuzzy
+msgctxt "DIALOG_MAMI_PHASE_0"
+msgid "Cheaters!"
+msgstr "Обманщицы!"
+
+#, fuzzy
+msgctxt "DIALOG_MAMI_PHASE_1"
+msgid "Back off!"
+msgstr "Сдай назад!"
+
+#, fuzzy
+msgctxt "DIALOG_MAMI_START_BATTLE"
+msgid "You bet!"
+msgstr "Да прямо!"
+
+#, fuzzy
+msgctxt "DIALOG_MISC_DOTDOTDOT"
+msgid "..."
+msgstr "..."
+
+#, fuzzy
+msgctxt "DIALOG_MISUZU_DEFEATED"
+msgid "You're embarassing me!"
+msgstr "Ты меня унижаешь!"
+
+#, fuzzy
+msgctxt "DIALOG_MISUZU_PHASE_0"
+msgid "Stop moving!"
+msgstr "Замри!"
+
+#, fuzzy
+msgctxt "DIALOG_MISUZU_PHASE_1"
+msgid "Hold still so I can SMASH you!"
+msgstr "Стой спокойно, чтобы я могла тебе ВРЕЗАТЬ!"
+
+#, fuzzy
+msgctxt "DIALOG_MISUZU_START_BATTLE"
+msgid "Get over here!"
+msgstr "Так, сюда!"
+
+#, fuzzy
+msgctxt "DIALOG_NOIZE_DEFEATED"
+msgid "Track over..."
+msgstr "Песня окончена..."
+
+#, fuzzy
+msgctxt "DIALOG_NOIZE_PHASE_0"
+msgid "Grrr, whatever!"
+msgstr "Гррр, как бы не так!"
+
+#, fuzzy
+msgctxt "DIALOG_NOIZE_PHASE_1"
+msgid "Solo time!"
+msgstr "Выступление соло!"
+
+#, fuzzy
+msgctxt "DIALOG_NOIZE_TAUNT_0"
+msgid "You girls are so lame!"
+msgstr "Вы такое убожество!"
+
+#, fuzzy
+msgctxt "DIALOG_NOIZE_TAUNT_1"
+msgid "You aren't real fans!"
+msgstr "Вы не настоящие фанаты!"
+
+#, fuzzy
+msgctxt "DIALOG_NOIZE_START_BATTLE"
+msgid "1, 2, 3, FOUR!"
+msgstr "Раз, два, три, ЧЕТЫРЕ!"
+
+#, fuzzy
+msgctxt "DIALOG_SABUKO_DEFEATED"
+msgid "Curse you..."
+msgstr "Черт тебя побери..."
+
+#, fuzzy
+msgctxt "DIALOG_SABUKO_PHASE_0"
+msgid "I'm impressed."
+msgstr "Я впечатлена."
+
+#, fuzzy
+msgctxt "DIALOG_SABUKO_PHASE_1"
+msgid "My patience wanes."
+msgstr "У меня кончается терпение."
+
+#, fuzzy
+msgctxt "DIALOG_SABUKO_START_BATTLE"
+msgid "Let's begin."
+msgstr "Начинаем."
+
+#, fuzzy
+msgctxt "DIALOG_SEAMSTRESS_DEFEATED"
+msgid "I'm a fashion DON'T..."
+msgstr "Я модное ОТРИЦАНИЕ..."
+
+#, fuzzy
+msgctxt "DIALOG_SEAMSTRESS_PHASE_0"
+msgid "Such hideous outfits!"
+msgstr "Чудовищные наряды!"
+
+#, fuzzy
+msgctxt "DIALOG_SEAMSTRESS_PHASE_1"
+msgid "Dressed to KILL!"
+msgstr "УБИЙСТВЕННЫЕ костюмы!"
+
+#, fuzzy
+msgctxt "DIALOG_SEAMSTRESS_START_BATTLE"
+msgid "Time to thread the needle..."
+msgstr "Пора браться за иглу..."
+
+#, fuzzy
+msgctxt "DIALOG_SEAMSTRESSINTRO_PLAYER_LINE_0"
+msgid ""
+"O.M.G.! That is so hecka dorbs! I just want to hug and squeeze and love "
+"every ounce of you! No, not you... you I want to beat with a pipe."
+msgstr ""
+"ОМГ! Ужас как мило! Я хочу обнять и сжать каждый твой миллиметр! Нет, не "
+"твой...тебя я хочу избить трубой."
+
+#, fuzzy
+msgctxt "DIALOG_SEAMSTRESSINTRO_PLAYER_LINE_1"
+msgid ""
+"You think you can stand in my way? Howsabout I Dragon Kick you in the "
+"chest?? Try standing then, bucko!"
+msgstr ""
+"Думаешь, можешь встать у меня на пути? Как насчет Драконьего Пинка в грудь? "
+"Попробуй после этого встать, парень!"
+
+#, fuzzy
+msgctxt "DIALOG_SEAMSTRESSINTRO_SEAMSTRESS_LINE_0"
+msgid ""
+"My fashion is revolutionary! My designs won't be in style until decades from"
+" now."
+msgstr ""
+"У меня революционная мода! Мои дизайны не войдут в моду еще десятки лет."
+
+#, fuzzy
+msgctxt "DIALOG_SEAMSTRESSINTRO_SEAMSTRESS_LINE_1"
+msgid "Fashion is life... just not for you."
+msgstr "Мода - жизнь...просто не твоя."
+
+#, fuzzy
+msgctxt "DIALOG_THUG_DIE_0"
+msgid "Next time..."
+msgstr "В следующий раз..."
+
+#, fuzzy
+msgctxt "DIALOG_THUG_GLOAT_0"
+msgid "You're not strong enough to beat me."
+msgstr "У тебя сил не хватит меня побить."
+
+#, fuzzy
+msgctxt "DIALOG_THUG_IFINTERRUPTED_0"
+msgid "How dare you!"
+msgstr "Как ты смеешь???"
+
+#, fuzzy
+msgctxt "DIALOG_THUG_JUSTHIT_0"
+msgid "Oof."
+msgstr "Уф."
+
+#, fuzzy
+msgctxt "DIALOG_THUG_KILLPLAYER_0"
+msgid "Hah, you thought you were good enough!"
+msgstr "Ха-ха, а ты думал!"
+
+#, fuzzy
+msgctxt "DIALOG_THUG_MISC_0"
+msgid "What a nice day we're having."
+msgstr "Какой у нас прекрасный выдался день."
+
+#, fuzzy
+msgctxt "DIALOG_THUG_SEEPLAYER_0"
+msgid "Hey, get over here!"
+msgstr "Эй, иди сюда!"
+
+#, fuzzy
+msgctxt "DIALOG_THUG_SEEPLAYER_1"
+msgid "GET THEM!"
+msgstr "ВЗЯТЬ ИХ!"
+
+#, fuzzy
+msgctxt "DIALOG_THUG_WEAKENED_0"
+msgid "I'm fine, tis but a flesh wound."
+msgstr "Все хорошо, вот только рана..."
+
+#, fuzzy
+msgctxt "DIALOG_YAMADA_DEFEATED"
+msgid "I suck..."
+msgstr "Я никуда не гожусь..."
+
+#, fuzzy
+msgctxt "DIALOG_YAMADA_PHASE_0"
+msgid "Evil powers, fuel me..."
+msgstr "Темные силы, помогите мне..."
+
+#, fuzzy
+msgctxt "DIALOG_YAMADA_PHASE_1"
+msgid "Grrrr, magic protect me!"
+msgstr "Гррр, защити меня, магия!"
+
+#, fuzzy
+msgctxt "DIALOG_YAMADA_START_BATTLE"
+msgid "It's about to get DARK!"
+msgstr "Сейчас будет ТЕМНО!"
+
+#, fuzzy
+msgctxt "TO_PHASE_2"
+msgid "Such hideous outfits!"
+msgstr "Такие отвратительные наряды!"
+
+#, fuzzy
+msgctxt "TO_PHASE_3"
+msgid "Dressed to KILL!"
+msgstr "Отпадно одета!"
+
+#, fuzzy
+msgctxt "DIALOG_ABOBO_DEFEATED"
+msgid "I don't feel so good..."
+msgstr "Я не так уж хорошо себя чувствую..."
+
+#, fuzzy
+msgctxt "DIALOG_ABOBO_PHASE_0"
+msgid "Grrr, you're makin' me mad!"
+msgstr "Гррр, ты меня сводишь с ума!"
+
+#, fuzzy
+msgctxt "DIALOG_ABOBO_PHASE_1"
+msgid "Stop jumpin' around!"
+msgstr "Перестань прыгать вокруг!"
+
+#, fuzzy
+msgctxt "DIALOG_ABOBO_START_BATTLE"
+msgid "Okay, let's do this!"
+msgstr "Окей, давай это сделаем!"
+
+#, fuzzy
+msgctxt "DIALOG_GODAI_MISSION_MAYOR_0"
+msgid "OH HEY! It's you two again. I got another mission for ya."
+msgstr "ПРИВЕТ! Это опять вы двое? У меня для вас новая миссия."
+
+#, fuzzy
+msgctxt "DIALOG_GODAI_MISSION_MAYOR_1"
+msgid ""
+"This time it's that pompous MAYOR of ours. Always acting like he RUNS River "
+"City, pshhh..."
+msgstr ""
+"На этот раз про нашего напыщенного МЭРА. Ведет себя так, как будто он "
+"УПРАВЛЯЕТ Ривер-Сити, пффф..."
+
+#, fuzzy
+msgctxt "DIALOG_GODAI_MISSION_MAYOR_2"
+msgid ""
+"You seen that hideous, golden statue they built of him? Well I want it gone."
+" Destroy it, and I'll reward ya."
+msgstr ""
+"Вы видели отвратительную золотую статую, которую ему воздвигли? Так вот, я "
+"хочу, чтобы ее не было. Разрушьте ее, и я вас вознагражу."
+
+#, fuzzy
+msgctxt "DIALOG_GODAI_MISSION_FANCY_CARS_0"
+msgid "Is that Misako and Kyoko? I THOUGHT it was you! How ya two been?"
+msgstr "Мисако и Киоко! ТАК И ДУМАЛ, что это вы! Как дела?"
+
+#, fuzzy
+msgctxt "DIALOG_GODAI_MISSION_FANCY_CARS_1"
+msgid ""
+"I need your help again. Some folks from the FANCY part of town keep parking "
+"their EXPENSIVE cars here in Downtown."
+msgstr ""
+"Мне опять нужна ваша помощь. Некоторые жильцы ХОРОШИХ районов паркуют свои "
+"ДОРОГИЕ машины тут в центре города."
+
+#, fuzzy
+msgctxt "DIALOG_GODAI_MISSION_FANCY_CARS_2"
+msgid ""
+"But that makes the local residents feel like GARBAGE. You can relate, right?"
+msgstr ""
+"Но это заставляет местных жителей чувствовать себя ОТБРОСАМИ. Вы меня "
+"понимаете, да?"
+
+#, fuzzy
+msgctxt "DIALOG_GODAI_MISSION_FANCY_CARS_3"
+msgid ""
+"Go find four fancy cars that DON'T belong here and DESTROY em! I'll make it "
+"worth your while..."
+msgstr ""
+"Найдите четыре модных машины, которым НЕ МЕСТО тут, и разрушьте их! Я вас "
+"отблагодарю..."
+
+#, fuzzy
+msgctxt "DIALOG_GODAI_MISSION_ONE_HIT_TOMMY_0"
+msgid "WOW! Funny how we keep running into each other, isn't it?"
+msgstr "ВАУ! Разве не забавно, что мы постоянно друг на друга натыкаемся?"
+
+#, fuzzy
+msgctxt "DIALOG_GODAI_MISSION_ONE_HIT_TOMMY_1"
+msgid ""
+"You ever heard of \"One Hit Tommy?\" Got a helluva fist on him. He'll take "
+"down ANYONE with a single punch."
+msgstr ""
+"Когда-нибудь слышали о Томми-Один-Удар? Невероятные кулаки. Вышибает любого "
+"с одного раза."
+
+#, fuzzy
+msgctxt "DIALOG_GODAI_MISSION_ONE_HIT_TOMMY_2"
+msgid ""
+"He's been loitering in a nearby bathroom and I REALLY gotta pee. Go take him"
+" out so I can drain the, uh, you know."
+msgstr ""
+"Он околачивается в ближайшем туалете, а мне ОЧЕНЬ надо пописать. Уберите его"
+" оттуда, чтобы я мог, ну, вы поняли."
+
+#, fuzzy
+msgctxt "DIALOG_GODAI_MISSION_SNITCHES_0"
+msgid ""
+"ME AGAIN! Wow, small world, eh? It's like, every dumpster you bump into -- "
+"there's Godai!"
+msgstr "ВОТ И Я! Мир тесен, не правда ли? В каждой помойке - Умерето!"
+
+#, fuzzy
+msgctxt "DIALOG_GODAI_MISSION_SNITCHES_1"
+msgid ""
+"I see you're headed into Sanwakai Tower. While you're in there, can ya do me"
+" a favor?"
+msgstr ""
+"Я вижу, вы собираетесь в башню Санвакай. Можете оказать мне там одну услугу?"
+
+#, fuzzy
+msgctxt "DIALOG_GODAI_MISSION_SNITCHES_2"
+msgid ""
+"There's five yakuza who have betrayed the family and turned informant. Find "
+"'em and make them REGRET that decision."
+msgstr ""
+"Там есть пять якудза, обманувших мою семью и сдавших информанта. Найдите их "
+"и заставьте их ПОЖАЛЕТЬ о своем решении."
+
+#, fuzzy
+msgctxt "DIALOG_GODAI_MISSION_SNITCHES_3"
+msgid ""
+"You can spot them by their RED outfits. But feel free to beat up everyone "
+"else, too. Ya know, for funsies!"
+msgstr ""
+"Вы узнаете их по КРАСНОЙ одежде. Но можете побить и всех остальных. Так "
+"сказать, для собственного удовольствия."
+
+#, fuzzy
+msgctxt "ENEMY_DEATH_MALE_0"
+msgid "BARF!"
+msgstr "БУЭ!"
+
+#, fuzzy
+msgctxt "ENEMY_DEATH_MALE_1"
+msgid "Oh dang!"
+msgstr "Черт!"
+
+#, fuzzy
+msgctxt "ENEMY_DEATH_MALE_2"
+msgid "That hurt!"
+msgstr "Это больно"
+
+#, fuzzy
+msgctxt "ENEMY_DEATH_MALE_3"
+msgid "Hey now..."
+msgstr "Так вот..."
+
+#, fuzzy
+msgctxt "ENEMY_DEATH_MALE_4"
+msgid "I don't feel so good..."
+msgstr "Я себя чувствую не очень..."
+
+#, fuzzy
+msgctxt "ENEMY_DEATH_MALE_5"
+msgid "Does anyone read this?"
+msgstr "Кто-нибудь это читает?"
+
+#, fuzzy
+msgctxt "ENEMY_DEATH_MALE_6"
+msgid "My spleen!"
+msgstr "Моя селезенка!"
+
+#, fuzzy
+msgctxt "ENEMY_DEATH_MALE_7"
+msgid "OOF!"
+msgstr "ОЙЙЙ!"
+
+#, fuzzy
+msgctxt "ENEMY_DEATH_MALE_8"
+msgid "Not cool, dude."
+msgstr "Неприкольно вообще-то."
+
+#, fuzzy
+msgctxt "ENEMY_DEATH_MALE_9"
+msgid "You're cute!"
+msgstr "Миленько!"
+
+#, fuzzy
+msgctxt "ENEMY_DEATH_MALE_10"
+msgid "Whoa!"
+msgstr "Ничего себе!"
+
+#, fuzzy
+msgctxt "ENEMY_DEATH_MALE_11"
+msgid "Mamaaa!"
+msgstr "Мамааа!"
+
+#, fuzzy
+msgctxt "ENEMY_DEATH_MALE_12"
+msgid "OUCH!"
+msgstr "ОЙ!"
+
+#, fuzzy
+msgctxt "ENEMY_DEATH_MALE_13"
+msgid "What'd I do to you?"
+msgstr "Что я тебе сделала?"
+
+#, fuzzy
+msgctxt "ENEMY_DEATH_MALE_14"
+msgid "Hmph!"
+msgstr "Пфф!"
+
+#, fuzzy
+msgctxt "ENEMY_DEATH_MALE_15"
+msgid "Bummer."
+msgstr "Облом."
+
+#, fuzzy
+msgctxt "ENEMY_DEATH_MALE_16"
+msgid "There goes my lunch."
+msgstr "Прощай, завтрак."
+
+#, fuzzy
+msgctxt "ENEMY_DEATH_MALE_17"
+msgid "I taste blood."
+msgstr "Я чувствую вкус крови."
+
+#, fuzzy
+msgctxt "ENEMY_DEATH_MALE_18"
+msgid "My stomach!"
+msgstr "Мой желудок!"
+
+#, fuzzy
+msgctxt "ENEMY_DEATH_MALE_19"
+msgid "My knees!"
+msgstr "Мои коленки!"
+
+#, fuzzy
+msgctxt "ENEMY_DEATH_MALE_20"
+msgid "Is this fun yet?"
+msgstr "Понравилось?"
+
+#, fuzzy
+msgctxt "ENEMY_DEATH_MALE_21"
+msgid "That wasn't nice."
+msgstr "Это было не очень"
+
+#, fuzzy
+msgctxt "ENEMY_DEATH_MALE_22"
+msgid "What happened to civil discourse?"
+msgstr "Что случилось с цивилизованным диалогом?"
+
+#, fuzzy
+msgctxt "ENEMY_DEATH_MALE_23"
+msgid "My vertibrae!"
+msgstr "Мои позвонки!"
+
+#, fuzzy
+msgctxt "ENEMY_DEATH_MALE_24"
+msgid "You don't see ME punching YOU."
+msgstr "Ты не видишь, как Я бью ТЕБЯ."
+
+#, fuzzy
+msgctxt "ENEMY_DEATH_MALE_25"
+msgid "Down I go."
+msgstr "Иду на дно."
+
+#, fuzzy
+msgctxt "ENEMY_DEATH_MALE_26"
+msgid "BIFF!"
+msgstr "БУМ!"
+
+#, fuzzy
+msgctxt "ENEMY_DEATH_MALE_27"
+msgid "Welp, I'm beat."
+msgstr "Ох, меня побили."
+
+#, fuzzy
+msgctxt "ENEMY_DEATH_MALE_28"
+msgid "That really hurt."
+msgstr "Это было очень больно."
+
+#, fuzzy
+msgctxt "ENEMY_DEATH_MALE_29"
+msgid "I'm so grounded."
+msgstr "Попадалово."
+
+#, fuzzy
+msgctxt "ENEMY_DEATH_MALE_30"
+msgid "Nice moves!"
+msgstr "Неплохие движения."
+
+#, fuzzy
+msgctxt "ENEMY_DEATH_MALE_31"
+msgid "Your fist hurt my face!"
+msgstr "Твой кулак мне в лицо попал!"
+
+#, fuzzy
+msgctxt "ENEMY_DEATH_MALE_32"
+msgid "You jerk."
+msgstr "Подонок."
+
+#, fuzzy
+msgctxt "ENEMY_DEATH_MALE_33"
+msgid "So rude."
+msgstr "Как грубо."
+
+#, fuzzy
+msgctxt "ENEMY_DEATH_MALE_34"
+msgid "HELP!"
+msgstr "ПОМОГИТЕ!"
+
+#, fuzzy
+msgctxt "ENEMY_DEATH_MALE_35"
+msgid "MOMMY!"
+msgstr "МАМОЧКА!"
+
+#, fuzzy
+msgctxt "ENEMY_DEATH_MALE_36"
+msgid "Whatever."
+msgstr "Неважно."
+
+#, fuzzy
+msgctxt "ENEMY_DEATH_MALE_37"
+msgid "Sigh..."
+msgstr "Эх.."
+
+#, fuzzy
+msgctxt "ENEMY_DEATH_MALE_38"
+msgid "Aw geez."
+msgstr "Оууу."
+
+#, fuzzy
+msgctxt "ENEMY_DEATH_MALE_39"
+msgid "Dangit!"
+msgstr "Блин!"
+
+#, fuzzy
+msgctxt "ENEMY_DEATH_MALE_40"
+msgid "Darnit!"
+msgstr "Черт!"
+
+#, fuzzy
+msgctxt "ENEMY_DEATH_MALE_41"
+msgid "Such violence..."
+msgstr "Такое насилие..."
+
+#, fuzzy
+msgctxt "ENEMY_DEATH_MALE_42"
+msgid "COUGH!"
+msgstr "ДААА?"
+
+#, fuzzy
+msgctxt "ENEMY_DEATH_MALE_43"
+msgid "Zounds!"
+msgstr "Черт меня побери!"
+
+#, fuzzy
+msgctxt "ENEMY_DEATH_MALE_44"
+msgid "Double-zounds!"
+msgstr "Сатана меня разрази!"
+
+#, fuzzy
+msgctxt "ENEMY_DEATH_MALE_45"
+msgid "You palooka!"
+msgstr "Придурок!"
+
+#, fuzzy
+msgctxt "ENEMY_DEATH_MALE_46"
+msgid "BLARG!"
+msgstr "ЭЭЭ!"
+
+#, fuzzy
+msgctxt "ENEMY_DEATH_MALE_47"
+msgid "Totally whack!"
+msgstr "Типа...вот!"
+
+#, fuzzy
+msgctxt "ENEMY_DEATH_MALE_48"
+msgid "Aw shucks."
+msgstr "О...чччерт."
+
+#, fuzzy
+msgctxt "ENEMY_DEATH_MALE_49"
+msgid "I'm done for!"
+msgstr "Мне крышка!"
+
+#, fuzzy
+msgctxt "ENEMY_DEATH_FEMALE_0"
+msgid "BARF!"
+msgstr "БУЭ!"
+
+#, fuzzy
+msgctxt "ENEMY_DEATH_FEMALE_1"
+msgid "Oh dang!"
+msgstr "Черт!"
+
+#, fuzzy
+msgctxt "ENEMY_DEATH_FEMALE_2"
+msgid "That hurt!"
+msgstr "Больно!"
+
+#, fuzzy
+msgctxt "ENEMY_DEATH_FEMALE_3"
+msgid "No way!"
+msgstr "Не пойдет!"
+
+#, fuzzy
+msgctxt "ENEMY_DEATH_FEMALE_4"
+msgid "Nu uh!"
+msgstr "Ну нет!"
+
+#, fuzzy
+msgctxt "ENEMY_DEATH_FEMALE_5"
+msgid "I feel wooooozy..."
+msgstr "Я отъезжаааю..."
+
+#, fuzzy
+msgctxt "ENEMY_DEATH_FEMALE_6"
+msgid "My guts!"
+msgstr "Мои потроха!"
+
+#, fuzzy
+msgctxt "ENEMY_DEATH_FEMALE_7"
+msgid "OOF!"
+msgstr "УФФФ!"
+
+#, fuzzy
+msgctxt "ENEMY_DEATH_FEMALE_8"
+msgid "Pathetic."
+msgstr "Какая жалость."
+
+#, fuzzy
+msgctxt "ENEMY_DEATH_FEMALE_9"
+msgid "Like totally whatever."
+msgstr "То есть, типа, неважно."
+
+#, fuzzy
+msgctxt "ENEMY_DEATH_FEMALE_10"
+msgid "Whoa!"
+msgstr "Ничего себе!"
+
+#, fuzzy
+msgctxt "ENEMY_DEATH_FEMALE_11"
+msgid "Play nice!"
+msgstr "Играй по-честному!"
+
+#, fuzzy
+msgctxt "ENEMY_DEATH_FEMALE_12"
+msgid "OUCH!"
+msgstr "ОЙ!"
+
+#, fuzzy
+msgctxt "ENEMY_DEATH_FEMALE_13"
+msgid "You're so mean!"
+msgstr "Злюка!"
+
+#, fuzzy
+msgctxt "ENEMY_DEATH_FEMALE_14"
+msgid "Hmph!"
+msgstr "Пфф!"
+
+#, fuzzy
+msgctxt "ENEMY_DEATH_FEMALE_15"
+msgid "So very, very sad."
+msgstr "Как печально."
+
+#, fuzzy
+msgctxt "ENEMY_DEATH_FEMALE_16"
+msgid "Not in the face!"
+msgstr "Только не лицо!"
+
+#, fuzzy
+msgctxt "ENEMY_DEATH_FEMALE_17"
+msgid "I taste blood."
+msgstr "Я чувствую кровь."
+
+#, fuzzy
+msgctxt "ENEMY_DEATH_FEMALE_18"
+msgid "My tummy!"
+msgstr "Мой живот!"
+
+#, fuzzy
+msgctxt "ENEMY_DEATH_FEMALE_19"
+msgid "My knees!"
+msgstr "Мои коленки!"
+
+#, fuzzy
+msgctxt "ENEMY_DEATH_FEMALE_20"
+msgid "My elbow!"
+msgstr "Мой локоть!"
+
+#, fuzzy
+msgctxt "ENEMY_DEATH_FEMALE_21"
+msgid "That wasn't nice."
+msgstr "Это было не очень"
+
+#, fuzzy
+msgctxt "ENEMY_DEATH_FEMALE_22"
+msgid "Stop punching me!"
+msgstr "Перестань меня колотить!"
+
+#, fuzzy
+msgctxt "ENEMY_DEATH_FEMALE_23"
+msgid "My spine aches."
+msgstr "У меня спина болит."
+
+#, fuzzy
+msgctxt "ENEMY_DEATH_FEMALE_24"
+msgid "Feckless goon!"
+msgstr "Бессмысленный разрушитель!"
+
+#, fuzzy
+msgctxt "ENEMY_DEATH_FEMALE_25"
+msgid "Oh well."
+msgstr "Ну ладно."
+
+#, fuzzy
+msgctxt "ENEMY_DEATH_FEMALE_26"
+msgid "OOMF!"
+msgstr "УФ!"
+
+#, fuzzy
+msgctxt "ENEMY_DEATH_FEMALE_27"
+msgid "I still look cute."
+msgstr "Я все еще выгляжу ничего так."
+
+#, fuzzy
+msgctxt "ENEMY_DEATH_FEMALE_28"
+msgid "That really hurt."
+msgstr "Это было очень больно."
+
+#, fuzzy
+msgctxt "ENEMY_DEATH_FEMALE_29"
+msgid "I'm so grounded."
+msgstr "Попадалово."
+
+#, fuzzy
+msgctxt "ENEMY_DEATH_FEMALE_30"
+msgid "I super hate you."
+msgstr "Я тебя ненавижу навеки."
+
+#, fuzzy
+msgctxt "ENEMY_DEATH_FEMALE_31"
+msgid "Watch the makeup!"
+msgstr "Береги макияж!"
+
+#, fuzzy
+msgctxt "ENEMY_DEATH_FEMALE_32"
+msgid "You jerk."
+msgstr "Подонок."
+
+#, fuzzy
+msgctxt "ENEMY_DEATH_FEMALE_33"
+msgid "So rude."
+msgstr "Как грубо."
+
+#, fuzzy
+msgctxt "ENEMY_DEATH_FEMALE_34"
+msgid "HELP!"
+msgstr "ПОМОГИТЕ!"
+
+#, fuzzy
+msgctxt "ENEMY_DEATH_FEMALE_35"
+msgid "DADDY!"
+msgstr "ПАПОЧКА!"
+
+#, fuzzy
+msgctxt "ENEMY_DEATH_FEMALE_36"
+msgid "Whatever."
+msgstr "Как бы то ни было."
+
+#, fuzzy
+msgctxt "ENEMY_DEATH_FEMALE_37"
+msgid "Sigh..."
+msgstr "Эх..."
+
+#, fuzzy
+msgctxt "ENEMY_DEATH_FEMALE_38"
+msgid "Aw geez."
+msgstr "Оууу."
+
+#, fuzzy
+msgctxt "ENEMY_DEATH_FEMALE_39"
+msgid "Dangit!"
+msgstr "Блин!"
+
+#, fuzzy
+msgctxt "ENEMY_DEATH_FEMALE_40"
+msgid "Darnit!"
+msgstr "Черт!"
+
+#, fuzzy
+msgctxt "ENEMY_DEATH_FEMALE_41"
+msgid "Put down your fists, sister."
+msgstr "Убери-ка кулаки, сестричка."
+
+#, fuzzy
+msgctxt "ENEMY_DEATH_FEMALE_42"
+msgid "COUGH!"
+msgstr "ДААА?"
+
+#, fuzzy
+msgctxt "ENEMY_DEATH_FEMALE_43"
+msgid "Huh."
+msgstr "Угу."
+
+#, fuzzy
+msgctxt "ENEMY_DEATH_FEMALE_44"
+msgid "Meh."
+msgstr "М-м."
+
+#, fuzzy
+msgctxt "ENEMY_DEATH_FEMALE_45"
+msgid "I'm a loser."
+msgstr "Я лузер."
+
+#, fuzzy
+msgctxt "ENEMY_DEATH_FEMALE_46"
+msgid "BLARG!"
+msgstr "ЭЭЭ!"
+
+#, fuzzy
+msgctxt "ENEMY_DEATH_FEMALE_47"
+msgid "Dork alert (me)."
+msgstr "Осторожно, зануда (это я)."
+
+#, fuzzy
+msgctxt "ENEMY_DEATH_FEMALE_48"
+msgid "Aw shucks."
+msgstr "О...чччерт."
+
+#, fuzzy
+msgctxt "ENEMY_DEATH_FEMALE_49"
+msgid "I'm done for!"
+msgstr "Мне крышка!"
+
+#, fuzzy
+msgctxt "SHOP_BANNON _01-01"
+msgid "Hey there! Buy something."
+msgstr "Привет! Купите что-нибудь."
+
+#, fuzzy
+msgctxt "SHOP_BANNON _01-02"
+msgid "Whatcha need?"
+msgstr "Что нужно?"
+
+#, fuzzy
+msgctxt "SHOP_BANNON _01-03"
+msgid "Good choice."
+msgstr "Хороший выбор."
+
+#, fuzzy
+msgctxt "SHOP_BANNON _01-04"
+msgid "Nice one."
+msgstr "Мило."
+
+#, fuzzy
+msgctxt "SHOP_BANNON _01-05"
+msgid "Got it."
+msgstr "Поняли."
+
+#, fuzzy
+msgctxt "SHOP_BANNON _01-06"
+msgid "Sure thing."
+msgstr "Несомненно."
+
+#, fuzzy
+msgctxt "SHOP_BANNON _01-07"
+msgid "Okay."
+msgstr "Хорошо."
+
+#, fuzzy
+msgctxt "SHOP_BANNON _01-08"
+msgid "Uh huh."
+msgstr "Хм-м."
+
+#, fuzzy
+msgctxt "SHOP_BANNON _01-09"
+msgid "See ya later."
+msgstr "Увидимся."
+
+#, fuzzy
+msgctxt "SHOP_BANNON _01-10"
+msgid "Drop by any time."
+msgstr "Забегай в любое время"
+
+#, fuzzy
+msgctxt "SHOP_KAWAII_JAMES_02-01"
+msgid "Getcher games!"
+msgstr "Находки геймера!"
+
+#, fuzzy
+msgctxt "SHOP_KAWAII_TOMM_02-02"
+msgid "Right here!"
+msgstr "Прямо тут!"
+
+#, fuzzy
+msgctxt "SHOP_KAWAII_JAMES_02-03"
+msgid "Beep beep boop!"
+msgstr "Хобааа!"
+
+#, fuzzy
+msgctxt "SHOP_KAWAII_TOMM_02-04"
+msgid "Video games here!"
+msgstr "Тут есть видеоигры!"
+
+#, fuzzy
+msgctxt "SHOP_KAWAII_JAMES_02-05"
+msgid "Sweet!"
+msgstr "Чудесно!"
+
+#, fuzzy
+msgctxt "SHOP_KAWAII_TOMM_02-06"
+msgid "That's a rare one."
+msgstr "Редкая штучка."
+
+#, fuzzy
+msgctxt "SHOP_KAWAII_JAMES_02-07"
+msgid "16 bits..."
+msgstr "16 битов..."
+
+#, fuzzy
+msgctxt "SHOP_KAWAII_TOMM_02-08"
+msgid "...solid gold taste!"
+msgstr "...солидный вкус!"
+
+#, fuzzy
+msgctxt "SHOP_KAWAII_JAMES_02-09"
+msgid "Item get!"
+msgstr "Продано!"
+
+#, fuzzy
+msgctxt "SHOP_KAWAII_TOMM_02-10"
+msgid "Congrats."
+msgstr "Поздравляю."
+
+#, fuzzy
+msgctxt "SHOP_KAWAII_JAMES_02-11"
+msgid "User reward number?"
+msgstr "Номер скидочной карты?"
+
+#, fuzzy
+msgctxt "SHOP_KAWAII_TOMM_02-12"
+msgid "You've got one, right?"
+msgstr "У тебя же есть, да?"
+
+#, fuzzy
+msgctxt "SHOP_KAWAII_JAMES_02-13"
+msgid "Inventory:"
+msgstr "Инвентарь:"
+
+#, fuzzy
+msgctxt "SHOP_KAWAII_TOMM_02-14"
+msgid "Plus one."
+msgstr "Плюс один."
+
+#, fuzzy
+msgctxt "SHOP_KAWAII_JAMES_02-15"
+msgid "How about a replacement plan?"
+msgstr "Как насчет плана замены?"
+
+#, fuzzy
+msgctxt "SHOP_KAWAII_TOMM_02-16"
+msgid "Better be safe."
+msgstr "Лучше перестраховаться"
+
+#, fuzzy
+msgctxt "SHOP_KAWAII_JAMES_2-17"
+msgid "Press eject."
+msgstr "Нажмите \"извлечь\""
+
+#, fuzzy
+msgctxt "SHOP_KAWAII_TOMM_02-18"
+msgid "See ya soon!"
+msgstr "Увидимся!"
+
+#, fuzzy
+msgctxt "SHOP_KAWAII_JAMES_2-19"
+msgid "Continue?"
+msgstr "Продолжить?"
+
+#, fuzzy
+msgctxt "SHOP_KAWAII_TOMM_02-20"
+msgid "5, 4, 3..."
+msgstr "5, 4, 3..."
+
+#, fuzzy
+msgctxt "SHOP_TAKASHI_03-01"
+msgid "Welcome to shop."
+msgstr "Добро пожаловать в магазин."
+
+#, fuzzy
+msgctxt "SHOP_TAKASHI_03-02"
+msgid "Hello. Please buy."
+msgstr "Привет. Покупайте, пожалуйста."
+
+#, fuzzy
+msgctxt "SHOP_TAKASHI_03-03"
+msgid "Purchase made."
+msgstr "Покупка совершена."
+
+#, fuzzy
+msgctxt "SHOP_TAKASHI_03-04"
+msgid "Item purchased."
+msgstr "Предмет приобретен."
+
+#, fuzzy
+msgctxt "SHOP_TAKASHI_03-05"
+msgid "Item bought."
+msgstr "Предмет куплен."
+
+#, fuzzy
+msgctxt "SHOP_TAKASHI_03-06"
+msgid "Item sold."
+msgstr "Предмет продан."
+
+#, fuzzy
+msgctxt "SHOP_TAKASHI_03-07"
+msgid "Money accepted."
+msgstr "Деньги приняты."
+
+#, fuzzy
+msgctxt "SHOP_TAKASHI_03-08"
+msgid "Funds received."
+msgstr "Средства получены."
+
+#, fuzzy
+msgctxt "SHOP_TAKASHI_03-09"
+msgid "Goodbye."
+msgstr "До свидания."
+
+#, fuzzy
+msgctxt "SHOP_TAKASHI_03-10"
+msgid "Exit shop now."
+msgstr "Покиньте магазин."
+
+#, fuzzy
+msgctxt "SHOP_BUREIBA_04-01"
+msgid "Initiating shopping experience."
+msgstr "Начало процесса покупки."
+
+#, fuzzy
+msgctxt "SHOP_BUREIBA_04-02"
+msgid "Enter shop = 1."
+msgstr "Войти в магазин = 1."
+
+#, fuzzy
+msgctxt "SHOP_BUREIBA_04-03"
+msgid "Purchase confirmed."
+msgstr "Покупка подтверждена."
+
+#, fuzzy
+msgctxt "SHOP_BUREIBA_04-04"
+msgid "Inventory + 1."
+msgstr "Инвентарь + 1."
+
+#, fuzzy
+msgctxt "SHOP_BUREIBA_04-05"
+msgid "Now buying."
+msgstr "Покупка совершается."
+
+#, fuzzy
+msgctxt "SHOP_BUREIBA_04-06"
+msgid "Initiating transaction."
+msgstr "Создание транзакции"
+
+#, fuzzy
+msgctxt "SHOP_BUREIBA_04-07"
+msgid "Run SALE."
+msgstr "Совершение ПРОДАЖИ."
+
+#, fuzzy
+msgctxt "SHOP_BUREIBA_04-08"
+msgid "Item = bought."
+msgstr "Предмет = куплен."
+
+#, fuzzy
+msgctxt "SHOP_BUREIBA_04-09"
+msgid "Shutting down."
+msgstr "Выключение."
+
+#, fuzzy
+msgctxt "SHOP_BUREIBA_04-10"
+msgid "Ending program."
+msgstr "Завершение программы."
+
+#, fuzzy
+msgctxt "SHOP_EDWINA_05-01"
+msgid "Welcome to Edwina's! Have a look around."
+msgstr "Добро пожаловать к Эдвине! Осмотритесь вокруг."
+
+#, fuzzy
+msgctxt "SHOP_EDWINA_05-02"
+msgid "Please enter. We have only the finest goods."
+msgstr "Входите, пожалуйста. Мы держим только лучшие товары."
+
+#, fuzzy
+msgctxt "SHOP_EDWINA_05-03"
+msgid "What a glorious purchase."
+msgstr "Потрясающая покупка."
+
+#, fuzzy
+msgctxt "SHOP_EDWINA_05-04"
+msgid "Excellent taste!"
+msgstr "Превосходный вкус!"
+
+#, fuzzy
+msgctxt "SHOP_EDWINA_05-05"
+msgid "Oh my."
+msgstr "О боже."
+
+#, fuzzy
+msgctxt "SHOP_EDWINA_05-06"
+msgid "Wonderous."
+msgstr "Чудесно."
+
+#, fuzzy
+msgctxt "SHOP_EDWINA_05-07"
+msgid "With pleasure."
+msgstr "С удовольствием."
+
+#, fuzzy
+msgctxt "SHOP_EDWINA_05-08"
+msgid "Of course."
+msgstr "Конечно."
+
+#, fuzzy
+msgctxt "SHOP_EDWINA_05-09"
+msgid "Adieu!"
+msgstr "Адью!"
+
+#, fuzzy
+msgctxt "SHOP_EDWINA_05-10"
+msgid "Until we meet again."
+msgstr "До встречи."
+
+#, fuzzy
+msgctxt "SHOP_DEMETRI_06-01"
+msgid "Welcome to my dark emporium."
+msgstr "Добро пожаловать в мой темный универмаг."
+
+#, fuzzy
+msgctxt "SHOP_DEMETRI_06-02"
+msgid "Ngh! Hit the lights!"
+msgstr "Кхм. Вруби свет!"
+
+#, fuzzy
+msgctxt "SHOP_DEMETRI_06-03"
+msgid "Excellent..."
+msgstr "Отлично..."
+
+#, fuzzy
+msgctxt "SHOP_DEMETRI_06-04"
+msgid "Nice selection."
+msgstr "Неплохой выбор."
+
+#, fuzzy
+msgctxt "SHOP_DEMETRI_06-05"
+msgid "Hehehehe..."
+msgstr "Хе-хе-хе..."
+
+#, fuzzy
+msgctxt "SHOP_DEMETRI_06-06"
+msgid "You sure?"
+msgstr "Точно?"
+
+#, fuzzy
+msgctxt "SHOP_DEMETRI_06-07"
+msgid "Be careful with that."
+msgstr "Осторожно с этим."
+
+#, fuzzy
+msgctxt "SHOP_DEMETRI_06-08"
+msgid "One of a kind."
+msgstr "Уникальная вещь."
+
+#, fuzzy
+msgctxt "SHOP_DEMETRI_06-09"
+msgid "See you soon..."
+msgstr "Скоро увидимся."
+
+#, fuzzy
+msgctxt "SHOP_DEMETRI_06-10"
+msgid "Don't tell your friends..."
+msgstr "Не говори друзьям..."
+
+#, fuzzy
+msgctxt "SHOP_ALMAS_07-01"
+msgid "Hey! What can I getcha?"
+msgstr "Эй! Что у вас можно добыть?"
+
+#, fuzzy
+msgctxt "SHOP_ALMAS_07-02"
+msgid "Welcome! Hope you're hungry!"
+msgstr "Добро пожаловать! Надеюсь, вы голодны!"
+
+#, fuzzy
+msgctxt "SHOP_ALMAS_07-03"
+msgid "Nice choice! Anything else?"
+msgstr "Хороший выбор. Еще что-нибудь?"
+
+#, fuzzy
+msgctxt "SHOP_ALMAS_07-04"
+msgid "Sure thing! What else?"
+msgstr "Обязательно! Что еще?"
+
+#, fuzzy
+msgctxt "SHOP_ALMAS_07-05"
+msgid "Still hungry?"
+msgstr "Все еще голодны?"
+
+#, fuzzy
+msgctxt "SHOP_ALMAS_07-06"
+msgid "Something else?"
+msgstr "Еще что-нибудь?"
+
+#, fuzzy
+msgctxt "SHOP_ALMAS_07-07"
+msgid "Here ya go!"
+msgstr "Вот так!"
+
+#, fuzzy
+msgctxt "SHOP_ALMAS_07-08"
+msgid "Coming right up!"
+msgstr "Иду, иду!"
+
+#, fuzzy
+msgctxt "SHOP_ALMAS_07-09"
+msgid "See ya later!"
+msgstr "Увидимся позже!"
+
+#, fuzzy
+msgctxt "SHOP_ALMAS_07-10"
+msgid "Drop by anytime!"
+msgstr "Забегай в любое время"
+
+#, fuzzy
+msgctxt "SHOP_SATOMI_08-01"
+msgid "Hey, you found us! So whatcha want?"
+msgstr "Привет, вы нас нашли! Что хотите?"
+
+#, fuzzy
+msgctxt "SHOP_SATOMI_08-02"
+msgid "Gimme a B, gimme a U, gimme a Y, gimme your money!"
+msgstr "Дай мне К, дай мне У, дай мне П, дай мне И, дай мне деньги!"
+
+#, fuzzy
+msgctxt "SHOP_SATOMI_08-03"
+msgid "Nice choice!"
+msgstr "Хороший выбор!"
+
+#, fuzzy
+msgctxt "SHOP_SATOMI_08-04"
+msgid "Excellent spending!"
+msgstr "Отлично потрачено!"
+
+#, fuzzy
+msgctxt "SHOP_SATOMI_08-05"
+msgid "Hooray!"
+msgstr "Ура!"
+
+#, fuzzy
+msgctxt "SHOP_SATOMI_08-06"
+msgid "Go you!"
+msgstr "Вперед!"
+
+#, fuzzy
+msgctxt "SHOP_SATOMI_08-07"
+msgid "Buy buy buy!"
+msgstr "Купи-купи-купи!"
+
+#, fuzzy
+msgctxt "SHOP_SATOMI_08-08"
+msgid "Yay money!"
+msgstr "Ура, деньги!"
+
+#, fuzzy
+msgctxt "SHOP_SATOMI_08-09"
+msgid "Byeeeee!"
+msgstr "Покааа!"
+
+#, fuzzy
+msgctxt "SHOP_SATOMI_08-10"
+msgid "Catch ya around!"
+msgstr "Пересечемся!"
+
+#, fuzzy
+msgctxt "SHOP_GOUDA_09-01"
+msgid "Yes? Can I help you?"
+msgstr "Да? Чем могу помочь?"
+
+#, fuzzy
+msgctxt "SHOP_GOUDA_09-02"
+msgid "Please purchase something."
+msgstr "Пожалуйста, купите что-нибудь."
+
+#, fuzzy
+msgctxt "SHOP_GOUDA_09-03"
+msgid "Understood."
+msgstr "Понятно."
+
+#, fuzzy
+msgctxt "SHOP_GOUDA_09-04"
+msgid "Purchase complete."
+msgstr "Покупка завершена."
+
+#, fuzzy
+msgctxt "SHOP_GOUDA_09-05"
+msgid "What else?"
+msgstr "Что еще?"
+
+#, fuzzy
+msgctxt "SHOP_GOUDA_09-06"
+msgid "Okay."
+msgstr "Хорошо."
+
+#, fuzzy
+msgctxt "SHOP_GOUDA_09-07"
+msgid "Hmph."
+msgstr "Хм-м."
+
+#, fuzzy
+msgctxt "SHOP_GOUDA_09-08"
+msgid "Yes."
+msgstr "Да."
+
+#, fuzzy
+msgctxt "SHOP_GOUDA_09-09"
+msgid "Goodbye then."
+msgstr "Тогда до свидания."
+
+#, fuzzy
+msgctxt "SHOP_GOUDA_09-10"
+msgid "Fine, leave."
+msgstr "Хорошо, уходите."
+
+#, fuzzy
+msgctxt "SHOP_NISHIMURA_10-01"
+msgid "Enter, please! Enjoy my wares."
+msgstr "Входите, пожалуйста! Получайте удовольствие от цен."
+
+#, fuzzy
+msgctxt "SHOP_NISHIMURA_10-02"
+msgid "My shop welcomes your money!"
+msgstr "Мой магазин приветствует ваши деньги!"
+
+#, fuzzy
+msgctxt "SHOP_NISHIMURA_10-03"
+msgid "Nice!"
+msgstr "Мило!"
+
+#, fuzzy
+msgctxt "SHOP_NISHIMURA_10-04"
+msgid "Smart!"
+msgstr "Разумно!"
+
+#, fuzzy
+msgctxt "SHOP_NISHIMURA_10-05"
+msgid "Superb!"
+msgstr "Потрясающе!"
+
+#, fuzzy
+msgctxt "SHOP_NISHIMURA_10-06"
+msgid "That's a rare one!"
+msgstr "Редкая штучка!"
+
+#, fuzzy
+msgctxt "SHOP_NISHIMURA_10-07"
+msgid "Mint condition!"
+msgstr "Как новая!"
+
+#, fuzzy
+msgctxt "SHOP_NISHIMURA_10-08"
+msgid "Special chase edition."
+msgstr "Специальное лимитированное издание"
+
+#, fuzzy
+msgctxt "SHOP_NISHIMURA_10-09"
+msgid "See you around."
+msgstr "Пересечемся!"
+
+#, fuzzy
+msgctxt "SHOP_NISHIMURA_10-10"
+msgid "Come back anytime."
+msgstr "Приходите в любое время"
+
+#, fuzzy
+msgctxt "SHOP_KODANI_11-01"
+msgid "ENTER! Look around."
+msgstr "ВХОДИТЕ! Осмотритесь вокруг."
+
+#, fuzzy
+msgctxt "SHOP_KODANI_11-02"
+msgid "WELCOME! Please spend."
+msgstr "ДОБРО ПОЖАЛОВАТЬ! Потратьте ваши деньги!"
+
+#, fuzzy
+msgctxt "SHOP_KODANI_11-03"
+msgid "Ah!"
+msgstr "Ах!"
+
+#, fuzzy
+msgctxt "SHOP_KODANI_11-04"
+msgid "Hmm!"
+msgstr "Хмм!"
+
+#, fuzzy
+msgctxt "SHOP_KODANI_11-05"
+msgid "Yes."
+msgstr "Да."
+
+#, fuzzy
+msgctxt "SHOP_KODANI_11-06"
+msgid "Okay."
+msgstr "Хорошо."
+
+#, fuzzy
+msgctxt "SHOP_KODANI_11-07"
+msgid "Mmm."
+msgstr "Ммм."
+
+#, fuzzy
+msgctxt "SHOP_KODANI_11-08"
+msgid "Oh."
+msgstr "О!"
+
+#, fuzzy
+msgctxt "SHOP_KODANI_11-09"
+msgid "Now exit!"
+msgstr "Теперь выйдите!"
+
+#, fuzzy
+msgctxt "SHOP_KODANI_11-10"
+msgid "Goodbye!"
+msgstr "До свидания."
+
+#, fuzzy
+msgctxt "SHOP_MARTHA_12-01"
+msgid "Well hey there..."
+msgstr "Ну, привет..."
+
+#, fuzzy
+msgctxt "SHOP_MARTHA_12-02"
+msgid "Ah, it's you..."
+msgstr "О, это вы..."
+
+#, fuzzy
+msgctxt "SHOP_MARTHA_12-03"
+msgid "Electric!"
+msgstr "Блистательно!"
+
+#, fuzzy
+msgctxt "SHOP_MARTHA_12-04"
+msgid "Wicked!"
+msgstr "Круть!"
+
+#, fuzzy
+msgctxt "SHOP_MARTHA_12-05"
+msgid "Bad ass."
+msgstr "Круто."
+
+#, fuzzy
+msgctxt "SHOP_MARTHA_12-06"
+msgid "Interesting..."
+msgstr "Интересно..."
+
+#, fuzzy
+msgctxt "SHOP_MARTHA_12-07"
+msgid "Hot stuff."
+msgstr "Горячая штучка"
+
+#, fuzzy
+msgctxt "SHOP_MARTHA_12-08"
+msgid "Sweet."
+msgstr "Прелесть."
+
+#, fuzzy
+msgctxt "SHOP_MARTHA_12-09"
+msgid "See you around..."
+msgstr "Пересечемся!"
+
+#, fuzzy
+msgctxt "SHOP_MARTHA_12-10"
+msgid "Later, ladies..."
+msgstr "Позже, дамы..."
+
+#, fuzzy
+msgctxt "SHOP_MARTHA_12-11"
+msgid "Later, fellahs..."
+msgstr "Позже, чуваки..."
+
+#, fuzzy
+msgctxt "SHOP_MARIAN_13-01"
+msgid "Oh hi! Do you need help?"
+msgstr "О, привет! Помощь нужна?"
+
+#, fuzzy
+msgctxt "SHOP_MARIAN_13-02"
+msgid "Hello! Please, look around."
+msgstr "Здравствуйте! Осматривайтесь, пожалуйста."
+
+#, fuzzy
+msgctxt "SHOP_MARIAN_13-03"
+msgid "Got it!"
+msgstr "Понятно!"
+
+#, fuzzy
+msgctxt "SHOP_MARIAN_13-04"
+msgid "Sure thing!"
+msgstr "Обязательно! Что еще?"
+
+#, fuzzy
+msgctxt "SHOP_MARIAN_13-05"
+msgid "You got it."
+msgstr "Поняли."
+
+#, fuzzy
+msgctxt "SHOP_MARIAN_13-06"
+msgid "It's all yours."
+msgstr "Все ваше."
+
+#, fuzzy
+msgctxt "SHOP_MARIAN_13-07"
+msgid "Yup!"
+msgstr "Ой!"
+
+#, fuzzy
+msgctxt "SHOP_MARIAN_13-08"
+msgid "Of course!"
+msgstr "Конечно!"
+
+#, fuzzy
+msgctxt "SHOP_MARIAN_13-09"
+msgid "Oh, goodbye then!"
+msgstr "Тогда до свидания."
+
+#, fuzzy
+msgctxt "SHOP_MARIAN_13-10"
+msgid "See you later! Thanks!"
+msgstr "Увидимся позже! Спасибо!"
+
+#, fuzzy
+msgctxt "SHOP_MAMORU_14-01"
+msgid "Sigh... more customers?"
+msgstr "Ох... еще посетители?"
+
+#, fuzzy
+msgctxt "SHOP_MAMORU_14-02"
+msgid "Lemme know if you want anything."
+msgstr "Дайте мне знать, если вам что-то понадобится."
+
+#, fuzzy
+msgctxt "SHOP_MAMORU_14-03"
+msgid "Okay."
+msgstr "Хорошо."
+
+#, fuzzy
+msgctxt "SHOP_MAMORU_14-04"
+msgid "Whatever."
+msgstr "Неважно"
+
+#, fuzzy
+msgctxt "SHOP_MAMORU_14-05"
+msgid "I look fabulous."
+msgstr "Я сногсшибательно выгляжу."
+
+#, fuzzy
+msgctxt "SHOP_MAMORU_14-06"
+msgid "Huh?"
+msgstr "Да?"
+
+#, fuzzy
+msgctxt "SHOP_MAMORU_14-07"
+msgid "Sure, I guess."
+msgstr "Конечно, я думаю."
+
+#, fuzzy
+msgctxt "SHOP_MAMORU_14-08"
+msgid "Fine."
+msgstr "Прекрасно."
+
+#, fuzzy
+msgctxt "SHOP_MAMORU_14-09"
+msgid "Next time, bring more money."
+msgstr "В следующий раз, захватите больше денег."
+
+#, fuzzy
+msgctxt "SHOP_MAMORU_14-10"
+msgid "That's all you're gonna buy?"
+msgstr "Это все покупки?"
+
+#, fuzzy
+msgctxt "SHOP_ONITAKE_15-01"
+msgid "Sup, dude?"
+msgstr "Чего, чувак?"
+
+#, fuzzy
+msgctxt "SHOP_ONITAKE_15-02"
+msgid "Yo, welcome!"
+msgstr "Йо, пожалуйста!"
+
+#, fuzzy
+msgctxt "SHOP_ONITAKE_15-03"
+msgid "Nice one!"
+msgstr "Хорошая штучка!"
+
+#, fuzzy
+msgctxt "SHOP_ONITAKE_15-04"
+msgid "Whoa!"
+msgstr "Ничего себе!"
+
+#, fuzzy
+msgctxt "SHOP_ONITAKE_15-05"
+msgid "Yes!"
+msgstr "Да!"
+
+#, fuzzy
+msgctxt "SHOP_ONITAKE_15-06"
+msgid "Rock on!"
+msgstr "Круто!"
+
+#, fuzzy
+msgctxt "SHOP_ONITAKE_15-07"
+msgid "Sweet!"
+msgstr "Прелесть."
+
+#, fuzzy
+msgctxt "SHOP_ONITAKE_15-08"
+msgid "Killer buy!"
+msgstr "Сногсшибательная покупка!"
+
+#, fuzzy
+msgctxt "SHOP_ONITAKE_15-09"
+msgid "Later, dude!"
+msgstr "Позже, чувак!"
+
+#, fuzzy
+msgctxt "SHOP_ONITAKE_15-10"
+msgid "See ya round!"
+msgstr "Пересечемся!"
+
+#, fuzzy
+msgctxt "SHOP_BULLOVA_16-01"
+msgid "Whadda YOU want?"
+msgstr "Чего ТЕБЕ надо?"
+
+#, fuzzy
+msgctxt "SHOP_BULLOVA_16-02"
+msgid "Who let YOU in?"
+msgstr "Кто ТЕБЯ впустил?"
+
+#, fuzzy
+msgctxt "SHOP_BULLOVA_16-03"
+msgid "Fine."
+msgstr "Отлично."
+
+#, fuzzy
+msgctxt "SHOP_BULLOVA_16-04"
+msgid "Sure."
+msgstr "Точно."
+
+#, fuzzy
+msgctxt "SHOP_BULLOVA_16-05"
+msgid "Okay."
+msgstr "Хорошо."
+
+#, fuzzy
+msgctxt "SHOP_BULLOVA_16-06"
+msgid "Alright."
+msgstr "Прекрасно."
+
+#, fuzzy
+msgctxt "SHOP_BULLOVA_16-07"
+msgid "What else?"
+msgstr "Что еще?"
+
+#, fuzzy
+msgctxt "SHOP_BULLOVA_16-08"
+msgid "And?"
+msgstr "И?"
+
+#, fuzzy
+msgctxt "SHOP_BULLOVA_16-09"
+msgid "Now get outta here!"
+msgstr "А теперь на выход!"
+
+#, fuzzy
+msgctxt "SHOP_BULLOVA_16-10"
+msgid "LEAVE!"
+msgstr "ВОН!"
+
+#, fuzzy
+msgctxt "SHOP_REIKA_17-01"
+msgid "Ugh, customers..."
+msgstr "Фу, посетители..."
+
+#, fuzzy
+msgctxt "SHOP_REIKA_17-02"
+msgid "Buy something or leave, okay?"
+msgstr "Или покупайте или уходите, хорошо?"
+
+#, fuzzy
+msgctxt "SHOP_REIKA_17-03"
+msgid "Fine."
+msgstr "Отлично."
+
+#, fuzzy
+msgctxt "SHOP_REIKA_17-04"
+msgid "Whatever."
+msgstr "Неважно"
+
+#, fuzzy
+msgctxt "SHOP_REIKA_17-05"
+msgid "Okay."
+msgstr "Хорошо."
+
+#, fuzzy
+msgctxt "SHOP_REIKA_17-06"
+msgid "That thing?"
+msgstr "Вот это?"
+
+#, fuzzy
+msgctxt "SHOP_REIKA_17-07"
+msgid "Sure."
+msgstr "Точно."
+
+#, fuzzy
+msgctxt "SHOP_REIKA_17-08"
+msgid "Anything else?"
+msgstr "Еще что-нибудь?"
+
+#, fuzzy
+msgctxt "SHOP_REIKA_17-09"
+msgid "Later, losers."
+msgstr "Увидимся, неудачницы..."
+
+#, fuzzy
+msgctxt "SHOP_REIKA_17-10"
+msgid "That's all you can afford?"
+msgstr "Это все, что вы можете себе позволить?"
+
+#, fuzzy
+msgctxt "SHOP_SHIZUKA_18-01"
+msgid "Welcome, please enter."
+msgstr "Добро пожаловать, заходите!"
+
+#, fuzzy
+msgctxt "SHOP_SHIZUKA_18-02"
+msgid "Good afternoon."
+msgstr "Добрый день."
+
+#, fuzzy
+msgctxt "SHOP_SHIZUKA_18-03"
+msgid "I understand."
+msgstr "Я понимаю."
+
+#, fuzzy
+msgctxt "SHOP_SHIZUKA_18-04"
+msgid "Thank you."
+msgstr "Спасибо."
+
+#, fuzzy
+msgctxt "SHOP_SHIZUKA_18-05"
+msgid "Of course."
+msgstr "Конечно."
+
+#, fuzzy
+msgctxt "SHOP_SHIZUKA_18-06"
+msgid "Right away."
+msgstr "Прямо сейчас."
+
+#, fuzzy
+msgctxt "SHOP_SHIZUKA_18-07"
+msgid "Understood."
+msgstr "Понимаю."
+
+#, fuzzy
+msgctxt "SHOP_SHIZUKA_18-08"
+msgid "Arigato."
+msgstr "Аригато."
+
+#, fuzzy
+msgctxt "SHOP_SHIZUKA_18-09"
+msgid "Please have a nice day."
+msgstr "Хорошего дня!"
+
+#, fuzzy
+msgctxt "SHOP_SHIZUKA_18-10"
+msgid "Thank you for coming."
+msgstr "Спасибо за визит."
+
+#, fuzzy
+msgctxt "SHOP_SAORI_19-01"
+msgid "Oh, h-hello. Please come in."
+msgstr "О, п-привет. Заходите."
+
+#, fuzzy
+msgctxt "SHOP_SAORI_19-02"
+msgid "Uh, c-can I help you...?"
+msgstr "Ч-чем могу помочь?"
+
+#, fuzzy
+msgctxt "SHOP_SAORI_19-03"
+msgid "S-sure."
+msgstr "К-конечно."
+
+#, fuzzy
+msgctxt "SHOP_SAORI_19-04"
+msgid "O-okay."
+msgstr "Х-хорошо"
+
+#, fuzzy
+msgctxt "SHOP_SAORI_19-05"
+msgid "Uh huh."
+msgstr "Хм-м."
+
+#, fuzzy
+msgctxt "SHOP_SAORI_19-06"
+msgid "Y-yes."
+msgstr "Д-да"
+
+#, fuzzy
+msgctxt "SHOP_SAORI_19-07"
+msgid "H-here you go."
+msgstr "В-вот так."
+
+#, fuzzy
+msgctxt "SHOP_SAORI_19-08"
+msgid "O-of course."
+msgstr "К-конечно."
+
+#, fuzzy
+msgctxt "SHOP_SAORI_19-09"
+msgid "Th-thank you for shopping."
+msgstr "С-спасибо за покупки."
+
+#, fuzzy
+msgctxt "SHOP_SAORI_19-10"
+msgid "Okay! Um, g-goodbye then..."
+msgstr "Хорошо! Д-до свидания тогда."
+
+#, fuzzy
+msgctxt "SHOP_SHINJI_20-01"
+msgid "So whadaya want?"
+msgstr "Так, чего надо?"
+
+#, fuzzy
+msgctxt "SHOP_SHINJI_20-02"
+msgid "Hurry up and buy something."
+msgstr "Поторапливайтесь и купите что-нибудь."
+
+#, fuzzy
+msgctxt "SHOP_SHINJI_20-03"
+msgid "Got it."
+msgstr "Хорошо."
+
+#, fuzzy
+msgctxt "SHOP_SHINJI_20-04"
+msgid "Whatever."
+msgstr "Неважно"
+
+#, fuzzy
+msgctxt "SHOP_SHINJI_20-05"
+msgid "What else?"
+msgstr "Что еще?"
+
+#, fuzzy
+msgctxt "SHOP_SHINJI_20-06"
+msgid "Hurry up."
+msgstr "Быстрее."
+
+#, fuzzy
+msgctxt "SHOP_SHINJI_20-07"
+msgid "Buy more."
+msgstr "Покупайте больше."
+
+#, fuzzy
+msgctxt "SHOP_SHINJI_20-08"
+msgid "And?"
+msgstr "И?"
+
+#, fuzzy
+msgctxt "SHOP_SHINJI_20-09"
+msgid "So leave already!"
+msgstr "Тогда уходите уже!"
+
+#, fuzzy
+msgctxt "SHOP_SHINJI_20-10"
+msgid "Time to go!"
+msgstr "Пора идти!"
+
+#, fuzzy
+msgctxt "SHOP_SKULLMAGEDDON_22-01"
+msgid "Nyehehehe, welcome to Skullmageddon's!"
+msgstr "Муа-ха-ха, добро пожаловать в Череповец!"
+
+#, fuzzy
+msgctxt "SHOP_SKULLMAGEDDON_22-02"
+msgid "Nyehehehe, nobody beats my prices!"
+msgstr "Муа-ха-ха, никто не сравнится с моими ценами!"
+
+#, fuzzy
+msgctxt "SHOP_SKULLMAGEDDON_22-03"
+msgid "Excellent!"
+msgstr "Превосходно!"
+
+#, fuzzy
+msgctxt "SHOP_SKULLMAGEDDON_22-04"
+msgid "Wise selection!"
+msgstr "Замечательный выбор!"
+
+#, fuzzy
+msgctxt "SHOP_SKULLMAGEDDON_22-05"
+msgid "Incredible!"
+msgstr "Невероятно!"
+
+#, fuzzy
+msgctxt "SHOP_SKULLMAGEDDON_22-06"
+msgid "Yes!"
+msgstr "Да!"
+
+#, fuzzy
+msgctxt "SHOP_SKULLMAGEDDON_22-07"
+msgid "Sold!"
+msgstr "Продано!"
+
+#, fuzzy
+msgctxt "SHOP_SKULLMAGEDDON_22-08"
+msgid "What else?"
+msgstr "Что еще?"
+
+#, fuzzy
+msgctxt "SHOP_SKULLMAGEDDON_22-09"
+msgid "Tell your friends!"
+msgstr "Скажи друзьям!"
+
+#, fuzzy
+msgctxt "SHOP_SKULLMAGEDDON_22-10"
+msgid "I'll be seeing you!"
+msgstr "Увидимся!"
+
+#, fuzzy
+msgctxt "SHOP_BILLY _23-01"
+msgid "Hey, welcome to my dojo. Let's enlighten ourselves."
+msgstr "Эй, добро пожаловать в мой додзе. Давайте просветимся."
+
+#, fuzzy
+msgctxt "SHOP_BILLY _23-02"
+msgid "Please enter. Let us master the art of breaking faces."
+msgstr "Входите, пожалуйста. Мы овладеем искусством разбивания лиц."
+
+#, fuzzy
+msgctxt "SHOP_BILLY _23-03"
+msgid "Wonderful."
+msgstr "Чудесно."
+
+#, fuzzy
+msgctxt "SHOP_BILLY _23-04"
+msgid "Excellent choice."
+msgstr "Превосходный выбор."
+
+#, fuzzy
+msgctxt "SHOP_BILLY _23-05"
+msgid "You're welcome."
+msgstr "Пожалуйста."
+
+#, fuzzy
+msgctxt "SHOP_BILLY _23-06"
+msgid "A good one."
+msgstr "Хороший."
+
+#, fuzzy
+msgctxt "SHOP_BILLY _23-07"
+msgid "Sigh... I miss my brother."
+msgstr "Эх...я скучаю по своему брату."
+
+#, fuzzy
+msgctxt "SHOP_BILLY _23-08"
+msgid "Nice move."
+msgstr "Неплохое движение."
+
+#, fuzzy
+msgctxt "SHOP_BILLY _23-09"
+msgid "We learn attacks hoping to never use them."
+msgstr "Мы изучаем атаки в надежде никогда их не использовать."
+
+#, fuzzy
+msgctxt "SHOP_BILLY _23-10"
+msgid "Peace be with you, until it's not."
+msgstr "Да пребудет с вами мир до тех пор, пока он не уйдет."
+
+#, fuzzy
+msgctxt "SHOP_JIMMY _24-01"
+msgid "Whatup brosef, you ready to break a leg??"
+msgstr "Чего надо, брателло, готов ногу сломать?"
+
+#, fuzzy
+msgctxt "SHOP_JIMMY _24-02"
+msgid "GET IN MY DOJO AND FIGHT ME!!"
+msgstr "ЗАХОДИ В МОЙ ДОДЗЁ И СРАЗИСЬ СО МНОЙ!"
+
+#, fuzzy
+msgctxt "SHOP_JIMMY _24-03"
+msgid "Killer!"
+msgstr "Убийца!"
+
+#, fuzzy
+msgctxt "SHOP_JIMMY _24-04"
+msgid "Devestating!"
+msgstr "Сногсшибательно!"
+
+#, fuzzy
+msgctxt "SHOP_JIMMY _24-05"
+msgid "Radical!"
+msgstr "Радикально!"
+
+#, fuzzy
+msgctxt "SHOP_JIMMY _24-06"
+msgid "Deadly!"
+msgstr "Смертельно!"
+
+#, fuzzy
+msgctxt "SHOP_JIMMY _24-07"
+msgid "I MISS MY BROTHER!! (sniff)"
+msgstr "Я СКУЧАЮ ПО СВОЕМУ БРАТУ! (шмыгание носом)"
+
+#, fuzzy
+msgctxt "SHOP_JIMMY _24-08"
+msgid "Tubetacular!"
+msgstr "Столбнячно!"
+
+#, fuzzy
+msgctxt "SHOP_JIMMY _24-09"
+msgid "Go beat up the world, dude!"
+msgstr "Иди выбей пыль из мира, чувак!"
+
+#, fuzzy
+msgctxt "SHOP_JIMMY _24-10"
+msgid "Happy rampaging! Come back soon!"
+msgstr "Удачных бесчинств! Возвращайся!"

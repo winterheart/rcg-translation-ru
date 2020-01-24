@@ -1,0 +1,615 @@
+#
+# Azamat H. Hackimov <azamat.hackimov@gmail.com>, 2020.
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: you@example.com\n"
+"POT-Creation-Date: 2020-01-24 03:12:27.805482\n"
+"PO-Revision-Date: 2020-01-25 00:51+0300\n"
+"Last-Translator: Azamat H. Hackimov <azamat.hackimov@gmail.com>\n"
+"Language-Team: Russian <>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ru\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<"
+"=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: Lokalize 19.08.3\n"
+
+#, fuzzy
+msgctxt "ITEM_NAME_BANDAGES"
+msgid "Bandages"
+msgstr "Пластыри"
+
+msgctxt "ITEM_NAME_ASPIRIN"
+msgid "Aspirin"
+msgstr "Аспирин"
+
+#, fuzzy
+msgctxt "ITEM_NAME_FIRST_AID"
+msgid "First Aid"
+msgstr "Первая помощь"
+
+#, fuzzy
+msgctxt "ITEM_NAME_VITAMIN_K_TONIC"
+msgid "Vitamin K Tonic"
+msgstr "Тоник с витамином К"
+
+#, fuzzy
+msgctxt "ITEM_NAME_AVOCADO_TOAST"
+msgid "Avocado Toast"
+msgstr "Тост с авокадо"
+
+#, fuzzy
+msgctxt "ITEM_NAME_TOFU_BURRITO"
+msgid "Tofu Burrito"
+msgstr "Буррито с тофу"
+
+#, fuzzy
+msgctxt "ITEM_NAME_FAKE_CHICKEN"
+msgid "Fake Chicken"
+msgstr "Фальшивый цыпленок"
+
+#, fuzzy
+msgctxt "ITEM_NAME_QUICHE"
+msgid "Quiche"
+msgstr "Киш"
+
+#, fuzzy
+msgctxt "ITEM_NAME_ALOE_DRINK"
+msgid "Aloe Drink"
+msgstr "Сок алоэ"
+
+#, fuzzy
+msgctxt "ITEM_NAME_GRAPPLES"
+msgid "Grapples"
+msgstr "Ежемалина"
+
+#, fuzzy
+msgctxt "ITEM_NAME_BAGUETTE"
+msgid "Baguette"
+msgstr "Багет"
+
+msgctxt "ITEM_NAME_MILK"
+msgid "Milk"
+msgstr "Молоко"
+
+msgctxt "ITEM_NAME_OOLONG_TEA"
+msgid "Oolong Tea"
+msgstr "Чай улун"
+
+msgctxt "ITEM_NAME_MATCHA_TEA"
+msgid "Matcha Tea"
+msgstr "Чай маття"
+
+#, fuzzy
+msgctxt "ITEM_NAME_THAI_TEA"
+msgid "Thai Tea"
+msgstr "Тайский чай"
+
+#, fuzzy
+msgctxt "ITEM_NAME_BOBA_TEA"
+msgid "Boba Tea"
+msgstr "Чай боба"
+
+#, fuzzy
+msgctxt "ITEM_NAME_BOUNTY_LASS"
+msgid "Bounty Lass (Game)"
+msgstr "\"Кокошахматы\" (игра)"
+
+#, fuzzy
+msgctxt "ITEM_NAME_PLUMBERINOS"
+msgid "Plumberinos (Game)"
+msgstr "\"Юный сантехник\" (игра)"
+
+#, fuzzy
+msgctxt "ITEM_NAME_VAMPIRE_PUNCHER"
+msgid "Vampire Puncher (Game)"
+msgstr "\"Выбей вампира\" (игра)"
+
+#, fuzzy
+msgctxt "ITEM_NAME_HOT_BLOODED_BOYS"
+msgid "Hot Blooded Boys (Game)"
+msgstr "\"Горячая кровь\" (игра)"
+
+#, fuzzy
+msgctxt "ITEM_NAME_CAT_PILLOW"
+msgid "Cat Pillow"
+msgstr "Кошачья подушка"
+
+#, fuzzy
+msgctxt "ITEM_NAME_MECH_TOY"
+msgid "Mech Toy"
+msgstr "Механическая игрушка"
+
+#, fuzzy
+msgctxt "ITEM_NAME_TOY_ALRM"
+msgid "Toy Alarm"
+msgstr "Игрушечная сирена"
+
+#, fuzzy
+msgctxt "ITEM_NAME_NOIZE_FIGURE"
+msgid "NOIZE Figure"
+msgstr "Статуэтка NOIZE"
+
+msgctxt "ITEM_NAME_CHOCO_BERRY"
+msgid "Choco Berry"
+msgstr "Клубника в шоколаде"
+
+msgctxt "ITEM_NAME_ICE_CREAM_CONE"
+msgid "Ice Cream Cone"
+msgstr "Рожок мороженого"
+
+msgctxt "ITEM_NAME_SORBET"
+msgid "Sorbet"
+msgstr "Шербет"
+
+msgctxt "ITEM_NAME_SUNDAE"
+msgid "Sundae"
+msgstr "Сандей"
+
+msgctxt "ITEM_NAME_POTATO_SNAPS"
+msgid "Potato Snaps"
+msgstr "Хрустяшки из картошки"
+
+msgctxt "ITEM_NAME_BACON_ROD"
+msgid "Bacon Rod"
+msgstr "Палка колбасы"
+
+#, fuzzy
+msgctxt "ITEM_NAME_FIZZY_FUZZ"
+msgid "Fizzy Fuzz"
+msgstr "Шипучие шипы"
+
+#, fuzzy
+msgctxt "ITEM_NAME_ENERGY_DRINK"
+msgid "Energy Drink"
+msgstr "Энергетик"
+
+msgctxt "ITEM_NAME_TURBO_JUICE"
+msgid "Turbo Juice"
+msgstr "Турбо-сок"
+
+#, fuzzy
+msgctxt "ITEM_NAME_FRIED_CHEESE"
+msgid "Fried Cheese"
+msgstr "Жареный сыр"
+
+#, fuzzy
+msgctxt "ITEM_NAME_GARLIC_GELATO"
+msgid "Garlic Gelato"
+msgstr "Чесночное мороженое"
+
+msgctxt "ITEM_NAME_LASAGNA"
+msgid "Lasagna"
+msgstr "Лазанья"
+
+msgctxt "ITEM_NAME_RAVIOLI"
+msgid "Ravioli"
+msgstr "Равиоли"
+
+#, fuzzy
+msgctxt "ITEM_NAME_THRILLHOUSE"
+msgid "Thrillhouse (book)"
+msgstr "\"Дом острых ощущений\" (книга)"
+
+#, fuzzy
+msgctxt "ITEM_NAME_FUNSTRUCTION"
+msgid "Funstruction (Book)"
+msgstr "\"Веселый конструктор\" (книга)"
+
+#, fuzzy
+msgctxt "ITEM_NAME_JOCK_JOURNAL"
+msgid "Jock Journal (Book)"
+msgstr "\"Книга качка\" (книга)"
+
+#, fuzzy
+msgctxt "ITEM_NAME_JOY_OF_TOYS"
+msgid "Joy of Toys (Book)"
+msgstr "\"Радость ребусов\" (книга)"
+
+#, fuzzy
+msgctxt "ITEM_NAME_TEETH_FRACKERS"
+msgid "Teeth Frackers"
+msgstr "Зуболомки"
+
+#, fuzzy
+msgctxt "ITEM_NAME_POLYESTER_CANDY"
+msgid "Polyester Candy"
+msgstr "Полиэстровая конфетка"
+
+#, fuzzy
+msgctxt "ITEM_NAME_GUMMY_YUMMIES"
+msgid "Gummy Yummies"
+msgstr "Жевательные жабки"
+
+#, fuzzy
+msgctxt "ITEM_NAME_MELON_MINTS"
+msgid "Melon Mints"
+msgstr "Дынные жвачки"
+
+msgctxt "ITEM_NAME_MERV_SINGLE"
+msgid "Merv Single"
+msgstr "Обычный Мёрв"
+
+msgctxt "ITEM_NAME_MERV_DOUBLE"
+msgid "Merv Double"
+msgstr "Двойной Мёрв"
+
+msgctxt "ITEM_NAME_MERV_FRIES"
+msgid "Merv Fries"
+msgstr "Мёрв-чипсы"
+
+msgctxt "ITEM_NAME_MERV_SHAKE"
+msgid "Merv Shake"
+msgstr "Мёрв-шейк"
+
+#, fuzzy
+msgctxt "ITEM_NAME_SALMON_NIGIRI"
+msgid "Salmon Nigiri"
+msgstr "Нигири из лосося"
+
+#, fuzzy
+msgctxt "ITEM_NAME_SHRIMP_ROLL"
+msgid "\"Shrimp\" Roll"
+msgstr "Ролл с креветками"
+
+#, fuzzy
+msgctxt "ITEM_NAME_SPICY_TUNA_ROLL"
+msgid "Spicy Tuna Roll"
+msgstr "Ролл с острым тунцом"
+
+#, fuzzy
+msgctxt "ITEM_NAME_TEMPURA"
+msgid "Tempura"
+msgstr "Темпура"
+
+#, fuzzy
+msgctxt "ITEM_NAME_SAUNA"
+msgid "Sauna"
+msgstr "Сауна"
+
+msgctxt "ITEM_NAME_TONKATSU"
+msgid "Tonkatsu"
+msgstr "Тонкацу"
+
+#, fuzzy
+msgctxt "ITEM_NAME_RAMEN"
+msgid "Ramen"
+msgstr "Лапша рамэн"
+
+#, fuzzy
+msgctxt "ITEM_NAME_YOGURT_SODA"
+msgid "Yogurt Soda"
+msgstr "Йогуртовая газировка"
+
+msgctxt "ITEM_NAME_TAIYAKI"
+msgid "Taiyaki"
+msgstr "Тайяки"
+
+#, fuzzy
+msgctxt "ITEM_NAME_QOQO_SODA"
+msgid "Qoqo Soda"
+msgstr "Коко-Сода"
+
+msgctxt "ITEM_NAME_DANGO"
+msgid "Dango"
+msgstr "Данго"
+
+msgctxt "ITEM_NAME_DORAYAKI"
+msgid "Dorayaki"
+msgstr "Дораяки"
+
+#, fuzzy
+msgctxt "ITEM_NAME_BEANS"
+msgid "Beans"
+msgstr "Бобы"
+
+#, fuzzy
+msgctxt "ITEM_NAME_HOT_PEPPER"
+msgid "Hot Pepper"
+msgstr "Острый перец"
+
+#, fuzzy
+msgctxt "ITEM_NAME_TOMATO"
+msgid "Tomato"
+msgstr "Помидор"
+
+#, fuzzy
+msgctxt "ITEM_NAME_CANNED_COFFEE"
+msgid "Canned Coffee"
+msgstr "Консервированный кофе"
+
+msgctxt "ITEM_DESC_BANDAGES"
+msgid "Replenish stamina 40 percent"
+msgstr "Пополняет выносливость на 40%"
+
+msgctxt "ITEM_DESC_ASPIRIN"
+msgid "Replenish stamina 50 percent"
+msgstr "Пополняет выносливость на 50%"
+
+msgctxt "ITEM_DESC_FIRST_AID"
+msgid "Replenish stamina 60 percent"
+msgstr "Пополняет выносливость на 60%"
+
+msgctxt "ITEM_DESC_VITAMIN_K_TONIC"
+msgid "Replenish stamina 20 percent"
+msgstr "Пополняет выносливость на 20%"
+
+msgctxt "ITEM_DESC_AVOCADO_TOAST"
+msgid "Replenish stamina 30 percent"
+msgstr "Пополняет выносливость на 30%"
+
+msgctxt "ITEM_DESC_TOFU_BURRITO"
+msgid "Replenish stamina 30 percent"
+msgstr "Пополняет выносливость на 30%"
+
+msgctxt "ITEM_DESC_FAKE_CHICKEN"
+msgid "Replenish stamina 35 percent"
+msgstr "Пополняет выносливость на 35%"
+
+msgctxt "ITEM_DESC_QUICHE"
+msgid "Replenish stamina 45 percent"
+msgstr "Пополняет выносливость на 45%"
+
+msgctxt "ITEM_DESC_ALOE_DRINK"
+msgid "Replenish stamina 15 percent"
+msgstr "Пополняет выносливость на 15%"
+
+msgctxt "ITEM_DESC_GRAPPLES"
+msgid "Replenish stamina 20 percent"
+msgstr "Пополняет выносливость на 20%"
+
+msgctxt "ITEM_DESC_BAGUETTE"
+msgid "Replenish stamina 25 percent"
+msgstr "Пополняет выносливость на 25%"
+
+msgctxt "ITEM_DESC_MILK"
+msgid "Replenish stamina 30 percent"
+msgstr "Пополняет выносливость на 30%"
+
+msgctxt "ITEM_DESC_OOLONG_TEA"
+msgid "Replenish stamina 20 percent"
+msgstr "Пополняет выносливость на 20%"
+
+msgctxt "ITEM_DESC_MATCHA_TEA"
+msgid "Replenish stamina 20 percent"
+msgstr "Пополняет выносливость на 20%"
+
+msgctxt "ITEM_DESC_THAI_TEA"
+msgid "Replenish stamina 20 percent"
+msgstr "Пополняет выносливость на 20%"
+
+msgctxt "ITEM_DESC_BOBA_TEA"
+msgid "Replenish stamina 30 percent"
+msgstr "Пополняет выносливость на 30%"
+
+msgctxt "ITEM_DESC_BOUNTY_LASS"
+msgid "Replenish stamina 100 percent"
+msgstr "Пополняет выносливость на 100%"
+
+msgctxt "ITEM_DESC_PLUMBERINOS"
+msgid "Replenish stamina 100 percent"
+msgstr "Пополняет выносливость на 100%"
+
+msgctxt "ITEM_DESC_VAMPIRE_PUNCHER"
+msgid "Replenish stamina 100 percent"
+msgstr "Пополняет выносливость на 100%"
+
+msgctxt "ITEM_DESC_HOT_BLOODED_BOYS"
+msgid "Replenish stamina 100 percent"
+msgstr "Пополняет выносливость на 100%"
+
+msgctxt "ITEM_DESC_CAT_PILLOW"
+msgid "Replenish stamina 20 percent"
+msgstr "Пополняет выносливость на 20%"
+
+msgctxt "ITEM_DESC_MECH_TOY"
+msgid "Replenish stamina 20 percent"
+msgstr "Пополняет выносливость на 20%"
+
+msgctxt "ITEM_DESC_TOY_ALARM"
+msgid "Replenish stamina 20 percent"
+msgstr "Пополняет выносливость на 20%"
+
+msgctxt "ITEM_DESC_NOIZE_FIGURE"
+msgid "Replenish stamina 100 percent"
+msgstr "Пополняет выносливость на 100%"
+
+msgctxt "ITEM_DESC_CHOCO_BERRY"
+msgid "Replenish stamina 10 percent"
+msgstr "Пополняет выносливость на 10%"
+
+msgctxt "ITEM_DESC_ICE_CREAM_CONE"
+msgid "Replenish stamina 15 percent"
+msgstr "Пополняет выносливость на 15%"
+
+msgctxt "ITEM_DESC_SORBET"
+msgid "Replenish stamina 20 percent"
+msgstr "Пополняет выносливость на 20%"
+
+msgctxt "ITEM_DESC_SUNDAE"
+msgid "Replenish stamina 25 percent"
+msgstr "Пополняет выносливость на 25%"
+
+msgctxt "ITEM_DESC_POTATO_SNAPS"
+msgid "Replenish stamina 10 percent"
+msgstr "Пополняет выносливость на 10%"
+
+msgctxt "ITEM_DESC_BACON_ROD"
+msgid "Replenish stamina 10 percent"
+msgstr "Пополняет выносливость на 10%"
+
+msgctxt "ITEM_DESC_FIZZY_FUZZ"
+msgid "Replenish stamina 10 percent"
+msgstr "Пополняет выносливость на 10%"
+
+#, fuzzy
+msgctxt "ITEM_DESC_ENERGY_DRINK"
+msgid "Replenish stamina 5 percent, gives you infinite SP for 20 seconds"
+msgstr ""
+"Пополнение выносливости на 5%, бесконечная особые пункты в течение 20 секунд"
+
+#, fuzzy
+msgctxt "ITEM_DESC_TURBO_JUICE"
+msgid "Replenish stamina 5 percent, gives you maximum AG for 20 seconds"
+msgstr ""
+"Пополнение выносливости на 5%, максимальная ловкость в течение 20 секунд"
+
+msgctxt "ITEM_DESC_FIRE_CHEESE"
+msgid "Replenish stamina 25 percent"
+msgstr "Пополняет выносливость на 25%"
+
+msgctxt "ITEM_DESC_GARLIC_GELATO"
+msgid "Replenish stamina 25 percent"
+msgstr "Пополняет выносливость на 25%"
+
+msgctxt "ITEM_DESC_LASAGNA"
+msgid "Replenish stamina 75 percent"
+msgstr "Пополняет выносливость на 75%"
+
+msgctxt "ITEM_DESC_RAVIOLI"
+msgid "Replenish stamina 40 percent"
+msgstr "Пополняет выносливость на 40%"
+
+#, fuzzy
+msgctxt "ITEM_DESC_THRILLHOUSE"
+msgid "Makes Household weapons not break when held"
+msgstr "Защищает домашнее оружие от поломок при использовании"
+
+#, fuzzy
+msgctxt "ITEM_DESC_FUNSTRUCTION"
+msgid "Makes Construction weapons not break when held"
+msgstr "Защищает строительное оружие от поломок при использовании"
+
+#, fuzzy
+msgctxt "ITEM_DESC_JOCK_JOURNAL"
+msgid "Makes Sports weapons not break when held"
+msgstr "Защищает спортивное оружие от поломок при использовании"
+
+#, fuzzy
+msgctxt "ITEM_DESC_JOY_OF_TOYS"
+msgid "Makes Toy weapons not break when held"
+msgstr "Защищает игрушечное оружие от поломок при использовании"
+
+msgctxt "ITEM_DESC_TEETH_FRACKERS"
+msgid "Replenish stamina 12 percent"
+msgstr "Пополняет выносливость на 12%"
+
+msgctxt "ITEM_DESC_POLYESTER_CANDY"
+msgid "Replenish stamina 16 percent"
+msgstr "Пополняет выносливость на 16%"
+
+msgctxt "ITEM_DESC_GUMMY_YUMMIES"
+msgid "Replenish stamina 22 percent"
+msgstr "Пополняет выносливость на 22%"
+
+msgctxt "ITEM_DESC_MELON_MINTS"
+msgid "Replenish stamina 24 percent"
+msgstr "Пополняет выносливость на 24%"
+
+msgctxt "ITEM_DESC_MERV_SINGLE"
+msgid "Replenish stamina 25 percent"
+msgstr "Пополняет выносливость на 25%"
+
+#, fuzzy
+msgctxt "ITEM_DESC_MERV_DOUBLE"
+msgid "Replenish stamina 60 percent, slows you down for 30 seconds"
+msgstr "Пополнение выносливости на 60%, замедляет на 30 секунд"
+
+msgctxt "ITEM_DESC_MERV_FIRES"
+msgid "Replenish stamina 20 percent"
+msgstr "Пополняет выносливость на 20%"
+
+msgctxt "ITEM_DESC_MERV_SHAKE"
+msgid "Replenish stamina 20 percent"
+msgstr "Пополняет выносливость на 20%"
+
+msgctxt "ITEM_DESC_SALMON_NIGIRI"
+msgid "Replenish stamina 15 percent"
+msgstr "Пополняет выносливость на 15%"
+
+msgctxt "ITEM_DESC_SHRIMP_ROLL"
+msgid "Replenish stamina 20 percent"
+msgstr "Пополняет выносливость на 20%"
+
+msgctxt "ITEM_DESC_SPICY_TUNA_ROLL"
+msgid "Replenish stamina 25 percent"
+msgstr "Пополняет выносливость на 25%"
+
+msgctxt "ITEM_DESC_TEMPURA"
+msgid "Replenish stamina 30 percent"
+msgstr "Пополняет выносливость на 30%"
+
+#, fuzzy
+msgctxt "ITEM_DESC_SAUNA"
+msgid "Replenishes all ST and SP"
+msgstr "Полностью восстанавливает выносливость и особые пункты."
+
+msgctxt "ITEM_DESC_TONKATSU"
+msgid "."
+msgstr "."
+
+msgctxt "ITEM_DESC_RAMEN"
+msgid "."
+msgstr "."
+
+msgctxt "ITEM_DESC_YOGURT_SODA"
+msgid "."
+msgstr "."
+
+msgctxt "ITEM_DESC_TAIYAKI"
+msgid "Replenish stamina 15 percent"
+msgstr "Пополняет выносливость на 15%"
+
+msgctxt "ITEM_DESC_QOQO_SODA"
+msgid "Replenish stamina 20 percent"
+msgstr "Пополняет выносливость на 20%"
+
+msgctxt "ITEM_DESC_DANGO"
+msgid "Replenish stamina 25 percent"
+msgstr "Пополняет выносливость на 25%"
+
+msgctxt "ITEM_DESC_DORAYAKI"
+msgid "Replenish stamina 25 percent"
+msgstr "Пополняет выносливость на 25%"
+
+msgctxt "ITEM_DESC_BEANS"
+msgid "."
+msgstr "."
+
+msgctxt "ITEM_DESC_HOT_PEPPER"
+msgid "."
+msgstr "."
+
+msgctxt "ITEM_DESC_CANNED_COFFEE"
+msgid "."
+msgstr "."
+
+#, fuzzy
+msgctxt "ITEM_NAME_SAUNA_FOR_ONE"
+msgid "Sauna For One"
+msgstr "Сауна для одного"
+
+#, fuzzy
+msgctxt "ITEM_NAME_SAUNA_FOR_TWO"
+msgid "Sauna For Two"
+msgstr "Сауна для двоих"
+
+msgctxt "ITEM_DESC_SAUNA_FOR_ONE"
+msgid "Replenish stamina 100 percent"
+msgstr "Пополняет выносливость на 100%"
+
+msgctxt "ITEM_DESC_SAUNA_FOR_TWO"
+msgid "Replenish stamina 100 percent for both players"
+msgstr "Пополняет выносливость на 100% для обоих игроков"
+
+#, fuzzy
+msgctxt "ITEM_DESC_FIRST_TIME"
+msgid "First time use"
+msgstr "Первое использование"
+
+#, fuzzy
+msgctxt "ITEM_DESC_FIRST_TIME_BONUS"
+msgid "Bonus"
+msgstr "бонус"

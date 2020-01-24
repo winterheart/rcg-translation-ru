@@ -1,0 +1,309 @@
+#
+# Azamat H. Hackimov <azamat.hackimov@gmail.com>, 2020.
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: you@example.com\n"
+"POT-Creation-Date: 2020-01-24 03:12:27.868258\n"
+"PO-Revision-Date: 2020-01-24 23:37+0300\n"
+"Last-Translator: Azamat H. Hackimov <azamat.hackimov@gmail.com>\n"
+"Language-Team: Russian <>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ru\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<"
+"=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: Lokalize 19.08.3\n"
+
+msgctxt "TUTORIAL_TITLE_SCHOOLS_OUT"
+msgid "SCHOOL'S OUT!"
+msgstr "ЗАНЯТИЯ ЗАКОНЧИЛИСЬ!"
+
+msgctxt "TUTORIAL_TITLE_LOCKED_OUT"
+msgid "LOCKED OUT!"
+msgstr "ЗАПЕРТО!"
+
+msgctxt "TUTORIAL_TITLE_GOTTA_RUN"
+msgid "GOTTA RUN!"
+msgstr "ПОБЕЖАЛИ!"
+
+msgctxt "TUTORIAL_TITLE_WEAPONS"
+msgid "WEAPONS!"
+msgstr "ОРУЖИЕ!"
+
+msgctxt "TUTORIAL_TITLE_MAP_MARKERS"
+msgid "MAP MARKERS!"
+msgstr "ОТМЕТКИ НА КАРТЕ!"
+
+msgctxt "TUTORIAL_TITLE_RECRUITS_1"
+msgid "RECRUITS! (1/2)"
+msgstr "РЕКРУТЫ! (1/2)"
+
+msgctxt "TUTORIAL_TITLE_RECRUITS_2"
+msgid "RECRUITS! (2/2)"
+msgstr "РЕКРУТЫ! (2/2)"
+
+msgctxt "TUTORIAL_TITLE_WHATS_UP_BUDDY"
+msgid "WHAT'S UP, BUDDY?"
+msgstr "КАК ДЕЛА, ПРИЯТЕЛЬ?"
+
+msgctxt "TUTORIAL_TITLE_STATUE_SMASH"
+msgid "SABU STATUES"
+msgstr "БЮСТЫ САБУ"
+
+msgctxt "TUTORIAL_TITLE_LEVEL_UP"
+msgid "LEVEL UP!"
+msgstr "НОВЫЙ УРОВЕНЬ!"
+
+msgctxt "TUTORIAL_TITLE_DONT_DIE_ON_ME"
+msgid "DON'T DIE ON ME!"
+msgstr "НЕ УМИРАЙ!"
+
+msgctxt "TUTORIAL_TITLE_GRAB_EM"
+msgid "GRAB 'EM!"
+msgstr "ХВАТАЙ ЕГО!"
+
+msgctxt "TUTORIAL_TITLE_BLOCK_PARRY"
+msgid "BLOCK PARRY!"
+msgstr "ПАРИРУЙ УДАР!"
+
+msgctxt "TUTORIAL_TITLE_WALL_JUMPIN"
+msgid "WALL JUMPIN!"
+msgstr "ПРЫЖОК ОТ СТЕНЫ!"
+
+#, fuzzy
+msgctxt "TUTORIAL_TITLE_CELL_PHONE_MENU"
+msgid "CELL PHONE MENU!"
+msgstr "МЕНЮ ТЕЛЕФОНА!"
+
+#, fuzzy
+msgctxt "TUTORIAL_TITLE_DOJO_TRAINING"
+msgid "DOJO TRAINING!"
+msgstr "ТРЕНИРОВКА В ДОДЗЁ!"
+
+#, fuzzy
+msgctxt "TUTORIAL_TITLE_STATS_MENU"
+msgid "STATS MENU!"
+msgstr "СТАТИСТИКА!"
+
+#, fuzzy
+msgctxt "TUTORIAL_TITLE_MAP_MENU"
+msgid "MAP MENU!"
+msgstr "МЕНЮ КАРТЫ!"
+
+#, fuzzy
+msgctxt "TUTORIAL_TITLE_EXPANDED_MAP"
+msgid "EXPANDED MAP!"
+msgstr "РАСШИРЕННАЯ КАРТА!"
+
+#, fuzzy
+msgctxt "TUTORIAL_TITLE_MOVES_LIST"
+msgid "MOVES LIST!"
+msgstr "СПИСОК ДВИЖЕНИЙ!"
+
+#, fuzzy
+msgctxt "TUTORIAL_TITLE_ACCESSORIES"
+msgid "ACCESSORIES!"
+msgstr "АКСЕССУАРЫ!"
+
+#, fuzzy
+msgctxt "TUTORIAL_TITLE_SETTINGS_MENU"
+msgid "SETTINGS MENU!"
+msgstr "МЕНЮ НАСТРОЕК!"
+
+#, fuzzy
+msgctxt "TUTORIAL_TITLE_RECRUITS_MENU"
+msgid "RECRUITS MENU!"
+msgstr "МЕНЮ РЕКРУТОВ!"
+
+msgctxt "TUTORIAL_BODY_SCHOOLS_OUT"
+msgid ""
+"Defeat the other students to break the screenlock and get out of class. "
+"Press {2} for Quick Attacks and {3} for Heavy Attacks."
+msgstr ""
+"Победи других учеников, чтобы снять блокировку и выйти из класса. Нажми {2}"
+" для Быстрого удара и {3} для Сильного удара."
+
+msgctxt "TUTORIAL_BODY_LOCKED_OUT"
+msgid ""
+"Whoops! You can't get in here yet. Come back later after finding a way to "
+"get inside locked doors."
+msgstr ""
+"Ой! Сюда пока нельзя. Приходи, когда найдешь способ попасть за закрытую дверь."
+
+msgctxt "TUTORIAL_BODY_GOTTA_RUN"
+msgid ""
+"Double-tap and hold the left stick in either direction to run. You can also "
+"jump further from a run."
+msgstr ""
+"Чтобы бежать, дважды нажми и удерживай левый джойстик в нужном направлении."
+" Во время бега можно подпрыгнуть."
+
+msgctxt "TUTORIAL_BODY_WEAPONS"
+msgid ""
+"Press {2} to grab weapons. Use them with {2} or throw them with {3}. Weapons"
+" break apart after too much use."
+msgstr ""
+"Нажми {2}, чтобы поднять оружие. Нажми снова {2}, чтобы его использовать, или"
+" {3}, чтобы его бросить. От слишком частого использования оружие ломается."
+
+msgctxt "TUTORIAL_BODY_MAP_MARKERS"
+msgid ""
+"Look for this icon when important markers are added to your map. Press {6} "
+"to access your map when you see this icon."
+msgstr ""
+"При добавлении важных отметок на карту появляется иконка. Чтобы открыть"
+" карту, нажми {6}, когда увидишь эту иконку."
+
+msgctxt "TUTORIAL_BODY_RECRUITS_1"
+msgid ""
+"Sometimes the last enemy remaining will beg for their life. Touch them to "
+"grab the enemy, then press {4} to recruit them."
+msgstr ""
+"Иногда последний оставшийся в живых противник будет просить о пощаде. Подойди"
+" к нему, чтобы сделать захват, а затем нажми {4}, чтобы сделать его рекрутом."
+
+msgctxt "TUTORIAL_BODY_RECRUITS_2"
+msgid ""
+"Recruited enemies can be called into action by pressing the {4} button. "
+"Their health is displayed in your HUD at the top of the screen."
+msgstr ""
+"Рекрут может быть отправлен в атаку нажатием {4}. Его здоровье отображается в"
+" верхней части экрана."
+
+msgctxt "TUTORIAL_BODY_WHATS_UP_BUDDY"
+msgid ""
+"Approach NPCs and press {2} to chat with them. They'll often give you info "
+"to help advance your quests."
+msgstr ""
+"Подойди к неигровым персонажам и нажми {2}, чтобы поболтать с ними. Часто они"
+" могут поделиться важной информацией."
+
+msgctxt "TUTORIAL_BODY_STATUE_SMASH"
+msgid ""
+"There are 25 statues of River City's resident crime boss hidden throughout "
+"the game. Destroy all 25 to earn something special!"
+msgstr ""
+"По всему Ривер-сити расставлено 25 бюстов местного криминального босса."
+" Разбей их все, чтобы получить нечто особенное!"
+
+msgctxt "TUTORIAL_BODY_LEVEL_UP"
+msgid ""
+"Each time you level up, your stats increase, and you also unlock the ability"
+" to learn new attacks in Dojos."
+msgstr ""
+"С каждым новым уровнем повышаются твои характеристики. Кроме того, ты"
+" получаешь возможность изучить новые приёмы в Додзё."
+
+msgctxt "TUTORIAL_BODY_DONT_DIE_ON_ME"
+msgid ""
+"Girl down! When the other player dies, you can revive them by quickly "
+"attacking their body before their angel gets away."
+msgstr ""
+"Девушка пала! Когда другой игрок погибает, его можно оживить, если ударить по"
+" его телу до тех пор, пока душа не улетит прочь."
+
+msgctxt "TUTORIAL_BODY_GRAB_EM"
+msgid ""
+"Sometimes an enemy will become dizzy after being attacked repeatedly. Walk "
+"into them to grab the enemy, then throw or attack them with {2} and {3}."
+msgstr ""
+"Иногда от постоянных ударов у противника может закружиться голова. Подойди к"
+" противнику, чтобы сделать захват, а затем брось его или ударь с помощью {2}"
+" или {3}."
+
+msgctxt "TUTORIAL_BODY_BLOCK_PARRY"
+msgid ""
+"Press and hold {5} to block enemy attacks. Blocking just as an enemy attacks"
+" will parry, giving you the edge!"
+msgstr ""
+"Нажми и удерживай {5}, чтобы блокировать удары. Успешное парирование атаки"
+" противника даст тебе преимущество!"
+
+msgctxt "TUTORIAL_BODY_WALL_JUMPIN"
+msgid ""
+"Jump toward a wall with {0} then press {0} again to leap off the wall and "
+"get even higher."
+msgstr ""
+"Нажми {0}, чтобы прыгнуть на стену, и ещё раз {0}, чтобы оттолкнуться от неё"
+" и прыгнуть ещё выше."
+
+#, fuzzy
+msgctxt "TUTORIAL_BODY_CELL_PHONE_MENU"
+msgid ""
+"Press {6} to pause the game and check out your stats, items, accessories, "
+"and more! Cycle through menus with {4} and {5}."
+msgstr ""
+"Нажми {6}, чтобы поставить игру на паузу и проверить статистику, предметы, "
+"аксессуары и многое другое! Перемещайся по меню с помощью клавиш {4} и {5}."
+
+#, fuzzy
+msgctxt "TUTORIAL_BODY_DOJO_TRAINING"
+msgid ""
+"Visit Dojos to unlock new attacks. The higher your level, the more attacks "
+"you can unlock!"
+msgstr ""
+"Посети Додзё, чтобы разблокировать новые атаки. Чем выше твой уровень, тем "
+"больше атак ты можешь разблокировать!"
+
+#, fuzzy
+msgctxt "TUTORIAL_BODY_STATS_MENU"
+msgid ""
+"The Stats Menu shows off your current stats, EXP level, EXP needed to level "
+"up, and items you've purchased from stores. Select an item here to use it."
+msgstr ""
+"Меню статистики показывает текущую статистику, уровень EXP, число EXP, "
+"необходимое для перехода на следующий уровень, и приобретенные в магазинах "
+"предметы. Выбери предмет, чтобы использовать его."
+
+#, fuzzy
+msgctxt "TUTORIAL_BODY_MAP_MENU"
+msgid ""
+"The Map Menu shows your current location and your progress in active quests."
+" Press {13} to expand to the full world map."
+msgstr ""
+"Меню карты показывает твое текущее местоположение и прогресс в активных "
+"квестах. Чтобы развернуть полную карту мира, нажми {13}."
+
+#, fuzzy
+msgctxt "TUTORIAL_BODY_EXPANDED_MAP"
+msgid ""
+"Check your map to know where to go! Yellow is your current room, blue rooms "
+"have been visited, and black rooms haven't yet."
+msgstr ""
+"Сверяйся с картой, чтобы знать, куда идти! Текущая комната отмечена желтым "
+"цветом, посещенные голубым, не посещенные черным."
+
+#, fuzzy
+msgctxt "TUTORIAL_BODY_MOVES_LIST"
+msgid ""
+"The Moves List displays how to perform all attacks you've unlocked. Unlock "
+"more attacks in Dojos and by leveling up."
+msgstr ""
+"Список движений показывает, как выполнять все разблокированные тобой атаки. "
+"Разблокировать больше атак можно, посещая Додзё и повышая свой уровень."
+
+#, fuzzy
+msgctxt "TUTORIAL_BODY_ACCESSORIES"
+msgid ""
+"Accessories are like permanent items. Equip up to 2 Accessories at a time. "
+"Earn more by defeating bosses and completing quests."
+msgstr ""
+"Аксессуары работают как постоянные предметы. Вооружайся не более чем 2 "
+"аксессуарами за раз. Получай больше аксессуаров за победы над боссами и "
+"прохождение квестов."
+
+#, fuzzy
+msgctxt "TUTORIAL_BODY_SETTINGS_MENU"
+msgid "The Settings Menu allows you to adjust volume levels and other options."
+msgstr "Меню настроек позволяет отрегулировать громкость и другие опции."
+
+#, fuzzy
+msgctxt "TUTORIAL_BODY_RECRUITS_MENU"
+msgid ""
+"The Recruits Menu showcases every type of enemy you've recruited so far. Try"
+" and catch 'em all!"
+msgstr ""
+"Меню рекрутов показывает все типы завербованных врагов. Попробуй поймать их "
+"всех!"

@@ -1,0 +1,1947 @@
+#
+# Azamat H. Hackimov <azamat.hackimov@gmail.com>, 2020.
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: you@example.com\n"
+"POT-Creation-Date: 2020-01-24 03:12:27.794288\n"
+"PO-Revision-Date: 2020-01-25 00:52+0300\n"
+"Last-Translator: Azamat H. Hackimov <azamat.hackimov@gmail.com>\n"
+"Language-Team: Russian <>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ru\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<"
+"=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: Lokalize 19.08.3\n"
+
+#, fuzzy
+msgctxt "LBL_CHARACTER"
+msgid "Character"
+msgstr "Персонаж"
+
+#, fuzzy
+msgctxt "LBL_CHARACTER_SELECT"
+msgid "Character Select"
+msgstr "Выбор персонажа"
+
+#, fuzzy
+msgctxt "LBL_COMPLETION"
+msgid "Completion"
+msgstr "Выполнение"
+
+#, fuzzy
+msgctxt "LBL_CONSUME"
+msgid "Consume"
+msgstr "Потребление"
+
+#, fuzzy
+msgctxt "LBL_CREDITS"
+msgid "Credits"
+msgstr "Титры"
+
+#, fuzzy
+msgctxt "LBL_DIFFICULTY"
+msgid "Difficulty"
+msgstr "Сложность"
+
+#, fuzzy
+msgctxt "LBL_FAST"
+msgid "Fast"
+msgstr "Быстро"
+
+msgctxt "LBL_FILE"
+msgid "File"
+msgstr "Файл"
+
+msgctxt "LBL_FILE_SELECT"
+msgid "File Select"
+msgstr "Выбор файла"
+
+#, fuzzy
+msgctxt "LBL_FRIENDLY_FIRE"
+msgid "Friendly Fire"
+msgstr "Дружественный огонь"
+
+#, fuzzy
+msgctxt "LBL_HARD"
+msgid "Hard"
+msgstr "Сложно"
+
+msgctxt "LBL_LANGUAGE"
+msgid "Language"
+msgstr "Язык"
+
+#, fuzzy
+msgctxt "LBL_LATER"
+msgid "Later"
+msgstr "Позже"
+
+msgctxt "LBL_MAP"
+msgid "Map"
+msgstr "Карта"
+
+#, fuzzy
+msgctxt "LBL_MEDIUM"
+msgid "Medium"
+msgstr "Средне"
+
+#, fuzzy
+msgctxt "LBL_MODE_SELECT"
+msgid "Mode Select"
+msgstr "Выбор режима"
+
+#, fuzzy
+msgctxt "LBL_MOVES"
+msgid "Moves"
+msgstr "Движения"
+
+#, fuzzy
+msgctxt "LBL_MUSIC"
+msgid "Music"
+msgstr "Музыка"
+
+#, fuzzy
+msgctxt "LBL_NEW_GAME"
+msgid "New Game"
+msgstr "Новая игра"
+
+#, fuzzy
+msgctxt "LBL_NEXT"
+msgid "Next"
+msgstr "Следующий"
+
+#, fuzzy
+msgctxt "LBL_NO"
+msgid "No"
+msgstr "Нет"
+
+#, fuzzy
+msgctxt "LBL_NORMAL"
+msgid "Normal"
+msgstr "Нормальный"
+
+#, fuzzy
+msgctxt "LBL_NOW"
+msgid "Now"
+msgstr "Сейчас"
+
+#, fuzzy
+msgctxt "LBL_NUM_OF_PLAYERS"
+msgid "Number of Players"
+msgstr "Число игроков"
+
+msgctxt "LBL_OFF"
+msgid "Off"
+msgstr "Выкл"
+
+msgctxt "LBL_ON"
+msgid "On"
+msgstr "Вкл"
+
+#, fuzzy
+msgctxt "LBL_OUTFITS"
+msgid "Outfits"
+msgstr "Костюмы"
+
+#, fuzzy
+msgctxt "LBL_ACCESSORIES"
+msgid "Accessories"
+msgstr "Аксессуары"
+
+#, fuzzy
+msgctxt "LBL_PRESS_TO"
+msgid "Press {0}"
+msgstr "нажмите {0}"
+
+#, fuzzy
+msgctxt "LBL_PRESS_START"
+msgid "Press Start"
+msgstr "Нажмите Старт"
+
+#, fuzzy
+msgctxt "LBL_PURCHASE"
+msgid "Purchase"
+msgstr "Покупка"
+
+#, fuzzy
+msgctxt "LBL_SAVE_QUIT"
+msgid "Save & Quit"
+msgstr "Сохранить и выйти"
+
+msgctxt "LBL_SETTINGS"
+msgid "Settings"
+msgstr "Настройки"
+
+#, fuzzy
+msgctxt "LBL_SFX"
+msgid "sfx"
+msgstr "Звуковые эффекты"
+
+#, fuzzy
+msgctxt "LBL_SLOW"
+msgid "Slow"
+msgstr "Медленно"
+
+#, fuzzy
+msgctxt "LBL_SUBTITLES"
+msgid "Subtitles"
+msgstr "Субтитры"
+
+#, fuzzy
+msgctxt "LBL_TASKS"
+msgid "Tasks"
+msgstr "Задачи"
+
+#, fuzzy
+msgctxt "LBL_TEXT_SPEED"
+msgid "Text Speed"
+msgstr "Скорость текста"
+
+#, fuzzy
+msgctxt "LBL_VOICE"
+msgid "Voice"
+msgstr "Голос"
+
+#, fuzzy
+msgctxt "LBL_YES"
+msgid "Yes"
+msgstr "Да"
+
+#, fuzzy
+msgctxt "LOC_RIVER_PARK"
+msgid "River Park"
+msgstr "Ривер-Парк"
+
+#, fuzzy
+msgctxt "LOC_WORK_ZONE"
+msgid "Work Zone"
+msgstr "Рабочая зона"
+
+#, fuzzy
+msgctxt "LBL_STORE"
+msgid "Store"
+msgstr "Магазин"
+
+#, fuzzy
+msgctxt "LBL_COMPLETE"
+msgid "Complete!"
+msgstr "Готово!"
+
+#, fuzzy
+msgctxt "LBL_LEVEL"
+msgid "Level"
+msgstr "Уровень"
+
+#, fuzzy
+msgctxt "LBL_RECRUITS"
+msgid "Recruits"
+msgstr "Рекруты"
+
+#, fuzzy
+msgctxt "LBL_UNEQUIP_THIS"
+msgid "Unequip?"
+msgstr "Удалить?"
+
+#, fuzzy
+msgctxt "LOC_RIVER_CITY_HIGH"
+msgid "River City High"
+msgstr "Старшая школа Ривер-Сити"
+
+#, fuzzy
+msgctxt "LOC_CROSSTOWN"
+msgid "Crosstown"
+msgstr "Кросстаун"
+
+#, fuzzy
+msgctxt "LOC_UPTOWN"
+msgid "Uptown"
+msgstr "Верхняя часть города"
+
+#, fuzzy
+msgctxt "LOC_DOWNTOWN"
+msgid "Downtown"
+msgstr "Центр города"
+
+#, fuzzy
+msgctxt "LOC_OCEAN_HEIGHTS"
+msgid "Ocean Heights"
+msgstr "Океанские Высоты"
+
+#, fuzzy
+msgctxt "LOC_SANWAKAI_TOWER"
+msgid "Sanwakai Tower"
+msgstr "Башня Санвакай"
+
+#, fuzzy
+msgctxt "LBL_BACK"
+msgid "Back"
+msgstr "Назад"
+
+#, fuzzy
+msgctxt "LBL_CONTINUE"
+msgid "Continue"
+msgstr "Продолжить"
+
+#, fuzzy
+msgctxt "LBL_QUIT"
+msgid "Quit"
+msgstr "Выйти"
+
+#, fuzzy
+msgctxt "LBL_GAME"
+msgid "Game"
+msgstr "Игра"
+
+#, fuzzy
+msgctxt "LBL_OVER_ELLIPSIS"
+msgid "Over..."
+msgstr "Окончена..."
+
+#, fuzzy
+msgctxt "LBL_OK_COOL"
+msgid "OK COOL"
+msgstr "ХОРОШО"
+
+#, fuzzy
+msgctxt "LBL_MONEY"
+msgid "Money"
+msgstr "Деньги"
+
+#, fuzzy
+msgctxt "LBL_EXPERIENCE"
+msgid "Experience"
+msgstr "Опыт"
+
+#, fuzzy
+msgctxt "LBL_OKAY"
+msgid "Okay"
+msgstr "Хорошо"
+
+#, fuzzy
+msgctxt "BSM_SCHOOL_FRONT_GATE"
+msgid "Crosstown (School Gate)"
+msgstr "Кросстаун (школьные ворота)"
+
+#, fuzzy
+msgctxt "BSM_MALL_ENTRANCE"
+msgid "Crosstown (Mall Entrance)"
+msgstr "Кросстаун (вход в торговый центр)"
+
+#, fuzzy
+msgctxt "BSM_TRANSIT_CENTER"
+msgid "Downtown (Transit Center)"
+msgstr "Центр города (вокзал)"
+
+#, fuzzy
+msgctxt "BSM_CITY_STREETS"
+msgid "Downtown (City Streets)"
+msgstr "Центр города (улицы)"
+
+#, fuzzy
+msgctxt "BSM_SHOPPING_AREA"
+msgid "Uptown (Shopping Area)"
+msgstr "Верхняя часть города (торговый центр)"
+
+#, fuzzy
+msgctxt "BSM_BEACH_HOMES"
+msgid "Oceanside (Beach Homes)"
+msgstr "Берег океана (дома с видом на океан)"
+
+#, fuzzy
+msgctxt "BSM_TOWER_ENTRANCE"
+msgid "Sanwakai Tower (Entrance)"
+msgstr "Башня Санвакай (вход)"
+
+#, fuzzy
+msgctxt "WORLD_1_DETENTION"
+msgid "Detention Room"
+msgstr "Карцер"
+
+#, fuzzy
+msgctxt "WORLD_1_RESTROOM"
+msgid "School Restroom"
+msgstr "Школьный туалет"
+
+#, fuzzy
+msgctxt "WORLD_1_ROOFTOP"
+msgid "School Rooftop"
+msgstr "Крыша школы"
+
+#, fuzzy
+msgctxt "WORLD_1_3RDFLOOR"
+msgid "3rd Floor Hallway"
+msgstr "3 этаж, холл"
+
+#, fuzzy
+msgctxt "WORLD_1_2NDFLOORA"
+msgid "2nd Floor Hallway A"
+msgstr "2 этаж, холл А"
+
+#, fuzzy
+msgctxt "WORLD_1_CHEMISTRY"
+msgid "Chemistry Class"
+msgstr "Кабинет химии"
+
+#, fuzzy
+msgctxt "WORLD_1_2NDFLOORB"
+msgid "2nd Floor Hallway B"
+msgstr "2 этаж, холл Б"
+
+#, fuzzy
+msgctxt "WORLD_1_1STFLOORA"
+msgid "1st Floor Hallway A"
+msgstr "1 этаж, холл А"
+
+#, fuzzy
+msgctxt "WORLD_1_SEXED"
+msgid "Sex Ed Class"
+msgstr "Кабинет сексуального просвещения"
+
+#, fuzzy
+msgctxt "WORLD_1_1STFLOORB"
+msgid "1st Floor Hallway B"
+msgstr "1 этаж, холл Б"
+
+#, fuzzy
+msgctxt "WORLD_1_GYMPOOL"
+msgid "Gym Swimming Pool"
+msgstr "Бассейн спортзала"
+
+#, fuzzy
+msgctxt "WORLD_1_LOCKERROOM"
+msgid "Locker Room"
+msgstr "Раздевалка"
+
+#, fuzzy
+msgctxt "WORLD_1_GYMBASKETBALL"
+msgid "Basketball Court"
+msgstr "Баскетбольное поле"
+
+#, fuzzy
+msgctxt "WORLD_1_CAFETERIA"
+msgid "School Cafeteria"
+msgstr "Школьный буфет"
+
+#, fuzzy
+msgctxt "WORLD_1_KITCHEN"
+msgid "School Kitchen"
+msgstr "Школьная кухня"
+
+#, fuzzy
+msgctxt "WORLD_1_FREEZER"
+msgid "Meat Locker"
+msgstr "Холодильник для мяса"
+
+#, fuzzy
+msgctxt "WORLD_1_LOBBY"
+msgid "School Lobby (Misuzu Boss)"
+msgstr "Школьный холл (Босс Мисуцу)"
+
+#, fuzzy
+msgctxt "WORLD_2_SCHOOLENTRANCE"
+msgid "School Entrance"
+msgstr "Вход в школу"
+
+#, fuzzy
+msgctxt "WORLD_2_BEANBALLCOURT"
+msgid "Beanball Court"
+msgstr "Поле для игры в мяч головой"
+
+#, fuzzy
+msgctxt "WORLD_2_FRONTGATE"
+msgid "Front Gate"
+msgstr "Главный вход"
+
+#, fuzzy
+msgctxt "WORLD_2_NORTHRAVINELANE"
+msgid "North Ravine Lane"
+msgstr "Северный Воронов переулок"
+
+#, fuzzy
+msgctxt "WORLD_2_WINDINGWAY"
+msgid "Winding Way"
+msgstr "Порывистый переулок"
+
+#, fuzzy
+msgctxt "WORLD_2_PATTINSONHOUSE"
+msgid "Pattinson's House"
+msgstr "Дом Паттинсона"
+
+#, fuzzy
+msgctxt "WORLD_2_PATTINSONBACKYARD"
+msgid "Pattinson's Backyard"
+msgstr "Двор Паттинсона"
+
+#, fuzzy
+msgctxt "WORLD_2_ALLEYWAY"
+msgid "Back Alleyway"
+msgstr "Боковой переулок"
+
+#, fuzzy
+msgctxt "WORLD_2_MALLREAR"
+msgid "Mall Shipping Area"
+msgstr "Торговый центр, служебные помещения"
+
+#, fuzzy
+msgctxt "WORLD_2_MALLENTRANCE"
+msgid "Mall Entrance"
+msgstr "Торговый центр, вход"
+
+#, fuzzy
+msgctxt "WORLD_2_MALLLOBBY"
+msgid "Mall Lobby"
+msgstr "Торговый центр, холл"
+
+#, fuzzy
+msgctxt "WORLD_2_STOREENTRANCES"
+msgid "Mall Stores"
+msgstr "Торговый центр, магазины"
+
+#, fuzzy
+msgctxt "WORLD_2_FOODCOURT"
+msgid "Mall Food Court"
+msgstr "Торговый центр, фудкорт"
+
+#, fuzzy
+msgctxt "WORLD_2_CONSTRUCTIONPIT"
+msgid "Construction Site"
+msgstr "Стройка"
+
+#, fuzzy
+msgctxt "WORLD_2_CONSTRUCTIONSITE"
+msgid "Construction Building (Yamada Boss)"
+msgstr "Строящееся здание (Босс Ямада)"
+
+#, fuzzy
+msgctxt "WORLD_2_MALLEXIT"
+msgid "Mall Exit"
+msgstr "Торговый центр, выход"
+
+#, fuzzy
+msgctxt "WORLD_3_SHOPPINGENTRANCE"
+msgid "Shopping Entrance"
+msgstr "Вход в торговый центр"
+
+#, fuzzy
+msgctxt "WORLD_3_SHOPPINGVIDEOGAMES"
+msgid "Video Game District"
+msgstr "Квартал видеоигр"
+
+#, fuzzy
+msgctxt "WORLD_3_SHOPPINGTOYS"
+msgid "Toy District"
+msgstr "Квартал игрушек"
+
+#, fuzzy
+msgctxt "WORLD_3_SHOPPINGFASHION"
+msgid "Fashion District"
+msgstr "Квартал одежды"
+
+#, fuzzy
+msgctxt "WORLD_3_ARCADE"
+msgid "Coin-Op Arcade"
+msgstr "Галерея игровых автоматов"
+
+#, fuzzy
+msgctxt "WORLD_3_FLOOR1"
+msgid "Underground Floor 1"
+msgstr "Минус 1 этаж"
+
+#, fuzzy
+msgctxt "WORLD_3_FLOOR2"
+msgid "Underground Floor 2"
+msgstr "Минус 2 этаж"
+
+#, fuzzy
+msgctxt "WORLD_3_FLOOR3"
+msgid "Underground Floor 3"
+msgstr "Минус 3 этаж"
+
+#, fuzzy
+msgctxt "WORLD_3_FLOOR4"
+msgid "Underground Floor 4"
+msgstr "Минус 4 этаж"
+
+#, fuzzy
+msgctxt "WORLD_3_FLOOR5"
+msgid "Underground Floor 5"
+msgstr "Минус 5 этаж"
+
+#, fuzzy
+msgctxt "WORLD_3_FLOOR6"
+msgid "Underground Floor 6"
+msgstr "Минус 6 этаж"
+
+#, fuzzy
+msgctxt "WORLD_3_FLOOR7"
+msgid "Underground Floor 7"
+msgstr "Минус 7 этаж"
+
+#, fuzzy
+msgctxt "WORLD_3_FLOOR8"
+msgid "Underground Floor 8"
+msgstr "Минус 8 этаж"
+
+#, fuzzy
+msgctxt "WORLD_3_PAWNSHOP"
+msgid "Pawn Shop"
+msgstr "Ломбард"
+
+#, fuzzy
+msgctxt "WORLD_3_RUNWAY"
+msgid "Catwalk Runway"
+msgstr "Подиум"
+
+#, fuzzy
+msgctxt "WORLD_3_SWEATSHOP"
+msgid "Sewing Room"
+msgstr "Швейная мастерская"
+
+#, fuzzy
+msgctxt "WORLD_3_FASHIONFACTORY"
+msgid "Fashion Storage (Hibari Boss)"
+msgstr "Склад готовой одежды (Босс Хибари)"
+
+#, fuzzy
+msgctxt "WORLD_3_BACKALLEY"
+msgid "Secret Passage to Downtown"
+msgstr "Тайный проход в центр города"
+
+#, fuzzy
+msgctxt "WORLD_4_CITYSTREETS1"
+msgid "City Streets"
+msgstr "Улицы города"
+
+#, fuzzy
+msgctxt "WORLD_4_BARINTERIOR"
+msgid "Filthy Bar"
+msgstr "Вонючий бар"
+
+#, fuzzy
+msgctxt "WORLD_4_SHANTYTOWN"
+msgid "Shanty Town"
+msgstr "Трущобы"
+
+#, fuzzy
+msgctxt "WORLD_4_BACKALLEY"
+msgid "Back Alley"
+msgstr "Переулок"
+
+#, fuzzy
+msgctxt "WORLD_4_CITYSTREETS2"
+msgid "Rear City Streets"
+msgstr "Городские закоулки"
+
+#, fuzzy
+msgctxt "WORLD_4_PARK"
+msgid "Downtown Park"
+msgstr "Парк в центре города"
+
+#, fuzzy
+msgctxt "WORLD_4_BASKETBALL"
+msgid "Basketball Court"
+msgstr "Баскетбольное поле"
+
+#, fuzzy
+msgctxt "WORLD_4_TRANSITSTATION"
+msgid "Transit Station"
+msgstr "Пересадочная станция"
+
+#, fuzzy
+msgctxt "WORLD_4_JUNKYARD"
+msgid "Junk Yard"
+msgstr "Свалка"
+
+#, fuzzy
+msgctxt "WORLD_4_TUNNEL"
+msgid "Tunnel to Ocean Heights"
+msgstr "Туннель к \"Океанским высотам\""
+
+#, fuzzy
+msgctxt "WORLD_4_SKIDROW"
+msgid "Skid Row"
+msgstr "Площадь трех вокзалов"
+
+#, fuzzy
+msgctxt "WORLD_4_SUBWAY"
+msgid "Subway Terminal"
+msgstr "Станция подземки"
+
+#, fuzzy
+msgctxt "WORLD_4_UNDERGROUNDTEMPLE"
+msgid "Abandoned Subway (Abobo Boss)"
+msgstr "Заброшенная подземка (Босс Абобо)"
+
+#, fuzzy
+msgctxt "WORLD_5_BEACHSTOREFRONT"
+msgid "Beach Storefronts"
+msgstr "Пляж"
+
+#, fuzzy
+msgctxt "WORLD_5_BEACHHOMES"
+msgid "Beach Homes"
+msgstr "Дома на берегу"
+
+#, fuzzy
+msgctxt "WORLD_5_FANCYHOTELLOBBY"
+msgid "Fancy Hotel Lobby"
+msgstr "Холл модной гостиницы"
+
+#, fuzzy
+msgctxt "WORLD_5_AQUARIUM"
+msgid "Aquarium"
+msgstr "Океанариум"
+
+#, fuzzy
+msgctxt "WORLD_5_PUBLICPARK"
+msgid "Ocean Heights Park"
+msgstr "Парк \"Океанские высоты\""
+
+#, fuzzy
+msgctxt "WORLD_5_RESTROOM"
+msgid "Fancy Restroom"
+msgstr "Модный туалет"
+
+#, fuzzy
+msgctxt "WORLD_5_THEMEPARK"
+msgid "Theme Park"
+msgstr "Парк аттракционов"
+
+#, fuzzy
+msgctxt "WORLD_5_FISHMARKET"
+msgid "Fish Market"
+msgstr "Рыбный рынок"
+
+#, fuzzy
+msgctxt "WORLD_5_PIERSBOATS"
+msgid "The Pier"
+msgstr "Пирс"
+
+#, fuzzy
+msgctxt "WORLD_5_BEACH"
+msgid "The Beach"
+msgstr "Пляж"
+
+#, fuzzy
+msgctxt "WORLD_5_YACHTCONCERT"
+msgid "Private Yacht (NOIZE Boss)"
+msgstr "Частная яхта (Босс NOIZE)"
+
+#, fuzzy
+msgctxt "WORLD_6_TOWERENTRANCE"
+msgid "Tower Entrance"
+msgstr "Вход в башню"
+
+#, fuzzy
+msgctxt "WORLD_6_LOBBY"
+msgid "Tower Lobby"
+msgstr "Башня, холл"
+
+#, fuzzy
+msgctxt "WORLD_6_CASINO"
+msgid "Tower Casino"
+msgstr "Башня, казино"
+
+#, fuzzy
+msgctxt "WORLD_6_RESTROOM"
+msgid "Tower Restroom"
+msgstr "Башня, туалет"
+
+#, fuzzy
+msgctxt "WORLD_6_FLOOR8"
+msgid "Floor 8 Lobby"
+msgstr "8 этаж, холл"
+
+#, fuzzy
+msgctxt "WORLD_6_HOTELROOM"
+msgid "Hotel Room"
+msgstr "Гостиничный номер"
+
+#, fuzzy
+msgctxt "WORLD_6_FLOOR13"
+msgid "Floor 13 Lobby"
+msgstr "13 этаж, холл"
+
+#, fuzzy
+msgctxt "WORLD_6_MONEYLAUNDERING"
+msgid "Money Laundering Vault"
+msgstr "Сейф для отмывания денег"
+
+#, fuzzy
+msgctxt "WORLD_6_BALCONY"
+msgid "Tower Balcony"
+msgstr "Башня, балкон"
+
+#, fuzzy
+msgctxt "WORLD_6_FLOOR21"
+msgid "Floor 21 Lobby"
+msgstr "21 этаж, холл"
+
+#, fuzzy
+msgctxt "WORLD_6_SCIENCEEXPERIMENTS"
+msgid "Genetic Experiments Room"
+msgstr "Кабинет генетических экспериментов"
+
+#, fuzzy
+msgctxt "WORLD_6_FLOOR50"
+msgid "Floor 50 Lobby"
+msgstr "50 этаж, холл"
+
+#, fuzzy
+msgctxt "WORLD_6_PENTHOUSE"
+msgid "Penthouse (Sabuko Boss)"
+msgstr "Пентхаус (Босс Сабуко)"
+
+#, fuzzy
+msgctxt "WORLD_6_PENTHOUSE_BONUS"
+msgid "Penthouse"
+msgstr "Пентхаус"
+
+#, fuzzy
+msgctxt "WORLD_6_WEAPONSROOM"
+msgid "Weapons Room"
+msgstr "Оружейная комната"
+
+#, fuzzy
+msgctxt "LBL_NEW_MOVE"
+msgid "New Move!"
+msgstr "Новое движение!"
+
+#, fuzzy
+msgctxt "LBL_NEW_MOVES_IN_DOJO"
+msgid "New Move(s) Available In Dojo"
+msgstr "Новые движения доступны в Додзё"
+
+#, fuzzy
+msgctxt "LBL_VIEW_CREDITS"
+msgid "View Credits"
+msgstr "Посмотреть кредит"
+
+#, fuzzy
+msgctxt "LBL_CONFIRM"
+msgid "Confirm"
+msgstr "Подтвердить"
+
+#, fuzzy
+msgctxt "LBL_EDIT_SETTINGS"
+msgid "Edit Settings"
+msgstr "Изменить настройки"
+
+#, fuzzy
+msgctxt "LBL_SELECT_FILE"
+msgid "Select File"
+msgstr "Выбор файла"
+
+#, fuzzy
+msgctxt "LBL_CONFIRM_CHARACTER"
+msgid "Confirm Character"
+msgstr "Подтвердить выбор персонажа"
+
+#, fuzzy
+msgctxt "LBL_BUTTON_RAPIDLY"
+msgid "Rapidly"
+msgstr "Быстро"
+
+#, fuzzy
+msgctxt "LBL_BUTTON_CHARGE"
+msgid "Charge"
+msgstr "Атака"
+
+#, fuzzy
+msgctxt "LBL_PRESS_TO_START"
+msgid "Press {0} to Start"
+msgstr "Чтобы начать, нажмите {0}"
+
+#, fuzzy
+msgctxt "LBL_PRESS_TO_EXPAND_MAP"
+msgid "Expand"
+msgstr "Развернуть"
+
+#, fuzzy
+msgctxt "LBL_EXIT_MAP"
+msgid "Exit Map"
+msgstr "Выйти из карты"
+
+#, fuzzy
+msgctxt "LBL_YOU_GOT"
+msgid "You Got:"
+msgstr "Вы получили: "
+
+#, fuzzy
+msgctxt "LBL_WAIT_FOR_NEXT_SCREEN"
+msgid "Please wait for next room"
+msgstr "Подождите до следующей комнаты, пожалуйста"
+
+#, fuzzy
+msgctxt "LBL_PLEASE_WAIT"
+msgid "Please Wait"
+msgstr "Подождите, пожалуйста"
+
+#, fuzzy
+msgctxt "LBL_PRESS_TO_JOIN"
+msgid "Press {0} to Join"
+msgstr "Чтобы присоединиться, нажмите {0}"
+
+#, fuzzy
+msgctxt "LBL_LOAD"
+msgid "Load"
+msgstr "Загрузить"
+
+#, fuzzy
+msgctxt "LBL_DELETE"
+msgid "Delete"
+msgstr "Удалить"
+
+#, fuzzy
+msgctxt "LBL_SELECT"
+msgid "Select"
+msgstr "Выбрать"
+
+#, fuzzy
+msgctxt "LBL_CONFIRM_CHARACTER_OR_JOIN"
+msgid "Confirm Character / Join"
+msgstr "Подтвердить выбор персонажа / Присоединиться"
+
+#, fuzzy
+msgctxt "LBL_EDIT_OR_SELECT"
+msgid "Edit / Select"
+msgstr "Изменить / Выбрать"
+
+#, fuzzy
+msgctxt "LBL_TOGGLE"
+msgid "Toggle"
+msgstr "Коснитесь"
+
+#, fuzzy
+msgctxt "LBL_CONFIRM_DELETE"
+msgid "Delete File?"
+msgstr "Удалить файл?"
+
+#, fuzzy
+msgctxt "LBL_YOU_WILL_LOSE_PROGRESS"
+msgid "You will lose all gameplay progress."
+msgstr "Весь игровой прогресс будет потерян"
+
+#, fuzzy
+msgctxt "LBL_NEW_GAME_PLUS"
+msgid "New Game +"
+msgstr "Новая игра +"
+
+#, fuzzy
+msgctxt "LBL_NEW_GAME_PLUS_INFO"
+msgid ""
+"Restart for a new, more challenging adventure!\n"
+"Story progress is reset and enemies are tougher."
+msgstr ""
+"Перезагрузитесь для нового, более сложного приключения! Игровой прогресс "
+"сбрасывается, а враги становятся сильнее."
+
+#, fuzzy
+msgctxt "LBL_LOITER"
+msgid "Loiter"
+msgstr "Слоняться"
+
+#, fuzzy
+msgctxt "LBL_LOITER_INFO"
+msgid ""
+"Stick around and take care of loose ends!\n"
+"Quest progress is retained."
+msgstr "Послоняйся вокруг, подбери хвосты! Игровой прогресс сохраняется."
+
+#, fuzzy
+msgctxt "LBL_CURRENT_STATS_RETAINED"
+msgid "Current stats, items and techniques are retained."
+msgstr "Текущая статистика, предметы и техники сохраняются."
+
+msgctxt "LBL_FILE_0"
+msgid "File A"
+msgstr "Файл А"
+
+msgctxt "LBL_FILE_1"
+msgid "File B"
+msgstr "Файл Б"
+
+msgctxt "LBL_FILE_2"
+msgid "File C"
+msgstr "Файл В"
+
+#, fuzzy
+msgctxt "LBL_COMPLETION"
+msgid "Completion"
+msgstr "Выполнение"
+
+msgctxt "LBL_GAME_TITLE"
+msgid "River City Girls"
+msgstr "River City Girls"
+
+msgctxt "LBL_DEVELOPED_BY_TITLE"
+msgid "Developed and Published<br>by WayForward"
+msgstr "Разработано и опубликовано<br>компанией WayForward"
+
+#, fuzzy
+msgctxt "LBL_TYRANNICAL_OVERLORD_TITLE"
+msgid "Tyrannical Overlord"
+msgstr "Тиран-повелитель"
+
+#, fuzzy
+msgctxt "LBL_CREATIVE_DIRECTOR_TITLE"
+msgid "Creative Director"
+msgstr "Креативный директор"
+
+#, fuzzy
+msgctxt "LBL_EXECUTIVE_PRODUCER_TITLE"
+msgid "Executive Producer"
+msgstr "Исполнительный продюсер"
+
+#, fuzzy
+msgctxt "LBL_DIRECTOR_TITLE"
+msgid "Director"
+msgstr "Директор"
+
+#, fuzzy
+msgctxt "LBL_ASSISTANT_DIRECTOR_TITLE"
+msgid "Assistant Director"
+msgstr "Ассистент директора"
+
+#, fuzzy
+msgctxt "LBL_PRODUCERS_TITLE"
+msgid "Producers"
+msgstr "Продюсеры"
+
+#, fuzzy
+msgctxt "LBL_LEAD_PROGRAMMER_TITLE"
+msgid "Lead Programmer"
+msgstr "Ведущий программист"
+
+#, fuzzy
+msgctxt "LBL_PROGRAMMER_TITLE"
+msgid "Programmers"
+msgstr "Программисты"
+
+#, fuzzy
+msgctxt "LBL_ENGINE_PROGRAMMER_TITLE"
+msgid "Engine Programming"
+msgstr "Программирование движка"
+
+#, fuzzy
+msgctxt "LBL_ADDITIONAL_PROGRAMMER_TITLE"
+msgid "Additional Programming"
+msgstr "Дополнительное программирование"
+
+#, fuzzy
+msgctxt "LBL_LEVEL_DESIGNER_TITLE"
+msgid "Level Designer"
+msgstr "Дизайнер уровней"
+
+#, fuzzy
+msgctxt "LBL_LEAD_ILLUSTRATOR_TITLE"
+msgid "Illustrator"
+msgstr "Иллюстратор"
+
+#, fuzzy
+msgctxt "LBL_ADDITIONAL_CHAR_ILLUSTRATOR_TITLE"
+msgid "Additional Illustrators"
+msgstr "Дополнительные иллюстрации"
+
+#, fuzzy
+msgctxt "LBL_SHOP_BG_ILLUSTRATOR_TITLE"
+msgid "Shop BG Illustrations"
+msgstr "Иллюстратор окружения магазинов"
+
+#, fuzzy
+msgctxt "LBL_SPRITE_DESIGNER_TITLE"
+msgid "Sprite Designs"
+msgstr "Дизайн спрайтов"
+
+#, fuzzy
+msgctxt "LBL_LEAD_ANIMATOR_TITLE"
+msgid "Lead Animator"
+msgstr "Главный аниматор"
+
+#, fuzzy
+msgctxt "LBL_ANIMATOR_TITLE"
+msgid "Animators"
+msgstr "Аниматоры"
+
+#, fuzzy
+msgctxt "LBL_LEAD_ENV_ARTIST_TITLE"
+msgid "Lead Environment Artist"
+msgstr "Ведущий художник по окружению"
+
+#, fuzzy
+msgctxt "LBL_ENV_ARTIST_TITLE"
+msgid "Environment Artists"
+msgstr "Художники по окружению"
+
+#, fuzzy
+msgctxt "LBL_VFX_DIRECTOR_TITLE"
+msgid "Lead Visual Effects Artist"
+msgstr "Ведущий художник по визуальным эффектам"
+
+#, fuzzy
+msgctxt "LBL_VFX_ARTIST_TITLE"
+msgid "Visual Effects Artists"
+msgstr "Художники по спецэффектам"
+
+#, fuzzy
+msgctxt "LBL_UI_MENU_ARTIST_TITLE"
+msgid "UI Designer"
+msgstr "дизайнер"
+
+#, fuzzy
+msgctxt "LBL_WRITER_TITLE"
+msgid "Written by"
+msgstr "Сюжет"
+
+#, fuzzy
+msgctxt "LBL_STORYBOARD_ARTIST_TITLE"
+msgid "Storyboard Artist"
+msgstr "Художник раскадровок"
+
+#, fuzzy
+msgctxt "LBL_CINEMATIC_ARTIST_TITLE"
+msgid "Cinematic Sequences"
+msgstr "Кинематографические последовательности"
+
+#, fuzzy
+msgctxt "LBL_MUSIC_TITLE"
+msgid "Music"
+msgstr "Музыка"
+
+#, fuzzy
+msgctxt "LBL_SONGS_TITLE"
+msgid "Songs"
+msgstr "Песни"
+
+#, fuzzy
+msgctxt "LBL_SFX_TITLE"
+msgid "Sound Effects"
+msgstr "Звуковые эффекты"
+
+#, fuzzy
+msgctxt "LBL_VO_CASTING_TITLE"
+msgid "VO Casting and Direction"
+msgstr "Кастинг и руководство озвучивания"
+
+#, fuzzy
+msgctxt "LBL_VOICE_ACTOR_TITLE"
+msgid "Voice Actors"
+msgstr "Озвучивание"
+
+#, fuzzy
+msgctxt "LBL_QA_MANAGER_TITLE"
+msgid "Quality Assurance Manager"
+msgstr "Менеджер по контролю качества"
+
+#, fuzzy
+msgctxt "LBL_LEAD_QA_TITLE"
+msgid "Quality Assurance Lead"
+msgstr "Ведущий менеджер по контролю качества"
+
+#, fuzzy
+msgctxt "LBL_QA_TESTER_TITLE"
+msgid "Quality Assurance Testers"
+msgstr "Контроль качества"
+
+#, fuzzy
+msgctxt "LBL_PUBLISHING_DIRECTOR_TITLE"
+msgid "Director of Publishing"
+msgstr "Директор издания"
+
+#, fuzzy
+msgctxt "LBL_PUBLISHING_PRODUCER_TITLE"
+msgid "Publishing Producer"
+msgstr "Издающий продюсер"
+
+#, fuzzy
+msgctxt "LBL_ANIM_DIRECTOR_TITLE"
+msgid "Animation Dept. Director"
+msgstr "Директор по анимации"
+
+#, fuzzy
+msgctxt "LBL_PROGRAMMER_MANAGER_TITLE"
+msgid "Programmer Manager"
+msgstr "Менеджер программистов"
+
+#, fuzzy
+msgctxt "LBL_BUSINESS_DEV_MANAGER_TITLE"
+msgid "Business Development Manager"
+msgstr "Менеджер по развитию бизнеса"
+
+#, fuzzy
+msgctxt "LBL_ACCOUNTING_CLERK_TITLE"
+msgid "Accounting Clerk"
+msgstr "Бухгалтер"
+
+#, fuzzy
+msgctxt "LBL_IT_SYSTEM_ADMIN_TITLE"
+msgid "IT / System Admin"
+msgstr "IT / системный администратор"
+
+#, fuzzy
+msgctxt "LBL_PR_MANAGER_TITLE"
+msgid "Community Manager & PR"
+msgstr "Менеджер по связям с общественностью"
+
+#, fuzzy
+msgctxt "LBL_SPECIAL_THANKS_TITLE"
+msgid "Special Thanks"
+msgstr "Особая благодарность"
+
+msgctxt "LBL_THANKS_FOR_PLAYING_TITLE"
+msgid "THANKS FOR PLAYING!!!"
+msgstr "СПАСИБО ЗА ИГРУ!!!"
+
+msgctxt "LBL_LEGAL_DISCLAIMER"
+msgid ""
+"© 2019 ARC SYSTEM WORKS / WayForward Technologies, Inc. All rights reserved."
+msgstr ""
+"© 2019 ARC SYSTEM WORKS / WayForward Technologies, Inc. All rights reserved."
+
+msgctxt "LBL_LEGAL_DISCLAIMER_ASIA"
+msgid ""
+"© 2019 ARC SYSTEM WORKS / WayForward Technologies, Inc. All rights "
+"reserved.<br>Published by H2 Interactive Co., Ltd."
+msgstr ""
+"© 2019 ARC SYSTEM WORKS / WayForward Technologies, Inc. All rights "
+"reserved.<br>Published by H2 Interactive Co., Ltd."
+
+#, fuzzy
+msgctxt "LBL_THE_BOYS_ARE_BACK"
+msgid "The boys are back!"
+msgstr "Мальчики вернулись!"
+
+#, fuzzy
+msgctxt "LBL_UNLOCKED_FOR_GAMEPLAY"
+msgid "Unlocked for Gameplay"
+msgstr "Разблокировано для геймплея"
+
+#, fuzzy
+msgctxt "LBL_DESTROYED"
+msgid "destroyed!"
+msgstr "разрушен!"
+
+#, fuzzy
+msgctxt "LBL_SKIP"
+msgid "Skip"
+msgstr "Пропустить"
+
+#, fuzzy
+msgctxt "LBL_DEFEATED"
+msgid "defeated!"
+msgstr "поражен!"
+
+#, fuzzy
+msgctxt "ENEMY_DESC_MALETHUG_ALT1"
+msgid "Low life miscreants who learned to fight on the streets."
+msgstr "Жалкие злодеи, учившиеся драться на улицах."
+
+#, fuzzy
+msgctxt "ENEMY_DESC_MALETHUG_ALT2"
+msgid "Low life miscreants who learned to fight on the streets."
+msgstr "Жалкие злодеи, учившиеся драться на улицах."
+
+#, fuzzy
+msgctxt "ENEMY_DESC_MALETHUG_ALT3"
+msgid "Low life miscreants who learned to fight on the streets."
+msgstr "Жалкие злодеи, учившиеся драться на улицах."
+
+#, fuzzy
+msgctxt "ENEMY_DESC_MALETHUG_ALT4"
+msgid "Low life miscreants who learned to fight on the streets."
+msgstr "Жалкие злодеи, учившиеся драться на улицах."
+
+#, fuzzy
+msgctxt "ENEMY_DESC_MALETHUG_TOUGH"
+msgid "The streets of River City have toughened his skin and soul."
+msgstr "Улицы Ривер-сити огрубили его кожу и душу."
+
+#, fuzzy
+msgctxt "ENEMY_DESC_MALETHUG_NIGHTMARE"
+msgid "Sabu's illegal chemical reservoir wasn't the best choice for swimming. "
+msgstr ""
+"Подпольный резервуар с химикалиями Сабу - не лучший выбор места, чтобы "
+"поплавать."
+
+#, fuzzy
+msgctxt "ENEMY_DESC_CHEERLEADER_ALT1"
+msgid "These cheerful girls are agile and love to dodge your advances."
+msgstr "Эти веселые ловкие девочки обожают уклоняться от ваших притязаний."
+
+#, fuzzy
+msgctxt "ENEMY_DESC_CHEERLEADER_ALT2"
+msgid "These cheerful girls are agile and love to dodge your advances."
+msgstr "Эти веселые ловкие девочки обожают уклоняться от ваших притязаний."
+
+#, fuzzy
+msgctxt "ENEMY_DESC_CHEERLEADER_ALT3"
+msgid "These cheerful girls are agile and love to dodge your advances."
+msgstr "Эти веселые ловкие девочки обожают уклоняться от ваших притязаний."
+
+#, fuzzy
+msgctxt "ENEMY_DESC_CHEERLEADER_ALT4"
+msgid "These cheerful girls are agile and love to dodge your advances."
+msgstr "Эти веселые ловкие девочки обожают уклоняться от ваших притязаний."
+
+#, fuzzy
+msgctxt "ENEMY_DESC_CHEERLEADER_TOUGH"
+msgid "The cheerleader leader leading her lethal ladies."
+msgstr "Лидер чирлидеров лидирует среди летальных леди."
+
+#, fuzzy
+msgctxt "ENEMY_DESC_CHEERLEADER_NIGHTMARE"
+msgid "She cares not for leading cheers. She's more like a fearleader. "
+msgstr ""
+"Ей не интересно подбадривать игроков. Наводить на них страх - другое дело!"
+
+#, fuzzy
+msgctxt "ENEMY_DESC_TIGERMAN_ALT1"
+msgid "These pro wrestlers are as agile as they are musclebound."
+msgstr "Профессиональные борцы, столь же ловкие, сколько и  перекачанные."
+
+#, fuzzy
+msgctxt "ENEMY_DESC_TIGERMAN_ALT2"
+msgid "These pro wrestlers are as agile as they are musclebound."
+msgstr "Профессиональные борцы, столь же ловкие, сколько и  перекачанные."
+
+#, fuzzy
+msgctxt "ENEMY_DESC_TIGERMAN_ALT3"
+msgid "These pro wrestlers are as agile as they are musclebound."
+msgstr "Профессиональные борцы, столь же ловкие, сколько и  перекачанные."
+
+#, fuzzy
+msgctxt "ENEMY_DESC_TIGERMAN_ALT4"
+msgid "These pro wrestlers are as agile as they are musclebound."
+msgstr "Профессиональные борцы, столь же ловкие, сколько и  перекачанные."
+
+#, fuzzy
+msgctxt "ENEMY_DESC_TIGERMAN_TOUGH"
+msgid "Never took a knife edge chop he didn't sadistically enjoy."
+msgstr "Ни  малейшего движения кончиком ножа без садистского удовольствия."
+
+#, fuzzy
+msgctxt "ENEMY_DESC_TIGERMAN_NIGHTMARE"
+msgid "He made a heel turn years ago and never turned back."
+msgstr ""
+"Он развернулся на каблуках много лет назад и ни разу с тех пор не обернулся."
+
+#, fuzzy
+msgctxt "ENEMY_DESC_SCHOOLBOY_ALT1"
+msgid "These entitled jerks love to fight dirty."
+msgstr "Эти самоуверенные подонки любят грязные приемы."
+
+#, fuzzy
+msgctxt "ENEMY_DESC_SCHOOLBOY_ALT2"
+msgid "These entitled jerks love to fight dirty."
+msgstr "Эти самоуверенные подонки любят грязные приемы."
+
+#, fuzzy
+msgctxt "ENEMY_DESC_SCHOOLBOY_ALT3"
+msgid "These entitled jerks love to fight dirty."
+msgstr "Эти самоуверенные подонки любят грязные приемы."
+
+#, fuzzy
+msgctxt "ENEMY_DESC_SCHOOLBOY_ALT4"
+msgid "These entitled jerks love to fight dirty."
+msgstr "Эти самоуверенные подонки любят грязные приемы."
+
+#, fuzzy
+msgctxt "ENEMY_DESC_SCHOOLBOY_TOUGH"
+msgid "Leader of the schoolboys and his own band. So cool."
+msgstr "Самый популярный мальчик в школе и его группа. Круто. "
+
+#, fuzzy
+msgctxt "ENEMY_DESC_SCHOOLBOY_NIGHTMARE"
+msgid "Once the prom king. Not really a contender for that title anymore."
+msgstr ""
+"В прошлом, король выпускного бала. Не то чтобы его сейчас выдвигали на эту "
+"должность. "
+
+#, fuzzy
+msgctxt "ENEMY_DESC_SCHOOLGIRL_ALT1"
+msgid "If you are not part of their clique, you are part of their problem."
+msgstr "Если вы не часть их клики, то вы часть их проблем."
+
+#, fuzzy
+msgctxt "ENEMY_DESC_SCHOOLGIRL_ALT2"
+msgid "If you are not part of their clique, you are part of their problem."
+msgstr "Если вы не часть их клики, то вы часть их проблем."
+
+#, fuzzy
+msgctxt "ENEMY_DESC_SCHOOLGIRL_ALT3"
+msgid "If you are not part of their clique, you are part of their problem."
+msgstr "Если вы не часть их клики, то вы часть их проблем."
+
+#, fuzzy
+msgctxt "ENEMY_DESC_SCHOOLGIRL_ALT4"
+msgid "If you are not part of their clique, you are part of their problem."
+msgstr "Если вы не часть их клики, то вы часть их проблем."
+
+#, fuzzy
+msgctxt "ENEMY_DESC_SCHOOLGIRL_TOUGH"
+msgid "The dominant female of the pack. She didn't get the part for her looks."
+msgstr "Главная женщина в стае. Ей не повезло с внешностью."
+
+#, fuzzy
+msgctxt "ENEMY_DESC_SCHOOLGIRL_NIGHTMARE"
+msgid "She tried a seance one night with her friends. It didn't end well."
+msgstr ""
+"Однажды ночью она попробовала провести с друзьями сеанс. Добром это не "
+"кончилось."
+
+#, fuzzy
+msgctxt "ENEMY_DESC_CYBORG_ALT1"
+msgid "Giant robots from the future disguised as giant robot looking humans."
+msgstr ""
+"Гигантские роботы из будущего, переодетые гигантскими роботообразными "
+"людьми."
+
+#, fuzzy
+msgctxt "ENEMY_DESC_CYBORG_ALT2"
+msgid "Giant robots from the future disguised as giant robot looking humans."
+msgstr ""
+"Гигантские роботы из будущего, переодетые гигантскими роботообразными "
+"людьми."
+
+#, fuzzy
+msgctxt "ENEMY_DESC_CYBORG_ALT3"
+msgid "Giant robots from the future disguised as giant robot looking humans."
+msgstr ""
+"Гигантские роботы из будущего, переодетые гигантскими роботообразными "
+"людьми."
+
+#, fuzzy
+msgctxt "ENEMY_DESC_CYBORG_ALT4"
+msgid "Giant robots from the future disguised as giant robot looking humans."
+msgstr ""
+"Гигантские роботы из будущего, переодетые гигантскими роботообразными "
+"людьми."
+
+#, fuzzy
+msgctxt "ENEMY_DESC_CYBORG_TOUGH"
+msgid "Modern ballistics feels like being hit by feathers to him."
+msgstr "Современные ракеты для него - как будто перышком пощекотали."
+
+#, fuzzy
+msgctxt "ENEMY_DESC_CYBORG_NIGHTMARE"
+msgid ""
+"When science was not enough, the cyborgs tried their metal hands at magic."
+msgstr ""
+"Когда им не хватало науки, киборги брали в  свои металлические руки магию."
+
+#, fuzzy
+msgctxt "ENEMY_DESC_YAKUZAMALE_ALT1"
+msgid ""
+"Sabuko’s army of martial artists are incredibly skilled with their fists."
+msgstr "Армия боевых искусств Сабуко очень искусно работает кулаками."
+
+#, fuzzy
+msgctxt "ENEMY_DESC_YAKUZAMALE_ALT2"
+msgid ""
+"Sabuko’s army of martial artists are incredibly skilled with their fists."
+msgstr "Армия боевых искусств Сабуко очень искусно работает кулаками."
+
+#, fuzzy
+msgctxt "ENEMY_DESC_YAKUZAMALE_ALT3"
+msgid ""
+"Sabuko’s army of martial artists are incredibly skilled with their fists."
+msgstr "Армия боевых искусств Сабуко очень искусно работает кулаками."
+
+#, fuzzy
+msgctxt "ENEMY_DESC_YAKUZAMALE_ALT4"
+msgid ""
+"Sabuko’s army of martial artists are incredibly skilled with their fists."
+msgstr "Армия боевых искусств Сабуко очень искусно работает кулаками."
+
+#, fuzzy
+msgctxt "ENEMY_DESC_YAKUZAMALE_TOUGH"
+msgid "Sabuko's very own left hand man. No one dares challenge his authority."
+msgstr "Левая рука Сабуко. Никто не дерзает оспаривать его авторитет."
+
+#, fuzzy
+msgctxt "ENEMY_DESC_YAKUZAMALE_NIGHTMARE"
+msgid "Possessed by an ancient oni and an insatiable desire for combat."
+msgstr "Одержим древним демоном Они и неутолимой жаждой битвы."
+
+#, fuzzy
+msgctxt "ENEMY_DESC_BADCOP_ALT1"
+msgid "Corrupt police that are certainly not sworn to protect you."
+msgstr "Продажная полиция, которая определенно не нанималась вас защищать."
+
+#, fuzzy
+msgctxt "ENEMY_DESC_BADCOP_ALT2"
+msgid "Corrupt police that are certainly not sworn to protect you."
+msgstr ""
+"Корруптированная полиция, которая определенно не нанималась вас защищать."
+
+#, fuzzy
+msgctxt "ENEMY_DESC_BADCOP_ALT3"
+msgid "Corrupt police that are certainly not sworn to protect you."
+msgstr ""
+"Корруптированная полиция, которая определенно не нанималась вас защищать."
+
+#, fuzzy
+msgctxt "ENEMY_DESC_BADCOP_ALT4"
+msgid "Corrupt police that are certainly not sworn to protect you."
+msgstr ""
+"Корруптированная полиция, которая определенно не нанималась вас защищать."
+
+#, fuzzy
+msgctxt "ENEMY_DESC_BADCOP_TOUGH"
+msgid "The chief of police is even more corrupted than the people paying him."
+msgstr "Глава полиции корруптирован даже больше, чем те, кто ему платит."
+
+#, fuzzy
+msgctxt "ENEMY_DESC_BADCOP_NIGHTMARE"
+msgid ""
+"Being killed in the line of duty was merely an inconvenience to this dirty "
+"cop."
+msgstr ""
+"Погибнуть при исполнении обязанностей было не больше, чем неудобством для "
+"этого грязного копа."
+
+#, fuzzy
+msgctxt "ENEMY_DESC_YAKUZAF_ALT1"
+msgid "Sabuko’s henchwomen are deadly with their knife throwing skills."
+msgstr "Приспешницы Сабуко искусны в смертельном метании ножа."
+
+#, fuzzy
+msgctxt "ENEMY_DESC_YAKUZAF_ALT2"
+msgid "Sabuko’s henchwomen are deadly with their knife throwing skills."
+msgstr "Приспешницы Сабуко искусны в смертельном метании ножа."
+
+#, fuzzy
+msgctxt "ENEMY_DESC_YAKUZAF_ALT3"
+msgid "Sabuko’s henchwomen are deadly with their knife throwing skills."
+msgstr "Приспешницы Сабуко искусны в смертельном метании ножа."
+
+#, fuzzy
+msgctxt "ENEMY_DESC_YAKUZAF_ALT4"
+msgid "Sabuko’s henchwomen are deadly with their knife throwing skills."
+msgstr "Приспешницы Сабуко искусны в смертельном метании ножа."
+
+#, fuzzy
+msgctxt "ENEMY_DESC_YAKUZAF_TOUGH"
+msgid ""
+"Sabuko’s right hand lady. Her knives can slice teenage girls like cafeteria "
+"butter."
+msgstr "Правая рука Сабуко. Ее ножи могут порезать школьниц как масло."
+
+#, fuzzy
+msgctxt "ENEMY_DESC_YAKUZAF_NIGHTMARE"
+msgid "Sabuko’s main assassin. She does this job for free."
+msgstr "Приспешницы Сабуко искусны в смертельном метании ножа."
+
+#, fuzzy
+msgctxt "ENEMY_DESC_TRASH"
+msgid "Once he gets his trusty hammer going, nothing can stop him."
+msgstr ""
+"Как только он достает свой верный молот, ничто не может его остановить."
+
+#, fuzzy
+msgctxt "ENEMY_DESC_TRASH_TOUGH"
+msgid ""
+"Trash's brother that used to bully him. Just think how he feels about you."
+msgstr ""
+"Брат Мусора, который когда-то его обижал. Теперь представьте себе, что он "
+"думает про вас."
+
+#, fuzzy
+msgctxt "ENEMY_DESC_TRASH_NIGHTMARE"
+msgid "His mother warned him not to drink Turbo Juice excessively."
+msgstr "Мама предупреждала его не злоупотреблять Турбо-Соком."
+
+#, fuzzy
+msgctxt "ENEMY_DESC_WAVER"
+msgid "A bizarre gambler with a penchant for taking high risks."
+msgstr "Эксцентричный игрок, склонен рисковать по-крупному."
+
+#, fuzzy
+msgctxt "ENEMY_DESC_WAVER_TOUGH"
+msgid "Waver's cousin from the other side of the tracks."
+msgstr "Кузен Вейвера с той стороны путей."
+
+#, fuzzy
+msgctxt "ENEMY_DESC_WAVER_NIGHTMARE"
+msgid "A cursed puppet with a penchant for mayhem."
+msgstr "Проклятая марионетка со склонностью к нанесению увечий."
+
+#, fuzzy
+msgctxt "ENEMY_DESC_LINDA"
+msgid "A tough lady who prefers to punish her enemies with her whip."
+msgstr "Жесткая дама, предпочитает наказывать врагов кнутом."
+
+#, fuzzy
+msgctxt "ENEMY_DESC_LINDA_TOUGH"
+msgid ""
+"Linda's twin sister. She was technically born first, so she's in charge."
+msgstr ""
+"Сестра-близнец Линды. Формально она родилась первой, так что она отвечает за"
+" все."
+
+#, fuzzy
+msgctxt "ENEMY_DESC_LINDA_NIGHTMARE"
+msgid ""
+"An evil doppleganger who won't stop until she dominates this entire city."
+msgstr "Злой двойник, не остановится, пока не победит весь город."
+
+msgctxt "LBL_CURRENT_LANGUAGE"
+msgid "English"
+msgstr "русский"
+
+msgctxt "LBL_ONE_PLAYER"
+msgid "1 Player"
+msgstr "1 игрок"
+
+msgctxt "LBL_TWO_PLAYERS"
+msgid "2 Players"
+msgstr "2 игрока"
+
+msgctxt "LBL_CONFIRM_QUIT_GAME"
+msgid "Quit Game?"
+msgstr "Выйти из игры?"
+
+#, fuzzy
+msgctxt "LBL_CONFIRM_QUIT_GAME_INFO"
+msgid "Return to main menu."
+msgstr "Вернуться в главное меню"
+
+msgctxt "LBL_BUS_STOP"
+msgid "Bus Stop"
+msgstr "Остановка"
+
+#, fuzzy
+msgctxt "LBL_ANIM_CLEANUP_TITLE"
+msgid "Animation Cleanup"
+msgstr "Доработка анимации"
+
+#, fuzzy
+msgctxt "LBL_CINEMATIC_SEQUENCES_TITLE"
+msgid "Cinematic Sequences<br>by Studio Yotta"
+msgstr "Кинематографические последовательности: Studio Yotta"
+
+#, fuzzy
+msgctxt "LBL_ART_DIRECTOR_TITLE"
+msgid "Art Director"
+msgstr "Арт-директор"
+
+#, fuzzy
+msgctxt "LBL_CLEANUP_LEAD_TITLE"
+msgid "Cleanup Lead"
+msgstr "Руководитель доработки анимации"
+
+#, fuzzy
+msgctxt "LBL_ADDITIONAL_ART_TITLE"
+msgid "Additional Art Production"
+msgstr "Производство дополнительной графики"
+
+#, fuzzy
+msgctxt "LBL_ANIMATION_TITLE"
+msgid "Animation"
+msgstr "Анимация"
+
+#, fuzzy
+msgctxt "LBL_CLEANUP_TITLE"
+msgid "Cleanup"
+msgstr "Доработка анимации"
+
+#, fuzzy
+msgctxt "LBL_BACKGROUNDS_TITLE"
+msgid "Backgrounds"
+msgstr "Окружение"
+
+#, fuzzy
+msgctxt "LBL_COMPOSITING_TITLE"
+msgid "Compositing"
+msgstr "Эффекты"
+
+#, fuzzy
+msgctxt "LBL_VO_RECORDING_FACILITIES_TITLE"
+msgid "VO Recording Facilities"
+msgstr "Студия звукозаписи"
+
+#, fuzzy
+msgctxt "LBL_AUDIO_ENGINEERS_TITLE"
+msgid "Audio Engineers"
+msgstr "Инженеры по звуку"
+
+#, fuzzy
+msgctxt "LBL_COMMUNITY_MANAGER_TITLE"
+msgid "Community Manager & PR"
+msgstr "Менеджер сообщества и PR"
+
+#, fuzzy
+msgctxt "LBL_RUMBLE"
+msgid "Vibration"
+msgstr "вибрация"
+
+#, fuzzy
+msgctxt "LBL_HD_RUMBLE"
+msgid "HD Rumble"
+msgstr "функция вибрации HD"
+
+#, fuzzy
+msgctxt "LBL_CONFIRM_APPLY"
+msgid "Apply?"
+msgstr "Применить"
+
+#, fuzzy
+msgctxt "LBL_RESOLUTION"
+msgid "Resolution"
+msgstr "разрешение"
+
+#, fuzzy
+msgctxt "LBL_WINDOWED"
+msgid "Windowed"
+msgstr "Оконный"
+
+msgctxt "LBL_START"
+msgid "Start"
+msgstr "Старт"
+
+#, fuzzy
+msgctxt "LBL_SAVING"
+msgid "Saving"
+msgstr "Сохранение"
+
+#, fuzzy
+msgctxt "CORRUPTED_DATA"
+msgid "Corrupted save data has been found and will be deleted"
+msgstr "Поврежденные данные сохранения были найдены и будут удалены"
+
+#, fuzzy
+msgctxt "LBL_PROGRAMMING_MANAGER_TITLE"
+msgid "Programming Manager"
+msgstr "Менеджер по программированию"
+
+#, fuzzy
+msgctxt "LBL_LEAD_AUDIO_DESIGNER_TITLE"
+msgid "Lead Audio Designer"
+msgstr "Ведущий дизайнер аудио"
+
+#, fuzzy
+msgctxt "LBL_AUDIO_DESIGNER_TITLE"
+msgid "Audio Designer"
+msgstr "Аудио дизайнер"
+
+#, fuzzy
+msgctxt "LBL_ADDITIONAL_ART_PRODUCTION_TITLE"
+msgid "Additional Art Production"
+msgstr "Дополнительное художественное производство"
+
+#, fuzzy
+msgctxt "LBL_PLAYTESTER_TITLE"
+msgid "Playtesters"
+msgstr "Играть в тест"
+
+#, fuzzy
+msgctxt "LBL_HEAD_OF_PUBLISHING_TITLE"
+msgid "Head of Publishing"
+msgstr "Руководитель издательства"
+
+#, fuzzy
+msgctxt "LBL_WF_PUBLISHED_BY_TITLE"
+msgid "Published by WayForward"
+msgstr "Опубликовано WayForward"
+
+#, fuzzy
+msgctxt "LBL_PUBLISHING_AP_PRODUCER_TITLE"
+msgid "Publishing Associate Producer"
+msgstr "Издатель Ассоциированный продюсер"
+
+#, fuzzy
+msgctxt "LBL_MARKETING_ASSISTANT_TITLE"
+msgid "Marketing Assistant"
+msgstr "Ассистент по маркетингу"
+
+#, fuzzy
+msgctxt "LBL_CUSTOMER_SUPPORT_TITLE"
+msgid "Customer Support"
+msgstr "Служба поддержки"
+
+#, fuzzy
+msgctxt "LBL_FMOD_TITLE"
+msgid "Made with FMOD Studio<br>by Firelight Technologies Pty Ltd."
+msgstr "Made with FMOD Studio<br>by Firelight Technologies Pty Ltd."
+
+#, fuzzy
+msgctxt "LBL_PUBLISHED_BY_TITLE"
+msgid "Published by<br> ARC System Works"
+msgstr "Опубликовано компанией ARC System Works"
+
+#, fuzzy
+msgctxt "LBL_PRODUCER_TITLE_ARC"
+msgid "Producer"
+msgstr "Режиссер"
+
+#, fuzzy
+msgctxt "LBL_DIRECTOR_TITLE_ARC"
+msgid "Director"
+msgstr "Директор"
+
+#, fuzzy
+msgctxt "LBL_ASSISTANT_DIRECTOR_TITLE_ARC"
+msgid "Assistant Director"
+msgstr "Ассистент директора"
+
+#, fuzzy
+msgctxt "LBL_LOCALIZATION_TITLE"
+msgid "Localization"
+msgstr "Локализация"
+
+#, fuzzy
+msgctxt "LBL_PROMOTION_TITLE"
+msgid "Promotion"
+msgstr "Продвижение"
+
+#, fuzzy
+msgctxt "LBL_SUPPORT_TITLE"
+msgid "Support"
+msgstr "Поддержка"
+
+#, fuzzy
+msgctxt "LBL_CHIEF_PRODUCER_TITLE"
+msgid "Chief Producer"
+msgstr "Главный продюсер"
+
+#, fuzzy
+msgctxt "LBL_EXECUTIVE_PRODUCER_TITLE_ARC"
+msgid "Executive Producer"
+msgstr "Исполнительный продюсер"
+
+#, fuzzy
+msgctxt "LBL_ARC_ASIA_BRANCH_TITLE"
+msgid "ARC SYSTEM WORKS Asia branch"
+msgstr "ARC SYSTEM WORKS, филиал в Азии"
+
+msgctxt "LBL_H2_INTERACTIVE"
+msgid "H2 INTERACTIVE Co., Ltd."
+msgstr "H2 INTERACTIVE Co., Ltd."
+
+#, fuzzy
+msgctxt "LBL_ASIA_MARKETING_AND_BUSINESS"
+msgid "Asia Marketing and Business"
+msgstr "Азия Маркетинг и Бизнес"
+
+#, fuzzy
+msgctxt "LBL_ASIA_PACKAGE_DESIGN"
+msgid "Asia Package Design"
+msgstr "Азия Дизайн упаковки"
+
+msgctxt "LBL_KEYBOARD_ACTION"
+msgid ""
+"Up\n"
+"Down\n"
+"Left\n"
+"Right\n"
+"Pause\n"
+"Quick Attack\n"
+"Heavy Attack\n"
+"Jump\n"
+"Special\n"
+"Block\n"
+"Recruit"
+msgstr ""
+"Вверх\n"
+"Вниз\n"
+"Влево\n"
+"Вправо\n"
+"Пауза\n"
+"Быстрый удар\n"
+"Сильный удар\n"
+"Прыжок\n"
+"Особое\n"
+"Блок\n"
+"Рекрут"
+
+msgctxt "LBL_KEYBOARD_INPUT_ONE"
+msgid ""
+"W\n"
+"S\n"
+"D\n"
+"A\n"
+"Space\n"
+"G\n"
+"Y\n"
+"H\n"
+"U\n"
+"I\n"
+"T"
+msgstr ""
+"W\n"
+"S\n"
+"D\n"
+"A\n"
+"Пробел\n"
+"G\n"
+"Y\n"
+"H\n"
+"U\n"
+"I\n"
+"T"
+
+msgctxt "LBL_KEYBOARD_INPUT_TWO"
+msgid ""
+"Up\n"
+"Down\n"
+"Left\n"
+"Right\n"
+"Shift\n"
+"1\n"
+"2\n"
+"0\n"
+"3\n"
+"Enter\n"
+"+"
+msgstr ""
+"Вверх\n"
+"Вниз\n"
+"Влево\n"
+"Вправо\n"
+"Shift\n"
+"1\n"
+"2\n"
+"0\n"
+"3\n"
+"Enter\n"
+"+"
+
+#, fuzzy
+msgctxt "LBL_OPTION_KEYBOARD"
+msgid "Keyboard Mapping"
+msgstr "Раскладка клавиатуры"
+
+#, fuzzy
+msgctxt "LBL_VIEW_KEYBOARD"
+msgid "View Keyboard Mapping"
+msgstr "Посмотреть раскладку клавиатуры"
+
+#, fuzzy
+msgctxt "LBL_KEYBOARD_TITLE"
+msgid "Keyboard Mapping"
+msgstr "Раскладка клавиатуры"
+
+msgctxt "LBL_PLAYER_ONE"
+msgid "Player 1"
+msgstr "Игрок 1"
+
+msgctxt "LBL_PLAYER_TWO"
+msgid "Player 2"
+msgstr "Игрок 2"
+
+#, fuzzy
+msgctxt "LBL_LOCALIZATION_AND_TRANSLATION"
+msgid "Localization & Translation by"
+msgstr "Локализация и перевод"
+
+#, fuzzy
+msgctxt "LBL_LOCALIZATION_PROJECT_MANAGER"
+msgid "Localization Project Manager"
+msgstr "Руководитель проекта локализации"
+
+#, fuzzy
+msgctxt "LBL_LOCALIZATION_COORINATOR"
+msgid "Localization Coordinator"
+msgstr "Координатор локализации"

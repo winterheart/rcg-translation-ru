@@ -1,0 +1,183 @@
+#
+# Azamat H. Hackimov <azamat.hackimov@gmail.com>, 2020.
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: you@example.com\n"
+"POT-Creation-Date: 2020-01-24 03:12:27.817645\n"
+"PO-Revision-Date: 2020-01-25 00:49+0300\n"
+"Last-Translator: Azamat H. Hackimov <azamat.hackimov@gmail.com>\n"
+"Language-Team: Russian <>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ru\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<"
+"=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: Lokalize 19.08.3\n"
+
+#, fuzzy
+msgctxt "STORE_NAME_MERLINS"
+msgid "Merlin's Mystery Shop"
+msgstr "Магазин"
+
+#, fuzzy
+msgctxt "STORE_NAME_TONYS_TOILETRIES"
+msgid "Tony's Toiletries"
+msgstr "Туалетные Товары Тони"
+
+#, fuzzy
+msgctxt "STORE_NAME_WINDING_WAY"
+msgid "Winding Way"
+msgstr "Петляющий Путь"
+
+#, fuzzy
+msgctxt "STORE_TYPE_BOOK"
+msgid "Book"
+msgstr "Книга"
+
+#, fuzzy
+msgctxt "STORE_TYPE_ITEM"
+msgid "Item"
+msgstr "Предмет"
+
+#, fuzzy
+msgctxt "STORE_TYPE_DOJO"
+msgid "Dojo"
+msgstr "Додзё"
+
+#, fuzzy
+msgctxt "STORE_BUY_IT"
+msgid "Buy it?"
+msgstr "Купить?"
+
+#, fuzzy
+msgctxt "STORE_USE_NOW"
+msgid "Use now?"
+msgstr "Использовать сейчас?"
+
+#, fuzzy
+msgctxt "STORE_NOT_ENOUGH"
+msgid "Not Enough!"
+msgstr "Недостаточно!"
+
+#, fuzzy
+msgctxt "STORE_NO_ROOM"
+msgid "No Room!"
+msgstr "Нет места!"
+
+#, fuzzy
+msgctxt "STORE_UNLOCKED_AT_LEVEL"
+msgid "Unlocked at Level"
+msgstr "Разблокирован на уровне"
+
+#, fuzzy
+msgctxt "STORE_ALREADY_OWN"
+msgid "Already Owned!"
+msgstr "Уже куплено!"
+
+#, fuzzy
+msgctxt "STORE_AMYS_CANDY"
+msgid "Amy's Candy"
+msgstr "Конфеты Иветты"
+
+#, fuzzy
+msgctxt "STORE_ATTIRE_FIRE"
+msgid "Attire Fire"
+msgstr "Взрыв на макаронной фабрике"
+
+#, fuzzy
+msgctxt "STORE_BOOK_BISTRO"
+msgid "Book Bistro"
+msgstr "Книжное кафе"
+
+#, fuzzy
+msgctxt "STORE_CART_MART"
+msgid "Cart Mart"
+msgstr "Стекляшка"
+
+#, fuzzy
+msgctxt "STORE_CHIC_BUFFET"
+msgid "Chic Buffet"
+msgstr "Шик-буфет"
+
+msgctxt "STORE_CREAM_DREAM"
+msgid "Cream Dream"
+msgstr "Мороженый рай"
+
+#, fuzzy
+msgctxt "STORE_DISCOUNT_SUSHI"
+msgid "Discount Sushi"
+msgstr "Уцененные суши"
+
+msgctxt "STORE_DOJO"
+msgid "Dojo"
+msgstr "Додзё"
+
+msgctxt "STORE_FASTEEZ"
+msgid "FASTEEZ"
+msgstr "FASTEEZ"
+
+#, fuzzy
+msgctxt "STORE_BOY_TOYS"
+msgid "Boy Toys"
+msgstr "Игрушки для мальчиков"
+
+#, fuzzy
+msgctxt "STORE_LEGAL_DRUGS"
+msgid "Legal Drugs"
+msgstr "Легальные наркотики"
+
+#, fuzzy
+msgctxt "STORE_LUCKY_PENNE"
+msgid "Lucky Penne"
+msgstr "Рожок на счастье"
+
+#, fuzzy
+msgctxt "STORE_MERLINS_MYSTERY"
+msgid "Merlin's Mystery"
+msgstr "Мерлинов морок"
+
+msgctxt "STORE_MERVS_BURGER"
+msgid "Merv's Burger"
+msgstr "Бургеры Мёрва"
+
+#, fuzzy
+msgctxt "STORE_PAWN_SHOP"
+msgid "Pawn Shop"
+msgstr "Ломбард"
+
+#, fuzzy
+msgctxt "STORE_PAY_LOTS"
+msgid "Pay Lots"
+msgstr "Платная парковка"
+
+#, fuzzy
+msgctxt "STORE_PLAID_THE_IMPALER"
+msgid "Plaid the Impaler"
+msgstr "Клетчатая пика"
+
+#, fuzzy
+msgctxt "STORE_SWAGGAGE"
+msgid "Swaggage"
+msgstr "Модный мешок мародера"
+
+#, fuzzy
+msgctxt "STORE_TEA_PARTY"
+msgid "Tea Party"
+msgstr "Чашечка Чая"
+
+#, fuzzy
+msgctxt "STORE_VEST_FRIENDS"
+msgid "Vest Friends"
+msgstr "Задушевные жилетки"
+
+#, fuzzy
+msgctxt "STORE_WARDROBE"
+msgid "WarDrobe"
+msgstr "Комод Пандоры"
+
+#, fuzzy
+msgctxt "STORE_POPS_SAUNA"
+msgid "Pop's Sauna"
+msgstr "Сауна \"У папы\""

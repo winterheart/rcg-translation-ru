@@ -1,0 +1,187 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: you@example.com\n"
+"POT-Creation-Date: 2020-01-24 03:12:27.813746\n"
+"PO-Revision-Date: 2020-01-24 03:12:27.813753\n"
+"Last-Translator: you <you@example.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#, fuzzy
+msgctxt "QUESTITEM_NAME_BEANS"
+msgid "Beans"
+msgstr "Бобы"
+
+#, fuzzy
+msgctxt "QUESTITEM_NAME_GHOST_PEPPERS"
+msgid "Ghost Peppers"
+msgstr "Жгучий перец"
+
+#, fuzzy
+msgctxt "QUESTITEM_NAME_TOMATOES"
+msgid "Tomatoes"
+msgstr "Помидоры"
+
+#, fuzzy
+msgctxt "QUESTITEM_NAME_SECURITY_GUARDS_KEYS"
+msgid "Security Guard's Keys"
+msgstr "Ключи охранника"
+
+#, fuzzy
+msgctxt "QUESTITEM_NAME_GOLDEN_CAT"
+msgid "Fake Gold Cat"
+msgstr "Золотой кот"
+
+#, fuzzy
+msgctxt "QUESTITEM_NAME_CRANE_KEYS"
+msgid "Crane Keys"
+msgstr "Ключи от крана"
+
+#, fuzzy
+msgctxt "QUESTITEM_NAME_NOIZE_FAVORITE_FOOD"
+msgid "NOIZE Favorite Food"
+msgstr "Любимая еда NOIZE"
+
+#, fuzzy
+msgctxt "QUESTITEM_NAME_NOIZE_HOMETOWN"
+msgid "NOIZE Hometown"
+msgstr "Родной город NOIZE"
+
+#, fuzzy
+msgctxt "QUESTITEM_NAME_NOIZE_DOG"
+msgid "NOIZE Dog"
+msgstr "Собачка NOIZE"
+
+#, fuzzy
+msgctxt "QUESTITEM_NAME_VIP_TICKETS"
+msgid "NOIZE VIP Tickets"
+msgstr "VIP-пропуска на концерт NOIZE"
+
+#, fuzzy
+msgctxt "QUESTITEM_NAME_EXPLOSIVES"
+msgid "Explosives"
+msgstr "Взрывчатка"
+
+#, fuzzy
+msgctxt "QUESTITEM_NAME_DOUBLE_MERV_BURGER"
+msgid "Double Merv Burger"
+msgstr "Двойной Небургер"
+
+#, fuzzy
+msgctxt "QUESTITEM_NAME_MAYOR_STATUE"
+msgid "Mayor Statue"
+msgstr "Статуя мэра"
+
+#, fuzzy
+msgctxt "QUESTITEM_NAME_FANCY_CAR"
+msgid "Fancy Car"
+msgstr "Крутая машина"
+
+#, fuzzy
+msgctxt "QUESTITEM_NAME_ONE_HIT_TOMMY"
+msgid "One-Hit Tommy"
+msgstr "Томми-Один-Удар"
+
+#, fuzzy
+msgctxt "QUESTITEM_NAME_SNITCH"
+msgid "Snitch"
+msgstr "Стукач"
+
+#, fuzzy
+msgctxt "QUESTITEM_NAME_SCHOOL_KEY"
+msgid "School Key"
+msgstr "Ключ от школы"
+
+#, fuzzy
+msgctxt "QUESTITEM_DESC_BEANS"
+msgid "Some Beans"
+msgstr "Немного бобов"
+
+#, fuzzy
+msgctxt "QUESTITEM_DESC_GHOST_PEPPERS"
+msgid "Hot Peppers"
+msgstr "Острый перец"
+
+#, fuzzy
+msgctxt "QUESTITEM_DESC_TOMATOES"
+msgid "Tomatoe Tomato"
+msgstr "Помидорный помидор"
+
+#, fuzzy
+msgctxt "QUESTITEM_DESC_SECURITY_GUARDS_KEYS"
+msgid "Mall Keys"
+msgstr "Ключи от магазина"
+
+#, fuzzy
+msgctxt "QUESTITEM_DESC_GOLDEN_CAT"
+msgid "Fake Gold Cat"
+msgstr "\"Золотой\" кот"
+
+#, fuzzy
+msgctxt "QUESTITEM_DESC_CRANE_KEYS"
+msgid "Crane Keys"
+msgstr "Ключи от крана"
+
+#, fuzzy
+msgctxt "QUESTITEM_DESC_NOIZE_FAVORITE_FOOD"
+msgid "NOIZE's favorite food"
+msgstr "Любимая еда NOIZE"
+
+#, fuzzy
+msgctxt "QUESTITEM_DESC_NOIZE_HOMETOWN"
+msgid "NOIZE's hometown"
+msgstr "Родной город NOIZE"
+
+#, fuzzy
+msgctxt "QUESTITEM_DESC_NOIZE_DOG"
+msgid "NOIZE's dog, Dawg"
+msgstr "Собачка NOIZE, Собака"
+
+#, fuzzy
+msgctxt "QUESTITEM_DESC_VIP_TICKETS"
+msgid "VIP Tickets baby!"
+msgstr "VIP-пропуска, детка!"
+
+#, fuzzy
+msgctxt "QUESTITEM_DESC_EXPLOSIVES"
+msgid "This goes boom!"
+msgstr "Большой бум!"
+
+#, fuzzy
+msgctxt "QUESTITEM_DESC_DOUBLE_MERV_BURGER"
+msgid "Big burg."
+msgstr "Большой бургер."
+
+#, fuzzy
+msgctxt "QUESTITEM_DESC_MAYOR_STATUE"
+msgid "State-u"
+msgstr "Статная статуя"
+
+#, fuzzy
+msgctxt "QUESTITEM_DESC_FANCY_CAR"
+msgid "It's a Tesla"
+msgstr "Это \"Тесла\""
+
+#, fuzzy
+msgctxt "QUESTITEM_DESC_ONE_HIT_TOMMY"
+msgid "One Hit Tim Tom Tommy"
+msgstr "Тим-Том-Томми \"Один удар\""
+
+#, fuzzy
+msgctxt "QUESTITEM_DESC_SNITCH"
+msgid "That's a Snitch"
+msgstr "Вот Стукач"
+
+#, fuzzy
+msgctxt "QUESTITEM_NAME_GET_OUT"
+msgid "Get Out"
+msgstr "Выходи"
+
+#, fuzzy
+msgctxt "QUESTITEM_DESC_GET_OUT"
+msgid "Get Out"
+msgstr "Выходи"
