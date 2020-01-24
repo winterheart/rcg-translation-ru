@@ -3,8 +3,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
 "Report-Msgid-Bugs-To: you@example.com\n"
-"POT-Creation-Date: 2020-01-24 03:04:17.662835\n"
-"PO-Revision-Date: 2020-01-24 03:04:17.662842\n"
+"POT-Creation-Date: 2020-01-25 01:08:38.962041\n"
+"PO-Revision-Date: 2020-01-25 01:08:38.962049\n"
 "Last-Translator: you <you@example.com>\n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
@@ -147,14 +147,6 @@ msgctxt "MOVE_NAME_BRUCE_BACKHAND"
 msgid "Bruce Backhand"
 msgstr ""
 
-msgctxt "MOVE_NAME_GROUND_STOMP"
-msgid "Ground Stomp"
-msgstr ""
-
-msgctxt "MOVE_NAME_HUMAN_WEAPON"
-msgid "Human Weapon"
-msgstr ""
-
 msgctxt "MOVE_NAME_NUTCRACKER"
 msgid "Nutcracker"
 msgstr ""
@@ -185,10 +177,6 @@ msgstr ""
 
 msgctxt "MOVE_NAME_BACKPACK_SWING"
 msgid "Backpack Swing"
-msgstr ""
-
-msgctxt "MOVE_NAME_GUT_PUNCH"
-msgid "Gut Punch"
 msgstr ""
 
 msgctxt "MOVE_NAME_ROLLING_PUNCH"
@@ -255,20 +243,8 @@ msgctxt "MOVE_NAME_SPLIT_KICK"
 msgid "Split Kick"
 msgstr ""
 
-msgctxt "MOVE_NAME_BACK_ELBOW"
-msgid "Back Elbow"
-msgstr ""
-
 msgctxt "MOVE_NAME_MOUNT_PUNCH_KUNIO"
 msgid "Ground Punch"
-msgstr ""
-
-msgctxt "MOVE_NAME_HUMAN_WEAPON"
-msgid "Human Weapon"
-msgstr ""
-
-msgctxt "MOVE_NAME_UPPERCUT"
-msgid "Uppercut"
 msgstr ""
 
 msgctxt "MOVE_NAME_BICYCLE_KICK"
@@ -335,24 +311,12 @@ msgctxt "MOVE_NAME_AIR_PAVEMENT_SMOOCH"
 msgid "Air Pavement Smooch"
 msgstr ""
 
-msgctxt "MOVE_NAME_JUMP_KICK"
-msgid "Jump Kick"
-msgstr ""
-
 msgctxt "MOVE_NAME_JUMP_180_KICK"
 msgid "Jump 180 Kick"
 msgstr ""
 
 msgctxt "MOVE_NAME_JUMP_HURRICANE_KICK"
 msgid "Jump Hurricane Kick"
-msgstr ""
-
-msgctxt "MOVE_NAME_LEFT_PUNCH"
-msgid "Left Punch"
-msgstr ""
-
-msgctxt "MOVE_NAME_RIGHT_PUNCH"
-msgid "Right Punch"
 msgstr ""
 
 msgctxt "MOVE_NAME_HARDER_PUNCH"
@@ -363,20 +327,12 @@ msgctxt "MOVE_NAME_SWEEP_KICK"
 msgid "Sweep Kick"
 msgstr ""
 
-msgctxt "MOVE_NAME_CRESCENT_KICK"
-msgid "Crescent Kick"
-msgstr ""
-
 msgctxt "MOVE_NAME_COMBING_HAIR"
 msgid "Combing Hair"
 msgstr ""
 
 msgctxt "MOVE_NAME_MOUNT_PUNCH_RIKI"
 msgid "Ground Punch"
-msgstr ""
-
-msgctxt "MOVE_NAME_HUMAN_WEAPON"
-msgid "Human Weapon"
 msgstr ""
 
 msgctxt "MOVE_NAME_CHEAP_SHOT"
@@ -407,10 +363,6 @@ msgctxt "MOVE_NAME_HALF_MOON_KICK"
 msgid "Half Moon Kick"
 msgstr ""
 
-msgctxt "MOVE_NAME_STONE_HANDS"
-msgid "Stone Hands"
-msgstr ""
-
 msgctxt "MOVE_NAME_HIGH_ELBOW"
 msgid "High Elbow"
 msgstr ""
@@ -421,14 +373,6 @@ msgstr ""
 
 msgctxt "MOVE_NAME_ACRO_FLIP"
 msgid "Acro Flip"
-msgstr ""
-
-msgctxt "MOVE_NAME_ELBOW_SMASH"
-msgid "Elbow Smash"
-msgstr ""
-
-msgctxt "MOVE_NAME_SHOULDER_THROW"
-msgid "Shoulder Throw"
 msgstr ""
 
 msgctxt "MOVE_NAME_TABLE_FLIP"
@@ -445,10 +389,6 @@ msgstr ""
 
 msgctxt "MOVE_NAME_PILEDRIVER"
 msgid "Piledriver"
-msgstr ""
-
-msgctxt "MOVE_NAME_JUMP_KICK"
-msgid "Jump Kick"
 msgstr ""
 
 msgctxt "MOVE_NAME_FATAL_STEPS"
