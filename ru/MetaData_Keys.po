@@ -1,356 +1,293 @@
 #
+# Azamat H. Hackimov <azamat.hackimov@gmail.com>, 2020.
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
 "Report-Msgid-Bugs-To: you@example.com\n"
 "POT-Creation-Date: 2020-01-25 01:08:39.204313\n"
-"PO-Revision-Date: 2020-01-24 03:12:27.872552\n"
-"Last-Translator: you <you@example.com>\n"
-"Language-Team: \n"
-"Language: \n"
+"PO-Revision-Date: 2020-01-27 02:39+0300\n"
+"Last-Translator: Azamat H. Hackimov <azamat.hackimov@gmail.com>\n"
+"Language-Team: Russian <>\n"
+"Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%"
+"10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: Lokalize 19.08.3\n"
 
-#, fuzzy
 msgctxt "ACHIEVEMENT_RIVER_CITY_HERO_DISPLAY"
 msgid "River City Hero"
 msgstr "Герой Ривер-сити"
 
-#, fuzzy
 msgctxt "ACHIEVEMENT_YOUR_LESSONS_ARE_BORING_DISPLAY"
 msgid "Your lessons are boring!"
-msgstr "Какие скучные уроки!"
+msgstr "Ваши уроки скучные!"
 
-#, fuzzy
 msgctxt "ACHIEVEMENT_KILLED_BY_MATH_DISPLAY"
 msgid "Killed by Math"
-msgstr "Убиты математикой"
+msgstr "Убита математикой"
 
-#, fuzzy
 msgctxt "ACHIEVEMENT_SHOP_UNTIL_THEY_DROP_DISPLAY"
 msgid "Shop until they drop?"
-msgstr "Шопиться до упаду?"
+msgstr "Шопимся до упаду?"
 
-#, fuzzy
 msgctxt "ACHIEVEMENT_BONA_FIDE_BARGAIN_DISPLAY"
 msgid "Bona fide bargain"
-msgstr "Добросовестная сделка"
+msgstr "Сделка Bona Fides"
 
-#, fuzzy
 msgctxt "ACHIEVEMENT_MASTER_OF_UNLOCKING_DISPLAY"
 msgid "Master of Unlocking"
-msgstr "Мастер разблокировки"
+msgstr "Мастер открывания замков"
 
-#, fuzzy
 msgctxt "ACHIEVEMENT_AN_EXPLOSIVE_ENTRANCE_DISPLAY"
 msgid "An Explosive Entrance"
-msgstr "Взрывной вход"
+msgstr "Взрывное появление"
 
-#, fuzzy
 msgctxt "ACHIEVEMENT_FULL_SERVICE_DISPLAY"
 msgid "Full Service"
-msgstr "Полный сервис"
+msgstr "Полное обслуживание"
 
-#, fuzzy
 msgctxt "ACHIEVEMENT_RIVER_CITY_RANSOM_DISPLAY"
 msgid "River City Ransom"
-msgstr "Выкуп в Ривер-сити"
+msgstr "River City Ransom"
 
-#, fuzzy
 msgctxt "ACHIEVEMENT_WEAPON_HANDLER_DISPLAY"
 msgid "Weapons Handler"
-msgstr "Хранитель оружия"
+msgstr "Оруженосец"
 
-#, fuzzy
 msgctxt "ACHIEVEMENT_CARPE_DIEM_DISPLAY"
 msgid "Carpe diem"
-msgstr "Лови момент"
+msgstr "Carpe diem"
 
-#, fuzzy
 msgctxt "ACHIEVEMENT_YOURE_OUT_DISPLAY"
 msgid "You're out!"
-msgstr "Ты вышел!"
+msgstr "Ты выбит!"
 
-#, fuzzy
 msgctxt "ACHIEVEMENT_BACK_AT_ME_DISPLAY"
 msgid "Back at me!"
-msgstr "Опять ты!"
+msgstr "Назад ко мне!"
 
-#, fuzzy
 msgctxt "ACHIEVEMENT_BEST_FRIENDS_FOR_LIFE_DISPLAY"
 msgid "Best Friends For Life"
 msgstr "Лучшие друзья навсегда"
 
-#, fuzzy
 msgctxt "ACHIEVEMENT_FRIENDLY_BEATDOWN_DISPLAY"
 msgid "Friendly Beatdown"
-msgstr "Дружеское избиение"
+msgstr "Дружеская потасовка"
 
-#, fuzzy
 msgctxt "ACHIEVEMENT_PERFECT_PARRY_DISPLAY"
 msgid "Perfect Parry"
-msgstr "Прекрасное парирование"
+msgstr "Идеальное парирование"
 
-#, fuzzy
 msgctxt "ACHIEVEMENT_STYLISH_DISPLAY"
 msgid "Stylish!"
 msgstr "Стильно!"
 
-#, fuzzy
 msgctxt "ACHIEVEMENT_POWER_UP_DISPLAY"
 msgid "Power Up"
-msgstr "Включайся"
+msgstr "На полную"
 
-#, fuzzy
 msgctxt "ACHIEVEMENT_HELP_AN_OLD_PAL_DISPLAY"
 msgid "Help an Old Pal?"
 msgstr "Поможешь старому приятелю?"
 
-#, fuzzy
 msgctxt "ACHIEVEMENT_SMASHED_STATUES_DISPLAY"
 msgid "Smashed Statues"
-msgstr "Разбитые статуи"
+msgstr "Разбитые бюсты"
 
-#, fuzzy
 msgctxt "ACHIEVEMENT_REAL_WORKOUT_DISPLAY"
 msgid "A Real Workout"
-msgstr "Неплохая тренировка"
+msgstr "Тяжёлая выдалась тренировка"
 
-#, fuzzy
 msgctxt "ACHIEVEMENT_DEFEATING_THE_DARK_ARTS_DISPLAY"
 msgid "Defeating the Dark Arts"
-msgstr "Побеждаем Темные Искусства"
+msgstr "Побеждая тёмную магию"
 
-#, fuzzy
 msgctxt "ACHIEVEMENT_FASHION_BEATDOWN_DISPLAY"
 msgid "Fashionable Beatdown"
-msgstr "Избиение по последнему слову моды"
+msgstr "Стильное избиение"
 
-#, fuzzy
 msgctxt "ACHIEVEMENT_A_BYE_BYE_DISPLAY"
 msgid "A Bye Bye"
 msgstr "Пока-пока"
 
-#, fuzzy
 msgctxt "ACHIEVEMENT_SO_METAL_DISPLAY"
 msgid "So Metal"
-msgstr "Так круто"
+msgstr "Просто Хардкор"
 
-#, fuzzy
 msgctxt "ACHIEVEMENT_LIKE_FATHER_LIKE_DAUGHTER_DISPLAY"
 msgid "Like Father Like Daughter"
 msgstr "Что папа, что дочка"
 
-#, fuzzy
 msgctxt "ACHIEVEMENT_OMG_SERIOUSLY_DISPLAY"
 msgid "O.M.G. Seriously?"
-msgstr "ОМГ, серьезно?"
+msgstr "О.М.Г., серьёзно?"
 
-#, fuzzy
 msgctxt "ACHIEVEMENT_RENEGADE_DISPLAY"
 msgid "Renegade"
 msgstr "Изменник"
 
-#, fuzzy
 msgctxt "ACHIEVEMENT_DONT_MESS_WITH_US_DISPLAY"
 msgid "Don't mess with us!"
-msgstr "Не вставай у нас на пути!"
+msgstr "Не связывайся с нами!"
 
-#, fuzzy
 msgctxt "ACHIEVEMENT_TAKE_THE_WORLD_ON_DISPLAY"
 msgid "TAKE THE WORLD ON"
-msgstr "ЗАХВАТИ МИР"
+msgstr "ВЕСЬ МИР У НОГ"
 
-#, fuzzy
 msgctxt "ACHIEVEMENT_POWER_OF_LOVE_ON_DISPLAY"
 msgid "Power of Love!"
 msgstr "Сила любви!"
 
-#, fuzzy
 msgctxt "ACHIEVEMENT_OF_LOVE_ON_DISPLAY"
 msgid "A New Challenger"
 msgstr "Новый претендент"
 
-#, fuzzy
 msgctxt "ACHIEVEMENT_COMPLETIONIST_DISPLAY"
 msgid "Completionist"
-msgstr "Достигатор"
+msgstr "Завершатель"
 
-#, fuzzy
 msgctxt "ACHIEVEMENT_RIVER_CITY_HERO_DESCRIPTION"
 msgid "Obtain all trophies in \"River City Girls\"."
-msgstr "Получи все трофеи в \"River City Girls\"."
+msgstr "Получите все трофеи в River City Girls."
 
-#, fuzzy
 msgctxt "ACHIEVEMENT_YOUR_LESSONS_ARE_BORING_DESCRIPTION"
 msgid "Attacked Mr. Rudis."
-msgstr "Атака на мистера Грубова."
+msgstr "Нападите на мистера Рудиса."
 
-#, fuzzy
 msgctxt "ACHIEVEMENT_KILLED_BY_MATH_DESCRIPTION"
 msgid "Was defeated in detention."
-msgstr "Побежден в карцере."
+msgstr "Вы были сражены в кабинете для дополнительных занятий."
 
-#, fuzzy
 msgctxt "ACHIEVEMENT_SHOP_UNTIL_THEY_DROP_DESCRIPTION"
 msgid "Enter the Mall."
-msgstr "Войди в торговый центр."
+msgstr "Попадите в торговый центр."
 
-#, fuzzy
 msgctxt "ACHIEVEMENT_BONA_FIDE_BARGAIN_DESCRIPTION"
 msgid "Obtain an item from the Pawn Shop."
-msgstr "Добудь предмет в ломбарде."
+msgstr "Добудьте предмет в ломбарде."
 
-#, fuzzy
 msgctxt "ACHIEVEMENT_MASTER_OF_UNLOCKING_DESCRIPTION"
 msgid "Find the keys in the junk yard."
-msgstr "Найди ключи на свалке."
+msgstr "Найдите ключи на свалке."
 
-#, fuzzy
 msgctxt "ACHIEVEMENT_AN_EXPLOSIVE_ENTRANCE_DESCRIPTION"
 msgid "Enter the Penthouse."
-msgstr "Войди в пентхаус."
+msgstr "Войдите в пентхаус."
 
-#, fuzzy
 msgctxt "ACHIEVEMENT_FULL_SERVICE_DESCRIPTION"
 msgid "Destroy a vending machine."
-msgstr "Разрушь автомат."
+msgstr "Разрушьте торговый автомат."
 
-#, fuzzy
 msgctxt "ACHIEVEMENT_RIVER_CITY_RANSOM_DESCRIPTION"
 msgid "Collected $5000"
 msgstr "Собрано $5000."
 
-#, fuzzy
 msgctxt "ACHIEVEMENT_WEAPON_HANDLER_DESCRIPTION"
 msgid "Use every weapon once."
-msgstr "Каждое оружие использовано единожды"
+msgstr "Каждое оружие использовано хотя бы раз"
 
-#, fuzzy
 msgctxt "ACHIEVEMENT_CARPE_DIEM_DESCRIPTION"
 msgid "Defeated an enemy with a fish."
-msgstr "Враг побежден с помощью рыбы"
+msgstr "Противник побежден с помощью рыбы"
 
-#, fuzzy
 msgctxt "ACHIEVEMENT_YOURE_OUT_DESCRIPTION"
 msgid "Catch a dodgeball thrown by your ally."
-msgstr "Поймай мяч вышибалы, брошенный союзником"
+msgstr "Поймайте брошенный напарником волейбольный мяч."
 
-#, fuzzy
 msgctxt "ACHIEVEMENT_BACK_AT_ME_DESCRIPTION"
 msgid "Catch a boomerang."
-msgstr "Поймай бумеранг"
+msgstr "Поймайте бумеранг"
 
-#, fuzzy
 msgctxt "ACHIEVEMENT_BEST_FRIENDS_FOR_LIFE_DESCRIPTION"
 msgid "Recruit each type of enemy."
-msgstr "Завербуй каждый тип врага"
+msgstr "Завербуйте каждый тип противника."
 
-#, fuzzy
 msgctxt "ACHIEVEMENT_FRIENDLY_BEATDOWN_DESCRIPTION"
 msgid "Defeated an enemy by hitting them with another enemy."
-msgstr "Враг побежден с помощью другого врага"
+msgstr "Противник побеждён от удара другим противником."
 
-#, fuzzy
 msgctxt "ACHIEVEMENT_PERFECT_PARRY_DESCRIPTION"
 msgid "Parry 10 enemy attacks."
-msgstr "Отражены 10 атак врагов."
+msgstr "Отразите 10 атак противников."
 
-#, fuzzy
 msgctxt "ACHIEVEMENT_STYLISH_DESCRIPTION"
 msgid "Equip a new outfit."
-msgstr "Получен новый костюм."
+msgstr "Наденьте новый прикид."
 
-#, fuzzy
 msgctxt "ACHIEVEMENT_POWER_UP_DESCRIPTION"
 msgid "Reached Max Level."
-msgstr "Достигнут максимальный уровень"
+msgstr "Достигнут максимальный уровень."
 
-#, fuzzy
 msgctxt "ACHIEVEMENT_HELP_AN_OLD_PAL_DESCRIPTION"
 msgid "Completed all of Godai's quests."
-msgstr "Пройдены все квесты Умерето"
+msgstr "Выполнены все задания Годая."
 
-#, fuzzy
 msgctxt "ACHIEVEMENT_SMASHED_STATUES_DESCRIPTION"
 msgid "Destroyed all Sabu statues."
-msgstr "Разрушены все статуи Сабу"
+msgstr "Разрушены все бюсты Сабу"
 
-#, fuzzy
 msgctxt "ACHIEVEMENT_REAL_WORKOUT_DESCRIPTION"
 msgid "K.O. Misuzu."
-msgstr "Убита: Мисуцу"
+msgstr "Нокаутирована Мисудзу"
 
-#, fuzzy
 msgctxt "ACHIEVEMENT_DEFEATING_THE_DARK_ARTS_DESCRIPTION"
 msgid "K.O. Yamada."
-msgstr "Убит: Ямада"
+msgstr "Нокаутирован Ямада"
 
-#, fuzzy
 msgctxt "ACHIEVEMENT_FASHION_BEATDOWN_DESCRIPTION"
 msgid "K.O. Hibari."
-msgstr "Убит: Хибари"
+msgstr "Нокаутирована Хибари"
 
-#, fuzzy
 msgctxt "ACHIEVEMENT_A_BYE_BYE_DESCRIPTION"
 msgid "K.O. Abobo."
-msgstr "Убит: Абобо"
+msgstr "Нокаутирован Абобо"
 
-#, fuzzy
 msgctxt "ACHIEVEMENT_SO_METAL_DESCRIPTION"
 msgid "K.O. Noize."
-msgstr "Убита: Noize"
+msgstr "Нокаутирована Noize"
 
-#, fuzzy
 msgctxt "ACHIEVEMENT_LIKE_FATHER_LIKE_DAUGHTER_DESCRIPTION"
 msgid "K.O. Sabuko."
-msgstr "Убита: Сабуко"
+msgstr "Нокаутирована Сабуко"
 
-#, fuzzy
 msgctxt "ACHIEVEMENT_OMG_SERIOUSLY_DESCRIPTION"
 msgid "K.O. the secret boss."
-msgstr "Убит: тайный босс"
+msgstr "Нокаутирован секретный босс"
 
-#, fuzzy
 msgctxt "ACHIEVEMENT_RENEGADE_DESCRIPTION"
 msgid "That wasn't very nice!"
 msgstr "Это было не очень-то вежливо!"
 
-#, fuzzy
 msgctxt "ACHIEVEMENT_DONT_MESS_WITH_US_DESCRIPTION"
 msgid "Complete the game in Co-Op."
-msgstr "Игра пройдена в режиме кооперации"
+msgstr "Пройдите игру в кооперативном режиме"
 
-#, fuzzy
 msgctxt "ACHIEVEMENT_TAKE_THE_WORLD_ON_DESCRIPTION"
 msgid "Completed the game on Hard."
-msgstr "Игра пройдена в режиме повышенной сложности"
+msgstr "Пройдите игру на Сложном режиме."
 
-#, fuzzy
 msgctxt "ACHIEVEMENT_POWER_OF_LOVE_ON_DESCRIPTION"
 msgid ""
 "Finish every stage cooperatively on Hard difficulty with friendly fire "
 "enabled!"
 msgstr ""
-"Пройдены все сцены в режиме повышенной сложности с дружественным огнем!"
+"Закончите все стадии в совместном прохождении на Сложном режиме и с "
+"включёнными ударами по своим!"
 
-#, fuzzy
 msgctxt "ACHIEVEMENT_OF_LOVE_ON_DESCRIPTION"
 msgid "Completed the game with a secret character."
-msgstr "Игра пройдена с тайным персонажем"
+msgstr "Игра пройдена тайным персонажем"
 
-#, fuzzy
 msgctxt "ACHIEVEMENT_COMPLETIONIST_DESCRIPTION"
 msgid "Reach 100% completion."
-msgstr "Уровень выполнения - 100%"
+msgstr "Закончите игру на 100%"
 
-#, fuzzy
 msgctxt "TROPHY_DESCRIPTION"
 msgid "Trophies for River City Girls"
 msgstr "Трофеи для River City Girls"
 
-#, fuzzy
 msgctxt "STEAM_STORE_DESCRIPTION_Long"
 msgid ""
 "There's trouble once again on the mean streets of River City, but this time "
@@ -358,12 +295,12 @@ msgid ""
 "beat-'em-up series, hot-blooded heroes Kuni and Riki have been captured, "
 "leaving it to their hard-hitting girlfriends, Kyoko and Misako, to serve up "
 "some payback. As you punch and kick your way across town - either solo or "
-"with a friend in local co-op - you'll gain new skills, chow down on power-"
-"ups, wield an assortment of weapons, and unleash an arsenal of combos, "
+"with a friend in local co-op - you'll gain new skills, chow down on "
+"power-ups, wield an assortment of weapons, and unleash an arsenal of combos, "
 "throws, and special attacks that will leave the bad guys crying for mama - "
 "all in outrageous 16-bit style! The awesome action is punctuated by manga "
-"story panels, anime cutscenes, and an epic synth-pop soundtrack. It’s an old-"
-"school rumble for a new generation!\n"
+"story panels, anime cutscenes, and an epic synth-pop soundtrack. It’s an "
+"old-school rumble for a new generation!\n"
 "Key Features:\n"
 "-Wild beat-'em-up action for one or two players!\n"
 "-Glorious pixel-art graphics plus anime and manga cutscenes! \n"
@@ -374,58 +311,55 @@ msgid ""
 "-Loads of weapons, items, and abilities to power-up your heroines!\n"
 "-Guest appearances by classic River City characters!\n"
 msgstr ""
-"На подозрительных улицах Ривер-сити опять назревают проблемы, но на этот раз "
+"На жестоких улицах Ривер-сити опять назревают проблемы, но на этот раз "
 "мальчики влипли по уши! В новой серии легендарного beat-'em-up горячие герои "
-"Кунио и Рики попадают в плен, предоставляя своим жестоким подругам, Киоко и "
-"Мисако, вершить возмездие. По мере того, как вы проталкиваете и пробиваете "
-"путь через город - в одиночку или с другом в режиме кооперации - вы "
-"приобретаете новые навыки, поглощаете бонусы, обретаете ассортимент оружия и "
-"разблокируете арсенал комбинаций, бросков и специальных атак, которые "
-"заставят плохих парней звать мамочку - все в возмутительном 16-битном стиле! "
-"Потрясающий экшен дополнен ответвлениями манга-историй, врезками аниме и "
-"эпическим саундтреком в стиле синти-поп. Грохот старой школы для нового "
+"Кунио и Рики попадают в плен, предоставляя своим жестоким подругам, Кёко и "
+"Мисако, вершить возмездие. По мере того, как вы с боем пробиваетесь через "
+"город - в одиночку или с другом в локальном кооперативном режиме, - вы "
+"приобретёте новые навыки, получите улучшения, перепробуете кучу оружия и "
+"изучите много новых приёмов, бросков и специальных атак, которые заставят "
+"плохих парней звать мамочку - и всё это в возмутительном 16-битном стиле! "
+"Потрясающий экшен дополнен историями манга, аниме-вставками и эпическим "
+"саундтреком в стиле синти-поп. Сражения в духе старой школы для нового "
 "поколения!\n"
+"\n"
 "Ключевые свойства: \n"
 "- Отвязный beat-'em-up экшен для одного или двух игроков! \n"
-"- Великолепная пиксельная графика, плюс врезки аниме и манга!\n"
-"- Фантастический саундтрек от Chipzel, Кристины Ви и NateWantsToBattle!\n"
-"- Шесть больших городских районов, через которые нужно пробиться, в "
-"сочетании с магазинами и дополнительными квестами!\n"
-"- Множество предметов, оружия и способностей, чтобы создать ваших героинь! \n"
-"- Эпизодические появления классических персонажей River City!"
+"- Великолепные графика в стиле пиксель-арта и врезки аниме и манга!\n"
+"- Фантастический саундтрек от Chipzel, Christina Vee и NateWantsToBattle!\n"
+"- Шесть больших городских районов, которые нужно победить, с магазинами и "
+"побочными заданиями!\n"
+"- Множество предметов, оружия и способностей для ваших героинь!\n"
+"- Множество персонажей из классических игр River City!\n"
 
-#, fuzzy
 msgctxt "STEAM_STORE_DESCRIPTION_SHORT"
 msgid ""
 "There's trouble once again in River City, and this time only the girls can "
-"save the day! Using a variety of attacks, weapons, and items, these hot-"
-"blooded heroines are ready to teach the city’s lowlifes a lesson - either "
+"save the day! Using a variety of attacks, weapons, and items, these "
+"hot-blooded heroines are ready to teach the city’s lowlifes a lesson - either "
 "solo or in 2-player co-op! It’s an old-school rumble for a new generation!"
 msgstr ""
-"В Ривер-сити опять назревают проблемы, и на этот раз только девочки могут "
-"спасти положение! Используя множество видов атак, оружия и предметов, "
-"горячие героини дают городскому отребью урок - соло или в режиме кооперации "
-"2 игроков! Грохот старой школы для нового поколения!"
+"На жестоких улицах Ривер-сити опять назревают проблемы, но на этот раз только "
+"девочки смогут всех спасти! С помощью боевых приёмов, оружия и предметов наши "
+"горячие героини готовы преподать урок городским негодяям - в одиночку или в "
+"режиме кооперативной игры! Сражения в духе старой школы для нового поколения!"
 
-#, fuzzy
 msgctxt "PS4_STORE_DISPLAY_NAME"
 msgid "River City Girls"
 msgstr "River City Girls"
 
-#, fuzzy
 msgctxt "PS4_STORE_TITLE_DESCRIPTION"
 msgid ""
 "There's trouble once again in River City, and this time only the girls can "
-"save the day! Using a variety of attacks, weapons, and items, these hot-"
-"blooded heroines are ready to teach the city’s lowlifes a lesson - either "
+"save the day! Using a variety of attacks, weapons, and items, these "
+"hot-blooded heroines are ready to teach the city’s lowlifes a lesson - either "
 "solo or in 2-player co-op! It’s an old-school rumble for a new generation!"
 msgstr ""
-"В Ривер-сити опять назревают проблемы, и на этот раз только девочки могут "
-"спасти его! Используя множество видов атак, оружия и предметов, горячие "
-"героини дают городскому отребью урок - соло или в режиме кооперации 2 "
-"игроков! Грохот старой школы для нового поколения!"
+"На жестоких улицах Ривер-сити опять назревают проблемы, но на этот раз только "
+"девочки смогут всех спасти! С помощью боевых приёмов, оружия и предметов наши "
+"горячие героини готовы преподать урок городским негодяям - в одиночку или в "
+"режиме кооперативной игры! Сражения в духе старой школы для нового поколения!"
 
-#, fuzzy
 msgctxt "PS4_STORE_CONTENT_DESCRIPTION"
 msgid ""
 "There's trouble once again on the mean streets of River City, but this time "
@@ -433,12 +367,12 @@ msgid ""
 "beat-'em-up series, hot-blooded heroes Kuni and Riki have been captured, "
 "leaving it to their hard-hitting girlfriends, Kyoko and Misako, to serve up "
 "some payback. As you punch and kick your way across town - either solo or "
-"with a friend in local co-op - you'll gain new skills, chow down on power-"
-"ups, wield an assortment of weapons, and unleash an arsenal of combos, "
+"with a friend in local co-op - you'll gain new skills, chow down on "
+"power-ups, wield an assortment of weapons, and unleash an arsenal of combos, "
 "throws, and special attacks that will leave the bad guys crying for mama - "
 "all in outrageous 16-bit style! The awesome action is punctuated by manga "
-"story panels, anime cutscenes, and an epic synth-pop soundtrack. It’s an old-"
-"school rumble for a new generation!\n"
+"story panels, anime cutscenes, and an epic synth-pop soundtrack. It’s an "
+"old-school rumble for a new generation!\n"
 "\n"
 "Key Features:\n"
 "-Wild beat-'em-up action for 1 or 2 players!\n"
@@ -447,26 +381,25 @@ msgid ""
 "-Six large areas of the city to explore and fight in!\n"
 "-Loads of weapons, items, and abilities!"
 msgstr ""
-"На подозрительных улицах Ривер-сити опять назревают проблемы, но на этот раз "
+"На жестоких улицах Ривер-сити опять назревают проблемы, но на этот раз "
 "мальчики влипли по уши! В новой серии легендарного beat-'em-up горячие герои "
-"Кунио и Рики попадают в плен, предоставляя своим жестоким подругам, Киоко и "
-"Мисако, вершить возмездие. По мере того, как вы проталкиваете и пробиваете "
-"путь через город - в одиночку или с другом в режиме кооперации - вы "
-"приобретаете новые навыки, поглощаете бонусы, обретаете ассортимент оружия и "
-"разблокируете арсенал комбинаций, бросков и специальных атак, которые "
-"заставят плохих парней звать мамочку - все в возмутительном 16-битном стиле! "
-"Потрясающий экшен дополнен ответвлениями манга-историй, врезками аниме и "
-"эпическим саундтреком в стиле синти-поп. Грохот старой школы для нового "
+"Кунио и Рики попадают в плен, предоставляя своим жестоким подругам, Кёко и "
+"Мисако, вершить возмездие. По мере того, как вы с боем пробиваетесь через "
+"город - в одиночку или с другом в локальном кооперативном режиме, - вы "
+"приобретёте новые навыки, получите улучшения, перепробуете кучу оружия и "
+"изучите много новых приёмов, бросков и специальных атак, которые заставят "
+"плохих парней звать мамочку - и всё это в возмутительном 16-битном стиле! "
+"Потрясающий экшен дополнен историями манга, аниме-вставками и эпическим "
+"саундтреком в стиле синти-поп. Сражения в духе старой школы для нового "
 "поколения!\n"
 "\n"
-"Ключевые свойства: \n"
+"Ключевые свойства:\n"
 "- Отвязный beat-'em-up экшен для одного или двух игроков! \n"
-"- Великолепные врезки аниме и манга!\n"
+"- Великолепные аниме- и манга-вставки!\n"
 "- Крутой саундтрек в стиле синти-поп!\n"
 "- Шесть больших городских районов, которые нужно изучить и победить!\n"
-"- Множество предметов, оружия и способностей! "
+"- Множество предметов, оружия и способностей!"
 
-#, fuzzy
 msgctxt "XBOX_STORE_CONTENT_DESCRIPTION"
 msgid ""
 "There's trouble once again on the mean streets of River City, but this time "
@@ -474,12 +407,12 @@ msgid ""
 "beat-'em-up series, hot-blooded heroes Kuni and Riki have been captured, "
 "leaving it to their hard-hitting girlfriends, Kyoko and Misako, to serve up "
 "some payback. As you punch and kick your way across town - either solo or "
-"with a friend in local co-op - you'll gain new skills, chow down on power-"
-"ups, wield an assortment of weapons, and unleash an arsenal of combos, "
+"with a friend in local co-op - you'll gain new skills, chow down on "
+"power-ups, wield an assortment of weapons, and unleash an arsenal of combos, "
 "throws, and special attacks that will leave the bad guys crying for mama - "
 "all in outrageous 16-bit style! The awesome action is punctuated by manga "
-"story panels, anime cutscenes, and an epic synth-pop soundtrack. It’s an old-"
-"school rumble for a new generation!\n"
+"story panels, anime cutscenes, and an epic synth-pop soundtrack. It’s an "
+"old-school rumble for a new generation!\n"
 "\n"
 "Key Features:\n"
 "-Wild beat-'em-up action for one or two players!\n"
@@ -491,75 +424,47 @@ msgid ""
 "-Loads of weapons, items, and abilities to power-up your heroines!\n"
 "-Guest appearances by classic River City characters!"
 msgstr ""
-"На подозрительных улицах Ривер-сити опять назревают проблемы, но на этот раз "
+"На жестоких улицах Ривер-сити опять назревают проблемы, но на этот раз "
 "мальчики влипли по уши! В новой серии легендарного beat-'em-up горячие герои "
-"Кунио и Рики попадают в плен, предоставляя своим жестоким подругам, Киоко и "
-"Мисако, вершить возмездие. По мере того, как вы проталкиваете и пробиваете "
-"путь через город - в одиночку или с другом в режиме кооперации - вы "
-"приобретаете новые навыки, поглощаете бонусы, обретаете ассортимент оружия и "
-"разблокируете арсенал комбинаций, бросков и специальных атак, которые "
-"заставят плохих парней звать мамочку - все в возмутительном 16-битном стиле! "
-"Потрясающий экшен дополнен ответвлениями манга-историй, врезками аниме и "
-"эпическим саундтреком в стиле синти-поп. Грохот старой школы для нового "
+"Кунио и Рики попадают в плен, предоставляя своим жестоким подругам, Кёко и "
+"Мисако, вершить возмездие. По мере того, как вы с боем пробиваетесь через "
+"город - в одиночку или с другом в локальном кооперативном режиме, - вы "
+"приобретёте новые навыки, получите улучшения, перепробуете кучу оружия и "
+"изучите много новых приёмов, бросков и специальных атак, которые заставят "
+"плохих парней звать мамочку - и всё это в возмутительном 16-битном стиле! "
+"Потрясающий экшен дополнен историями манга, аниме-вставками и эпическим "
+"саундтреком в стиле синти-поп. Сражения в духе старой школы для нового "
 "поколения!\n"
+"\n"
 "Ключевые свойства: \n"
 "- Отвязный beat-'em-up экшен для одного или двух игроков! \n"
-"- Великолепные врезки аниме и манга!\n"
-"- Крутой саундтрек в стиле синти-поп!\n"
-"- Шесть больших городских районов, которые нужно изучить и победить!\n"
-"- Множество предметов, оружия и способностей! "
+"- Великолепные графика в стиле пиксель-арта и врезки аниме и манга!\n"
+"- Фантастический саундтрек от Chipzel, Christina Vee и NateWantsToBattle!\n"
+"- Шесть больших городских районов, которые нужно победить, с магазинами и "
+"побочными заданиями!\n"
+"- Множество предметов, оружия и способностей для ваших героинь!\n"
+"- Множество персонажей из классических игр River City!"
 
-#, fuzzy
 msgctxt "XBOX_STORE_CONTENT_SHORT_DESCRIPTION"
 msgid ""
 "There's trouble once again in River City, and this time only the girls can "
-"save the day! Using a variety of attacks, weapons, and items, these hot-"
-"blooded heroines are ready to teach the city’s lowlifes a lesson - either "
+"save the day! Using a variety of attacks, weapons, and items, these "
+"hot-blooded heroines are ready to teach the city’s lowlifes a lesson - either "
 "solo or in 2-player co-op! It’s an old-school rumble for a new generation!"
 msgstr ""
-"На подозрительных улицах Ривер-сити опять назревают проблемы, но на этот раз "
-"мальчики влипли по уши! В новой серии легендарного beat-'em-up горячие герои "
-"Кунио и Рики попадают в плен, предоставляя своим жестоким подругам, Киоко и "
-"Мисако, вершить возмездие. По мере того, как вы проталкиваете и пробиваете "
-"путь через город - в одиночку или с другом в режиме кооперации - вы "
-"приобретаете новые навыки, поглощаете бонусы, обретаете ассортимент оружия и "
-"разблокируете арсенал комбинаций, бросков и специальных атак, которые "
-"заставят плохих парней звать мамочку - все в возмутительном 16-битном стиле! "
-"Потрясающий экшен дополнен ответвлениями манга-историй, врезками аниме и "
-"эпическим саундтреком в стиле синти-поп. Грохот старой школы для нового "
-"поколения!\n"
-"Ключевые свойства: \n"
-"- Отвязный beat-'em-up экшен для одного или двух игроков! \n"
-"- Великолепные врезки аниме и манга!\n"
-"- Крутой саундтрек в стиле синти-поп!\n"
-"- Шесть больших городских районов, которые нужно изучить и победить!\n"
-"- Множество предметов, оружия и способностей! "
+"На жестоких улицах Ривер-сити опять назревают проблемы, но на этот раз только "
+"девочки смогут всех спасти! С помощью боевых приёмов, оружия и предметов наши "
+"горячие героини готовы преподать урок городским негодяям - в одиночку или в "
+"режиме кооперативной игры! Сражения в духе старой школы для нового поколения!"
 
-#, fuzzy
 msgctxt "SWITCH_TAGLINE"
 msgid ""
-"Someone’s getting River City’s biggest beatdown when these girls find "
-"whoever nabbed their boyfriends!"
+"Someone’s getting River City’s biggest beatdown when these girls find whoever "
+"nabbed their boyfriends!"
 msgstr ""
-"На подозрительных улицах Ривер-сити опять назревают проблемы, но на этот раз "
-"мальчики влипли по уши! В новой серии легендарного beat-'em-up горячие герои "
-"Кунио и Рики попадают в плен, предоставляя своим жестоким подругам, Киоко и "
-"Мисако, вершить возмездие. По мере того, как вы проталкиваете и пробиваете "
-"путь через город - в одиночку или с другом в режиме кооперации - вы "
-"приобретаете новые навыки, поглощаете бонусы, обретаете ассортимент оружия и "
-"разблокируете арсенал комбинаций, бросков и специальных атак, которые "
-"заставят плохих парней звать мамочку - все в возмутительном 16-битном стиле! "
-"Потрясающий экшен дополнен ответвлениями манга-историй, врезками аниме и "
-"эпическим саундтреком в стиле синти-поп. Грохот старой школы для нового "
-"поколения!\n"
-"Ключевые свойства: \n"
-"- Отвязный beat-'em-up экшен для одного или двух игроков! \n"
-"- Великолепные врезки аниме и манга!\n"
-"- Крутой саундтрек в стиле синти-поп!\n"
-"- Шесть больших городских районов, которые нужно изучить и победить!\n"
-"- Множество предметов, оружия и способностей! "
+"Кому-то в Ривер-сити сильно не поздоровится, когда эти девчонки найдут тех, "
+"кто похитил их парней!"
 
-#, fuzzy
 msgctxt "SWITCH_STORE_DESCRIPTION"
 msgid ""
 "There's trouble once again on the mean streets of River City, but this time "
@@ -567,12 +472,12 @@ msgid ""
 "beat-'em-up series, hot-blooded heroes Kuni and Riki have been captured, "
 "leaving it to their hard-hitting girlfriends, Kyoko and Misako, to serve up "
 "some payback. As you punch and kick your way across town - either solo or "
-"with a friend in local co-op - you'll gain new skills, chow down on power-"
-"ups, wield an assortment of weapons, and unleash an arsenal of combos, "
+"with a friend in local co-op - you'll gain new skills, chow down on "
+"power-ups, wield an assortment of weapons, and unleash an arsenal of combos, "
 "throws, and special attacks that will leave the bad guys crying for mama - "
 "all in outrageous 16-bit style! The awesome action is punctuated by manga "
-"story panels, anime cutscenes, and an epic synth-pop soundtrack. It’s an old-"
-"school rumble for a new generation!\n"
+"story panels, anime cutscenes, and an epic synth-pop soundtrack. It’s an "
+"old-school rumble for a new generation!\n"
 "\n"
 "Key Features:\n"
 "-Wild beat-'em-up action for one or two players!\n"
@@ -584,152 +489,127 @@ msgid ""
 "-Loads of weapons, items, and abilities to power-up your heroines!\n"
 "-Guest appearances by classic River City characters!"
 msgstr ""
-"На подозрительных улицах Ривер-сити опять назревают проблемы, но на этот раз "
+"На жестоких улицах Ривер-сити опять назревают проблемы, но на этот раз "
 "мальчики влипли по уши! В новой серии легендарного beat-'em-up горячие герои "
-"Кунио и Рики попадают в плен, предоставляя своим жестоким подругам, Киоко и "
-"Мисако, вершить возмездие. По мере того, как вы проталкиваете и пробиваете "
-"путь через город - в одиночку или с другом в режиме кооперации - вы "
-"приобретаете новые навыки, поглощаете бонусы, обретаете ассортимент оружия и "
-"разблокируете арсенал комбинаций, бросков и специальных атак, которые "
-"заставят плохих парней звать мамочку - все в возмутительном 16-битном стиле! "
-"Потрясающий экшен дополнен ответвлениями манга-историй, врезками аниме и "
-"эпическим саундтреком в стиле синти-поп. Грохот старой школы для нового "
+"Кунио и Рики попадают в плен, предоставляя своим жестоким подругам, Кёко и "
+"Мисако, вершить возмездие. По мере того, как вы с боем пробиваетесь через "
+"город - в одиночку или с другом в локальном кооперативном режиме, - вы "
+"приобретёте новые навыки, получите улучшения, перепробуете кучу оружия и "
+"изучите много новых приёмов, бросков и специальных атак, которые заставят "
+"плохих парней звать мамочку - и всё это в возмутительном 16-битном стиле! "
+"Потрясающий экшен дополнен историями манга, аниме-вставками и эпическим "
+"саундтреком в стиле синти-поп. Сражения в духе старой школы для нового "
 "поколения!\n"
+"\n"
 "Ключевые свойства: \n"
 "- Отвязный beat-'em-up экшен для одного или двух игроков! \n"
-"- Великолепная пиксельная графика, плюс врезки аниме и манга!\n"
-"- Фантастический саундтрек от Chipzel, Кристины Ви и NateWantsToBattle!\n"
-"- Шесть больших городских районов, через которые нужно пробиться, в "
-"сочетании с магазинами и дополнительными квестами!\n"
-"- Множество предметов, оружия и способностей, чтобы создать ваших героинь! \n"
-"- Эпизодические появления классических персонажей River City!"
+"- Великолепные графика в стиле пиксель-арта и врезки аниме и манга!\n"
+"- Фантастический саундтрек от Chipzel, Christina Vee и NateWantsToBattle!\n"
+"- Шесть больших городских районов, которые нужно победить, с магазинами и "
+"побочными заданиями!\n"
+"- Множество предметов, оружия и способностей для ваших героинь!\n"
+"- Множество персонажей из классических игр River City!"
 
-#, fuzzy
 msgctxt "OPTIONS_SCREEN_SELECT"
 msgid "Select"
-msgstr "Выбор"
+msgstr "Выбрать"
 
-#, fuzzy
 msgctxt "OPTIONS_SCREEN_APPLY"
 msgid "Apply"
 msgstr "Применить"
 
-#, fuzzy
 msgctxt "OPTIONS_SCREEN_DEFAULT"
 msgid "Default"
 msgstr "По умолчанию"
 
-#, fuzzy
 msgctxt "OPTIONS_SCREEN_VIBRATION"
 msgid "Vibration"
 msgstr "Вибрация"
 
-#, fuzzy
 msgctxt "OPTIONS_SCREEN_RUMBLE"
 msgid "Rumble"
-msgstr "Звуковые эффекты"
+msgstr "Тряска"
 
-#, fuzzy
 msgctxt "OPTIONS_SCREEN_RESOLUTION"
 msgid "Resolution"
 msgstr "Разрешение"
 
-#, fuzzy
 msgctxt "OPTIONS_SCREEN_WINDOWED"
 msgid "Windowed"
 msgstr "Оконный режим"
 
-#, fuzzy
 msgctxt "OPTIONS_SCREEN_HDRUMBLE "
 msgid "HD Rumble"
-msgstr "Звуковые эффекты HD"
+msgstr "HD Rumble"
 
-#, fuzzy
 msgctxt "OPTIONS_SCREEN_EXIT"
 msgid "Exit"
 msgstr "Закрыть"
 
-#, fuzzy
 msgctxt "OPTIONS_SCREEN_QUIT"
 msgid "Quit"
 msgstr "Выйти"
 
-#, fuzzy
 msgctxt "RICH_PRESENCE_CHOOSE"
 msgid "Choose your girl"
 msgstr "Выбери свою девочку"
 
-#, fuzzy
 msgctxt "RICH_PRESENCE_MENUS"
 msgid "Enjoying the menus"
 msgstr "Наслаждаясь меню"
 
-#, fuzzy
 msgctxt "RICH_PRESENCE_STUCK"
 msgid "Stuck in school"
 msgstr "Застряли в школе"
 
-#, fuzzy
 msgctxt "RICH_PRESENCE_CROSSTOWN"
 msgid "Checkin' out Crosstown"
 msgstr "Исследуем Кросстаун"
 
-#, fuzzy
 msgctxt "RICH_PRESENCE_UPTOWN"
 msgid "Fakin' it in Uptown"
-msgstr "Притворяемся в верхней части города"
+msgstr "Притворяемся в пригороде"
 
-#, fuzzy
 msgctxt "RICH_PRESENCE_DOWNTOWN"
 msgid "Grossed out in Downtown"
-msgstr "Тошнимся в центре города"
+msgstr "Отвращение в центре города"
 
-#, fuzzy
 msgctxt "RICH_PRESENCE_OCEAN_HEIGHTS"
 msgid "Chillin' in Ocean Heights"
-msgstr "Зависаем на Океанских высотах"
+msgstr "Отдых на Океанских холмах"
 
-#, fuzzy
 msgctxt "RICH_PRESENCE_TOWER"
 msgid "Sneakin' into Sanwakai Tower"
-msgstr "Проникаем в Башню Санвакай"
+msgstr "Проникновение в Башню Санвакай"
 
-#, fuzzy
 msgctxt "RICH_PRESENCE_PENTHOUSE"
 msgid "Sabu's Penthouse"
 msgstr "Пентхаус Сабу"
 
-#, fuzzy
 msgctxt "RICH_PRESENCE_TIME"
 msgid "Time to split!"
 msgstr "Пора валить!"
 
-#, fuzzy
 msgctxt "HERO_STATS_BADDIES"
 msgid "Baddies Beaten"
-msgstr "Плохих парней побито"
+msgstr "Противников избито"
 
-#, fuzzy
 msgctxt "HERO_STATS_ACCESSORIES"
 msgid "Accessories Acquired"
 msgstr "Аксессуаров собрано"
 
-#, fuzzy
 msgctxt "HERO_STATS_BUCKS"
 msgid "Bucks Spent"
 msgstr "Денег потрачено"
 
-#, fuzzy
 msgctxt "HERO_STATS_AREAS"
 msgid "Areas Cleared"
-msgstr "Мест очищено"
+msgstr "Мест расчищено"
 
-#, fuzzy
 msgctxt "HERO_STATS_BOSSES"
 msgid "Bosses Clobbered"
-msgstr "Боссов разгромлено"
+msgstr "Боссов отколошмачено"
 
-#, fuzzy
 msgctxt "HERO_STATS_HARD_SPEEDRUN"
 msgid "Speedruniest Completion"
-msgstr "Достижения спидраннера"
+msgstr "Самое быстрое прохождение"

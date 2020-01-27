@@ -1,178 +1,149 @@
 #
+# Azamat H. Hackimov <azamat.hackimov@gmail.com>, 2020.
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
 "Report-Msgid-Bugs-To: you@example.com\n"
 "POT-Creation-Date: 2020-01-25 01:08:38.967000\n"
-"PO-Revision-Date: 2020-01-24 03:12:27.812674\n"
-"Last-Translator: you <you@example.com>\n"
-"Language-Team: \n"
-"Language: \n"
+"PO-Revision-Date: 2020-01-27 01:45+0300\n"
+"Last-Translator: Azamat H. Hackimov <azamat.hackimov@gmail.com>\n"
+"Language-Team: Russian <>\n"
+"Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%"
+"10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: Lokalize 19.08.3\n"
 
-#, fuzzy
 msgctxt "QUEST_NAME_GROSS_APPETITE"
 msgid "Gross Appetite!"
 msgstr "Ужасного аппетита!"
 
-#, fuzzy
 msgctxt "QUEST_NAME_OPEN_FOR_BUSINESS"
 msgid "Open for Business!"
 msgstr "Открыто!"
 
-#, fuzzy
 msgctxt "QUEST_NAME_FASHION_GOLD"
 msgid "Fashion Gold!"
 msgstr "Золотая мода!"
 
-#, fuzzy
 msgctxt "QUEST_NAME_ZOMBIE_CRUSHER"
 msgid "Zombie Crusher!"
-msgstr "Победитель зомби!"
+msgstr "Сокрушитель зомби!"
 
-#, fuzzy
 msgctxt "QUEST_NAME_WERE_ON_THE_LIST"
 msgid "We're on the List!"
 msgstr "Мы в списке!"
 
-#, fuzzy
 msgctxt "QUEST_NAME_SUPER_FANS"
 msgid "Super Fans!"
-msgstr "Супер-фаны!"
+msgstr "Супер-фананы!"
 
-#, fuzzy
 msgctxt "QUEST_NAME_BOOM"
 msgid "Things that Make You Go BOOM!"
 msgstr "Вещи, которые ВЗОРВУТ тебя!"
 
-#, fuzzy
 msgctxt "QUEST_NAME_GODAI_BURGER"
 msgid "A Burger to Godai For!"
-msgstr "Бургер, за который можно Умерето!"
+msgstr "Бургер для Годая!"
 
-#, fuzzy
 msgctxt "QUEST_NAME_MAYOR_STATUES"
 msgid "Mayor Statues be Golden!"
-msgstr "Статуя мэра должна быть бриллиантовой!"
+msgstr "Золотая статуя мэра!"
 
-#, fuzzy
 msgctxt "QUEST_NAME_NICE_RIDE"
 msgid "A Ride Too Nice!"
-msgstr "Слишком хорошая машина!"
+msgstr "Слишком хорошая тачка!"
 
-#, fuzzy
 msgctxt "QUEST_NAME_ONE_HIT_TOMMY"
 msgid "One-Hit Tommy in the Bathroom"
-msgstr "Томми-Один-Удар в туалете"
+msgstr "Томми \"Гасите свет\" в туалете"
 
-#, fuzzy
 msgctxt "QUEST_NAME_WHOS_THE_SNITCH"
 msgid "Who's the Snitch?"
 msgstr "Кто у нас стукач?"
 
-#, fuzzy
 msgctxt "QUEST_DESC_GROSS_APPETITE"
 msgid "Help the school Chef locate his ingredients."
 msgstr "Помоги школьному повару найти его продукты."
 
-#, fuzzy
 msgctxt "QUEST_DESC_OPEN_FOR_BUSINESS"
 msgid "Get the security guard's keys to open the mall."
-msgstr "Забери ключи у охранника, чтобы открыть ТЦ"
+msgstr "Забери ключи у охранника, чтобы открыть торговый центр."
 
-#, fuzzy
 msgctxt "QUEST_DESC_FASHION_GOLD"
 msgid "Find a golden item to summon Hibari."
-msgstr "Найди золотой предмет, чтобы призвать Хибари"
+msgstr "Найди золотой предмет, чтобы призвать Хибари."
 
-#, fuzzy
 msgctxt "QUEST_DESC_ZOMBIE_CRUSHER"
 msgid "Retrieve keys from trash zombies to move debris with the crane."
 msgstr "Отбери ключи от мусорных зомби, чтобы расчистить завалы краном."
 
-#, fuzzy
 msgctxt "QUEST_DESC_WERE_ON_THE_LIST"
 msgid "Score a pair of VIP passes to get into NOIZE's concert."
-msgstr "Достань два VIP-пропуска на концерт NOIZE."
+msgstr "Добудь два VIP-пропуска на концерт NOIZE."
 
-#, fuzzy
 msgctxt "QUEST_DESC_SUPER_FANS"
 msgid "Answer 3 questions about NOIZE to prove what a fan you are."
-msgstr "Ответь на три вопроса о NOIZE, чтобы подтвердить, что ты фан."
+msgstr "Ответь на три вопроса о NOIZE, чтобы доказать, какой ты её фанат."
 
-#, fuzzy
 msgctxt "QUEST_DESC_BOOM"
 msgid "Blast open the door to the penthouse."
-msgstr "Взорви дверь в пентхаус"
+msgstr "Взорви дверь в пентхаус."
 
-#, fuzzy
 msgctxt "QUEST_DESC_GODAI_BURGER"
 msgid "Get Godai a delicious Double Merv Burger."
-msgstr "Принеси Умерето вкуснейший Двойной Небургер."
+msgstr "Принеси Годаю вкуснейший Двойной Мёрв Бургер."
 
-#, fuzzy
 msgctxt "QUEST_DESC_MAYOR_STATUES"
 msgid "Destroy the Mayor's golden statue then survive the rush of cops."
-msgstr "Разрушь бриллиантовую статую мэра и уйди от полицейской погони."
+msgstr "Разбей золотую статую мэра и отбейся от атак полиции."
 
-#, fuzzy
 msgctxt "QUEST_DESC_NICE_RIDE"
 msgid "Destroy any fancy cars you find in Downtown."
-msgstr "Разбей все дорогие машины в центре города."
+msgstr "Разбей все дорогие машины в южной части города."
 
-#, fuzzy
 msgctxt "QUEST_DESC_ONE_HIT_TOMMY"
 msgid "Defeat One-Hit Tommy so Godai can use the bathroom."
-msgstr "Победи Томми-Один-Удар, чтобы Умерето мог пойти в туалет."
+msgstr "Победи Томми \"Гасите свет\", чтобы Годай мог пойти в туалет."
 
-#, fuzzy
 msgctxt "QUEST_DESC_WHOS_THE_SNITCH"
 msgid "Locate and defeat all 5 informants."
 msgstr "Найди и победи всех 5 информаторов."
 
-#, fuzzy
 msgctxt "QUEST_ITEM_ACQUIRED"
 msgid "acquired!"
 msgstr "получен!"
 
-#, fuzzy
 msgctxt "QUEST_NEW_QUEST"
 msgid "New Quest:"
-msgstr "Новый квест:"
+msgstr "Новое задание:"
 
-#, fuzzy
 msgctxt "QUEST_NEW_MISSION"
 msgid "New Mission:"
 msgstr "Новая миссия:"
 
-#, fuzzy
 msgctxt "QUEST_COMPLETE_QUEST"
 msgid "Quest Complete:"
-msgstr "Квест пройден:"
+msgstr "Задание выполнено:"
 
-#, fuzzy
 msgctxt "QUEST_COMPLETE_MISSION"
 msgid "Mission Complete:"
 msgstr "Миссия пройдена:"
 
-#, fuzzy
 msgctxt "QUEST_FAILED_QUEST"
 msgid "Quest Failed:"
-msgstr "Квест не пройден:"
+msgstr "Задание провалено:"
 
-#, fuzzy
 msgctxt "QUEST_FAILED_MISSION"
 msgid "Mission Failed:"
 msgstr "Миссия не пройдена:"
 
-#, fuzzy
 msgctxt "QUEST_NAME_LETS_BEAT_IT"
 msgid "Let's Beat It!"
-msgstr "Давай победим это!"
+msgstr "Забьём на это!"
 
-#, fuzzy
 msgctxt "QUEST_DESC_LETS_BEAT_IT"
 msgid "Find a way out of school."
 msgstr "Найди выход из школы."

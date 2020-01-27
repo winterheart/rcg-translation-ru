@@ -5,21 +5,20 @@ msgstr ""
 "Project-Id-Version: 1.0\n"
 "Report-Msgid-Bugs-To: you@example.com\n"
 "POT-Creation-Date: 2020-01-25 01:08:38.969277\n"
-"PO-Revision-Date: 2020-01-25 00:47+0300\n"
+"PO-Revision-Date: 2020-01-26 04:39+0300\n"
 "Last-Translator: Azamat H. Hackimov <azamat.hackimov@gmail.com>\n"
 "Language-Team: Russian <>\n"
 "Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
-"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%"
+"10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 "X-Generator: Lokalize 19.08.3\n"
 
-#, fuzzy
 msgctxt "WEAPON_NAME_WRENCH"
 msgid "Wrench"
-msgstr "Гаечный ключ"
+msgstr "Разводной ключ"
 
 msgctxt "WEAPON_NAME_SHOVEL"
 msgid "Shovel"
@@ -29,47 +28,38 @@ msgctxt "WEAPON_NAME_CHAIN"
 msgid "Chain"
 msgstr "Цепь"
 
-#, fuzzy
 msgctxt "WEAPON_NAME_WOOD_PLANK"
 msgid "Plank"
-msgstr "Плашка"
+msgstr "Доска"
 
-#, fuzzy
 msgctxt "WEAPON_NAME_WOODEN_CRATE"
 msgid "Wooden Crate"
 msgstr "Деревянный ящик"
 
-#, fuzzy
 msgctxt "WEAPON_NAME_DODGEBALL"
 msgid "Dodgeball"
-msgstr "\"Вышибалы\""
+msgstr "Волейбольный мяч"
 
-#, fuzzy
 msgctxt "WEAPON_NAME_BASEBALL"
 msgid "Baseball"
 msgstr "Бейсбольный мяч"
 
-#, fuzzy
 msgctxt "WEAPON_NAME_BASEBALL_BAT"
 msgid "Baseball Bat"
 msgstr "Бейсбольная бита"
 
-#, fuzzy
 msgctxt "WEAPON_NAME_STAR_BATON"
 msgid "Star Baton"
 msgstr "Звездная дубинка"
 
-#, fuzzy
 msgctxt "WEAPON_NAME_BOOMERANG"
 msgid "Boomerang"
 msgstr "Бумеранг"
 
-#, fuzzy
 msgctxt "WEAPON_NAME_LASER_SWORD"
 msgid "Laser Sword"
-msgstr "Лазер"
+msgstr "Лазерный меч"
 
-#, fuzzy
 msgctxt "WEAPON_NAME_BICYCLE"
 msgid "Bicycle"
 msgstr "Велосипед"
@@ -82,131 +72,106 @@ msgctxt "WEAPON_NAME_GUITAR"
 msgid "Guitar"
 msgstr "Гитара"
 
-#, fuzzy
 msgctxt "WEAPON_NAME_GIANT_HAMMER"
 msgid "Giant Hammer"
 msgstr "Гигантский молоток"
 
-#, fuzzy
 msgctxt "WEAPON_NAME_METAL_CHAIR"
 msgid "Metal Chair"
 msgstr "Металлический стул"
 
-#, fuzzy
 msgctxt "WEAPON_NAME_FRYING_PAN"
 msgid "Frying Pan"
-msgstr "Сковородка"
+msgstr "Сковорода"
 
-#, fuzzy
 msgctxt "WEAPON_NAME_MOP"
 msgid "Mop"
 msgstr "Швабра"
 
-#, fuzzy
 msgctxt "WEAPON_NAME_BENCH"
 msgid "Bench"
-msgstr "Скамья"
+msgstr "Скамейка"
 
-#, fuzzy
 msgctxt "WEAPON_NAME_GARBAGE_CAN"
 msgid "Garbage Can"
 msgstr "Мусорный бак"
 
-#, fuzzy
 msgctxt "EQUIP_NAME_ATHLETIC_BOTTOM"
 msgid "Athletic Bottom"
 msgstr "Спортивные шорты"
 
-#, fuzzy
 msgctxt "EQUIP_NAME_ATHLETIC_TOP"
 msgid "Athletic Top"
-msgstr "Спортивный лифчик"
+msgstr "Спортивный топ"
 
-#, fuzzy
 msgctxt "EQUIP_NAME_BOMB_BOTTOM"
 msgid "Bomb Bottom"
-msgstr "Бомбические шорты"
+msgstr "Бомбические мини-шорты"
 
-#, fuzzy
 msgctxt "EQUIP_NAME_BOMB_BRA"
 msgid "Bomb Bra"
 msgstr "Бомбический лифчик"
 
-#, fuzzy
 msgctxt "EQUIP_NAME_CHOKER"
 msgid "Choker"
-msgstr "Колье"
+msgstr "Чокер"
 
-#, fuzzy
 msgctxt "EQUIP_NAME_COIN_PURSE"
 msgid "Coin Purse"
-msgstr "Монетница"
+msgstr "Кошелёк"
 
-#, fuzzy
 msgctxt "EQUIP_NAME_DECO_NAILS"
 msgid "Deco Nails"
-msgstr "Накрашенные ногти"
+msgstr "Накладные ногти"
 
-#, fuzzy
 msgctxt "EQUIP_NAME_EYESHADOW"
 msgid "Eyeshadow"
-msgstr "Тени"
+msgstr "Тени для век"
 
-#, fuzzy
 msgctxt "EQUIP_NAME_FAKE_TATTOOS"
 msgid "Fake Tattoos"
 msgstr "Переводные татуировки"
 
-#, fuzzy
 msgctxt "EQUIP_NAME_FALSE_EYELASHES"
 msgid "False Eyelashes"
 msgstr "Накладные ресницы"
 
-#, fuzzy
 msgctxt "EQUIP_NAME_FISHNET_TOP"
 msgid "Fishnet Top"
-msgstr "Майка-сеточка"
+msgstr "Топ в сеточку"
 
-#, fuzzy
 msgctxt "EQUIP_NAME_FRILLY_BOTTOM"
 msgid "Frilly Bottom"
 msgstr "Шорты с оборками"
 
-#, fuzzy
 msgctxt "EQUIP_NAME_FRILL_BRA"
 msgid "Frill Bra"
 msgstr "Лифчик с оборками"
 
-#, fuzzy
 msgctxt "EQUIP_NAME_GARTER"
 msgid "Garter"
 msgstr "Подвязка"
 
-#, fuzzy
 msgctxt "EQUIP_NAME_GIFT_CARD"
 msgid "Gift Card"
-msgstr "Подарочный сертификат"
+msgstr "Подарочная карта"
 
 msgctxt "EQUIP_NAME_GYM_SHORTS"
 msgid "Gym Shorts"
-msgstr "Спортивные шорты"
+msgstr "Гимнастические шорты"
 
-#, fuzzy
 msgctxt "EQUIP_NAME_HAIR_RIBBON"
 msgid "Hair Ribbon"
 msgstr "Лента для волос"
 
-#, fuzzy
 msgctxt "EQUIP_NAME_HEART_EARRINGS"
 msgid "Heart Earrings"
-msgstr "Сережки-сердечки"
+msgstr "Серёжки-сердечки"
 
-#, fuzzy
 msgctxt "EQUIP_NAME_KNIFE_EARRINGS"
 msgid "Knife Earrings"
-msgstr "Сережки-ножи"
+msgstr "Серёжки в виде ножей"
 
-#, fuzzy
 msgctxt "EQUIP_NAME_LOVE_LETTER"
 msgid "Love Letter"
 msgstr "Любовное письмо"
@@ -215,47 +180,38 @@ msgctxt "EQUIP_NAME_MAKEUP_KIT"
 msgid "Makeup Kit"
 msgstr "Макияжный набор"
 
-#, fuzzy
 msgctxt "EQUIP_NAME_MULTITOOL"
 msgid "Multitool"
 msgstr "Складной нож"
 
-#, fuzzy
 msgctxt "EQUIP_NAME_MUSIC_PLAYER"
 msgid "Music Player"
 msgstr "Плеер"
 
-#, fuzzy
 msgctxt "EQUIP_NAME_PADLOCK_BRA"
 msgid "Padlock Bra"
 msgstr "Лифчик с замком"
 
-#, fuzzy
 msgctxt "EQUIP_NAME_PEPPER_SPRAY"
 msgid "Pepper Spray"
-msgstr "Перечный баллончик"
+msgstr "Перцовый баллончик"
 
-#, fuzzy
 msgctxt "EQUIP_NAME_RIBBON_BRA"
 msgid "Ribbon Bra"
-msgstr "Лифчик с лентами"
+msgstr "Кружевной лифчик"
 
-#, fuzzy
 msgctxt "EQUIP_NAME_RING_POP"
 msgid "Ring Pop"
 msgstr "Кольцо с леденцом"
 
-#, fuzzy
 msgctxt "EQUIP_NAME_SAFETY_PIN_EARRINGS"
 msgid "Safety Pin Earrings"
-msgstr "Сережки-булавки"
+msgstr "Серёжки-булавки"
 
-#, fuzzy
 msgctxt "EQUIP_NAME_SCISSORS"
 msgid "Scissors"
 msgstr "Ножницы"
 
-#, fuzzy
 msgctxt "EQUIP_NAME_SMART_WATCH"
 msgid "Smart Watch"
 msgstr "Умные часы"
@@ -264,100 +220,81 @@ msgctxt "EQUIP_NAME_VIRTUAL_PET"
 msgid "Virtual Pet"
 msgstr "Виртуальный питомец"
 
-#, fuzzy
 msgctxt "EQUIP_DESC_ATHLETIC_BOTTOM"
 msgid "Refill ST when carrying around enemies"
-msgstr "Повышает выносливость при перемещении врагов."
+msgstr "Восстанавливает ST при переноске противника"
 
-#, fuzzy
 msgctxt "EQUIP_DESC_ATHLETIC_TOP"
 msgid "Move faster while carrying heavy objects"
-msgstr "Двигайся быстрее с тяжелыми предметами в руках"
+msgstr "Двигайся быстрее с тяжёлыми предметами в руках"
 
-#, fuzzy
 msgctxt "EQUIP_DESC_BOMB_BOTTOM"
 msgid "5% chance of taking no damage from enemy attacks"
-msgstr "5% шанс не пострадать от атак врагов"
+msgstr "5% шанс не получить урона от атак противников"
 
-#, fuzzy
 msgctxt "EQUIP_DESC_BOMB_BRA"
 msgid "1% chance of defeating standard enemies with one attack"
-msgstr "1% шанс победить стандартного врага с одной атаки"
+msgstr "1% шанс победить обычного противника одним ударом"
 
-#, fuzzy
 msgctxt "EQUIP_DESC_CHOKER"
 msgid "Extra 5% damage to grounded enemies"
-msgstr "Дополнительные 5% ущерба побежденным врагам"
+msgstr "Дополнительные 5% урона по лежащим противникам"
 
-#, fuzzy
 msgctxt "EQUIP_DESC_COIN_PURSE"
 msgid "5% chance of double money drops from each enemy"
-msgstr "5% шанс добыть деньги от каждого врага"
+msgstr "5% шанс получить деньги в двойном размере от каждого противника"
 
-#, fuzzy
 msgctxt "EQUIP_DESC_DECO_NAILS"
 msgid "Reduce damage taken from cheerleaders by 5%"
-msgstr "Уменьшает нанесенный болельщиками ущерб на 5%"
+msgstr "Уменьшает наносимый болельщицами урон на 5%"
 
-#, fuzzy
 msgctxt "EQUIP_DESC_EYESHADOW"
 msgid "5% chance of still standing after a knockdown attack"
-msgstr "5% шанс устоять на ногах после нокдауна"
+msgstr "5% шанс устоять на ногах после нокаутирующего удара"
 
-#, fuzzy
 msgctxt "EQUIP_DESC_FAKE_TATOOS"
 msgid "Special attack meter fills up 5% faster"
-msgstr "Счетчик специальных атак заполняется на 5% быстрее"
+msgstr "Счётчик специальных атак заполняется на 5% быстрее"
 
-#, fuzzy
 msgctxt "EQUIP_DESC_FALSE_EYELASHES"
 msgid "Refill ST slowly by walking around"
-msgstr "Медленная прогулка увеличивает выносливость."
+msgstr "Восстанавливает ST при ходьбе"
 
-#, fuzzy
 msgctxt "EQUIP_DESC_FISHNET_TOP"
 msgid "Extra 5% damage dealt with throwing attacks"
-msgstr "Дополнительные 5% ущерба от бросков"
+msgstr "Дополнительные 5% урона от бросков"
 
-#, fuzzy
 msgctxt "EQUIP_DESC_FRILLY_BOTTOM"
 msgid "Stand up more quickly after being knocked down"
-msgstr "Быстрее поднимает на ноги после падения"
+msgstr "Быстрее поднимает на ноги после нокаута"
 
-#, fuzzy
 msgctxt "EQUIP_DESC_FRILL_BRA"
 msgid "Extra 1 second of invulnerability after getting back up"
 msgstr "Дополнительная 1 секунда неуязвимости после вставания на ноги"
 
-#, fuzzy
 msgctxt "EQUIP_DESC_GARTER"
 msgid "Extra 5% damage from any kick attacks"
-msgstr "Дополнительные 5% ущерба от пинков"
+msgstr "Дополнительные 5% урона от ударов ногой"
 
-#, fuzzy
 msgctxt "EQUIP_DESC_GIFT_CARD"
 msgid "Get 5% cash back on all shop purchases"
-msgstr "5% кэшбека на покупки в магазине"
+msgstr "Возвращает 5% от покупки во всех магазинах"
 
-#, fuzzy
 msgctxt "EQUIP_DESC_GYM_SHORTS"
 msgid "Refill 1% ST with each enemy defeated"
-msgstr "Восполняет 1% выносливости с каждым побежденным врагом."
+msgstr "Восстанавливает 1% ST с каждым побежденным противником"
 
-#, fuzzy
 msgctxt "EQUIP_DESC_HAIR_RIBBON"
 msgid "Reduces angel escape speed in multiplayer"
-msgstr "Уменьшает скорость убегания ангела в режиме нескольких игроков"
+msgstr "Уменьшает скорость полёта ангела в многопользовательской игре"
 
-#, fuzzy
 msgctxt "EQUIP_DESC_HEART_EARRINGS"
 msgid "Extra 10% damage for all Recruit attacks"
-msgstr "Дополнительные 10% ущерба при атаках рекрутов"
+msgstr "Дополнительные 10% урона от атак рекрутов"
 
-#, fuzzy
 msgctxt "EQUIP_DESC_KNIFE_EARRINGS"
 msgid "Increase sharp weapon damage by 10%"
-msgstr "Увеличивает ущерб от острого оружия на 10%"
+msgstr "Увеличивает урон от острого оружия на 10%"
 
 msgctxt "EQUIP_DESC_LOVE_LETTER"
 msgid "Extra 5% damage when fighting male enemies"
@@ -367,112 +304,90 @@ msgctxt "EQUIP_DESC_MAKEUP_KIT"
 msgid "Extra 5% damage when fighting female enemies"
 msgstr "Дополнительные 5% урона при борьбе с врагами женского пола"
 
-#, fuzzy
 msgctxt "EQUIP_DESC_MULTITOOL"
 msgid "Increase weapon durability by 25%"
 msgstr "Увеличивает прочность оружия на 25%"
 
-#, fuzzy
 msgctxt "EQUIP_DESC_MUSIC_PLAYER"
 msgid "Extra 10% damage when a NOIZE song is playing"
-msgstr "Дополнительные 10% ущерба во время исполнения песни NOIZE"
+msgstr "Дополнительные 10% урона во время исполнения песни NOIZE"
 
-#, fuzzy
 msgctxt "EQUIP_DESC_PADLOCK_BRA"
 msgid "Double the velocity of thrown weapons"
-msgstr "Удваивает ускорение брошенного оружия."
+msgstr "Брошенное оружие летит в два раза быстрее"
 
-#, fuzzy
 msgctxt "EQUIP_DESC_PEPPER_SPRAY"
 msgid "Increase reward amounts from Godai missions"
-msgstr "Увеличенное вознаграждение за миссии Умерето"
+msgstr "Увеличенное вознаграждение за миссии Годая"
 
-#, fuzzy
 msgctxt "EQUIP_DESC_RIBBON_BRA"
 msgid "10% chance of getting 2 items from vending machines"
-msgstr "10% шанс получить 2 предмета из автоматов"
+msgstr "10% шанс получить 2 предмета из торговых автоматов"
 
-#, fuzzy
 msgctxt "EQUIP_DESC_RING_POP"
 msgid "Refill ST slowly by walking around"
-msgstr "Медленная прогулка увеличивает выносливость."
+msgstr "Восстанавливает ST при ходьбе"
 
-#, fuzzy
 msgctxt "EQUIP_DESC_SAFETY_PIN_EARRINGS"
 msgid "Extra 5% ST refill from using medical items"
-msgstr ""
-"Дополнительные 5% к выносливости при использовании медицинских средств."
+msgstr "Дополнительные 5% к ST при использовании медицинских средств."
 
-#, fuzzy
 msgctxt "EQUIP_DESC_SCISSORS"
 msgid "Reduce AG -2 but increase AP +2"
-msgstr "Дает -2 к ловкости, но +2 к игровым очкам."
+msgstr "Уменьшает AG на -2, но увеличивает AP на +2."
 
-#, fuzzy
 msgctxt "EQUIP_DESC_SMART_WATCH"
 msgid "Extra 5% damage when fighting students"
-msgstr "Дополнительные 5% ущерба в борьбе с учениками"
+msgstr "Дополнительные 5% урона при борьбе с учениками"
 
 msgctxt "EQUIP_DESC_VIRTUAL_PET"
 msgid "Extra 1 heart for each Recruit"
 msgstr "Одно дополнительное сердце для рекрута"
 
-#, fuzzy
 msgctxt "EQUIP_NAME_HASEBE_CHARM"
 msgid "Hasebe Charm"
-msgstr "Амулет Хасиби"
+msgstr "Амулет Хасэбэ"
 
-#, fuzzy
 msgctxt "EQUIP_NAME_MAMI_CHARM"
 msgid "Mami Charm"
 msgstr "Амулет Мами"
 
-#, fuzzy
 msgctxt "EQUIP_DESC_HASEBE_CHARM"
 msgid "Who Knows?"
 msgstr "Кто знает?"
 
-#, fuzzy
 msgctxt "EQUIP_DESC_MAMI_CHARM"
 msgid "What a mystery..."
-msgstr "Загадка..."
+msgstr "Что за загадка..."
 
-#, fuzzy
 msgctxt "EQUIP_NAME_CAT_PIN"
 msgid "Cat Pin"
-msgstr "Булавка в виде кота"
+msgstr "Значок в виде кота"
 
-#, fuzzy
 msgctxt "EQUIP_DESC_CAT_PIN"
 msgid "Infinite SP"
-msgstr "Бесконечные специальные пункты"
+msgstr "Бесконечный SP"
 
-#, fuzzy
 msgctxt "EQUIP_NAME_SPIKED_KNUCKLES"
 msgid "Spiked Knuckles"
-msgstr "Зубчатые костяшки"
+msgstr "Кастет с шипами"
 
-#, fuzzy
 msgctxt "EQUIP_DESC_SPIKED_KNUCKLES"
 msgid "Increases stun damage on your attacks by 10%."
-msgstr "Увеличивает шанс оглушить врага на 10%"
+msgstr "Увеличивает шанс оглушить врага на 10%."
 
-#, fuzzy
 msgctxt "EQUIP_NAME_TANK_BUTTON"
 msgid "Tank Button"
-msgstr "Кнопка с танком"
+msgstr "Значок с танком"
 
-#, fuzzy
 msgctxt "EQUIP_NAME_BUNNY_BUTTON"
 msgid "Bunny Button =;3"
-msgstr "Кнопка с кроликом =;3"
+msgstr "Значок с кроликом =;3"
 
-#, fuzzy
 msgctxt "EQUIP_DESC_TANK_BUTTON"
 msgid "Super Stronk Super Slow"
 msgstr "Сверхчугунный, сверхмедленный"
 
-#, fuzzy
 msgctxt "EQUIP_DESC_BUNNY_BUTTON"
 msgid "Must go faster"
 msgstr "Нужно двигаться быстрее"

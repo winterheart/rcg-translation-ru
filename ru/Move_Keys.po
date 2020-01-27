@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: 1.0\n"
 "Report-Msgid-Bugs-To: you@example.com\n"
 "POT-Creation-Date: 2020-01-25 01:08:38.962041\n"
-"PO-Revision-Date: 2020-01-25 01:27+0300\n"
+"PO-Revision-Date: 2020-01-27 01:50+0300\n"
 "Last-Translator: Azamat H. Hackimov <azamat.hackimov@gmail.com>\n"
 "Language-Team: Russian <>\n"
 "Language: ru\n"
@@ -44,10 +44,9 @@ msgctxt "MOVE_NAME_DONKEY_KICK"
 msgid "Donkey Kick"
 msgstr "Ослиный пинок"
 
-#, fuzzy
 msgctxt "MOVE_NAME_GROUND_STOMP"
 msgid "Ground Stomp"
-msgstr "Топот"
+msgstr "Припечатывание"
 
 #, fuzzy
 msgctxt "MOVE_NAME_HUMAN_WEAPON"
@@ -63,10 +62,9 @@ msgctxt "MOVE_NAME_FLIP_KICK"
 msgid "Flip Kick"
 msgstr "Сальто"
 
-#, fuzzy
 msgctxt "MOVE_NAME_DAB"
 msgid "Dab!"
-msgstr "Туше!"
+msgstr "Дэб!"
 
 #, fuzzy
 msgctxt "MOVE_NAME_SPIN_KICK"
@@ -77,10 +75,9 @@ msgctxt "MOVE_NAME_DRAGON_FEET"
 msgid "Dragon Feet"
 msgstr "Лапы дракона"
 
-#, fuzzy
 msgctxt "MOVE_NAME_ACRO_CIRCUS"
 msgid "Acro Circus"
-msgstr "Цирковой акробат"
+msgstr "Акробатический цирк"
 
 #, fuzzy
 msgctxt "MOVE_NAME_CHEER_DRILL"
@@ -126,12 +123,10 @@ msgctxt "MOVE_NAME_GRAB_HEEL_KICK"
 msgid "Grab Heel Kick"
 msgstr "Хватай и передавай"
 
-#, fuzzy
 msgctxt "MOVE_NAME_FRANKENSTEINER"
 msgid "Frankensteiner"
 msgstr "Франкенштейнер"
 
-#, fuzzy
 msgctxt "MOVE_NAME_VOLLEY_SPIKE"
 msgid "Volley Spike"
 msgstr "Волейбольная подача"
@@ -151,7 +146,6 @@ msgctxt "MOVE_NAME_AIR_CHEER_DRILL"
 msgid "Air Cheer Drill"
 msgstr "Воздушная тренировка болельщиков"
 
-#, fuzzy
 msgctxt "MOVE_NAME_LEFT_JAB"
 msgid "Left Jab"
 msgstr "Левый джеб"
@@ -165,12 +159,10 @@ msgctxt "MOVE_NAME_HIGH_KICK"
 msgid "High Kick"
 msgstr "Хай-кик"
 
-#, fuzzy
 msgctxt "MOVE_NAME_BACK_FIST"
 msgid "Back Fist"
-msgstr "Удар с разворотом назад"
+msgstr "Бэкфист"
 
-#, fuzzy
 msgctxt "MOVE_NAME_UPPERCUT"
 msgid "Uppercut"
 msgstr "Апперкот"
@@ -198,25 +190,21 @@ msgctxt "MOVE_NAME_HOP_KNEE"
 msgid "Hop Knee"
 msgstr "Удар коленом в прыжке"
 
-#, fuzzy
 msgctxt "MOVE_NAME_STONE_HANDS"
 msgid "Stone Hands"
 msgstr "Каменный кулак"
 
-#, fuzzy
 msgctxt "MOVE_NAME_SPIRAL_UPPERCUT"
 msgid "Spiral Uppercut"
 msgstr "Спиральный апперкот"
 
-#, fuzzy
 msgctxt "MOVE_NAME_DROP_KICK"
 msgid "Dropkick"
-msgstr "Удар в прыжке"
+msgstr "Дропкик"
 
-#, fuzzy
 msgctxt "MOVE_NAME_BACKPACK_SWING"
 msgid "Backpack Swing"
-msgstr "Свинг"
+msgstr "Свинг рюкзачком"
 
 #, fuzzy
 msgctxt "MOVE_NAME_ROLLING_PUNCH"
@@ -238,22 +226,19 @@ msgctxt "MOVE_NAME_BOUNCER_THROW"
 msgid "Bouncer Throw"
 msgstr "Бросок вышибалы"
 
-#, fuzzy
 msgctxt "MOVE_NAME_STUNGUN"
 msgid "Stungun"
-msgstr "Электрошокер"
+msgstr "Оглушающий удар"
 
 #, fuzzy
 msgctxt "MOVE_NAME_BACK_UPPERCUT"
 msgid "Back Uppercut"
 msgstr "Задний апперкот"
 
-#, fuzzy
 msgctxt "MOVE_NAME_GERMAN_SUPLEX"
 msgid "German Suplex"
-msgstr "Германский суплекс"
+msgstr "Немецкий суплекс"
 
-#, fuzzy
 msgctxt "MOVE_NAME_POWERBOMB"
 msgid "Powerbomb"
 msgstr "Супербомба"
@@ -478,10 +463,9 @@ msgctxt "MOVE_NAME_ACORN_BREAKER"
 msgid "Acorn Breaker"
 msgstr "Убийца желудей"
 
-#, fuzzy
 msgctxt "MOVE_NAME_PILEDRIVER"
 msgid "Piledriver"
-msgstr "Копер"
+msgstr "Пайлдрайвер"
 
 #, fuzzy
 msgctxt "MOVE_NAME_FATAL_STEPS"
@@ -493,37 +477,30 @@ msgctxt "MOVE_NAME_JUMP_HALF_MOON_KICK"
 msgid "Jump Half Moon Kick"
 msgstr "Серповидный удар в прыжке"
 
-#, fuzzy
 msgctxt "MOVE_TYPE_NORMAL"
 msgid "Normal"
-msgstr "Нормальный"
+msgstr "Обычный"
 
-#, fuzzy
 msgctxt "MOVE_TYPE_HEAVY"
 msgid "Heavy"
-msgstr "Тяжелый"
+msgstr "Сильный"
 
-#, fuzzy
 msgctxt "MOVE_TYPE_SPECIAL"
 msgid "Special"
 msgstr "Особый"
 
-#, fuzzy
 msgctxt "MOVE_TYPE_RUNNING"
 msgid "Running"
-msgstr "Бегущий"
+msgstr "Бег"
 
-#, fuzzy
 msgctxt "MOVE_TYPE_GRAB"
 msgid "Grab"
-msgstr "Хват"
+msgstr "Захват"
 
-#, fuzzy
 msgctxt "MOVE_TYPE_AERIAL"
 msgid "Aerial"
-msgstr "Воздушный"
+msgstr "В прыжке"
 
-#, fuzzy
 msgctxt "MOVE_TYPE_BEHIND_GRAB"
 msgid "Behind Grab"
 msgstr "Захват со спины"
