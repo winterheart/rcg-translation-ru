@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: 1.0\n"
 "Report-Msgid-Bugs-To: you@example.com\n"
 "POT-Creation-Date: 2020-01-25 01:08:38.932867\n"
-"PO-Revision-Date: 2020-01-27 21:23+0300\n"
+"PO-Revision-Date: 2020-02-02 02:54+0300\n"
 "Last-Translator: Azamat H. Hackimov <azamat.hackimov@gmail.com>\n"
 "Language-Team: Russian <>\n"
 "Language: ru\n"
@@ -40,7 +40,6 @@ msgctxt "LBL_DIFFICULTY"
 msgid "Difficulty"
 msgstr "Сложность"
 
-#, fuzzy
 msgctxt "LBL_FAST"
 msgid "Fast"
 msgstr "Быстро"
@@ -57,7 +56,6 @@ msgctxt "LBL_FRIENDLY_FIRE"
 msgid "Friendly Fire"
 msgstr "Удары по своим"
 
-#, fuzzy
 msgctxt "LBL_HARD"
 msgid "Hard"
 msgstr "Сложно"
@@ -66,7 +64,6 @@ msgctxt "LBL_LANGUAGE"
 msgid "Language"
 msgstr "Язык"
 
-#, fuzzy
 msgctxt "LBL_LATER"
 msgid "Later"
 msgstr "Позже"
@@ -75,7 +72,6 @@ msgctxt "LBL_MAP"
 msgid "Map"
 msgstr "Карта"
 
-#, fuzzy
 msgctxt "LBL_MEDIUM"
 msgid "Medium"
 msgstr "Средне"
@@ -96,21 +92,18 @@ msgctxt "LBL_NEW_GAME"
 msgid "New Game"
 msgstr "Новая игра"
 
-#, fuzzy
 msgctxt "LBL_NEXT"
 msgid "Next"
-msgstr "Следующий"
+msgstr "Далее"
 
 msgctxt "LBL_NO"
 msgid "No"
 msgstr "Нет"
 
-#, fuzzy
 msgctxt "LBL_NORMAL"
 msgid "Normal"
-msgstr "Нормальный"
+msgstr "Нормально"
 
-#, fuzzy
 msgctxt "LBL_NOW"
 msgid "Now"
 msgstr "Сейчас"
@@ -157,9 +150,8 @@ msgstr "Настройки"
 
 msgctxt "LBL_SFX"
 msgid "sfx"
-msgstr "Звуковые эффекты"
+msgstr "Звук"
 
-#, fuzzy
 msgctxt "LBL_SLOW"
 msgid "Slow"
 msgstr "Медленно"
@@ -246,7 +238,7 @@ msgstr "Продолжить"
 
 msgctxt "LBL_QUIT"
 msgid "Quit"
-msgstr "Выйти"
+msgstr "Выход"
 
 msgctxt "LBL_GAME"
 msgid "Game"
@@ -372,10 +364,9 @@ msgctxt "WORLD_2_SCHOOLENTRANCE"
 msgid "School Entrance"
 msgstr "Вход в школу"
 
-#, fuzzy
 msgctxt "WORLD_2_BEANBALLCOURT"
 msgid "Beanball Court"
-msgstr "Поле для игры в мяч головой"
+msgstr "Площадка для игры в вышибалы"
 
 msgctxt "WORLD_2_FRONTGATE"
 msgid "Front Gate"
@@ -689,12 +680,10 @@ msgctxt "LBL_CONFIRM_CHARACTER"
 msgid "Confirm Character"
 msgstr "Подтвердить персонажа"
 
-#, fuzzy
 msgctxt "LBL_BUTTON_RAPIDLY"
 msgid "Rapidly"
 msgstr "Быстро"
 
-#, fuzzy
 msgctxt "LBL_BUTTON_CHARGE"
 msgid "Charge"
 msgstr "Атака"
@@ -747,10 +736,9 @@ msgctxt "LBL_EDIT_OR_SELECT"
 msgid "Edit / Select"
 msgstr "Изменить / Выбрать"
 
-#, fuzzy
 msgctxt "LBL_TOGGLE"
 msgid "Toggle"
-msgstr "Коснитесь"
+msgstr "Изменить"
 
 msgctxt "LBL_CONFIRM_DELETE"
 msgid "Delete File?"
