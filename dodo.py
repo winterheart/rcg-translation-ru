@@ -3,7 +3,7 @@ from os.path import join
 # import requests
 # import zipfile
 
-rcg_t = "../rcg_l10n/rcg_translate.py"
+rcg_t = "python ../rcg_l10n/rcg_translate.py"
 
 # rcg_translate_ru_version = "1.0"
 # rcg_mod_version = "1.3"
